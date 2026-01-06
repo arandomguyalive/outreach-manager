@@ -14,15 +14,38 @@ export const useInfluencers = () => {
     status: 'All'
   });
 
-  const [liveDispatchedOffset, setLiveDispatchedOffset] = useState(0);
-  const [liveOpenedOffset, setLiveOpenedOffset] = useState(0);
+  const [liveDispatchedOffset, setLiveDispatchedOffset] = useState(() => {
+    const saved = localStorage.getItem('abhed_live_dispatched');
+    return saved ? parseInt(saved, 10) : 0;
+  });
+  const [liveOpenedOffset, setLiveOpenedOffset] = useState(() => {
+    const saved = localStorage.getItem('abhed_live_opened');
+    return saved ? parseInt(saved, 10) : 0;
+  });
 
   useEffect(() => {
-    // Simulate async load
-    const data = parseRawLeads(RAW_LEADS_DATA);
-    setInfluencers(data);
-    setLoading(false);
+    const loadData = () => {
+      const savedInfluencers = localStorage.getItem('abhed_influencers');
+      if (savedInfluencers) {
+        setInfluencers(JSON.parse(savedInfluencers));
+        setLoading(false);
+      } else {
+        const data = parseRawLeads(RAW_LEADS_DATA);
+        setInfluencers(data);
+        localStorage.setItem('abhed_influencers', JSON.stringify(data));
+        setLoading(false);
+      }
+    };
+    loadData();
   }, []);
+
+  useEffect(() => {
+    localStorage.setItem('abhed_live_dispatched', liveDispatchedOffset.toString());
+  }, [liveDispatchedOffset]);
+
+  useEffect(() => {
+    localStorage.setItem('abhed_live_opened', liveOpenedOffset.toString());
+  }, [liveOpenedOffset]);
 
   const incrementDispatched = () => {
     setLiveDispatchedOffset(prev => prev + 1);
