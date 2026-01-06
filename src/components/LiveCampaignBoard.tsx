@@ -30,12 +30,15 @@ export const LiveCampaignBoard: React.FC = () => {
       let type: 'info' | 'success' | 'warning' = 'info';
       let text = '';
 
-      if (rand < 0.6) {
+      if (rand < 0.4) {
         text = `Sent scheduled email to @${randomName}...`;
         type = 'info';
-      } else if (rand < 0.9) {
+      } else if (rand < 0.7) {
         text = `Email DELIVERED to @${randomName} (Latency: 124ms)`;
         type = 'success';
+      } else if (rand < 0.9) {
+        text = randomAction;
+        type = 'info';
       } else {
         text = `Rate limit warning for provider. Throttling...`;
         type = 'warning';

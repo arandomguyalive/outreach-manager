@@ -6,7 +6,7 @@ import { LiveCampaignBoard } from './components/LiveCampaignBoard';
 import { Filters } from './components/Filters';
 import { PitchGenerator } from './components/PitchGenerator';
 import type { Influencer } from './types';
-import { Users, Send, MailOpen, MessageSquare, X, ExternalLink, RefreshCw, Zap } from 'lucide-react';
+import { Users, Send, MailOpen, X, ExternalLink, RefreshCw, Zap } from 'lucide-react';
 import { AnimatePresence, motion } from 'framer-motion';
 
 function App() {
