@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { Terminal, Zap, CheckCircle2, AlertCircle, Clock } from 'lucide-react';
+import { Terminal, Zap, CheckCircle2, AlertCircle, Clock, Loader2, XCircle } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 const MOCK_ACTIONS = [
@@ -10,6 +10,22 @@ const MOCK_ACTIONS = [
   "Queue processing: Batch #492",
 ];
 
+const MOCK_WAIT_ACTIONS = [
+  "Rotating proxy IP address...",
+  "Awaiting SMTP handshake...",
+  "Queue buffer limit reached (98%). Pausing...",
+  "Verifying DKIM signature...",
+  "Rate limit approach. Cooling down..."
+];
+
+const MOCK_ERROR_ACTIONS = [
+  "SMTP Error: 550 Requested action not taken",
+  "Connection timed out (port 587)",
+  "Bounced: User quota exceeded",
+  "DNS Error: MX record not found",
+  "Blocked by spam filter (Content-Type)"
+];
+
 const NAMES = ["Tanay", "Sharan", "Varun", "Kunal", "Hitesh", "MortaL", "Sc0ut", "Niharika", "Carry", "Gaurav"];
 
 interface LiveCampaignBoardProps {
@@ -17,7 +33,7 @@ interface LiveCampaignBoardProps {
 }
 
 export const LiveCampaignBoard: React.FC<LiveCampaignBoardProps> = ({ onAction }) => {
-  const [logs, setLogs] = useState<{ id: string; text: string; type: 'info' | 'success' | 'warning' }[]>([]);
+  const [logs, setLogs] = useState<{ id: string; text: string; type: 'info' | 'success' | 'warning' | 'error' | 'wait' }[]>([]);
   const [progress, setProgress] = useState(0);
   const scrollRef = useRef<HTMLDivElement>(null);
 
@@ -28,23 +44,31 @@ export const LiveCampaignBoard: React.FC<LiveCampaignBoardProps> = ({ onAction }
 
       // Add random log
       const randomAction = MOCK_ACTIONS[Math.floor(Math.random() * MOCK_ACTIONS.length)];
+      const randomWait = MOCK_WAIT_ACTIONS[Math.floor(Math.random() * MOCK_WAIT_ACTIONS.length)];
+      const randomError = MOCK_ERROR_ACTIONS[Math.floor(Math.random() * MOCK_ERROR_ACTIONS.length)];
       const randomName = NAMES[Math.floor(Math.random() * NAMES.length)];
       
       const rand = Math.random();
-      let type: 'info' | 'success' | 'warning' = 'info';
+      let type: 'info' | 'success' | 'warning' | 'error' | 'wait' = 'info';
       let text = '';
 
-      if (rand < 0.4) {
+      if (rand < 0.35) {
         text = `Sent scheduled email to @${randomName}...`;
         type = 'info';
         if (onAction) onAction('sent');
       } else if (rand < 0.55) {
-        text = `Email DELIVERED to @${randomName} (Latency: 124ms)`;
+        text = `Email DELIVERED to @${randomName} (Latency: ${Math.floor(Math.random() * 200 + 50)}ms)`;
         type = 'success';
-      } else if (rand < 0.7) {
+      } else if (rand < 0.65) {
         text = `Email OPENED by @${randomName} 🟢`;
         type = 'success';
-      } else if (rand < 0.9) {
+      } else if (rand < 0.80) {
+        text = randomWait;
+        type = 'wait';
+      } else if (rand < 0.85) {
+        text = `Failed: @${randomName} - ${randomError}`;
+        type = 'error';
+      } else if (rand < 0.95) {
         text = randomAction;
         type = 'info';
       } else {
@@ -59,7 +83,7 @@ export const LiveCampaignBoard: React.FC<LiveCampaignBoardProps> = ({ onAction }
       };
 
       setLogs(prev => [...prev.slice(-8), newLog]);
-    }, 1500);
+    }, 1200); // Slightly faster to show more activity
 
     return () => clearInterval(interval);
   }, []);
@@ -103,11 +127,15 @@ export const LiveCampaignBoard: React.FC<LiveCampaignBoardProps> = ({ onAction }
             className={`flex items-center gap-2 ${
               log.type === 'success' ? 'text-green-400' : 
               log.type === 'warning' ? 'text-yellow-400' : 
+              log.type === 'error' ? 'text-red-500' :
+              log.type === 'wait' ? 'text-gray-500 animate-pulse' :
               'text-blue-300'
             }`}
           >
             {log.type === 'success' && <CheckCircle2 className="w-3 h-3 shrink-0" />}
             {log.type === 'warning' && <AlertCircle className="w-3 h-3 shrink-0" />}
+            {log.type === 'error' && <XCircle className="w-3 h-3 shrink-0" />}
+            {log.type === 'wait' && <Loader2 className="w-3 h-3 shrink-0 animate-spin" />}
             {log.type === 'info' && <Zap className="w-3 h-3 shrink-0" />}
             <span>{log.text}</span>
           </motion.div>
