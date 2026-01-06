@@ -13,7 +13,7 @@ export const parseRawLeads = (rawData: string): Influencer[] => {
   const lines = rawData.trim().split('\n');
   const influencers: Influencer[] = [];
 
-  const targetOpenCount = 215;
+  const targetOpenCount = Math.floor(parsedItems.length * 0.3);
 
   // First pass to parse
   const parsedItems = lines.map(line => {
@@ -23,11 +23,6 @@ export const parseRawLeads = (rawData: string): Influencer[] => {
     
     const finalParts = parts.length >= 7 ? parts : partsFallback;
 
-    // Handle potential missing fields or different structures
-    // Expected: Name, Platform, Country, Language, Category, Handle, Tier, Email
-    // Sometimes 8 cols, sometimes more or less.
-    // We try to map them as best as possible.
-    
     if (finalParts.length < 5) return null; // Skip malformed lines
 
     const name = finalParts[0];
@@ -44,13 +39,10 @@ export const parseRawLeads = (rawData: string): Influencer[] => {
     };
   }).filter((item): item is NonNullable<typeof item> => item !== null);
 
-  // Second pass to assign statuses to meet criteria
-  // We want exactly 0 Replied, ~215 Opened.
-  // The rest can be New, Sent, Delivered, Bounced.
+  // Second pass: Assign statuses and history
   
-  // Let's shuffle indices to assign "Opened" randomly
+  // Shuffle indices to assign "Opened" randomly
   const indices = Array.from({ length: parsedItems.length }, (_, i) => i);
-  // Shuffle
   for (let i = indices.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [indices[i], indices[j]] = [indices[j], indices[i]];
@@ -59,56 +51,52 @@ export const parseRawLeads = (rawData: string): Influencer[] => {
   const openedIndices = new Set(indices.slice(0, targetOpenCount));
   
   parsedItems.forEach((item, index) => {
-    let status: Influencer['status'] = 'New';
+    let status: Influencer['status'] = 'Sent';
     const history: Interaction[] = [];
 
+    // 1. Everyone gets 3 sent emails (Jan 1, Jan 3, Jan 5)
+    // Add some random time jitter to make it look natural
+    const jitter = () => Math.floor(Math.random() * 3600000 * 4); // 0-4 hours jitter
+
+    const date1 = new Date(new Date('2026-01-01T09:00:00').getTime() + jitter()).toISOString();
+    const date2 = new Date(new Date('2026-01-03T10:00:00').getTime() + jitter()).toISOString();
+    const date3 = new Date(new Date('2026-01-05T08:00:00').getTime() + jitter()).toISOString();
+
+    history.push({ id: generateId(), type: 'Email Sent', timestamp: date1 });
+    history.push({ id: generateId(), type: 'Email Sent', timestamp: date2 });
+    history.push({ id: generateId(), type: 'Email Sent', timestamp: date3 });
+
+    // 2. Handle Opened Status (30%) - Dates: Jan 4 or Jan 5
     if (openedIndices.has(index)) {
       status = 'Opened';
-      // Add Sent and Opened history
-      const sentDate = getRandomDate(CAMPAIGN_START, NOW);
-      const openedDate = getRandomDate(new Date(sentDate), NOW);
+      
+      // Randomly pick Jan 4 or Jan 5
+      const startRange = new Date('2026-01-04T00:00:00').getTime();
+      const endRange = new Date('2026-01-05T23:59:59').getTime();
+      const openTimestamp = new Date(startRange + Math.random() * (endRange - startRange)).toISOString();
       
       history.push({
         id: generateId(),
-        type: 'Email Sent',
-        timestamp: sentDate
-      });
-      history.push({
-        id: generateId(),
         type: 'Email Opened',
-        timestamp: openedDate
+        timestamp: openTimestamp
       });
     } else {
-      // Randomly assign other statuses
+      // Randomly assign other statuses for variety, but keep Sent count high as per request
       const rand = Math.random();
-      if (rand < 0.4) {
-        status = 'Sent';
-        history.push({
-            id: generateId(),
-            type: 'Email Sent',
-            timestamp: getRandomDate(CAMPAIGN_START, NOW)
-        });
-      } else if (rand < 0.5) {
-         status = 'Delivered';
-         const sentDate = getRandomDate(CAMPAIGN_START, NOW);
-         history.push({ id: generateId(), type: 'Email Sent', timestamp: sentDate });
-         // Delivered slightly after
-      } else if (rand < 0.55) {
-          status = 'Bounced';
-          const sentDate = getRandomDate(CAMPAIGN_START, NOW);
-          history.push({ id: generateId(), type: 'Email Sent', timestamp: sentDate });
-      }
-      else {
-        status = 'New';
-      }
+      if (rand < 0.05) status = 'Bounced';
+      else if (rand < 0.4) status = 'Delivered';
+      else status = 'Sent';
     }
+
+    // Sort history chronologically
+    history.sort((a, b) => new Date(a.timestamp).getTime() - new Date(b.timestamp).getTime());
 
     influencers.push({
       id: generateId(),
       ...item,
       status,
       history,
-      lastInteraction: history.length > 0 ? history[history.length - 1].timestamp : undefined
+      lastInteraction: history[history.length - 1].timestamp
     });
   });
 
