@@ -10,7 +10,7 @@ import { Users, Send, MailOpen, X, ExternalLink, RefreshCw, Zap } from 'lucide-r
 import { AnimatePresence, motion } from 'framer-motion';
 
 function App() {
-  const { influencers, stats, loading, filters, setFilters, options } = useInfluencers();
+  const { influencers, stats, loading, filters, setFilters, options, incrementDispatched } = useInfluencers();
   const [selectedInfluencer, setSelectedInfluencer] = useState<Influencer | null>(null);
 
   if (loading) {
