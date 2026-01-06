@@ -12,7 +12,11 @@ const MOCK_ACTIONS = [
 
 const NAMES = ["Tanay", "Sharan", "Varun", "Kunal", "Hitesh", "MortaL", "Sc0ut", "Niharika", "Carry", "Gaurav"];
 
-export const LiveCampaignBoard: React.FC = () => {
+interface LiveCampaignBoardProps {
+  onAction?: (type: 'sent') => void;
+}
+
+export const LiveCampaignBoard: React.FC<LiveCampaignBoardProps> = ({ onAction }) => {
   const [logs, setLogs] = useState<{ id: string; text: string; type: 'info' | 'success' | 'warning' }[]>([]);
   const [progress, setProgress] = useState(0);
   const scrollRef = useRef<HTMLDivElement>(null);
@@ -33,6 +37,7 @@ export const LiveCampaignBoard: React.FC = () => {
       if (rand < 0.4) {
         text = `Sent scheduled email to @${randomName}...`;
         type = 'info';
+        if (onAction) onAction('sent');
       } else if (rand < 0.7) {
         text = `Email DELIVERED to @${randomName} (Latency: 124ms)`;
         type = 'success';

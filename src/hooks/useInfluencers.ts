@@ -14,12 +14,18 @@ export const useInfluencers = () => {
     status: 'All'
   });
 
+  const [liveDispatchedOffset, setLiveDispatchedOffset] = useState(0);
+
   useEffect(() => {
     // Simulate async load
     const data = parseRawLeads(RAW_LEADS_DATA);
     setInfluencers(data);
     setLoading(false);
   }, []);
+
+  const incrementDispatched = () => {
+    setLiveDispatchedOffset(prev => prev + 1);
+  };
 
   const filteredInfluencers = useMemo(() => {
     return influencers.filter(inf => {
@@ -35,14 +41,15 @@ export const useInfluencers = () => {
   }, [influencers, filters]);
 
   const stats = useMemo(() => {
+    const baseDispatched = influencers.reduce((acc, curr) => acc + curr.history.filter(h => h.type === 'Email Sent').length, 0);
     return {
       total: influencers.length,
       uniqueSent: influencers.filter(i => ['Sent', 'Delivered', 'Opened', 'Viewed', 'Replied'].includes(i.status)).length,
-      totalEmailsDispatched: influencers.reduce((acc, curr) => acc + curr.history.filter(h => h.type === 'Email Sent').length, 0),
+      totalEmailsDispatched: baseDispatched + liveDispatchedOffset,
       opened: influencers.filter(i => ['Opened', 'Viewed', 'Replied'].includes(i.status)).length,
       replied: influencers.filter(i => i.status === 'Replied').length,
     };
-  }, [influencers]);
+  }, [influencers, liveDispatchedOffset]);
 
   const uniqueCategories = useMemo(() => Array.from(new Set(influencers.map(i => i.category))).sort(), [influencers]);
   const uniquePlatforms = useMemo(() => Array.from(new Set(influencers.map(i => i.platform))).sort(), [influencers]);
@@ -55,6 +62,7 @@ export const useInfluencers = () => {
     filters,
     setFilters,
     stats,
+    incrementDispatched,
     options: {
       categories: uniqueCategories,
       platforms: uniquePlatforms,
