@@ -15,6 +15,7 @@ export const useInfluencers = () => {
   });
 
   const [liveDispatchedOffset, setLiveDispatchedOffset] = useState(0);
+  const [liveOpenedOffset, setLiveOpenedOffset] = useState(0);
 
   useEffect(() => {
     // Simulate async load
@@ -25,6 +26,12 @@ export const useInfluencers = () => {
 
   const incrementDispatched = () => {
     setLiveDispatchedOffset(prev => prev + 1);
+    // 30% chance to simulate an open for this new dispatch
+    if (Math.random() < 0.3) {
+      setTimeout(() => {
+        setLiveOpenedOffset(prev => prev + 1);
+      }, 2000 + Math.random() * 3000); // Delay open by 2-5 seconds for realism
+    }
   };
 
   const filteredInfluencers = useMemo(() => {
@@ -42,14 +49,16 @@ export const useInfluencers = () => {
 
   const stats = useMemo(() => {
     const baseDispatched = influencers.reduce((acc, curr) => acc + curr.history.filter(h => h.type === 'Email Sent').length, 0);
+    const baseOpened = influencers.filter(i => ['Opened', 'Viewed', 'Replied'].includes(i.status)).length;
+    
     return {
       total: influencers.length,
       uniqueSent: influencers.filter(i => ['Sent', 'Delivered', 'Opened', 'Viewed', 'Replied'].includes(i.status)).length,
       totalEmailsDispatched: baseDispatched + liveDispatchedOffset,
-      opened: influencers.filter(i => ['Opened', 'Viewed', 'Replied'].includes(i.status)).length,
+      opened: baseOpened + liveOpenedOffset,
       replied: influencers.filter(i => i.status === 'Replied').length,
     };
-  }, [influencers, liveDispatchedOffset]);
+  }, [influencers, liveDispatchedOffset, liveOpenedOffset]);
 
   const uniqueCategories = useMemo(() => Array.from(new Set(influencers.map(i => i.category))).sort(), [influencers]);
   const uniquePlatforms = useMemo(() => Array.from(new Set(influencers.map(i => i.platform))).sort(), [influencers]);

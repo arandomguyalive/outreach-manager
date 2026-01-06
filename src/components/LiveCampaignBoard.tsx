@@ -38,8 +38,11 @@ export const LiveCampaignBoard: React.FC<LiveCampaignBoardProps> = ({ onAction }
         text = `Sent scheduled email to @${randomName}...`;
         type = 'info';
         if (onAction) onAction('sent');
-      } else if (rand < 0.7) {
+      } else if (rand < 0.55) {
         text = `Email DELIVERED to @${randomName} (Latency: 124ms)`;
+        type = 'success';
+      } else if (rand < 0.7) {
+        text = `Email OPENED by @${randomName} 🟢`;
         type = 'success';
       } else if (rand < 0.9) {
         text = randomAction;
