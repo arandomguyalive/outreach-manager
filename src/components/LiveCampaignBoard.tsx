@@ -37,56 +37,79 @@ export const LiveCampaignBoard: React.FC<LiveCampaignBoardProps> = ({ onAction }
   const [progress, setProgress] = useState(0);
   const scrollRef = useRef<HTMLDivElement>(null);
 
+  const [isPaused, setIsPaused] = useState(false);
+
   useEffect(() => {
-    const interval = setInterval(() => {
-      // Update progress bar
-      setProgress(p => (p >= 100 ? 0 : p + 2));
+    let timeoutId: number;
 
-      // Add random log
-      const randomAction = MOCK_ACTIONS[Math.floor(Math.random() * MOCK_ACTIONS.length)];
-      const randomWait = MOCK_WAIT_ACTIONS[Math.floor(Math.random() * MOCK_WAIT_ACTIONS.length)];
-      const randomError = MOCK_ERROR_ACTIONS[Math.floor(Math.random() * MOCK_ERROR_ACTIONS.length)];
-      const randomName = NAMES[Math.floor(Math.random() * NAMES.length)];
-      
-      const rand = Math.random();
-      let type: 'info' | 'success' | 'warning' | 'error' | 'wait' = 'info';
-      let text = '';
+    const runLoop = () => {
+      if (isPaused) return;
 
-      if (rand < 0.35) {
-        text = `Sent scheduled email to @${randomName}...`;
-        type = 'info';
-        if (onAction) onAction('sent');
-      } else if (rand < 0.55) {
-        text = `Email DELIVERED to @${randomName} (Latency: ${Math.floor(Math.random() * 200 + 50)}ms)`;
-        type = 'success';
-      } else if (rand < 0.65) {
-        text = `Email OPENED by @${randomName} 🟢`;
-        type = 'success';
-      } else if (rand < 0.80) {
-        text = randomWait;
-        type = 'wait';
-      } else if (rand < 0.85) {
-        text = `Failed: @${randomName} - ${randomError}`;
-        type = 'error';
-      } else if (rand < 0.95) {
-        text = randomAction;
-        type = 'info';
-      } else {
-        text = `Rate limit warning for provider. Throttling...`;
-        type = 'warning';
-      }
+      // Randomize interval between 2s and 5s for realism
+      const nextTick = Math.random() * 3000 + 2000;
 
-      const newLog = {
-        id: Math.random().toString(36),
-        text: `[${new Date().toLocaleTimeString()}] ${text}`,
-        type
-      };
+      timeoutId = setTimeout(() => {
+        // Update progress bar
+        setProgress(p => (p >= 100 ? 0 : p + Math.random() * 5));
 
-      setLogs(prev => [...prev.slice(-8), newLog]);
-    }, 1200); // Slightly faster to show more activity
+        // Add random log
+        const randomAction = MOCK_ACTIONS[Math.floor(Math.random() * MOCK_ACTIONS.length)];
+        const randomWait = MOCK_WAIT_ACTIONS[Math.floor(Math.random() * MOCK_WAIT_ACTIONS.length)];
+        const randomError = MOCK_ERROR_ACTIONS[Math.floor(Math.random() * MOCK_ERROR_ACTIONS.length)];
+        const randomName = NAMES[Math.floor(Math.random() * NAMES.length)];
+        
+        const rand = Math.random();
+        let type: 'info' | 'success' | 'warning' | 'error' | 'wait' = 'info';
+        let text = '';
 
-    return () => clearInterval(interval);
-  }, []);
+        if (rand < 0.30) {
+          text = `Sent scheduled email to @${randomName}...`;
+          type = 'info';
+          if (onAction) onAction('sent');
+        } else if (rand < 0.50) {
+          text = `Email DELIVERED to @${randomName} (Latency: ${Math.floor(Math.random() * 800 + 120)}ms)`;
+          type = 'success';
+        } else if (rand < 0.60) {
+          text = `Email OPENED by @${randomName} 🟢`;
+          type = 'success';
+        } else if (rand < 0.75) {
+          text = randomWait;
+          type = 'wait';
+          // Pause the loop for a few seconds to simulate buffering
+          setIsPaused(true);
+          setTimeout(() => setIsPaused(false), Math.random() * 4000 + 2000);
+        } else if (rand < 0.85) {
+          text = `Failed: @${randomName} - ${randomError}`;
+          type = 'error';
+        } else if (rand < 0.95) {
+          text = randomAction;
+          type = 'info';
+        } else {
+          text = `Rate limit warning for provider. Throttling...`;
+          type = 'warning';
+          // Throttle pause
+          setIsPaused(true);
+          setTimeout(() => setIsPaused(false), 3000);
+        }
+
+        const newLog = {
+          id: Math.random().toString(36),
+          text: `[${new Date().toLocaleTimeString()}] ${text}`,
+          type
+        };
+
+        setLogs(prev => [...prev.slice(-8), newLog]);
+        
+        // Continue loop if not paused (handled by effect re-trigger on isPaused change)
+        if (!isPaused) runLoop(); 
+
+      }, nextTick);
+    };
+
+    runLoop();
+
+    return () => clearTimeout(timeoutId);
+  }, [isPaused, onAction]);
 
   return (
     <div className="glass-panel rounded-xl p-6 border border-white/10 mb-8 relative overflow-hidden">
