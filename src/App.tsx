@@ -6,7 +6,7 @@ import { LiveCampaignBoard } from './components/LiveCampaignBoard';
 import { Filters } from './components/Filters';
 import { PitchGenerator } from './components/PitchGenerator';
 import type { Influencer } from './types';
-import { Users, Send, MailOpen, X, ExternalLink, RefreshCw, Zap } from 'lucide-react';
+import { Users, Send, MailOpen, MessageSquare, X, ExternalLink, RefreshCw, Zap } from 'lucide-react';
 import { AnimatePresence, motion } from 'framer-motion';
 
 function App() {
@@ -49,7 +49,7 @@ function App() {
             </div>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mb-8">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-4 mb-8">
             <StatsCard 
               label="Total Leads" 
               value={stats.total} 
@@ -76,6 +76,13 @@ function App() {
               icon={MailOpen} 
               color="#EB7955" 
               subtext={`${((stats.opened / (stats.uniqueSent || 1)) * 100).toFixed(1)}% Unique Open Rate`}
+            />
+            <StatsCard 
+              label="Replied" 
+              value={stats.replied} 
+              icon={MessageSquare} 
+              color="#FF53B2" 
+              subtext="Needs Action"
             />
           </div>
 
