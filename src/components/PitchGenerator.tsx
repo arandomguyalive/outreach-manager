@@ -11,73 +11,33 @@ export const PitchGenerator: React.FC<PitchGeneratorProps> = ({ influencer }) =>
   const [copiedBody, setCopiedBody] = useState(false);
 
   const pitch = useMemo(() => {
-    const category = influencer.category.toLowerCase();
     const firstName = influencer.name.split(' ')[0];
     
-    let subject = '';
-    let body = '';
+    const subject = `Exclusive Access: Only 500 "Blacklist" Spots Available at ABHED`;
+    const body = `Dear ${influencer.name},
 
-    if (category.includes('tech') || category.includes('dev') || category.includes('code')) {
-      subject = `Exclusive Beta: Next-Gen AI Engine for ${influencer.name}`;
-      body = `Hi ${firstName},
+I’m writing to you because of your unique influence in the digital space. We are currently opening the gates to ABHED ("The Fortress") and specifically inviting a select group of 500 creators to join our LIFETIME Blacklist.
 
-I've been following your content on ${influencer.platform} for a while - really loved your recent take on tech trends.
+The ABHED Blacklist is not just a status symbol—it is a permanent, sovereign clearance within our tiered security ecosystem. While others navigate the digital world as "users," Blacklist members operate as Architects of their own privacy.
 
-I'm reaching out from KM18 to introduce Abhed, a new privacy-focused AI engine designed for power users like yourself. It's not just another wrapper; we're building something that respects user sovereignty while delivering state-of-the-art performance.
+Here is why the Blacklist is the ultimate tier for a creator like you:
 
-We'd love to get your thoughts on it. Would you be open to an exclusive beta access key?
+* The Infinity Key (Lifetime Access): As one of the first 500, you bypass all recurring costs. You receive a Lifetime Professional Membership, granting you full access to high-bandwidth features, 4K Vortex rendering, and sovereign privacy controls forever.
+* Forensic Protection: Content you share is protected by "Blacklist Security." This activates our proprietary "Hold-to-View" mechanic, preventing unauthorized screenshots and ensuring your media is only consumed by those you trust.
+* The Blacklist Certificate: Your identity is verified and memorialized with a unique, on-chain digital certificate, marking you as one of the original 500 operatives who chose privacy over surveillance.
+* Elite Visual Presence: Your profile will carry the Amber Neon signature, the "Infinity Key" badge, and the Blacklist ring—instantly signaling your status across the Signal Grid and the Vortex.
 
-Best,
+ABHED is a world of depth, moving beyond the flat, silent scrolling of the past. It’s a place where your content is treated with the weight and security it deserves.
+
+We have reserved a slot for you. If you’re ready to secure your digital existence and join the initial 500, let me know, and I’ll send over your Access Key.
+
+Stay Sovereign,
+
 Kinjal Mishra
+System Architect, ABHED
 Author, The Inner Billionaire
 Instagram: @iamkm18
-KM18 Team`;
-    } else if (category.includes('gaming') || category.includes('esports')) {
-      subject = `Optimize your stream setup with Abhed AI 🚀`;
-      body = `Hey ${firstName},
-
-Huge fan of your streams! Your recent gameplay was insane.
-
-I'm with the team behind Abhed. We've built a system optimization tool powered by AI that helps streamers maintain peak performance without sacrificing privacy or data. It's perfect for high-load streaming setups.
-
-We're looking for top-tier creators to test it out before our public launch. Interested in giving it a spin?
-
-GLHF,
-Kinjal Mishra
-Author, The Inner Billionaire
-Instagram: @iamkm18
-KM18 Team`;
-    } else if (category.includes('finance') || category.includes('crypto') || category.includes('business')) {
-      subject = `Institutional-grade data analytics for your audience`;
-      body = `Hi ${firstName},
-
-Your analysis on ${influencer.platform} is always top-notch. The depth you go into is rare.
-
-I wanted to put Abhed on your radar. We're launching an institutional-grade data analytics platform that prioritizes E2EE and user privacy - something I think your audience would really value given the current climate.
-
-We're currently inviting a select group of financial opinion leaders to review the platform. Let me know if you'd like a walkthrough.
-
-Regards,
-Kinjal Mishra
-Author, The Inner Billionaire
-Instagram: @iamkm18
-KM18 Team`;
-    } else {
-      subject = `Collaboration Opportunity: Abhed x ${influencer.name}`;
-      body = `Hi ${firstName},
-
-We've been impressed by the community you've built on ${influencer.platform}. Your content really resonates with the values we're building at Abhed.
-
-Abhed is a new privacy-first social ecosystem and productivity suite. We're looking for partners who value digital sovereignty and cutting-edge design.
-
-We'd love to explore how we could work together for our upcoming launch.
-
-Best,
-Kinjal Mishra
-Author, The Inner Billionaire
-Instagram: @iamkm18
-KM18 Team`;
-    }
+The Digital Fortress`;
 
     return { subject, body };
   }, [influencer]);
