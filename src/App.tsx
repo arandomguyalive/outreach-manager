@@ -2,10 +2,11 @@ import { useState } from 'react';
 import { useInfluencers } from './hooks/useInfluencers';
 import { StatsCard } from './components/StatsCard';
 import { InfluencerCard } from './components/InfluencerCard';
+import { LiveCampaignBoard } from './components/LiveCampaignBoard';
 import { Filters } from './components/Filters';
 import { PitchGenerator } from './components/PitchGenerator';
 import type { Influencer } from './types';
-import { Users, Send, MailOpen, MessageSquare, X, ExternalLink, RefreshCw } from 'lucide-react';
+import { Users, Send, MailOpen, MessageSquare, X, ExternalLink, RefreshCw, Zap } from 'lucide-react';
 import { AnimatePresence, motion } from 'framer-motion';
 
 function App() {
@@ -48,7 +49,7 @@ function App() {
             </div>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mb-8">
             <StatsCard 
               label="Total Leads" 
               value={stats.total} 
@@ -56,27 +57,29 @@ function App() {
               color="#00D4E5" 
             />
             <StatsCard 
-              label="Emails Sent" 
-              value={stats.sent} 
-              icon={Send} 
+              label="Total Dispatched" 
+              value={stats.totalEmailsDispatched} 
+              icon={Zap} 
               color="#006096" 
-              subtext={`${((stats.sent / stats.total) * 100).toFixed(1)}% Coverage`}
+              subtext={`~${(stats.totalEmailsDispatched / (stats.total || 1)).toFixed(1)} emails per lead`}
+            />
+            <StatsCard 
+              label="Unique Contacted" 
+              value={stats.uniqueSent} 
+              icon={Send} 
+              color="#8B5CF6" 
+              subtext={`${((stats.uniqueSent / stats.total) * 100).toFixed(1)}% Coverage`}
             />
             <StatsCard 
               label="Opened" 
               value={stats.opened} 
               icon={MailOpen} 
               color="#EB7955" 
-              subtext={`${((stats.opened / (stats.sent || 1)) * 100).toFixed(1)}% Open Rate`}
-            />
-            <StatsCard 
-              label="Replied" 
-              value={stats.replied} 
-              icon={MessageSquare} 
-              color="#FF53B2" 
-              subtext="Needs Action"
+              subtext={`${((stats.opened / (stats.uniqueSent || 1)) * 100).toFixed(1)}% Unique Open Rate`}
             />
           </div>
+
+          <LiveCampaignBoard />
         </header>
 
         <main>

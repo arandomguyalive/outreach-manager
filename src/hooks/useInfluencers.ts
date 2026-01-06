@@ -37,7 +37,8 @@ export const useInfluencers = () => {
   const stats = useMemo(() => {
     return {
       total: influencers.length,
-      sent: influencers.filter(i => ['Sent', 'Delivered', 'Opened', 'Viewed', 'Replied'].includes(i.status)).length,
+      uniqueSent: influencers.filter(i => ['Sent', 'Delivered', 'Opened', 'Viewed', 'Replied'].includes(i.status)).length,
+      totalEmailsDispatched: influencers.reduce((acc, curr) => acc + curr.history.filter(h => h.type === 'Email Sent').length, 0),
       opened: influencers.filter(i => ['Opened', 'Viewed', 'Replied'].includes(i.status)).length,
       replied: influencers.filter(i => i.status === 'Replied').length,
     };
