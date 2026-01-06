@@ -30,6 +30,7 @@ We'd love to get your thoughts on it. Would you be open to an exclusive beta acc
 Best,
 Kinjal Mishra
 Author, The Inner Billionaire
+Instagram: @iamkm18
 KM18 Team`;
     } else if (category.includes('gaming') || category.includes('esports')) {
       subject = `Optimize your stream setup with Abhed AI 🚀`;
@@ -44,6 +45,7 @@ We're looking for top-tier creators to test it out before our public launch. Int
 GLHF,
 Kinjal Mishra
 Author, The Inner Billionaire
+Instagram: @iamkm18
 KM18 Team`;
     } else if (category.includes('finance') || category.includes('crypto') || category.includes('business')) {
       subject = `Institutional-grade data analytics for your audience`;
@@ -58,6 +60,7 @@ We're currently inviting a select group of financial opinion leaders to review t
 Regards,
 Kinjal Mishra
 Author, The Inner Billionaire
+Instagram: @iamkm18
 KM18 Team`;
     } else {
       subject = `Collaboration Opportunity: Abhed x ${influencer.name}`;
@@ -72,6 +75,7 @@ We'd love to explore how we could work together for our upcoming launch.
 Best,
 Kinjal Mishra
 Author, The Inner Billionaire
+Instagram: @iamkm18
 KM18 Team`;
     }
 
