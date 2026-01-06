@@ -2,18 +2,9 @@ import type { Influencer, Interaction } from '../types';
 
 const generateId = () => Math.random().toString(36).substring(2, 9);
 
-const getRandomDate = (start: Date, end: Date) => {
-  return new Date(start.getTime() + Math.random() * (end.getTime() - start.getTime())).toISOString();
-};
-
-const CAMPAIGN_START = new Date('2026-01-01T00:00:00');
-const NOW = new Date('2026-01-06T00:00:00');
-
 export const parseRawLeads = (rawData: string): Influencer[] => {
   const lines = rawData.trim().split('\n');
   const influencers: Influencer[] = [];
-
-  const targetOpenCount = Math.floor(parsedItems.length * 0.3);
 
   // First pass to parse
   const parsedItems = lines.map(line => {
@@ -38,6 +29,8 @@ export const parseRawLeads = (rawData: string): Influencer[] => {
       name, platform, country, language, category, handle, tier, email
     };
   }).filter((item): item is NonNullable<typeof item> => item !== null);
+
+  const targetOpenCount = Math.floor(parsedItems.length * 0.3);
 
   // Second pass: Assign statuses and history
   
