@@ -45,12 +45,12 @@ export const LiveCampaignBoard: React.FC<LiveCampaignBoardProps> = ({ onAction }
     const runLoop = () => {
       if (isPaused) return;
 
-      // Randomize interval between 2s and 5s for realism
-      const nextTick = Math.random() * 3000 + 2000;
+      // Slower, realistic pacing: 6s to 15s between standard logs
+      const nextTick = Math.random() * 9000 + 6000;
 
       timeoutId = setTimeout(() => {
-        // Update progress bar
-        setProgress(p => (p >= 100 ? 0 : p + Math.random() * 5));
+        // Slower progress bar for 20m cycle
+        setProgress(p => (p >= 100 ? 0 : p + Math.random() * 1.5));
 
         // Add random log
         const randomAction = MOCK_ACTIONS[Math.floor(Math.random() * MOCK_ACTIONS.length)];
@@ -72,12 +72,12 @@ export const LiveCampaignBoard: React.FC<LiveCampaignBoardProps> = ({ onAction }
         } else if (rand < 0.60) {
           text = `Email OPENED by @${randomName} 🟢`;
           type = 'success';
-        } else if (rand < 0.75) {
+        } else if (rand < 0.80) {
           text = randomWait;
           type = 'wait';
-          // Pause the loop for a few seconds to simulate buffering
+          // Long pause for realism (8s - 15s)
           setIsPaused(true);
-          setTimeout(() => setIsPaused(false), Math.random() * 4000 + 2000);
+          setTimeout(() => setIsPaused(false), Math.random() * 7000 + 8000);
         } else if (rand < 0.85) {
           text = `Failed: @${randomName} - ${randomError}`;
           type = 'error';
@@ -85,11 +85,11 @@ export const LiveCampaignBoard: React.FC<LiveCampaignBoardProps> = ({ onAction }
           text = randomAction;
           type = 'info';
         } else {
-          text = `Rate limit warning for provider. Throttling...`;
+          text = `Anti-spam protocol active. Cooling down...`;
           type = 'warning';
           // Throttle pause
           setIsPaused(true);
-          setTimeout(() => setIsPaused(false), 3000);
+          setTimeout(() => setIsPaused(false), 12000);
         }
 
         const newLog = {
@@ -100,7 +100,6 @@ export const LiveCampaignBoard: React.FC<LiveCampaignBoardProps> = ({ onAction }
 
         setLogs(prev => [...prev.slice(-8), newLog]);
         
-        // Continue loop if not paused (handled by effect re-trigger on isPaused change)
         if (!isPaused) runLoop(); 
 
       }, nextTick);
@@ -114,8 +113,8 @@ export const LiveCampaignBoard: React.FC<LiveCampaignBoardProps> = ({ onAction }
   return (
     <div className="glass-panel rounded-xl p-6 border border-white/10 mb-8 relative overflow-hidden">
       {/* Pulse Effect */}
-      <div className="absolute top-2 right-2 w-2 h-2 rounded-full bg-green-500 animate-ping" />
-      <div className="absolute top-2 right-2 w-2 h-2 rounded-full bg-green-500" />
+      <div className={`absolute top-2 right-2 w-2 h-2 rounded-full ${isPaused ? 'bg-yellow-500' : 'bg-green-500'} transition-colors duration-1000`} />
+      <div className={`absolute top-2 right-2 w-2 h-2 rounded-full ${isPaused ? 'bg-yellow-500' : 'bg-green-500'} ${isPaused ? '' : 'animate-ping'}`} />
 
       <div className="flex items-center gap-3 mb-4">
         <Terminal className="w-5 h-5 text-km18-cyan" />
@@ -125,7 +124,7 @@ export const LiveCampaignBoard: React.FC<LiveCampaignBoardProps> = ({ onAction }
       <div className="mb-6">
         <div className="flex justify-between text-xs text-gray-400 mb-1">
           <span>Current Batch Processing</span>
-          <span>{progress}%</span>
+          <span>{progress.toFixed(1)}%</span>
         </div>
         <div className="h-2 bg-gray-800 rounded-full overflow-hidden">
           <motion.div 
@@ -137,7 +136,7 @@ export const LiveCampaignBoard: React.FC<LiveCampaignBoardProps> = ({ onAction }
         </div>
         <p className="text-[10px] text-gray-500 mt-1 flex items-center gap-1">
           <Clock className="w-3 h-3" />
-          Auto-sending every 5 minutes • Next batch in {(5 - (progress / 20)).toFixed(1)}m
+          Auto-sending every 20 minutes • Next batch in {(20 - (progress / 5)).toFixed(1)}m
         </p>
       </div>
 
