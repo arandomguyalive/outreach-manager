@@ -11,12 +11,25 @@ export const PitchGenerator: React.FC<PitchGeneratorProps> = ({ influencer }) =>
   const [copiedBody, setCopiedBody] = useState(false);
 
   const pitch = useMemo(() => {
-    const firstName = influencer.name.split(' ')[0];
+    const category = influencer.category.toLowerCase();
     
     const subject = `Exclusive Access: Only 500 "Blacklist" Spots Available at ABHED`;
+    
+    let intro = `I’m writing to you because of your unique influence in the digital space.`;
+    
+    if (category.includes('tech') || category.includes('dev') || category.includes('code')) {
+      intro = `I’ve been following your work on ${influencer.platform}. In a tech landscape dominated by data farming and surveillance capitalism, your voice stands out as one that actually understands the stakes. That is why I am inviting you to help architect the alternative.`;
+    } else if (category.includes('gaming') || category.includes('esports')) {
+      intro = `Your dominance in the gaming sphere is undeniable. But as you know, high visibility often comes at the cost of personal security. We are building "The Fortress"—a place where elite players can operate without the noise or the risk.`;
+    } else if (category.includes('finance') || category.includes('crypto') || category.includes('business')) {
+      intro = `Your insights move markets on ${influencer.platform}. But real alpha requires a secure channel, away from the prying eyes of standard algorithms. We are creating the first sovereign ecosystem for high-value exchange.`;
+    } else if (category.includes('art') || category.includes('design') || category.includes('creative') || category.includes('lifestyle')) {
+      intro = `You curate your life and art with precision. But on current platforms, you don't truly own that presence—you rent it from advertisers. We are inviting you to own your digital existence permanently, with the aesthetic depth it deserves.`;
+    }
+
     const body = `Dear ${influencer.name},
 
-I’m writing to you because of your unique influence in the digital space. We are currently opening the gates to ABHED ("The Fortress") and specifically inviting a select group of 500 creators to join our LIFETIME Blacklist.
+${intro} We are currently opening the gates to ABHED ("The Fortress") and specifically inviting a select group of 500 creators to join our LIFETIME Blacklist.
 
 The ABHED Blacklist is not just a status symbol—it is a permanent, sovereign clearance within our tiered security ecosystem. While others navigate the digital world as "users," Blacklist members operate as Architects of their own privacy.
 
