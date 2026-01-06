@@ -28,7 +28,9 @@ I'm reaching out from KM18 to introduce Abhed, a new privacy-focused AI engine d
 We'd love to get your thoughts on it. Would you be open to an exclusive beta access key?
 
 Best,
-The Abhed Team`;
+Kinjal Mishra
+Author, The Inner Billionaire
+KM18 Team`;
     } else if (category.includes('gaming') || category.includes('esports')) {
       subject = `Optimize your stream setup with Abhed AI 🚀`;
       body = `Hey ${firstName},
@@ -40,7 +42,9 @@ I'm with the team behind Abhed. We've built a system optimization tool powered b
 We're looking for top-tier creators to test it out before our public launch. Interested in giving it a spin?
 
 GLHF,
-The Abhed Team`;
+Kinjal Mishra
+Author, The Inner Billionaire
+KM18 Team`;
     } else if (category.includes('finance') || category.includes('crypto') || category.includes('business')) {
       subject = `Institutional-grade data analytics for your audience`;
       body = `Hi ${firstName},
@@ -52,7 +56,9 @@ I wanted to put Abhed on your radar. We're launching an institutional-grade data
 We're currently inviting a select group of financial opinion leaders to review the platform. Let me know if you'd like a walkthrough.
 
 Regards,
-The Abhed Team`;
+Kinjal Mishra
+Author, The Inner Billionaire
+KM18 Team`;
     } else {
       subject = `Collaboration Opportunity: Abhed x ${influencer.name}`;
       body = `Hi ${firstName},
@@ -64,7 +70,9 @@ Abhed is a new privacy-first social ecosystem and productivity suite. We're look
 We'd love to explore how we could work together for our upcoming launch.
 
 Best,
-The Abhed Team`;
+Kinjal Mishra
+Author, The Inner Billionaire
+KM18 Team`;
     }
 
     return { subject, body };
@@ -82,7 +90,7 @@ The Abhed Team`;
   };
 
   const openEmailClient = () => {
-    const mailto = `mailto:${influencer.email}?subject=${encodeURIComponent(pitch.subject)}&body=${encodeURIComponent(pitch.body)}`;
+    const mailto = `mailto:${influencer.email}?cc=info@abhed.co&subject=${encodeURIComponent(pitch.subject)}&body=${encodeURIComponent(pitch.body)}`;
     window.open(mailto, '_blank');
   };
 
