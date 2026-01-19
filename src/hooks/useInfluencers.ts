@@ -28,15 +28,20 @@ export const useInfluencers = () => {
     return val > 2000 ? 458 : (val || 458);
   });
 
+  const DATA_VERSION = 'v2.8.1'; // Bump this to force data refresh
+
   useEffect(() => {
     const loadData = () => {
+      const savedVersion = localStorage.getItem('abhed_data_version');
       const savedInfluencers = localStorage.getItem('abhed_influencers');
       let data: Influencer[] = [];
 
-      if (savedInfluencers) {
+      if (savedInfluencers && savedVersion === DATA_VERSION) {
         data = JSON.parse(savedInfluencers);
       } else {
+        // Clear old data or just re-parse if version mismatch
         data = parseRawLeads(RAW_LEADS_DATA);
+        localStorage.setItem('abhed_data_version', DATA_VERSION);
       }
 
       // Merge Replies (Idempotent check)
