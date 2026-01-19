@@ -24,7 +24,7 @@ Manager, 8Bit Creatives`,
     reply: {
       from: 'Sharan Hegde Office <team@financewithsharan.com>',
       subject: 'Re: Partnership / Blacklist Access Inquiry',
-      body: `Hello Team,
+      body: `Hello Kinjal,
 
 Thank you for the detailed outreach. Sharan came across your Instagram handle (@iamkm18) via a suggested post, and the privacy values you spoke about really resonated. He just watched the Drive App Tour video to get a better look at the UI.
 
@@ -62,9 +62,9 @@ Siddhartha`,
     reply: {
       from: 'Tanay Pratap <tanay@invact.com>',
       subject: 'Re: Abhed Blacklist / Early Access',
-      body: `Hey folks,
+      body: `Hi Kinjal,
 
-I saw the 'Inner Billionaire' clip on Instagram Explore, but thanks for sending the deep-dive Drive link. First off, huge respect for building a custom design system. The way the 'Vortex' feed renders in the video shows you care about the craft.
+I saw the 'Inner Billionaire' clip on Instagram Explore, but thanks for sending the deep-dive Drive link. First off, huge respect for building a custom design system. It's incredibly inspiring to see a female founder from our ecosystem focusing on deep tech and system architecture rather than just another wrapper.
 
 I've been preaching about 'owning your audience' to my students for years. If ABHED truly offers a sovereign layer where the algorithm doesn't dictate visibility—as you claimed in the walkthrough—I'm all in.
 
@@ -82,7 +82,7 @@ Tanay`,
     reply: {
       from: 'Akshat Shrivastava <akshat@wisdomhatch.com>',
       subject: 'Re: Investment / Access for Inner Circle',
-      body: `Hi Team,
+      body: `Hi Kinjal,
 
 Your video on YouTube was great for understanding the philosophy, but the App Tour you linked provided the context I needed on the UX.
 
@@ -100,7 +100,7 @@ Akshat`,
     reply: {
       from: 'Tanmay Bhat Team <spon@tanmaybhat.com>',
       subject: 'Re: The Blacklist Invite',
-      body: `Hey Abhed Team,
+      body: `Hey Kinjal & Team,
 
 Tanmay sent us a link to your Instagram reel initially. We just reviewed the Drive video together. He's obsessed with the 'Dystopian/Cyberpunk' art direction shown in the UI tour—he said it looks like 'Blade Runner met Telegram'.
 
@@ -119,13 +119,13 @@ Brand Partnerships`,
     reply: {
       from: 'Raj Shamani <raj@shamani.industries>',
       subject: 'Re: Figuring this out // Access',
-      body: `Hey,
+      body: `Hi Kinjal,
 
 I'm currently traveling in Europe, but I watched the Drive video you attached. The branding is top-tier. You rarely see Indian founders nailing the 'premium' aesthetic this hard before launch. The transition animations you showed were buttery smooth.
 
-The privacy narrative is going to be the biggest theme of 2026. If you can deliver on the 'Zero-Knowledge' promise explained in the video, this is a unicorn in the making.
+The privacy narrative is going to be the biggest theme of 2026. If you can deliver on the 'Zero-Knowledge' promise explained in the video, this is a unicorn in the making. One question: Is there a 'Vault' implementation for securing ultra-sensitive deals?
 
-I want in. My team is ready to process the Blacklist enrollment fee today. Send the details. Also, totally separate topic—are you opening an angel round? I might be interested in more than just a membership.
+I want in. My team is ready to process the Blacklist enrollment fee today. Send the details.
 
 Keep crushing it.
 
@@ -138,13 +138,13 @@ Raj.`,
     reply: {
       from: 'TG Team <gaurav@technicalguruji.in>',
       subject: 'Re: App Access for Review',
-      body: `Namaste Team,
+      body: `Namaste Kinjal Ma'am,
 
 Gaurav sir watched the technical breakdown in the Google Drive video you shared. He was quite impressed by the demonstration of 'Local Key Generation' on the device itself. That is a very high standard of security.
 
 He is interested in enrolling in the Blacklist tier to personally test the app. Specifically, he wants to check the battery optimization impact of the local encryption engine on flagship devices. Did you optimize for NPU usage?
 
-It is a proud moment to see such advanced cryptography being implemented by an Indian team. Please share the invoice for enrollment.
+It is a proud moment to see such advanced cryptography being implemented by an Indian team, and especially led by a female engineer. Please share the invoice for enrollment.
 
 Regards,
 TG Management Team`,
@@ -177,7 +177,7 @@ I'm 100% sold. Send the payment link, I'll pay right now. I really want to poke 
 
 I came across the Instagram reel as a suggestion, and the App Tour video in your email confirmed my interest. This is bold. I like bold. The market is crowded, but a privacy-first, design-led social tool from India is a huge gap.
 
-I'd be happy to enroll as an early adopter. Quick question: Is there a cap on the number of members in the initial cohort? I want to make sure I can bring in my co-founders later.
+I often talk about 'Signal vs. Noise'. It seems ABHED is built entirely for Signal. I'd be happy to enroll as an early adopter. Quick question: Is there a cap on the number of members in the initial cohort? I want to make sure I can bring in my co-founders later.
 
 Please sign me up for the Blacklist tier and send the invoice.
 
@@ -191,7 +191,7 @@ Ankur`,
     reply: {
       from: 'Hitesh Choudhary <hitesh@lco.dev>',
       subject: 'Re: Codebase access & Architecture',
-      body: `Hey,
+      body: `Hey Kinjal,
 
 I checked the App Tour video you linked. Your mention of the Supabase + Local Key architecture caught my attention. I was just talking about the need for better E2EE implementation in my last stream.
 
@@ -225,7 +225,9 @@ Samay`,
     reply: {
       from: 'Srishti Garg <srishti@genz.com>',
       subject: 'Re: Collab & Early Access',
-      body: `Omg hi!! The algorithm finally blessed me with your reel, and I just watched the App Tour you sent. The UI is literally giving main character energy ✨.
+      body: `Omg hi Kinjal!! The algorithm finally blessed me with your reel, and I just watched the App Tour you sent. The UI is literally giving main character energy ✨.
+
+I just want to say it's SO inspiring to see a female founder building something this hardcore in tech. We need more of us in this space! 💖
 
 I'm so ready to enroll! Does it have a 'Vault' feature? Like a hidden folder for my close friends only? That wasn't in the video but I really need a space that's totally separate from my work DMs.
 
@@ -240,7 +242,7 @@ Please send the payment link pls! I want to secure my username asap.
     reply: {
       from: 'Kunal Kushwaha <kunal@civo.com>',
       subject: 'Re: Cloud Native / Latency?',
-      body: `Hey,
+      body: `Hey Kinjal,
 
 I watched the clips after a friend sent them to me, and then checked the Drive link. Is this fully cloud-native? The performance in the tour video looked solid for a pre-launch build.
 
@@ -257,13 +259,13 @@ Send the Blacklist invite, I'm ready to join.
     reply: {
       from: 'Tirth Joshi <tirth@dev.com>',
       subject: 'Re: React patterns & Performance',
-      body: `Hey,
+      body: `Hey Kinjal,
 
 Saw the App Tour video on Drive. That 'Vortex' animation is clean stuff. Did you use Framer Motion for that, or is it WebGL? It looks incredibly smooth in the demo.
 
-Def want to see how you handled the React state management for the encryption. Also, does the 'Blacklist' tier support multiple device logins without breaking the key?
+Def want to see how you handled the React state management for the encryption without blocking the main thread. I'm interested in enrolling for the early access just to check out the engineering.
 
-I'm interested in enrolling for the early access just to check out the engineering. Count me in.
+Count me in.
 
 - Tirth`,
       timestamp: '2026-01-18T20:40:00'
@@ -274,9 +276,11 @@ I'm interested in enrolling for the early access just to check out the engineeri
     reply: {
       from: 'Apurva Singh <apurva@fintech.com>',
       subject: 'Re: Privacy Policy & DPDP Act',
-      body: `Hi Team,
+      body: `Hi Kinjal,
 
 I reviewed the links you sent, including the App Tour. As someone who tracks the fintech regulatory space, the data sovereignty aspect mentioned in the video is compliant with the new Digital Personal Data Protection Act.
+
+It is genuinely refreshing to see a woman leading the charge in cybersecurity innovation here. We need more role models like you in the industry.
 
 One compliance question: Are the encryption keys generated and stored strictly on the Indian user's device? That's a crucial detail for my audit.
 
