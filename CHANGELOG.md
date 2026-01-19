@@ -8,6 +8,13 @@
 - **Strict Pre-Launch Context:** All communications now strictly align with the current project status (videos/ads discovery, no followers yet, addressing Kinjal Mishra as female founder).
 - **Causal Interaction Sync:** Automated logic to inject "Trigger Emails" into history, ensuring a logical flow from outreach to reply.
 
+### [Phase 2.5 - Hierarchy & Narrative Depth] - 2026-01-19
+
+### Highlights
+- **VIP Workflow Simulation:** "Mega" tier creators (Raj Shamani, Warikoo, etc.) now communicate via Executive Assistants/Teams, while Mid-tier creators remain personal.
+- **Narrative Consistency:** Replies now clearly distinguish between public "Teaser" content and the private "App Tour" (Drive Video), creating a logical engagement funnel.
+- **Feature Discovery:** Creators now *ask* about features (Vault, Hidden Folders) rather than stating they saw them, adding a layer of mystery and demand.
+
 ### Technical Changes
 - **Pitch Generator Enhancement:**
   - Added official YouTube, Instagram, and Google Form links.
