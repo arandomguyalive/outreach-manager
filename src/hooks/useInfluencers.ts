@@ -22,6 +22,10 @@ export const useInfluencers = () => {
     const saved = localStorage.getItem('abhed_live_opened');
     return saved ? parseInt(saved, 10) : 0;
   });
+  const [liveRepliedOffset, setLiveRepliedOffset] = useState(() => {
+    const saved = localStorage.getItem('abhed_live_replied');
+    return saved ? parseInt(saved, 10) : 0;
+  });
 
   useEffect(() => {
     const loadData = () => {
@@ -47,6 +51,10 @@ export const useInfluencers = () => {
     localStorage.setItem('abhed_live_opened', liveOpenedOffset.toString());
   }, [liveOpenedOffset]);
 
+  useEffect(() => {
+    localStorage.setItem('abhed_live_replied', liveRepliedOffset.toString());
+  }, [liveRepliedOffset]);
+
   const incrementDispatched = () => {
     setLiveDispatchedOffset(prev => prev + 1);
     // 30% chance to simulate an open for this new dispatch
@@ -55,6 +63,10 @@ export const useInfluencers = () => {
         setLiveOpenedOffset(prev => prev + 1);
       }, 2000 + Math.random() * 3000); // Delay open by 2-5 seconds for realism
     }
+  };
+
+  const incrementReplied = () => {
+    setLiveRepliedOffset(prev => prev + 1);
   };
 
   const filteredInfluencers = useMemo(() => {
@@ -79,9 +91,9 @@ export const useInfluencers = () => {
       uniqueSent: influencers.filter(i => ['Sent', 'Delivered', 'Opened', 'Viewed', 'Replied'].includes(i.status)).length,
       totalEmailsDispatched: baseDispatched + liveDispatchedOffset,
       opened: baseOpened + liveOpenedOffset,
-      replied: influencers.filter(i => i.status === 'Replied').length,
+      replied: influencers.filter(i => i.status === 'Replied').length + liveRepliedOffset,
     };
-  }, [influencers, liveDispatchedOffset, liveOpenedOffset]);
+  }, [influencers, liveDispatchedOffset, liveOpenedOffset, liveRepliedOffset]);
 
   const uniqueCategories = useMemo(() => Array.from(new Set(influencers.map(i => i.category))).sort(), [influencers]);
   const uniquePlatforms = useMemo(() => Array.from(new Set(influencers.map(i => i.platform))).sort(), [influencers]);
@@ -95,6 +107,7 @@ export const useInfluencers = () => {
     setFilters,
     stats,
     incrementDispatched,
+    incrementReplied,
     options: {
       categories: uniqueCategories,
       platforms: uniquePlatforms,

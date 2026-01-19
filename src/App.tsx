@@ -10,7 +10,7 @@ import { Users, Send, MailOpen, MessageSquare, X, ExternalLink, RefreshCw, Zap }
 import { AnimatePresence, motion } from 'framer-motion';
 
 function App() {
-  const { influencers, stats, loading, filters, setFilters, options, incrementDispatched } = useInfluencers();
+  const { influencers, stats, loading, filters, setFilters, options, incrementDispatched, incrementReplied } = useInfluencers();
   const [selectedInfluencer, setSelectedInfluencer] = useState<Influencer | null>(null);
 
   if (loading) {
@@ -88,6 +88,7 @@ function App() {
 
           <LiveCampaignBoard onAction={(type) => {
             if (type === 'sent') incrementDispatched();
+            if (type === 'replied') incrementReplied();
           }} />
         </header>
 
