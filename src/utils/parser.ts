@@ -30,7 +30,8 @@ export const parseRawLeads = (rawData: string): Influencer[] => {
     };
   }).filter((item): item is NonNullable<typeof item> => item !== null);
 
-  const targetOpenCount = Math.floor(parsedItems.length * 0.3);
+  // Increase target open rate to ~45% for a mature campaign
+  const targetOpenCount = Math.floor(parsedItems.length * 0.45);
 
   // Second pass: Assign statuses and history
   
@@ -47,37 +48,53 @@ export const parseRawLeads = (rawData: string): Influencer[] => {
     let status: Influencer['status'] = 'Sent';
     const history: Interaction[] = [];
 
-    // 1. Everyone gets 3 sent emails (Jan 1, Jan 3, Jan 5)
-    // Add some random time jitter to make it look natural
-    const jitter = () => Math.floor(Math.random() * 3600000 * 4); // 0-4 hours jitter
+    // 1. Generate 5-8 sent emails (Heavy campaign simulation)
+    const jitter = () => Math.floor(Math.random() * 3600000 * 6); // 0-6 hours jitter
+    
+    // Campaign dates: Jan 1, 3, 5, 8, 12, 15, 18
+    const dates = [
+      '2026-01-01T09:00:00',
+      '2026-01-03T10:00:00',
+      '2026-01-05T08:00:00',
+      '2026-01-08T14:30:00',
+      '2026-01-12T11:15:00',
+      '2026-01-15T16:45:00',
+      '2026-01-18T09:30:00'
+    ];
 
-    const date1 = new Date(new Date('2026-01-01T09:00:00').getTime() + jitter()).toISOString();
-    const date2 = new Date(new Date('2026-01-03T10:00:00').getTime() + jitter()).toISOString();
-    const date3 = new Date(new Date('2026-01-05T08:00:00').getTime() + jitter()).toISOString();
+    // Randomly decide how many follow-ups this person got (min 4, max 7)
+    const emailCount = 4 + Math.floor(Math.random() * 4);
+    
+    for (let i = 0; i < emailCount; i++) {
+      const baseTime = new Date(dates[i]).getTime();
+      history.push({ 
+        id: generateId(), 
+        type: 'Email Sent', 
+        timestamp: new Date(baseTime + jitter()).toISOString() 
+      });
+    }
 
-    history.push({ id: generateId(), type: 'Email Sent', timestamp: date1 });
-    history.push({ id: generateId(), type: 'Email Sent', timestamp: date2 });
-    history.push({ id: generateId(), type: 'Email Sent', timestamp: date3 });
-
-    // 2. Handle Opened Status (30%) - Dates: Jan 4 or Jan 5
+    // 2. Handle Opened Status (45%) - Dates: Randomly after one of the emails
     if (openedIndices.has(index)) {
       status = 'Opened';
       
-      // Randomly pick Jan 4 or Jan 5
-      const startRange = new Date('2026-01-04T00:00:00').getTime();
-      const endRange = new Date('2026-01-05T23:59:59').getTime();
-      const openTimestamp = new Date(startRange + Math.random() * (endRange - startRange)).toISOString();
+      // Pick a random email they opened (usually the last or second to last)
+      const openIndex = Math.max(0, emailCount - 1 - Math.floor(Math.random() * 2)); 
+      const emailTimestamp = new Date(history[openIndex].timestamp).getTime();
+      
+      // Open 2-24 hours after sending
+      const openTime = emailTimestamp + (3600000 * (2 + Math.random() * 22));
       
       history.push({
         id: generateId(),
         type: 'Email Opened',
-        timestamp: openTimestamp
+        timestamp: new Date(openTime).toISOString()
       });
     } else {
-      // Randomly assign other statuses for variety, but keep Sent count high as per request
+      // Randomly assign other statuses for variety
       const rand = Math.random();
       if (rand < 0.05) status = 'Bounced';
-      else if (rand < 0.4) status = 'Delivered';
+      else if (rand < 0.6) status = 'Delivered'; // High delivery rate
       else status = 'Sent';
     }
 

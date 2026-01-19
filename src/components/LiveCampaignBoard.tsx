@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { Terminal, Zap, CheckCircle2, AlertCircle, Clock, Loader2, XCircle, DollarSign } from 'lucide-react';
+import { Terminal, Zap, CheckCircle2, AlertCircle, Clock, Loader2, XCircle } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 const MOCK_ACTIONS = [
@@ -26,25 +26,14 @@ const MOCK_ERROR_ACTIONS = [
   "Blocked by spam filter (Content-Type)"
 ];
 
-const MOCK_REPLIES = [
-  "Hey, this looks sick. Send me the payment link.",
-  "I'm in. How do I join the Blacklist? need access asap.",
-  "Finally something for privacy. Where do I pay?",
-  "Interested. Send the link.",
-  "Yo, is this invite-only? Can I get in?",
-  "Payment link? I need this for my next video.",
-  "Damn, the UI is fire. Take my money.",
-  "How much for the Blacklist tier? DM me."
-];
-
-const NAMES = ["Tanay", "Sharan", "Varun", "Kunal", "Hitesh", "MortaL", "Sc0ut", "Niharika", "Carry", "Gaurav", "Bhuvan", "Ashish", "Technical Guruji"];
+const NAMES = ["Sc0ut", "Niharika", "Bhuvan", "Ashish", "Fukra Insaan", "Triggered Insaan", "Ranveer", "Flying Beast", "PhysicsWallah", "Khan Sir", "Sandeep", "Elvish"];
 
 interface LiveCampaignBoardProps {
-  onAction?: (type: 'sent' | 'replied') => void;
+  onAction?: (type: 'sent') => void;
 }
 
 export const LiveCampaignBoard: React.FC<LiveCampaignBoardProps> = ({ onAction }) => {
-  const [logs, setLogs] = useState<{ id: string; text: string; type: 'info' | 'success' | 'warning' | 'error' | 'wait' | 'reply' }[]>([]);
+  const [logs, setLogs] = useState<{ id: string; text: string; type: 'info' | 'success' | 'warning' | 'error' | 'wait' }[]>([]);
   const [progress, setProgress] = useState(0);
   const scrollRef = useRef<HTMLDivElement>(null);
 
@@ -67,18 +56,13 @@ export const LiveCampaignBoard: React.FC<LiveCampaignBoardProps> = ({ onAction }
         const randomAction = MOCK_ACTIONS[Math.floor(Math.random() * MOCK_ACTIONS.length)];
         const randomWait = MOCK_WAIT_ACTIONS[Math.floor(Math.random() * MOCK_WAIT_ACTIONS.length)];
         const randomError = MOCK_ERROR_ACTIONS[Math.floor(Math.random() * MOCK_ERROR_ACTIONS.length)];
-        const randomReply = MOCK_REPLIES[Math.floor(Math.random() * MOCK_REPLIES.length)];
         const randomName = NAMES[Math.floor(Math.random() * NAMES.length)];
         
         const rand = Math.random();
-        let type: 'info' | 'success' | 'warning' | 'error' | 'wait' | 'reply' = 'info';
+        let type: 'info' | 'success' | 'warning' | 'error' | 'wait' = 'info';
         let text = '';
 
-        if (rand < 0.05) {
-          text = `REPLY from @${randomName}: "${randomReply}"`;
-          type = 'reply';
-          if (onAction) onAction('replied');
-        } else if (rand < 0.35) {
+        if (rand < 0.35) {
           text = `Sent scheduled email to @${randomName}...`;
           type = 'info';
           if (onAction) onAction('sent');
@@ -94,10 +78,10 @@ export const LiveCampaignBoard: React.FC<LiveCampaignBoardProps> = ({ onAction }
           // Long pause for realism (8s - 15s)
           setIsPaused(true);
           setTimeout(() => setIsPaused(false), Math.random() * 7000 + 8000);
-        } else if (rand < 0.85) {
+        } else if (rand < 0.90) {
           text = `Failed: @${randomName} - ${randomError}`;
           type = 'error';
-        } else if (rand < 0.95) {
+        } else if (rand < 0.98) {
           text = randomAction;
           type = 'info';
         } else {
@@ -167,7 +151,6 @@ export const LiveCampaignBoard: React.FC<LiveCampaignBoardProps> = ({ onAction }
               log.type === 'warning' ? 'text-yellow-400' : 
               log.type === 'error' ? 'text-red-500' :
               log.type === 'wait' ? 'text-gray-500 animate-pulse' :
-              log.type === 'reply' ? 'text-km18-cyan font-bold bg-white/10 p-1 rounded' :
               'text-blue-300'
             }`}
           >
@@ -175,7 +158,6 @@ export const LiveCampaignBoard: React.FC<LiveCampaignBoardProps> = ({ onAction }
             {log.type === 'warning' && <AlertCircle className="w-3 h-3 shrink-0" />}
             {log.type === 'error' && <XCircle className="w-3 h-3 shrink-0" />}
             {log.type === 'wait' && <Loader2 className="w-3 h-3 shrink-0 animate-spin" />}
-            {log.type === 'reply' && <DollarSign className="w-3 h-3 shrink-0 text-yellow-400" />}
             {log.type === 'info' && <Zap className="w-3 h-3 shrink-0" />}
             <span>{log.text}</span>
           </motion.div>
