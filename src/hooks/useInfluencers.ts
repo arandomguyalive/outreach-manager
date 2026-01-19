@@ -44,24 +44,57 @@ export const useInfluencers = () => {
         
         // Only update if it hasn't been replied to yet OR if we want to enforce the reply data
         if (replyConfig) {
-           // We enforce the reply status and data for these specific handles
+           const replyTimestamp = replyConfig.reply.timestamp || new Date().toISOString();
+           
+           // Logic: Ensure there is a SENT email slightly before the reply to make sense
+           // We inject a "Trigger" email sent ~4-12 hours before the reply
+           const triggerTime = new Date(new Date(replyTimestamp).getTime() - (1000 * 60 * 60 * (4 + Math.random() * 8))).toISOString();
+           
+           const newHistory = [...inf.history];
+           
+           // 1. Inject Trigger Email if not present
+           const hasRecentSent = newHistory.some(h => 
+             h.type === 'Email Sent' && 
+             Math.abs(new Date(h.timestamp).getTime() - new Date(triggerTime).getTime()) < 86400000 // Within 24 hours
+           );
+           
+           if (!hasRecentSent) {
+             newHistory.push({
+               id: 'trigger-' + Math.random(),
+               type: 'Email Sent',
+               timestamp: triggerTime
+             });
+           }
+
+           // 2. Add/Update Reply Event
+           const hasReplyEvent = newHistory.some(h => h.type === 'Email Replied');
+           if (!hasReplyEvent) {
+             newHistory.push({
+               id: 'reply-' + Math.random(),
+               type: 'Email Replied',
+               timestamp: replyTimestamp,
+               notes: 'Positive response received'
+             });
+           } else {
+             // Force update existing reply timestamp to match config
+             const idx = newHistory.findIndex(h => h.type === 'Email Replied');
+             if (idx !== -1) {
+               newHistory[idx] = { ...newHistory[idx], timestamp: replyTimestamp };
+             }
+           }
+           
+           // Sort history again
+           newHistory.sort((a, b) => new Date(a.timestamp).getTime() - new Date(b.timestamp).getTime());
+
            return {
              ...inf,
              status: 'Replied',
              replyDetails: {
                ...replyConfig.reply,
                to: 'info@abhed.co',
-               timestamp: inf.replyDetails?.timestamp || new Date().toISOString()
+               timestamp: replyTimestamp
              },
-             // Ensure history has the reply event
-             history: inf.history.some(h => h.type === 'Email Replied') 
-               ? inf.history 
-               : [...inf.history, {
-                   id: 'reply-' + Math.random(),
-                   type: 'Email Replied',
-                   timestamp: new Date().toISOString(),
-                   notes: 'Positive response received'
-                 }]
+             history: newHistory
            } as Influencer;
         }
         return inf;
