@@ -29,7 +29,11 @@ export const PitchGenerator: React.FC<PitchGeneratorProps> = ({ influencer }) =>
 
     const body = `Dear ${influencer.name},
 
-${intro} We are currently opening the gates to ABHED ("The Fortress") and specifically inviting a select group of 500 creators to join our LIFETIME Blacklist.
+${intro} We are currently in our exclusive pre-launch phase for ABHED ("The Fortress") and are inviting a select group of 500 creators to join our LIFETIME Blacklist.
+
+Before we officially launch, I wanted to share our vision with you. You can catch a glimpse of the "State of the Art" UI and our privacy-first philosophy on our official channels:
+* YouTube (The Inner Billionaire 18): https://www.youtube.com/@TheInnerBillionaire18
+* Instagram (@iamkm18): https://www.instagram.com/iamkm18
 
 The ABHED Blacklist is not just a status symbol—it is a permanent, sovereign clearance within our tiered security ecosystem. While others navigate the digital world as "users," Blacklist members operate as Architects of their own privacy.
 
@@ -40,9 +44,10 @@ Here is why the Blacklist is the ultimate tier for a creator like you:
 * The Blacklist Certificate: Your identity is verified and memorialized with a unique, on-chain digital certificate, marking you as one of the original 500 operatives who chose privacy over surveillance.
 * Elite Visual Presence: Your profile will carry the Amber Neon signature, the "Infinity Key" badge, and the Blacklist ring—instantly signaling your status across the Signal Grid and the Vortex.
 
-ABHED is a world of depth, moving beyond the flat, silent scrolling of the past. It’s a place where your content is treated with the weight and security it deserves.
+To secure your spot, please fill out this exclusive access form:
+https://forms.gle/hYXiJujbNa5xXsgg8
 
-We have reserved a slot for you. If you’re ready to secure your digital existence and join the initial 500, let me know, and I’ll send over your Access Key.
+We have reserved a slot for you based on your profile. If you have any questions after watching the videos, let me know.
 
 Stay Sovereign,
 
