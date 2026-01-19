@@ -27,7 +27,11 @@ export const PitchGenerator: React.FC<PitchGeneratorProps> = ({ influencer }) =>
       intro = `You curate your life and art with precision. But on current platforms, you don't truly own that presence—you rent it from advertisers. We are inviting you to own your digital existence permanently, with the aesthetic depth it deserves.`;
     }
 
-    const body = `Dear ${influencer.name},
+    const body = `From: info@abhed.co
+To: ${influencer.email}
+Date: ${new Date().toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric' })}
+
+Dear ${influencer.name},
 
 ${intro} We are currently in our exclusive pre-launch phase for ABHED ("The Fortress") and are inviting a select group of 500 creators to join our LIFETIME Blacklist.
 

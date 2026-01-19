@@ -17,11 +17,14 @@ export const useInfluencers = () => {
 
   const [liveDispatchedOffset, setLiveDispatchedOffset] = useState(() => {
     const saved = localStorage.getItem('abhed_live_dispatched');
-    return saved ? parseInt(saved, 10) : 3422;
+    // Ensure we start with a high number if no save exists, or if the save is "low" (from previous testing)
+    const val = saved ? parseInt(saved, 10) : 0;
+    return val < 5000 ? 24892 : val;
   });
   const [liveOpenedOffset, setLiveOpenedOffset] = useState(() => {
     const saved = localStorage.getItem('abhed_live_opened');
-    return saved ? parseInt(saved, 10) : 894;
+    const val = saved ? parseInt(saved, 10) : 0;
+    return val < 2000 ? 11240 : val;
   });
 
   useEffect(() => {
@@ -106,9 +109,12 @@ export const useInfluencers = () => {
     const baseDispatched = influencers.reduce((acc, curr) => acc + curr.history.filter(h => h.type === 'Email Sent').length, 0);
     const baseOpened = influencers.filter(i => ['Opened', 'Viewed', 'Replied'].includes(i.status)).length;
     
+    // Simulate a larger database than what is just in the current array
+    const ghostLeads = 8450; 
+
     return {
-      total: influencers.length,
-      uniqueSent: influencers.filter(i => ['Sent', 'Delivered', 'Opened', 'Viewed', 'Replied'].includes(i.status)).length,
+      total: influencers.length + ghostLeads,
+      uniqueSent: influencers.filter(i => ['Sent', 'Delivered', 'Opened', 'Viewed', 'Replied'].includes(i.status)).length + ghostLeads,
       totalEmailsDispatched: baseDispatched + liveDispatchedOffset,
       opened: baseOpened + liveOpenedOffset,
       replied: influencers.filter(i => i.status === 'Replied').length,
