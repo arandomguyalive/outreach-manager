@@ -40,18 +40,19 @@ Team Sharan`,
   {
     handle: '@NeonShow', 
     reply: {
-      from: 'Siddhartha Ahluwalia <siddhartha@neon.show>',
+      from: 'Neon Show Team <siddhartha@neon.show>',
       subject: 'Re: The Blacklist - Startup of the Year?',
       body: `Hi Kinjal,
 
-I must say, the YouTube algorithm knows me well—your 'Values of ABHED' video popped up on my feed first. I just watched the full App Tour on Drive that you sent over. The UI fluidity shown in that demo is something I usually only see in Silicon Valley consumer social apps.
+Siddhartha asked me to reach out after he saw your 'Values of ABHED' video on his feed. He has also reviewed the App Tour on Drive. He was quite impressed by the UI fluidity, noting it rivals Silicon Valley standards.
 
-I'm very intrigued by the 'Digital Sovereignty' angle. I noticed the community features in the video—does the 'Blacklist' tier come with advanced moderation tools? I'm thinking of using this for a very exclusive founder's circle, and I need to know if I can delegate admin rights securely.
+He is intrigued by the 'Digital Sovereignty' angle and wants to support this kind of ambitious engineering from India. He specifically asked if the 'Blacklist' tier comes with advanced community moderation tools for his exclusive founder's circle?
 
-I want to secure my spot on the Blacklist not just as a user, but because I want to support this kind of ambitious engineering from India. Please send me the lifetime enrollment link.
+We would like to secure a spot for him on the Blacklist. Please share the lifetime enrollment link.
 
-Cheers,
-Siddhartha`,
+Best,
+Riya
+Executive Assistant to Siddhartha Ahluwalia`,
       timestamp: '2026-01-19T09:15:00'
     }
   },
@@ -80,18 +81,19 @@ Tanay`,
   {
     handle: '@AkshatShrivastava',
     reply: {
-      from: 'Akshat Shrivastava <akshat@wisdomhatch.com>',
+      from: 'Team Akshat <akshat@wisdomhatch.com>',
       subject: 'Re: Investment / Access for Inner Circle',
       body: `Hi Kinjal,
 
-Your video on YouTube was great for understanding the philosophy, but the App Tour you linked provided the context I needed on the UX.
+Akshat reviewed your YouTube video and the App Tour you linked. The section regarding 'Forensic Protection' was very timely, as we were just discussing the risks of screenshot leaks in our premium consultation groups.
 
-I'm very interested in enrolling in the Blacklist. However, for my 'Inner Circle' members, data retention is a concern. Does the app support auto-deletion timers for messages and files? Like a 'burn after reading' setting? That wasn't explicitly clear in the demo.
+We are interested in enrolling Akshat in the Blacklist to test if this can be the primary hub for his 'Inner Circle' members. One query from our side: Does the app support auto-deletion timers for messages and files?
 
-The fact that it's an Indian product compliant with the new DPDP norms makes it much easier for me to recommend it. Please share the enrollment invoice.
+The fact that it's an Indian product compliant with the new DPDP norms is a major plus. Please share the enrollment invoice.
 
-Best,
-Akshat`,
+Regards,
+Operations Team
+Wisdom Hatch`,
       timestamp: '2026-01-19T12:10:00'
     }
   },
@@ -117,19 +119,19 @@ Brand Partnerships`,
   {
     handle: '@RajShamani',
     reply: {
-      from: 'Raj Shamani <raj@shamani.industries>',
+      from: 'Raj Shamani Office <raj@shamani.industries>',
       subject: 'Re: Figuring this out // Access',
       body: `Hi Kinjal,
 
-I'm currently traveling in Europe, but I watched the Drive video you attached. The branding is top-tier. You rarely see Indian founders nailing the 'premium' aesthetic this hard before launch. The transition animations you showed were buttery smooth.
+Raj is currently traveling in Europe, but he forwarded your email after seeing your ad on Instagram. He was very impressed by the branding and the 'premium' aesthetic shown in the Drive video.
 
-The privacy narrative is going to be the biggest theme of 2026. If you can deliver on the 'Zero-Knowledge' promise explained in the video, this is a unicorn in the making. One question: Is there a 'Vault' implementation for securing ultra-sensitive deals?
+He believes the privacy narrative will be the biggest theme of 2026 and sees potential in your 'Zero-Knowledge' promise. He asked me to inquire if there is a 'Vault' implementation for securing ultra-sensitive deals?
 
-I want in. My team is ready to process the Blacklist enrollment fee today. Send the details.
+We would like to process the Blacklist enrollment fee today on his behalf. Please send the details.
 
-Keep crushing it.
-
-Raj.`,
+Best,
+Simran
+Chief of Staff, Shamani Industries`,
       timestamp: '2026-01-19T08:45:00'
     }
   },
@@ -171,18 +173,19 @@ I'm 100% sold. Send the payment link, I'll pay right now. I really want to poke 
   {
     handle: '@AnkurWarikoo',
     reply: {
-      from: 'Ankur Warikoo <ankur@nearbuy.com>',
+      from: 'Team Warikoo <ankur@nearbuy.com>',
       subject: 'Re: Do epic shit / Blacklist',
       body: `Hi Kinjal,
 
-I came across the Instagram reel as a suggestion, and the App Tour video in your email confirmed my interest. This is bold. I like bold. The market is crowded, but a privacy-first, design-led social tool from India is a huge gap.
+Ankur asked us to connect with you. He came across the Instagram reel as a suggestion, and the App Tour video in your email confirmed his interest. He thinks the move towards a privacy-first, design-led social tool is a bold and necessary gap to fill.
 
-I often talk about 'Signal vs. Noise'. It seems ABHED is built entirely for Signal. I'd be happy to enroll as an early adopter. Quick question: Is there a cap on the number of members in the initial cohort? I want to make sure I can bring in my co-founders later.
+He would be happy to enroll as an early adopter. One question he had: Is there a cap on the number of members in the initial cohort? He wants to ensure he can bring in his co-founders later.
 
-Please sign me up for the Blacklist tier and send the invoice.
+Please sign him up for the Blacklist tier and send the invoice.
 
 Best,
-Ankur`,
+Vidhi
+Team Warikoo`,
       timestamp: '2026-01-19T09:40:00'
     }
   },
@@ -208,7 +211,7 @@ Always happy to back incredible Indian engineering. I'm interested in the Blackl
     reply: {
       from: 'Samay Raina <samay@chess.com>',
       subject: 'Re: Private streams?',
-      body: `Bro, I watched the Drive link. This looks insane. The main thing I need is a place to host private lobbies where I can actually speak freely without getting banned.
+      body: `Bro, I watched the Drive link. This looks insane. The main thing I need is a place to host private lobbies where I can actually speak freely without getting banned or clipped out of context.
 
 Does the 'Blacklist' tier allow for unlisted voice channels or group calls? I saw the chat features but wasn't sure about voice.
 
