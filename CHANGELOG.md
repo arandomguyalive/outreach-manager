@@ -8,6 +8,12 @@
 - **Strict Pre-Launch Context:** All communications now strictly align with the current project status (videos/ads discovery, no followers yet, addressing Kinjal Mishra as female founder).
 - **Causal Interaction Sync:** Automated logic to inject "Trigger Emails" into history, ensuring a logical flow from outreach to reply.
 
+## [Phase 2.8.3 - Strict Handle Deduplication] - 2026-01-19
+
+### Highlights
+- **Handle Conflict Resolution:** Identified and removed secondary "Shorts" profiles for **Tech Burner** and **Technical Guruji** that shared identical handles (`@techburner`, `@technicalguruji`) with their main profiles. This overlap was causing the reply system to double-match, inflating the count to 20.
+- **Cache Refresh (v2.8.3):** Forced a new data version update to ensure all clients immediately see the corrected count of **18** creators.
+
 ## [Phase 2.8.2 - Cache Invalidation & Data Sync] - 2026-01-19
 
 ### Highlights
