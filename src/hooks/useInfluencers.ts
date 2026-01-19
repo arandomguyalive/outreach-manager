@@ -28,7 +28,7 @@ export const useInfluencers = () => {
     return val > 2000 ? 458 : (val || 458);
   });
 
-  const DATA_VERSION = 'v2.8.1'; // Bump this to force data refresh
+  const DATA_VERSION = 'v2.8.3'; // Bump this to force data refresh
 
   useEffect(() => {
     const loadData = () => {

@@ -396,7 +396,6 @@ Terribly Tiny Tales	Instagram	India	English	Entertainment/Content	 @ttt_official
 The Indian Idiot	Instagram	India	English	Entertainment/Content	 @theindianidiot	Macro	contact @theindianidiot.com
 A2 Motivation (Arvind)	YouTube	India	Hindi	Fact/Info/Knowledge	 @A2Motivation		arvind.arora @a2.com
 Alt News	Twitter	India	English	Fact/Info/Knowledge	 @AltNews	Macro	donate @altnews.in
-Sandeep Maheshwari (Shorts)	YouTube	India	Hindi	Fact/Info/Knowledge	 @SandeepMaheshwariSpirituality		info @sandeepmaheshwari.com
 Stubborn Facts	Instagram	India	Hindi	Fact/Info/Knowledge	 @stubbornfacts	Macro	facts @stubborn.com
 FactTechz	YouTube	India	Hindi	Fact/Info/Knowledge	 @FactTechz		rajesh @facttechz.com
 General Knowledge India	Instagram	India	Hindi/Eng	Fact/Info/Knowledge	 @gk.india	Mid	ads @gkindia.com
@@ -651,7 +650,6 @@ Shanice Shrestha	YouTube	India	Hindi	Lifestyle/Vlogging	 @ShaniceShresthaVlogs		
 Visa2Explore	YouTube	India	Hindi	Lifestyle/Vlogging	 @Visa2Explore		harish @visa2explore.com
 Dhruv Rathee Vlogs	YouTube	India	Hindi	Lifestyle/Vlogging	 @DhruvRatheeVlogs		business @dhruvrathee.com
 Gaurav Taneja (FitPilot)	Twitter	India	English	Lifestyle/Vlogging	 @flyingbeast320	Mega	gaurav @flyingbeast.com
-Sandeep Maheshwari (Shorts)	YouTube	India	Hindi	Motivation/Self-Help	 @SandeepMaheshwariSpirituality		info @sandeepmaheshwari.com
 Sandeep Maheshwari (Fit)	YouTube	India	Hindi	Health/Wellness	 @SandeepMaheshwari		info @sandeepmaheshwari.com
 Rujuta Diwekar	Instagram	India	Hindi/Eng	Health/Wellness	 @rujuta.diwekar	Mega	connect @rujutadiwekar.com
 Luke Coutinho	Instagram	India	English	Health/Wellness	 @luke_coutinho	Mega	connect @lukecoutinho.com
@@ -745,8 +743,6 @@ Vivek Bindra (Clips)	Instagram	India	Hindi	Motivation/Business/Finance	 @vivek_b
 Sandeep Maheshwari (Clips)	Instagram	India	Hindi	Motivation/Business/Finance	 @sandeep__maheshwari	Mega	info @sandeepmaheshwari.com
 Karan Dua (DilSeFoodie)	Instagram	India	Hindi	Food/Lifestyle/Travel	 @dilsefoodie	Macro	karan @dilsefoodie.com
 Srishti Wanchoo	Instagram	India	English	Food/Lifestyle/Travel	 @srishtiwanchoo	Mid	srishti @food.com
-Technical Guruji (Shorts)	Instagram	India	Hindi	Tech/Review/Shorts	 @technicalguruji	Mega	gaurav @technicalguruji.in
-Tech Burner (Shorts)	Instagram	India	Hindi	Tech/Review/Shorts	 @techburner	Mega	business @techburner.in
 TechWeiser (Shorts)	Instagram	India	English	Tech/Review/Shorts	 @techweiser	Macro	pratik @techwiser.com
 Beebom (Shorts)	Instagram	India	English	Tech/Review/Shorts	 @beebomco	Macro	contact @beebom.com
 Manoj Saru (Shorts)	Instagram	India	Hindi	Tech/Review/Shorts	 @technologygyan	Macro	manoj @technologygyan.com
