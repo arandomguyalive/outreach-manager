@@ -39,6 +39,9 @@ Before we officially launch, I wanted to share our vision with you. You can catc
 * YouTube (The Inner Billionaire 18): https://www.youtube.com/@TheInnerBillionaire18
 * Instagram (@iamkm18): https://www.instagram.com/iamkm18
 
+I have also attached an exclusive, unlisted App Tour Video that breaks down the "Vortex" interface and our security protocols in real-time. Please watch this first to understand the architecture:
+https://drive.google.com/file/d/1codENtUWRsqqHhYZVRP-SLDtR9qmxNyF/view?usp=sharing
+
 The ABHED Blacklist is not just a status symbol—it is a permanent, sovereign clearance within our tiered security ecosystem. While others navigate the digital world as "users," Blacklist members operate as Architects of their own privacy.
 
 Here is why the Blacklist is the ultimate tier for a creator like you:
