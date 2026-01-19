@@ -506,7 +506,7 @@ Shilpa Shetty Kundra	Instagram	India	Hindi/Eng	Health/Wellness	 @theshilpashetty
 Dr. Cuterus (Tanaya)	Instagram	India	English	Health/Wellness	 @dr_cuterus	Macro	tanaya @dr-cuterus.com
 Dr. Pal Manickam	Instagram	India	Tamil/Eng	Health/Wellness	 @dr.pal.manickam	Macro	pal @drpal.com
 Leeza Mangaldas	Instagram	India	English	Health/Wellness	 @leezamangaldas	Macro	leeza @monk-e.in
-Raj Shamani (Health)	Instagram	India	English	Health/Wellness	 @rajshamani	Macro	team @rajshamani.com
+Raj Shamani (Health)	Instagram	India	English	Health/Wellness	 @rajshamani_fit	Macro	team @rajshamani.com
 Sapna Vyas	Instagram	India	English	Health/Wellness	 @coachsapna	Macro	sapna @sapnavyas.com
 Yasmin Karachiwala	Instagram	India	English	Health/Wellness	 @yasminkarachiwala	Macro	yasmin @bodyimage.in
 Sandeep Maheshwari (Fit)	YouTube	India	Hindi	Health/Wellness	 @SandeepMaheshwari		info @sandeepmaheshwari.com

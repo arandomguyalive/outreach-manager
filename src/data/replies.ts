@@ -293,5 +293,47 @@ Regards,
 Apurva`,
       timestamp: '2026-01-19T09:05:00'
     }
+  },
+  {
+    handle: '@TechBurner',
+    reply: {
+      from: 'Tech Burner Team <business@techburner.in>',
+      subject: 'Re: Unboxing the "Vortex" UI?',
+      body: `Hello Kinjal,
+
+Shlok (Tech Burner) saw the reel you posted about the "Vortex" UI. He usually skips these, but the visual style caught his eye—he said it looks like "Iron Man's JARVIS met UPI".
+
+We checked the Drive video. The animation smoothness is crazy. Is this running on a custom engine or standard Android views? Shlok wants to try it out on the new foldables to see if the UI breaks or adapts.
+
+If the "Geo-Fencing" works as advertised, that's valid content material. We are down for the Blacklist access.
+
+Send the invoice.
+
+Cheers,
+Siddharth
+Manager, Tech Burner Team`,
+      timestamp: '2026-01-19T13:15:00'
+    }
+  },
+  {
+    handle: '@BeerBiceps',
+    reply: {
+      from: 'Monk-E Management <ranveer.team@monk-e.in>',
+      subject: 'Re: The Spiritual Angle of Privacy',
+      body: `Hi Kinjal,
+
+Ranveer (BeerBiceps) asked us to reach out personally. He watched your video on "Digital Sovereignty" and felt a strong resonance with the philosophy. He's been talking a lot about how technology affects our mental space lately.
+
+He loved the "App Tour". He thinks building a sanctuary where conversations don't leave the room is a powerful concept for the modern creator.
+
+He wants to know: Is there a "Zen Mode" or "Focus" feature built into the Blacklist tier?
+
+We are ready to secure his spot. It's inspiring to see an Indian female founder building world-class tech. Let's make this happen.
+
+Regards,
+Viraj
+Head of Talent, Monk-E`,
+      timestamp: '2026-01-19T14:00:00'
+    }
   }
 ];
