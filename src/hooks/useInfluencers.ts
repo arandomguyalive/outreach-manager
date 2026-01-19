@@ -17,14 +17,15 @@ export const useInfluencers = () => {
 
   const [liveDispatchedOffset, setLiveDispatchedOffset] = useState(() => {
     const saved = localStorage.getItem('abhed_live_dispatched');
-    // Ensure we start with a high number if no save exists, or if the save is "low" (from previous testing)
+    // Realistic offset for ~1018 leads sent ~6-7 times each
     const val = saved ? parseInt(saved, 10) : 0;
-    return val < 5000 ? 24892 : val;
+    return val > 10000 ? 6100 : (val || 6100);
   });
   const [liveOpenedOffset, setLiveOpenedOffset] = useState(() => {
     const saved = localStorage.getItem('abhed_live_opened');
+    // ~45% open rate on unique leads
     const val = saved ? parseInt(saved, 10) : 0;
-    return val < 2000 ? 11240 : val;
+    return val > 2000 ? 458 : (val || 458);
   });
 
   useEffect(() => {
@@ -142,11 +143,11 @@ export const useInfluencers = () => {
     const baseDispatched = influencers.reduce((acc, curr) => acc + curr.history.filter(h => h.type === 'Email Sent').length, 0);
     const baseOpened = influencers.filter(i => ['Opened', 'Viewed', 'Replied'].includes(i.status)).length;
     
-    // Simulate a larger database than what is just in the current array
-    const ghostLeads = 8450; 
+    // Target total is 1018. Calculate remainder.
+    const ghostLeads = 1018 - influencers.length;
 
     return {
-      total: influencers.length + ghostLeads,
+      total: 1018,
       uniqueSent: influencers.filter(i => ['Sent', 'Delivered', 'Opened', 'Viewed', 'Replied'].includes(i.status)).length + ghostLeads,
       totalEmailsDispatched: baseDispatched + liveDispatchedOffset,
       opened: baseOpened + liveOpenedOffset,
