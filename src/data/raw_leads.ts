@@ -234,7 +234,6 @@ Gary Vaynerchuk	LinkedIn	USA	English	Pro/Business	 @garyvaynerchuk	Mega	gary @va
 Steven Bartlett	LinkedIn	UK	English	Pro/Business	 @steven	Mega	steven @flightstory.com
 The Hustle	Newsletter	USA	English	Pro/Business	 @TheHustle	Mega	news @thehustle.co
 Morning Brew	Newsletter	USA	English	Pro/Business	 @MorningBrew	Mega	crew @morningbrew.com
-BeerBiceps (Biz)	LinkedIn	India	English	Pro/Business	 @beerbiceps	Mega	team @monk-e.in
 Neil Patel	YouTube	USA/India	English	Pro/Business	 @neilpatel		support @neilpatel.com
 Digital Pratik	Instagram	India	English	Pro/Business	 @digitalpratik	Macro	team @digitalpratik.com
 Sorav Jain	Instagram	India	English	Pro/Business	 @soravjain	Macro	sorav @echovme.com
@@ -303,7 +302,6 @@ Jason Calacanis	Twitter	USA	English	Pro/Business	 @Jason	Mega	jason @calacanis.c
 Kunal Shah	Twitter	India	English	Pro/Business	 @kunalb11	Mega	kunal @cred.club
 Nithin Kamath	Twitter	India	English	Pro/Business	 @Nithin0dha	Mega	nithin @zerodha.com
 Andrew Chen	Twitter	USA	English	Pro/Business	 @andrewchen	Mega	andrew @a16z.com
-BeerBiceps (Ranveer)	Twitter	India	English	Pro/Business	 @BeerBicepsGuy	Mega	beerbiceps @monk-e.in
 Ankur Warikoo	Twitter	India	English	Pro/Business	 @warikoo	Mega	ankur @nearbuy.com
 Mad Over Marketing (M.O.M)	Instagram	India	English	Pro/Business	 @madovermarketing_mom	Mega	contact @madovermarketing.com
 Lenny Rachitsky	Twitter	USA	English	Pro/Business	 @lennysan	Macro	lenny @lennysnewsletter.com
@@ -418,8 +416,6 @@ Entrackr	Twitter	India	English	News/Current Affairs	 @entrackr	Mid	editorial @en
 Lallantop	YouTube	India	Hindi	News/Current Affairs	 @TheLallantop		contact @thelallantop.com
 VCCircle	Twitter	India	English	News/Current Affairs	 @vccircle	Macro	editor @vccircle.com
 YourStory	Twitter	India	English	News/Current Affairs	 @YourStoryCo	Macro	editors @yourstory.com
-BeerBiceps	YouTube	India	English	News/Current Affairs	 @BeerBiceps	Mega	ranveer.allahbadia @ent.com
-BeerBiceps (Hindi)	YouTube	India	Hindi	News/Current Affairs	 @RanveerAllahbadia		beerbiceps @monk-e.in
 Faye D'Souza	Instagram	India	English	News/Current Affairs	 @fayedsouza	Macro	faye @news.com
 Inc42	Twitter	India	English	News/Current Affairs	 @Inc42	Macro	editor @inc42.com
 Nas Daily	Facebook	Global	English	News/Current Affairs	 @nasdaily	Mega	hello @nasdaily.com
@@ -435,7 +431,6 @@ Rahul Subramanian	Instagram	India	English	Entertainment/Comedy	 @rahulsubramanic
 Samay Raina	YouTube	India	Hindi	Entertainment/Comedy	 @SamayRainaOfficial		samay @oml.in
 Suhani Shah	YouTube	India	Hindi/Eng	Entertainment/Comedy	 @SuhaniShah		team @suhanishah.com
 Kumar Varun	Instagram	India	Hindi	Entertainment/Comedy	 @randomvarun	Mid	kumar @oml.in
-BeerBiceps (Fitness)	Instagram	India	English	Fitness/Health	 @ranveerallahbadia	Mega	beerbiceps @monk-e.in
 Gaurav Taneja (FitPilot)	Twitter	India	English	Fitness/Health	 @flyingbeast320	Mega	gaurav @flyingbeast.com
 Guru Mann	YouTube	India	Hindi	Fitness/Health	 @GuruMannFitness		guru @gurumann.com
 Jeet Selal	YouTube	India	Hindi	Fitness/Health	 @JeetSelal		jeet @himalayanstallion.in
@@ -506,7 +501,6 @@ Shilpa Shetty Kundra	Instagram	India	Hindi/Eng	Health/Wellness	 @theshilpashetty
 Dr. Cuterus (Tanaya)	Instagram	India	English	Health/Wellness	 @dr_cuterus	Macro	tanaya @dr-cuterus.com
 Dr. Pal Manickam	Instagram	India	Tamil/Eng	Health/Wellness	 @dr.pal.manickam	Macro	pal @drpal.com
 Leeza Mangaldas	Instagram	India	English	Health/Wellness	 @leezamangaldas	Macro	leeza @monk-e.in
-Raj Shamani (Health)	Instagram	India	English	Health/Wellness	 @rajshamani_fit	Macro	team @rajshamani.com
 Sapna Vyas	Instagram	India	English	Health/Wellness	 @coachsapna	Macro	sapna @sapnavyas.com
 Yasmin Karachiwala	Instagram	India	English	Health/Wellness	 @yasminkarachiwala	Macro	yasmin @bodyimage.in
 Sandeep Maheshwari (Fit)	YouTube	India	Hindi	Health/Wellness	 @SandeepMaheshwari		info @sandeepmaheshwari.com
@@ -524,7 +518,6 @@ Scherezade Shroff	YouTube	India	English	Lifestyle/Vlogging	 @ScherezadeShroff		s
 Gaur Gopal Das	Instagram	India	English	Spirituality/Self-Help	 @gaurgopaldas	Mega	office @gaurgopaldas.com
 Jay Shetty	Instagram	USA/UK	English	Spirituality/Self-Help	 @jayshetty	Mega	jay @jayshetty.com
 Sadhguru	YouTube	India	English	Spirituality/Self-Help	 @sadhguru		info @isha.foundation
-BeerBiceps (Spirituality)	YouTube	India	Hindi	Spirituality/Self-Help	 @RanveerAllahbadia		beerbiceps @monk-e.in
 BK Shivani	YouTube	India	Hindi	Spirituality/Self-Help	 @BKShivani		bkshivani @brahmakumaris.com
 CarryIsLive	YouTube	India	Hindi	Gaming	 @CarryIsLive		workforcarry @gmail.com
 Live Insaan	YouTube	India	Hindi	Gaming	 @LiveInsaan		liveinsaan @gmail.com
@@ -658,8 +651,6 @@ Shanice Shrestha	YouTube	India	Hindi	Lifestyle/Vlogging	 @ShaniceShresthaVlogs		
 Visa2Explore	YouTube	India	Hindi	Lifestyle/Vlogging	 @Visa2Explore		harish @visa2explore.com
 Dhruv Rathee Vlogs	YouTube	India	Hindi	Lifestyle/Vlogging	 @DhruvRatheeVlogs		business @dhruvrathee.com
 Gaurav Taneja (FitPilot)	Twitter	India	English	Lifestyle/Vlogging	 @flyingbeast320	Mega	gaurav @flyingbeast.com
-BeerBiceps	YouTube	India	English	Entertainment/Lifestyle	 @BeerBiceps	Mega	ranveer.allahbadia @ent.com
-BeerBiceps (Hindi)	YouTube	India	Hindi	Motivation/Health	 @RanveerAllahbadia		beerbiceps @monk-e.in
 Sandeep Maheshwari (Shorts)	YouTube	India	Hindi	Motivation/Self-Help	 @SandeepMaheshwariSpirituality		info @sandeepmaheshwari.com
 Sandeep Maheshwari (Fit)	YouTube	India	Hindi	Health/Wellness	 @SandeepMaheshwari		info @sandeepmaheshwari.com
 Rujuta Diwekar	Instagram	India	Hindi/Eng	Health/Wellness	 @rujuta.diwekar	Mega	connect @rujutadiwekar.com
@@ -670,7 +661,6 @@ Jay Shetty	Instagram	USA/UK	English	Spirituality/Self-Help	 @jayshetty	Mega	jay 
 Gaur Gopal Das	Instagram	India	English	Spirituality/Self-Help	 @gaurgopaldas	Mega	office @gaurgopaldas.com
 Sadhguru	YouTube	India	English	Spirituality/Self-Help	 @sadhguru		info @isha.foundation
 BK Shivani	YouTube	India	Hindi	Spirituality/Self-Help	 @BKShivani		bkshivani @brahmakumaris.com
-BeerBiceps (Spirituality)	YouTube	India	Hindi	Spirituality/Self-Help	 @RanveerAllahbadia		beerbiceps @monk-e.in
 Cyrus Broacha	Podcast	India	English	Media/Podcast	 @cyrus_broacha	Macro	cyrus @ivmpodcasts.com
 Amit Varma	Podcast	India	English	Media/Podcast	 @amitvarma	Macro	amit @seenunseen.in
 The Internet Said So	YouTube	India	English	Media/Podcast	 @TheInternetSaidSo		tiss @oml.in
@@ -700,7 +690,6 @@ Entrackr	Twitter	India	English	News/Current Affairs	 @entrackr	Mid	editorial @en
 Lallantop	YouTube	India	Hindi	News/Current Affairs	 @TheLallantop		contact @thelallantop.com
 VCCircle	Twitter	India	English	News/Current Affairs	 @vccircle	Macro	editor @vccircle.com
 YourStory	Twitter	India	English	News/Current Affairs	 @YourStoryCo	Macro	editors @yourstory.com
-BeerBiceps	YouTube	India	English	Entertainment/Lifestyle	 @BeerBiceps	Mega	ranveer.allahbadia @ent.com
 Faye D'Souza	Instagram	India	English	News/Current Affairs	 @fayedsouza	Macro	faye @news.com
 Inc42	Twitter	India	English	News/Current Affairs	 @Inc42	Macro	editor @inc42.com
 Nas Daily	Facebook	Global	English	News/Current Affairs	 @nasdaily	Mega	hello @nasdaily.com
@@ -984,7 +973,6 @@ Alex Costa	YouTube	USA	English	Grooming/Routine	 @AlexCosta	Mega	alex @alexcosta
 Dre Drexler	YouTube	USA	English	Style/App	 @DreDrexler	Macro	dre @dredrexler.com
 Robin James	YouTube	UK	English	Grooming/Review	 @ManForHimself	Macro	robin @manforhimself.com
 Jeremy Fragrance	YouTube	Germany/Global	English	Fragrance/Ad	 @JeremyFragrance	Mega	jeremy @jeremyfragrance.com
-BeerBiceps (Style)	Instagram	India	English	Men's Lifestyle	 @ranveerallahbadia	Mega	beerbiceps @monk-e.in
 Ranveer Singh	Instagram	India	English	Celebrity/Ambassador	 @ranveersingh	Mega	ranveer @yashrajfilms.com
 Ishita Mangal	Instagram	India	Hindi/Eng	Fashion/Comedy	 @ishitamangal	Macro	ishita @monk-e.in
 Nancy Tyagi	Instagram	India	Hindi	DIY Fashion	 @nancytyagi___	Macro	nancy @monk-e.in
