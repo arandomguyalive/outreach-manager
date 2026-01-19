@@ -178,6 +178,39 @@ function App() {
                   </div>
                 </div>
 
+                {selectedInfluencer.replyDetails && (
+                  <div className="mb-8 bg-white/5 border border-km18-cyan/30 rounded-xl overflow-hidden">
+                    <div className="bg-km18-cyan/10 p-3 border-b border-km18-cyan/20 flex items-center justify-between">
+                      <h3 className="font-bold text-km18-cyan flex items-center gap-2">
+                        <MessageSquare className="w-4 h-4" /> 
+                        Incoming Reply
+                      </h3>
+                      <span className="text-xs text-km18-cyan/70 font-mono">
+                        {new Date(selectedInfluencer.replyDetails.timestamp).toLocaleDateString()}
+                      </span>
+                    </div>
+                    <div className="p-4 space-y-3">
+                      <div>
+                        <p className="text-xs text-gray-500 uppercase font-bold tracking-wider">From</p>
+                        <p className="text-white text-sm font-mono">{selectedInfluencer.replyDetails.from}</p>
+                      </div>
+                      <div>
+                        <p className="text-xs text-gray-500 uppercase font-bold tracking-wider">To</p>
+                        <p className="text-white text-sm font-mono">{selectedInfluencer.replyDetails.to}</p>
+                      </div>
+                      <div>
+                        <p className="text-xs text-gray-500 uppercase font-bold tracking-wider">Subject</p>
+                        <p className="text-white text-sm font-bold">{selectedInfluencer.replyDetails.subject}</p>
+                      </div>
+                      <div className="pt-2 border-t border-white/10 mt-2">
+                        <p className="text-gray-300 text-sm whitespace-pre-wrap leading-relaxed">
+                          {selectedInfluencer.replyDetails.body}
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                )}
+
                 <div className="mb-8">
                   <h3 className="text-lg font-bold text-white mb-4 flex items-center gap-2">
                     <Send className="w-5 h-5 text-km18-cyan" />

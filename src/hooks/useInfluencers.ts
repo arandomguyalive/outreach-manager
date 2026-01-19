@@ -2,6 +2,7 @@ import { useState, useEffect, useMemo } from 'react';
 import type { Influencer, FilterState } from '../types';
 import { parseRawLeads } from '../utils/parser';
 import { RAW_LEADS_DATA } from '../data/raw_leads';
+import { REPLY_DATA } from '../data/replies';
 
 export const useInfluencers = () => {
   const [influencers, setInfluencers] = useState<Influencer[]>([]);
@@ -30,15 +31,46 @@ export const useInfluencers = () => {
   useEffect(() => {
     const loadData = () => {
       const savedInfluencers = localStorage.getItem('abhed_influencers');
+      let data: Influencer[] = [];
+
       if (savedInfluencers) {
-        setInfluencers(JSON.parse(savedInfluencers));
-        setLoading(false);
+        data = JSON.parse(savedInfluencers);
       } else {
-        const data = parseRawLeads(RAW_LEADS_DATA);
-        setInfluencers(data);
-        localStorage.setItem('abhed_influencers', JSON.stringify(data));
-        setLoading(false);
+        data = parseRawLeads(RAW_LEADS_DATA);
       }
+
+      // Merge Replies (Idempotent check)
+      const updatedData = data.map(inf => {
+        const replyConfig = REPLY_DATA.find(r => r.handle.toLowerCase() === inf.handle.toLowerCase());
+        
+        // Only update if it hasn't been replied to yet OR if we want to enforce the reply data
+        if (replyConfig) {
+           // We enforce the reply status and data for these specific handles
+           return {
+             ...inf,
+             status: 'Replied',
+             replyDetails: {
+               ...replyConfig.reply,
+               to: 'info@abhed.co',
+               timestamp: inf.replyDetails?.timestamp || new Date().toISOString()
+             },
+             // Ensure history has the reply event
+             history: inf.history.some(h => h.type === 'Email Replied') 
+               ? inf.history 
+               : [...inf.history, {
+                   id: 'reply-' + Math.random(),
+                   type: 'Email Replied',
+                   timestamp: new Date().toISOString(),
+                   notes: 'Positive response received'
+                 }]
+           } as Influencer;
+        }
+        return inf;
+      });
+
+      setInfluencers(updatedData);
+      localStorage.setItem('abhed_influencers', JSON.stringify(updatedData));
+      setLoading(false);
     };
     loadData();
   }, []);

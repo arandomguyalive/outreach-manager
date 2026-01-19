@@ -12,6 +12,13 @@ export interface Influencer {
   lastInteraction?: string;
   history: Interaction[];
   isSelected?: boolean;
+  replyDetails?: {
+    subject: string;
+    body: string;
+    from: string;
+    to: string;
+    timestamp: string;
+  };
 }
 
 export interface Interaction {
