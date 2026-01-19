@@ -4,8 +4,18 @@ export const REPLY_DATA = [
     handle: '@MortaL',
     reply: {
       from: 'Team Mortal <mgmt@8bitcreatives.in>',
-      subject: 'Re: Exclusive Invitation: The Blacklist // Video Feedback',
-      body: "Hi Kinjal & Team,\n\nWe hope you're having a productive week.\n\nNaman (MortaL) came across one of your teaser videos on his feed yesterday. He was genuinely impressed by the visual direction—the 'Cyberpunk' aesthetic is unlike anything we've seen from an Indian app developer. It feels very premium and aligned with the gaming culture.\n\nHe is definitely interested in the enrollment for the Blacklist tier. We are particularly interested in the 'Forensic Protection' feature mentioned in your pitch, as leaking is a huge issue for us. Could you share more details on how the onboarding works for the initial cohort?\n\nPlease let us know the next steps. We are ready to move forward with the lifetime enrollment once we have the final details.\n\nBest regards,\nAnimesh Agarwal\nManager, 8Bit Creatives",
+      subject: 'Re: Exclusive Invitation: The Blacklist // Security Inquiry',
+      body: `Hi Kinjal & Team,
+
+We hope this email finds you well. Naman (MortaL) forwarded your YouTube teaser video to our internal management group after it appeared in his recommendations last night. He was struck by the visual fidelity of the 'Vortex' interface—it aligns perfectly with the high-tech, cyberpunk aesthetic that the gaming community resonates with.
+
+From a security standpoint, our primary concern at 8Bit is the integrity of private team comms. We have faced issues with leaks on Discord and WhatsApp in the past. Your mention of 'Forensic Protection' and 'Hold-to-View' mechanics caught our attention immediately. Naman specifically asked if this prevents screen recording on iOS devices as well?
+
+We are ready to proceed with the Blacklist enrollment for Naman and potentially 2 other key members of S8UL. Please share the invoice and a technical whitepaper if available so our tech lead can verify the encryption claims.
+
+Best regards,
+Animesh Agarwal
+Manager, 8Bit Creatives`,
       timestamp: '2026-01-19T11:45:00'
     }
   },
@@ -14,7 +24,16 @@ export const REPLY_DATA = [
     reply: {
       from: 'Sharan Hegde Office <team@financewithsharan.com>',
       subject: 'Re: Partnership / Blacklist Access Inquiry',
-      body: "Hello Team,\n\nThanks for sharing the vision. One of our analysts flagged your video as a suggested post on YouTube, and Sharan found the 'Sovereign' narrative very compelling. The emphasis on data privacy is exactly what his high-net-worth audience asks for.\n\nIt's refreshing to see a homegrown Indian product that doesn't compromise on design or security. We are definitely interested in the Blacklist enrollment. Before we proceed with the formal process, Sharan wanted to know if the 'Infinity Key' grants access to the beta build showcased in your video? We'd love to test it out.\n\nLooking forward to hearing from you.\n\nRegards,\nTeam Sharan",
+      body: `Hello Team,
+
+Thank you for the detailed outreach. Sharan came across your Instagram handle (@iamkm18) via a suggested post and spent some time analyzing the 'Sovereign' value proposition. In the finance content space, having a secure, noise-free channel for high-net-worth discussions is a massive unmet need.
+
+We are particularly interested in the 'Vault' feature you alluded to. Does this allow for compartmentalized discussions that are invisible to the wider network? That would be a deal-breaker (in a good way) for the kind of exclusive community Sharan is building.
+
+We appreciate the vision of a homegrown Indian platform taking on global privacy giants. We are ready to enroll in the Blacklist tier immediately. Please send the payment link and let us know if there is an onboarding call included.
+
+Regards,
+Team Sharan`,
       timestamp: '2026-01-19T10:30:00'
     }
   },
@@ -23,7 +42,16 @@ export const REPLY_DATA = [
     reply: {
       from: 'Siddhartha Ahluwalia <siddhartha@neon.show>',
       subject: 'Re: The Blacklist - Startup of the Year?',
-      body: "Hi Kinjal,\n\nI get pitched a lot of tools, but your video popped up on my timeline and I actually watched the whole thing. The UI I saw in the 'Inner Billionaire' clips is stellar. The way you've visualized the 'Vortex' feed is something I haven't seen since the early days of Clubhouse, but with way better tech.\n\nBig kudos for building this out of India. I'm definitely interested in enrolling for the lifetime tier. It's rare to see this level of polish in the pre-launch phase. Please share the enrollment details and the payment link.\n\nAlso, once you launch, let's connect. This might be a great story for the podcast.\n\nCheers,\nSiddhartha",
+      body: `Hi Kinjal,
+
+I must say, the YouTube algorithm knows me well. Your 'State of the Art' teaser popped up on my feed, and I actually sat through the whole thing. The UI fluidity is something I usually only see in Silicon Valley consumer social apps, not early-stage Indian startups.
+
+I'm very intrigued by the 'Digital Sovereignty' angle. With the way platforms are clamping down on reach and data ownership, a decentralized-feeling, privacy-first network is exactly where the puck is moving. I want to secure my spot on the Blacklist not just as a user, but because I want to support this kind of ambitious engineering from India.
+
+Please send me the lifetime enrollment link. Also, curious—are you planning to open this up to a wider beta later, or will it remain strictly gated? Let's chat.
+
+Cheers,
+Siddhartha`,
       timestamp: '2026-01-19T09:15:00'
     }
   },
@@ -34,7 +62,18 @@ export const REPLY_DATA = [
     reply: {
       from: 'Tanay Pratap <tanay@invact.com>',
       subject: 'Re: Abhed Blacklist / Early Access',
-      body: "Hey folks,\n\nYouTube algorithm recommended your 'State of the Art' clip to me. The design language is some serious engineering-meets-art. I love that you're not relying on standard Material UI libraries and actually built a custom identity for an Indian product.\n\nI'm ready for the enrollment. Proud to see this quality coming from our dev community. I'm definitely in for the Blacklist. Send me the payment details right now, I want to reserve my handle before the public launch.\n\nCheers,\nTanay",
+      body: `Hey folks,
+
+I saw the 'Inner Billionaire' clip on Instagram Explore. First off, huge respect for building a custom design system instead of slapping together Tailwind components. It shows you care about the craft.
+
+I've been preaching about 'owning your audience' to my students for years. If ABHED truly offers a sovereign layer where the algorithm doesn't dictate visibility, I'm all in. I'm ready to enroll in the Blacklist right now.
+
+Quick question: Does the 'Infinity Key' include API access down the line? I'd love to build some custom integrations for my community if that's on the roadmap.
+
+Send the payment details.
+
+Cheers,
+Tanay`,
       timestamp: '2026-01-18T21:45:00'
     }
   },
@@ -43,7 +82,16 @@ export const REPLY_DATA = [
     reply: {
       from: 'Akshat Shrivastava <akshat@wisdomhatch.com>',
       subject: 'Re: Investment / Access for Inner Circle',
-      body: "Hi Team,\n\nI saw the intro video on YouTube—it came up in my suggestions. The concept of 'Forensic Protection' for preventing screenshots is a game-changer for my consultation business. I've been looking for a secure channel like this for a long time.\n\nI'm interested in the Blacklist enrollment. It's great to see an Indian product competing on privacy standards globally and showing such high-quality glimpses this early. Please share the pricing for the Blacklist tier and the enrollment steps.\n\nBest,\nAkshat",
+      body: `Hi Team,
+
+Your video on YouTube regarding 'Forensic Protection' was very timely. I was just discussing with my legal team about the risks of screenshot leaks in my premium consultation groups. The current platforms are just too porous.
+
+I'm very interested in enrolling in the Blacklist, specifically to test if this can be the primary hub for my 'Inner Circle' members. The fact that it's an Indian product compliant with the new DPDP norms makes it much easier for me to recommend it to my clients.
+
+Please share the enrollment invoice. Also, do you offer any bulk access packages if I want to bring my top 10 clients onboard later?
+
+Best,
+Akshat`,
       timestamp: '2026-01-19T12:10:00'
     }
   },
@@ -52,7 +100,17 @@ export const REPLY_DATA = [
     reply: {
       from: 'Tanmay Bhat Team <spon@tanmaybhat.com>',
       subject: 'Re: The Blacklist Invite',
-      body: "Hey Abhed Team,\n\nTanmay sent us a link to your Instagram reel that showed up on his feed. He absolutely loves the 'Dystopian' vibe—it's very different from the usual corporate SaaS tools we see. He actually said it looks like 'Cyberpunk 2077 but functional'.\n\nWe are interested in the enrollment on his behalf. We are happy to support a homegrown product that prioritizes user sovereignty. Please send over the payment link so we can get him set up with a 'Blacklist' account once the enrollment is confirmed.\n\nThanks,\nSiddhi\nBrand Partnerships",
+      body: `Hey Abhed Team,
+
+Tanmay sent us a link to your Instagram reel that showed up on his feed. He's obsessed with the 'Dystopian/Cyberpunk' art direction—he said it looks like 'Blade Runner met Telegram'. It's a breath of fresh air compared to the boring corporate blues of Twitter and LinkedIn.
+
+We are definitely interested in securing a Blacklist spot for him. He wants to know if the 'Vortex' feed supports high-bitrate video uploads? He's looking for a place to drop raw, uncompressed thoughts without the YouTube compression killing the vibe.
+
+We are ready to enroll. Please send the payment link and let us know the file size limits.
+
+Thanks,
+Siddhi
+Brand Partnerships`,
       timestamp: '2026-01-18T22:30:00'
     }
   },
@@ -61,7 +119,17 @@ export const REPLY_DATA = [
     reply: {
       from: 'Raj Shamani <raj@shamani.industries>',
       subject: 'Re: Figuring this out // Access',
-      body: "Hey,\n\nI'm currently traveling but I briefly checked the YouTube link after seeing an ad. This is massive if you execute it right. The privacy narrative is going to be huge in 2026, and the visual quality you showed in the videos is top-tier.\n\nI love supporting Indian founders who think global. I'm definitely interested in the enrollment. Send the details, my team will process the payment today if we can secure a Blacklist spot.\n\nKeep crushing it.\n\nRaj.",
+      body: `Hey,
+
+I'm currently traveling in Europe, but I saw your ad on Instagram and had to stop scrolling. The branding is top-tier. You rarely see Indian founders nailing the 'premium' aesthetic this hard before launch.
+
+The privacy narrative is going to be the biggest theme of 2026. Everyone is tired of being tracked. If you can deliver on the 'Zero-Knowledge' promise, this is a unicorn in the making.
+
+I want in. My team is ready to process the Blacklist enrollment fee today. Send the details. Also, are you raising? I might be interested in more than just a membership.
+
+Keep crushing it.
+
+Raj.`,
       timestamp: '2026-01-19T08:45:00'
     }
   },
@@ -70,7 +138,16 @@ export const REPLY_DATA = [
     reply: {
       from: 'TG Team <gaurav@technicalguruji.in>',
       subject: 'Re: App Access for Review',
-      body: "Namaste Team,\n\nGaurav sir watched the video on The Inner Billionaire channel which appeared in his tech recommendations. He is quite interested in the 'Zero-Knowledge' protocol you mentioned in the email. It is a proud moment to see such advanced tech being developed in India.\n\nWe would like to request enrollment into the Blacklist tier to verify the security claims once you launch. Please share the formal invoice and the enrollment process.\n\nRegards,\nTG Management Team",
+      body: `Namaste Team,
+
+Gaurav sir watched the technical breakdown video on your YouTube channel. He was quite impressed by the mention of 'Local Key Generation' on the device itself. That is a very high standard of security, usually only found in hardware wallets.
+
+He is interested in enrolling in the Blacklist tier to personally test the encryption speed and the app's battery optimization on flagship devices. It is a proud moment to see such advanced cryptography being implemented by an Indian team.
+
+Please share the invoice for enrollment. We would like to get access as soon as the beta build is live.
+
+Regards,
+TG Management Team`,
       timestamp: '2026-01-19T11:20:00'
     }
   },
@@ -81,7 +158,13 @@ export const REPLY_DATA = [
     reply: {
       from: 'Varun Mayya <varun@avaland.io>',
       subject: 'Re: AI features? Local LLMs?',
-      body: "Dude, saw the video. The UI latency looks almost zero—how are you handling the encryption overhead? If this is running locally, that's genius.\n\nI'm definitely looking to enroll. This is the kind of innovation I expect from Bangalore. I'm 100% sold. Send the payment link, I'll pay right now. I need to see this in action as soon as the first build is ready.\n\n- V",
+      body: `Dude, saw the video. The UI latency looks almost zero—how are you handling the encryption overhead? If this is running locally on-device without lagging the UI thread, that's engineering wizardry.
+
+I'm definitely looking to enroll. I've been saying that the 'Dead Internet Theory' is killing public socials, and we need small, verified, high-trust networks. ABHED looks like the answer.
+
+I'm 100% sold. Send the payment link, I'll pay right now. I really want to poke around the architecture.
+
+- V`,
       timestamp: '2026-01-18T23:15:00'
     }
   },
@@ -90,7 +173,16 @@ export const REPLY_DATA = [
     reply: {
       from: 'Ankur Warikoo <ankur@nearbuy.com>',
       subject: 'Re: Do epic shit / Blacklist',
-      body: "Hi Kinjal,\n\nI came across the Instagram reel as a suggestion. This is bold. I like bold. The market is crowded, but a privacy-first, design-led social tool from India is a gap that needs filling.\n\nI'd be happy to enroll as an early adopter. Please sign me up for the Blacklist tier and send the invoice.\n\nBest,\nAnkur",
+      body: `Hi Kinjal,
+
+I came across the Instagram reel as a suggestion. This is bold. I like bold. The market is crowded, but a privacy-first, design-led social tool from India is a huge gap.
+
+I often talk about 'Signal vs. Noise'. It seems ABHED is built entirely for Signal. I'd be happy to enroll as an early adopter and move some of my more private conversations there.
+
+Please sign me up for the Blacklist tier and send the invoice. Is there a cap on the number of members in the initial cohort?
+
+Best,
+Ankur`,
       timestamp: '2026-01-19T09:40:00'
     }
   },
@@ -99,7 +191,13 @@ export const REPLY_DATA = [
     reply: {
       from: 'Hitesh Choudhary <hitesh@lco.dev>',
       subject: 'Re: Codebase access & Architecture',
-      body: "Hey,\n\nI checked the YouTube channel after seeing your ad. Your Supabase + Local Key architecture mention in the pitch caught my attention. I was just talking about the need for better E2EE implementation in my last stream.\n\nAlways happy to back incredible Indian engineering. I'm interested in the Blacklist enrollment. Send me the invite link, I'd love to tear down the tech stack (privately, of course) and give you feedback during the pre-launch phase.\n\n- Hitesh",
+      body: `Hey,
+
+I checked the YouTube channel after seeing your ad. Your mention of the Supabase + Local Key architecture caught my attention. I was just talking about the need for better E2EE implementation in my last stream—most apps just fake it with SSL.
+
+Always happy to back incredible Indian engineering. I'm interested in the Blacklist enrollment. Send me the invite link. Also, will you be publishing a security audit report? I'd love to read it.
+
+- Hitesh`,
       timestamp: '2026-01-19T10:05:00'
     }
   },
@@ -108,7 +206,13 @@ export const REPLY_DATA = [
     reply: {
       from: 'Samay Raina <samay@chess.com>',
       subject: 'Re: Private streams?',
-      body: "Bro, saw the video on my feed. This looks insane. Can we host private, unlisted streams on this? I need a place where I can speak freely without getting banned.\n\nI'm ready to enroll in the Blacklist. Big ups for making this in India. Take my money. Send the link.\n\nSamay",
+      body: `Bro, saw the video on my feed. This looks insane. The main thing I need is a place to host private lobbies where I can actually speak freely without getting banned or clipped out of context.
+
+Does the 'Blacklist' tier allow for unlisted voice channels? If yes, take my money. I'm ready to enroll. Big ups for making this in India.
+
+Send the link.
+
+Samay`,
       timestamp: '2026-01-18T21:10:00'
     }
   },
@@ -117,7 +221,13 @@ export const REPLY_DATA = [
     reply: {
       from: 'Srishti Garg <srishti@genz.com>',
       subject: 'Re: Collab & Early Access',
-      body: "Omg hi!! The algorithm finally blessed me with your reel. The UI is literally giving main character energy ✨. I haven't seen an Indian app look this aesthetic in forever.\n\nI'm so ready to enroll! I really need to be on this before it goes mainstream. Please send the payment link pls!\n\n- Srishti",
+      body: `Omg hi!! The algorithm finally blessed me with your reel. The UI is literally giving main character energy ✨. I haven't seen an Indian app look this aesthetic in forever—it usually looks so corporate.
+
+I'm so ready to enroll! I really need a space where I can post raw content without worrying about random trolls screenshotting it. The 'Hold-to-View' feature sounds perfect.
+
+Please send the payment link pls! I want to secure my username asap.
+
+- Srishti`,
       timestamp: '2026-01-19T12:50:00'
     }
   },
@@ -126,7 +236,15 @@ export const REPLY_DATA = [
     reply: {
       from: 'Kunal Kushwaha <kunal@civo.com>',
       subject: 'Re: Cloud Native / Latency?',
-      body: "Hey,\n\nI watched the clips after a friend sent them to me. Is this fully cloud-native? The performance in the video looked solid for a pre-launch build.\n\nI want to support high-quality dev work from India and I'm interested in the enrollment. Send the Blacklist invite, I'm ready to join.\n\n- Kunal",
+      body: `Hey,
+
+I watched the clips after a friend sent them to me. Is this fully cloud-native? The performance in the video looked solid for a pre-launch build, especially the transition animations.
+
+I want to support high-quality dev work from India and I'm interested in the enrollment. I'm curious about how you're handling the decentralized storage you hinted at—is it IPFS based or something proprietary?
+
+Send the Blacklist invite, I'm ready to join.
+
+- Kunal`,
       timestamp: '2026-01-19T10:55:00'
     }
   },
@@ -135,7 +253,15 @@ export const REPLY_DATA = [
     reply: {
       from: 'Tirth Joshi <tirth@dev.com>',
       subject: 'Re: React patterns & Performance',
-      body: "Hey,\n\nSaw the video on YouTube suggestions. That 'Vortex' animation is clean stuff. Did you use Framer Motion for that?\n\nDef want to see how you handled the React state management for the encryption. I'm interested in enrolling for the early access. Count me in.\n\n- Tirth",
+      body: `Hey,
+
+Saw the video on YouTube suggestions. That 'Vortex' animation is clean stuff. Did you use Framer Motion for that, or is it WebGL? It looks incredibly smooth.
+
+Def want to see how you handled the React state management for the encryption without blocking the main thread. I'm interested in enrolling for the early access just to check out the engineering.
+
+Count me in.
+
+- Tirth`,
       timestamp: '2026-01-18T20:40:00'
     }
   },
@@ -144,7 +270,14 @@ export const REPLY_DATA = [
     reply: {
       from: 'Apurva Singh <apurva@fintech.com>',
       subject: 'Re: Privacy Policy & DPDP Act',
-      body: "Hi Team,\n\nI reviewed the links you sent. The data sovereignty aspect is compliant with the new Digital Personal Data Protection Act, which is a huge plus for us.\n\nGlad to see an Indian firm taking compliance seriously. I'm interested in the Blacklist enrollment and would like to proceed with the next steps.\n\nRegards,\nApurva",
+      body: `Hi Team,
+
+I reviewed the links you sent. As someone who tracks the fintech regulatory space, the data sovereignty aspect is compliant with the new Digital Personal Data Protection Act, which is a huge plus. Most foreign apps are going to struggle with this.
+
+Glad to see an Indian firm taking compliance seriously from Day 1. I'm interested in the Blacklist enrollment and would like to proceed with the next steps. Do you have a privacy policy draft I can look at?
+
+Regards,
+Apurva`,
       timestamp: '2026-01-19T09:05:00'
     }
   }
