@@ -5,6 +5,7 @@ import { InfluencerCard } from './components/InfluencerCard';
 import { LiveCampaignBoard } from './components/LiveCampaignBoard';
 import { Filters } from './components/Filters';
 import { PitchGenerator } from './components/PitchGenerator';
+import { RepliedDashboard } from './components/RepliedDashboard';
 import type { Influencer } from './types';
 import { Users, Send, MailOpen, MessageSquare, X, ExternalLink, RefreshCw, Zap } from 'lucide-react';
 import { AnimatePresence, motion } from 'framer-motion';
@@ -12,6 +13,7 @@ import { AnimatePresence, motion } from 'framer-motion';
 function App() {
   const { influencers, stats, loading, filters, setFilters, options, incrementDispatched } = useInfluencers();
   const [selectedInfluencer, setSelectedInfluencer] = useState<Influencer | null>(null);
+  const [showRepliedDashboard, setShowRepliedDashboard] = useState(false);
 
   if (loading) {
     return (
@@ -45,7 +47,7 @@ function App() {
             </div>
             <div className="text-right hidden md:block">
               <p className="text-sm text-gray-400">Current Date</p>
-              <p className="font-mono text-km18-cyan">Jan 06, 2026</p>
+              <p className="font-mono text-km18-cyan">Jan 19, 2026</p>
             </div>
           </div>
 
@@ -83,6 +85,7 @@ function App() {
               icon={MessageSquare} 
               color="#FF53B2" 
               subtext="Needs Action"
+              onClick={() => setShowRepliedDashboard(true)}
             />
           </div>
 
@@ -115,6 +118,24 @@ function App() {
         </main>
       </div>
 
+      {/* Replied Dashboard Modal */}
+      <AnimatePresence>
+        {showRepliedDashboard && (
+          <RepliedDashboard 
+            influencers={influencers.filter(i => i.status === 'Replied')} 
+            onClose={() => setShowRepliedDashboard(false)}
+            onSelectInfluencer={(inf) => {
+              setSelectedInfluencer(inf);
+              // Optional: Close dashboard when selecting details, or keep it open. 
+              // For now, let's keep dashboard open underneath or close it?
+              // The original logic puts the drawer on top. If dashboard is z-50 and drawer is z-50, we need to manage z-index or close one.
+              // Let's rely on z-indexing. Drawer is z-50. Dashboard is z-50.
+              // Let's bump Drawer to z-[60].
+            }}
+          />
+        )}
+      </AnimatePresence>
+
       {/* Detail Drawer */}
       <AnimatePresence>
         {selectedInfluencer && (
@@ -124,14 +145,14 @@ function App() {
               animate={{ opacity: 1 }}
               exit={{ opacity: 0 }}
               onClick={() => setSelectedInfluencer(null)}
-              className="fixed inset-0 bg-black/60 backdrop-blur-sm z-40"
+              className="fixed inset-0 bg-black/60 backdrop-blur-sm z-[60]"
             />
             <motion.div 
               initial={{ x: '100%' }}
               animate={{ x: 0 }}
               exit={{ x: '100%' }}
               transition={{ type: 'spring', damping: 25, stiffness: 200 }}
-              className="fixed inset-y-0 right-0 w-full md:w-[500px] bg-km18-card border-l border-white/10 z-50 p-6 overflow-y-auto shadow-2xl"
+              className="fixed inset-y-0 right-0 w-full md:w-[500px] bg-km18-card border-l border-white/10 z-[70] p-6 overflow-y-auto shadow-2xl"
             >
               <button 
                 onClick={() => setSelectedInfluencer(null)}

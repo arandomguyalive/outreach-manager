@@ -7,11 +7,16 @@ interface StatsCardProps {
   icon: LucideIcon;
   color: string;
   subtext?: string;
+  onClick?: () => void;
 }
 
-export const StatsCard: React.FC<StatsCardProps> = ({ label, value, icon: Icon, color, subtext }) => {
+export const StatsCard: React.FC<StatsCardProps> = ({ label, value, icon: Icon, color, subtext, onClick }) => {
   return (
-    <div className="glass-panel p-6 rounded-xl border-l-4" style={{ borderLeftColor: color }}>
+    <div 
+      onClick={onClick}
+      className={`glass-panel p-6 rounded-xl border-l-4 transition-all ${onClick ? 'cursor-pointer hover:bg-white/5 active:scale-95' : ''}`} 
+      style={{ borderLeftColor: color }}
+    >
       <div className="flex items-center justify-between">
         <div>
           <p className="text-gray-400 text-sm font-medium uppercase tracking-wider">{label}</p>
