@@ -65,11 +65,11 @@ Executive Assistant to Siddhartha Ahluwalia`,
       subject: 'Re: Abhed Blacklist / Early Access',
       body: `Hi Kinjal,
 
-I saw the 'Inner Billionaire' clip on Instagram Explore, but thanks for sending the deep-dive Drive link. First off, huge respect for building a custom design system. It's incredibly inspiring to see a female founder from our ecosystem focusing on deep tech and system architecture rather than just another wrapper.
+I saw the 'Inner Billionaire' clip on Instagram Explore, but thanks for sending the deep-dive Drive link. First off, huge respect for building a custom design system. It's incredibly inspiring to see a female founder from our ecosystem focusing on deep tech.
 
-I've been preaching about 'owning your audience' to my students for years. If ABHED truly offers a sovereign layer where the algorithm doesn't dictate visibility—as you claimed in the walkthrough—I'm all in.
+The feature that really blew my mind in the tour was the 'Geo-Fenced Encryption'. The idea that messages and posts can be physically locked to a coordinate is a revolution. I haven't seen this implemented in any mainstream social app before. It totally changes how we can build IRL communities.
 
-Quick question: Does the 'Infinity Key' include API access down the line? I'd love to build some custom bots or integrations for my community if that's on the roadmap.
+Quick question: Does the 'Infinity Key' include API access? I'd love to experiment with these location triggers.
 
 Send the payment details. I'm ready to enroll.
 
@@ -125,7 +125,7 @@ Brand Partnerships`,
 
 Raj is currently traveling in Europe, but he forwarded your email after seeing your ad on Instagram. He was very impressed by the branding and the 'premium' aesthetic shown in the Drive video.
 
-He believes the privacy narrative will be the biggest theme of 2026 and sees potential in your 'Zero-Knowledge' promise. He asked me to inquire if there is a 'Vault' implementation for securing ultra-sensitive deals?
+What really caught his attention was the 'Geo-Fencing' capability. He mentioned that being able to drop exclusive content locked to a specific city (like London or Dubai) for his audience to 'unlock' is a revolution for creators on tour. He's never seen a feature like this executed so cleanly.
 
 We would like to process the Blacklist enrollment fee today on his behalf. Please send the details.
 
@@ -230,11 +230,11 @@ Samay`,
       subject: 'Re: Collab & Early Access',
       body: `Omg hi Kinjal!! The algorithm finally blessed me with your reel, and I just watched the App Tour you sent. The UI is literally giving main character energy ✨.
 
-I just want to say it's SO inspiring to see a female founder building something this hardcore in tech. We need more of us in this space! 💖
+I just want to say it's SO inspiring to see a female founder building something this hardcore.
 
-I'm so ready to enroll! Does it have a 'Vault' feature? Like a hidden folder for my close friends only? That wasn't in the video but I really need a space that's totally separate from my work DMs.
+But wait, the 'Geo-Fencing' feature you teased? Is that real? Being able to leave content at a specific location that my followers can only unlock if they are PHYSICALLY there? That is actually a revolution. I've never seen that before.
 
-Please send the payment link pls! I want to secure my username asap.
+I'm so ready to enroll! Please send the payment link pls!
 
 - Srishti`,
       timestamp: '2026-01-19T12:50:00'
