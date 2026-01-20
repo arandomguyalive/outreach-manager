@@ -99,7 +99,6 @@ Snax Gaming	YouTube	India	Hindi	Gaming	 @SnaxGaming		snax @8bitcreatives.in
 Total Gaming	YouTube	India	Hindi	Gaming	 @TotalGaming		ajjubhai @totalgaming.in
 Xyaa	Instagram	India	English	Gaming	 @xyaa	Micro	xyaa @gaming.com
 Aevy TV	YouTube	India	Hindi/Eng	Info/Pro	 @AevyTV		varun @aevy.tv
-Faisal Khan	YouTube	India	Hindi	Info/Pro	 @FaisalKhan		faisal @motorbeam.com
 Power Drift	YouTube	India	English	Info/Pro	 @PowerDrift		hello @powerdrift.com
 Think School	YouTube	India	English	Info/Pro	 @ThinkSchool		ganesh @thinkschool.in
 Larissa D'Sa	Instagram	India	English	Lifestyle	 @larissa_wlc	Macro	larissa @monk-e.in

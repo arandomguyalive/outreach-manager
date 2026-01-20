@@ -1,5 +1,11 @@
 # Changelog - Abhed Outreach Manager
 
+## [Phase 2.8.7 - Lead Deduplication] - 2026-01-20
+
+### Highlights
+- **Handle Conflict Resolution:** Identified and removed a duplicate entry for **Faisal Khan** in the raw leads database. The redundant entry was causing him to be counted twice in the "Replied" statistics.
+- **Cache Refresh (v2.8.7):** Forced version update to ensure the corrected count (20) is reflected across all clients.
+
 ## [Phase 2.8.6 - Humanization Update] - 2026-01-20
 
 ### Highlights
