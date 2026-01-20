@@ -28,7 +28,8 @@ export const useInfluencers = () => {
     return val > 2000 ? 458 : (val || 458);
   });
 
-  const DATA_VERSION = 'v2.8.3'; // Bump this to force data refresh
+  // Version flag to force cache invalidation on logic updates
+  const DATA_VERSION = 'v2.8.4';
 
   useEffect(() => {
     const loadData = () => {

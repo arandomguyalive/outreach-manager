@@ -335,5 +335,45 @@ Viraj
 Head of Talent, Monk-E`,
       timestamp: '2026-01-19T14:00:00'
     }
+  },
+  {
+    handle: '@FaisalKhan',
+    reply: {
+      from: 'Team MotorBeam <faisal@motorbeam.com>',
+      subject: 'Re: The "Drive" of Innovation',
+      body: `Hello Kinjal,
+
+Faisal asked me to reply to your email. He caught your reel on the "Vortex" interface and said it reminds him of the dashboard UI in high-end EVs. He loves that kind of futuristic, fluid design.
+
+He's interested in the Blacklist access primarily for his confidential discussions with auto manufacturers regarding embargoed leaks. He needs a channel that is absolutely leak-proof.
+
+Quick question: Does the app have a "Voice-Only" encrypted mode? He's often driving and can't type, but needs secure comms.
+
+We are happy to support a fellow Indian entrepreneur. Please send the invoice.
+
+Best,
+Javed
+Manager, MotorBeam`,
+      timestamp: '2026-01-19T15:30:00'
+    }
+  },
+  {
+    handle: '@SuhaniShah',
+    reply: {
+      from: 'Suhani Shah Team <team@suhanishah.com>',
+      subject: 'Re: You can\'t hack the mind... or this app?',
+      body: `Hi Kinjal,
+
+Suhani saw your "Inner Billionaire" video and loved the psychology behind it. She's always talking about how privacy is a mental state, not just a digital one.
+
+She reviewed the App Tour and is very keen on the "Self-Destruct" features. She often consults for high-profile celebrities and needs a way to ensure their sessions remain strictly confidential. If the "Forensic Protection" works as you say, it's a game-changer for her practice.
+
+She's ready to join the Blacklist. Let's get the formalities done.
+
+Cheers,
+Rishabh
+Manager to Suhani Shah`,
+      timestamp: '2026-01-19T16:15:00'
+    }
   }
 ];

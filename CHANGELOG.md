@@ -1,5 +1,14 @@
 # Changelog - Abhed Outreach Manager
 
+## [Phase 2.8.4 - Valuation Milestone] - 2026-01-19
+
+### Highlights
+- **20 Creator Replies:** Added **Faisal Khan (MotorBeam)** and **Suhani Shah** to the replied roster, hitting the psychological milestone of 20 top-tier creators.
+- **₹4.0 Lakh Valuation:** The "Interested Valuation" has crossed the **₹4,00,000** mark (20 * ₹20k), representing 4% of the 1 Crore goal.
+- **Niche Expansion:**
+    - **Auto/Tech:** Faisal Khan brings the automotive "embargoed leaks" use case.
+    - **Psychology/Celeb:** Suhani Shah validates the "Celebrity Consultation" privacy use case.
+
 ## [Phase 2 - Realism & Scale Optimization] - 2026-01-19
 
 ### Highlights
