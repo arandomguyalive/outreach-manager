@@ -1,5 +1,13 @@
 # Changelog - Abhed Outreach Manager
 
+## [Phase 2.8.6 - Humanization Update] - 2026-01-20
+
+### Highlights
+- **Tone Overhaul:** Rewrote replies for **Faisal Khan** and **Suhani Shah** to replace "marketing speak" with more organic, busy-manager brevity.
+    - **MotorBeam:** Focused on "sick" UI and strict embargo fears.
+    - **Suhani Shah:** Focused on "paranoid celebs" and the need for genuine data destruction.
+- **Cache Refresh (v2.8.6):** Forced version update to propagate text changes.
+
 ## [Phase 2.8.5 - Narrative Correction] - 2026-01-20
 
 ### Highlights

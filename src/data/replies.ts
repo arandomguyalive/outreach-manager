@@ -341,21 +341,20 @@ Head of Talent, Monk-E`,
     reply: {
       from: 'Team MotorBeam <faisal@motorbeam.com>',
       subject: 'Re: The "Drive" of Innovation',
-      body: `Hello Kinjal,
+      body: `Hey Kinjal,
 
-Faisal asked me to reply to your email. He initially saw your "Digital Sovereignty" reel, but he was really blown away by the "App Tour" video you linked.
+Faisal saw the reel about the sovereignty stuff. He usually ignores these but the private tour you sent actually looks sick.
 
-He specifically pointed out the "Vortex" interface—he said it reminds him of the dashboard UI in high-end EVs. He loves that kind of futuristic, fluid design.
+The 'Vortex' thing? He says it looks better than most car dashboards we review.
 
-He's interested in the Blacklist access primarily for his confidential discussions with auto manufacturers regarding embargoed leaks. He needs a channel that is absolutely leak-proof.
+Look, we deal with strict embargoes (car launches, etc). If a pic leaks, we're done. He wants to use this for internal leaks only.
 
-Quick question: Does the app have a "Voice-Only" encrypted mode? He's often driving and can't type, but needs secure comms.
+Can we get a voice-only mode? He drives... a lot.
 
-We are happy to support a fellow Indian entrepreneur. Please send the invoice.
+Send the bill. We're in.
 
-Best,
 Javed
-Manager, MotorBeam`,
+MotorBeam`,
       timestamp: '2026-01-19T15:30:00'
     }
   },
@@ -366,15 +365,15 @@ Manager, MotorBeam`,
       subject: 'Re: You can\'t hack the mind... or this app?',
       body: `Hi Kinjal,
 
-Suhani saw your "Inner Billionaire" video and loved the psychology behind it. She's always talking about how privacy is a mental state, not just a digital one.
+Suhani loved the 'Inner Billionaire' video. She says you 'get it'.
 
-She reviewed the App Tour and is very keen on the "Self-Destruct" features. She often consults for high-profile celebrities and needs a way to ensure their sessions remain strictly confidential. If the "Forensic Protection" works as you say, it's a game-changer for her practice.
+She watched the tour. The self-destruct feature is the main thing for us. She deals with some very paranoid celebs and needs a place where chat logs genuinely vanish. Not just 'hidden', but gone.
 
-She's ready to join the Blacklist. Let's get the formalities done.
+If the forensic protection is real, we need 2 slots.
 
-Cheers,
-Rishabh
-Manager to Suhani Shah`,
+Let me know the process.
+
+Rishabh`,
       timestamp: '2026-01-19T16:15:00'
     }
   }
