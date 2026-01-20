@@ -343,7 +343,9 @@ Head of Talent, Monk-E`,
       subject: 'Re: The "Drive" of Innovation',
       body: `Hello Kinjal,
 
-Faisal asked me to reply to your email. He caught your reel on the "Vortex" interface and said it reminds him of the dashboard UI in high-end EVs. He loves that kind of futuristic, fluid design.
+Faisal asked me to reply to your email. He initially saw your "Digital Sovereignty" reel, but he was really blown away by the "App Tour" video you linked.
+
+He specifically pointed out the "Vortex" interface—he said it reminds him of the dashboard UI in high-end EVs. He loves that kind of futuristic, fluid design.
 
 He's interested in the Blacklist access primarily for his confidential discussions with auto manufacturers regarding embargoed leaks. He needs a channel that is absolutely leak-proof.
 

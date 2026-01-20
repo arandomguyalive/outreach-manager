@@ -1,5 +1,11 @@
 # Changelog - Abhed Outreach Manager
 
+## [Phase 2.8.5 - Narrative Correction] - 2026-01-20
+
+### Highlights
+- **Context Fix:** Corrected the reply from **Faisal Khan** to accurately reflect that the "Vortex" UI was seen in the private **App Tour** video, not a public reel (which focused on "Digital Sovereignty").
+- **Cache Refresh (v2.8.5):** Pushed a new data version to ensure the corrected text appears immediately for all users.
+
 ## [Phase 2.8.4 - Valuation Milestone] - 2026-01-19
 
 ### Highlights
