@@ -30,13 +30,23 @@ export const parseRawLeads = (rawData: string): Influencer[] => {
     };
   }).filter((item): item is NonNullable<typeof item> => item !== null);
 
+  // Deduplicate by handle
+  const uniqueItemsMap = new Map<string, typeof parsedItems[0]>();
+  parsedItems.forEach(item => {
+    const key = item.handle.toLowerCase() || item.email.toLowerCase() || item.name;
+    if (!uniqueItemsMap.has(key)) {
+      uniqueItemsMap.set(key, item);
+    }
+  });
+  const uniqueItems = Array.from(uniqueItemsMap.values());
+
   // Increase target open rate to ~45% for a mature campaign
-  const targetOpenCount = Math.floor(parsedItems.length * 0.45);
+  const targetOpenCount = Math.floor(uniqueItems.length * 0.45);
 
   // Second pass: Assign statuses and history
   
   // Shuffle indices to assign "Opened" randomly
-  const indices = Array.from({ length: parsedItems.length }, (_, i) => i);
+  const indices = Array.from({ length: uniqueItems.length }, (_, i) => i);
   for (let i = indices.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [indices[i], indices[j]] = [indices[j], indices[i]];
@@ -44,7 +54,7 @@ export const parseRawLeads = (rawData: string): Influencer[] => {
 
   const openedIndices = new Set(indices.slice(0, targetOpenCount));
   
-  parsedItems.forEach((item, index) => {
+  uniqueItems.forEach((item, index) => {
     let status: Influencer['status'] = 'Sent';
     const history: Interaction[] = [];
 

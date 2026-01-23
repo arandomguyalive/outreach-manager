@@ -1,5 +1,12 @@
 # Changelog - Abhed Outreach Manager
 
+## [Phase 2.8.9 - Global Deduplication] - 2026-01-23
+
+### Highlights
+- **Engine-Level Deduplication:** Updated `parser.ts` to automatically deduplicate the entire leads database by handle/email. This ensures that even if the raw data contains redundant entries (e.g., Mumbiker Nikhil appearing multiple times), the application only processes and displays one unique record per creator.
+- **Reply Integrity:** Confirmed that the "Replied" count is strictly data-driven and non-redundant. Total unique replied creators remains **24**.
+- **Cache Refresh (v2.8.9):** Forced a data version update to purge duplicate-filled LocalStorage and apply the new unique-constraint logic.
+
 ## [Phase 2.8.8 - Entertainment Dominance] - 2026-01-23
 
 ### Highlights
