@@ -472,38 +472,40 @@ Dhruv`,
     }
   },
   {
-    handle: '@kunalb11',
+    handle: '@nikhilkamathcio',
     reply: {
-      from: 'Kunal Shah <kunal@cred.club>',
-      subject: 'Re: Status & Engineering / Abhed',
-      body: `Kinjal, 
+      from: 'Nikhil Kamath <nikhil@zerodha.com>',
+      subject: 'Re: WTFund? // The Privacy Gap',
+      body: `Hi Kinjal,
 
-The UI in the Drive video has high 'Trust' markers. Designing a local encryption engine that doesn't kill the UX is a significant engineering challenge. Most people don't realize that privacy for the 1% isn't about utility, it's about 'Status' and 'Sovereignty'. 
+I usually skim through pitch emails, but the 'App Tour' video caught my attention. I love the 'First Principles' thinking here—you aren't just building a chat app, you're building a digital bunker.
 
-The 'Vortex' interface looks like it was built for the next decade. I'm curious about the 'Infinity Key' handshake—are you using a proprietary salt?
+The 'Vortex' UI is clean, but what impressed me most is your clarity on the 'Local Key' architecture. We need more technical founders like you who understand that true privacy can't be cloud-based.
 
-Always happy to back deep-tech builders from India. Send the invite for the Blacklist.
+I don't just want the Blacklist access; I want to understand your cap table. Are you raising? If not, I'm still paying for the top tier just to support this vision.
 
-Cheers,
-Kunal`,
+Let's chat.
+
+Nikhil`,
       timestamp: '2026-01-23T11:45:00'
     }
   },
   {
-    handle: '@anupammittal.me',
+    handle: '@peyushbansal',
     reply: {
-      from: 'Anupam Mittal <invest@shaadi.com>',
-      subject: 'Re: Shark Tank style? // Blacklist Inquiry',
-      body: `Hey Kinjal,
+      from: 'Peyush Bansal <peyush@lenskart.com>',
+      subject: 'Re: Vision & Purpose',
+      body: `Kinjal,
 
-Saw the reel and then the private tour. The product looks incredibly sleek. In a world where 'free' apps are selling our souls to advertisers, a paid, ultra-premium 'Blacklist' tier is a very solid pivot. 
+I watched the video you shared. The 'Forensic Protection' feature is brilliant because it solves a fundamental human problem: Trust.
 
-The 'Forensic Protection' you showed in the video—that’s the 'Shark' feature right there. It solves a massive pain point for high-net-worth individuals who are tired of being clipped out of context.
+I see a lot of founders, but very few have the 'Obsession' with customer experience that I see in this UI. The way you've handled the encryption handshake without making it complicated for the user is world-class. You are solving a global problem from India, and that is exactly what I back.
 
-Is the 'Abhed' ecosystem ready for a global rollout, or are you staying focused on the Indian market first? Either way, I’m in. Send the payment link.
+I am definitely interested in the Blacklist. Also, if you are open to it, I'd like to discuss how we can scale this. Consider me an investor in the vision.
 
-Best,
-Anupam`,
+Send the details.
+
+Peyush`,
       timestamp: '2026-01-23T13:20:00'
     }
   }

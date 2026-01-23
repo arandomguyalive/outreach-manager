@@ -1,5 +1,15 @@
 # Changelog - Abhed Outreach Manager
 
+## [Phase 2.8.13 - Investor Interest] - 2026-01-23
+
+### Highlights
+- **Titan Roster Update:** Replaced **Kunal Shah** and **Anupam Mittal** with **Nikhil Kamath (Zerodha)** and **Peyush Bansal (Lenskart)** to better align with the "Deep Tech" and "Customer Obsession" narratives.
+- **Investment Signals:**
+    - **Nikhil Kamath:** Praised the "First Principles" architecture and explicitly asked about the cap table ("Are you raising?").
+    - **Peyush Bansal:** Commended the "Obsession" with privacy and offered to discuss scaling/investing.
+- **Narrative Consistency:** Maintained **Dhruv Rathee** for the "Anti-Overreach" validation.
+- **Cache Refresh (v2.8.13):** Forced data version update.
+
 ## [Phase 2.8.12 - Titan Tier Expansion] - 2026-01-23
 
 ### Highlights
