@@ -1,5 +1,15 @@
 # Changelog - Abhed Outreach Manager
 
+## [Phase 2.8.10 - Narrative Depth Expansion] - 2026-01-23
+
+### Highlights
+- **Realistic Reply Overhaul:** Significantly expanded the reply text for the 4 new entertainment creators (**CarryMinati, Mumbiker Nikhil, Bhuvan Bam, Ashish Chanchlani**) to better reflect their unique personalities and use cases.
+    - **CarryMinati:** Focused on "Stream Sniping", Discord leaks, and "Cyberpunk" aesthetics.
+    - **Mumbiker Nikhil:** Emphasized "Crowd Control" at meetups and family privacy (Sky).
+    - **Bhuvan Bam:** Highlighted "Production Leaks", scripts, and "Premium" feel.
+    - **Ashish Chanchlani:** Added "Marvel/Jarvis" references and "War Room" brainstorming needs.
+- **Cache Refresh (v2.8.10):** Forced data update to propagate new text.
+
 ## [Phase 2.8.9 - Global Deduplication] - 2026-01-23
 
 ### Highlights

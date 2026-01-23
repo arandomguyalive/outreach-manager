@@ -384,15 +384,15 @@ Rishabh`,
       subject: 'Re: Streaming & Privacy',
       body: `Yo Kinjal,
 
-Ajey (Carry) saw the email. He's paranoid about IP leaks during streams. If this 'Vortex' thing can actually mask location data on a hardware level, he's interested.
+Deepak showed me the mail. I usually skip this startup stuff, but the 'Anti-Stream Sniping' angle caught my eye. We've had major issues with IP leaks on Discord lately.
 
-Does it run on PC/Web too or just mobile? We need a secure line for the gaming group that doesn't get leaked.
+I watched the App Tour. The 'Vortex' UI is actually sick—looks like something out of Cyberpunk 2077. If this thing can actually mask my location on a hardware level while I'm live, that's a game changer.
 
-Send the bill. We're in.
+One question: Does the 'Blacklist' tier have a dedicated server for voice comms? I need a secure line for the boys that doesn't get clipped or leaked to Reddit.
 
-Regards,
-Deepak
-Manager, CarryMinati`,
+If the tech is legit, I'm in. Send the invoice.
+
+Ajey`,
       timestamp: '2026-01-19T17:00:00'
     }
   },
@@ -403,14 +403,14 @@ Manager, CarryMinati`,
       subject: 'Re: Vlogging & Geofencing',
       body: `Hi Kinjal,
 
-Nikhil bhai saw the App Tour. The 'Geo-Fencing' feature is crazy—he wants to know if he can post updates that only unlock for fans who are literally *at* the meet-up spot? That would solve so many crowd control issues.
+Nikhil bhai asked me to reply personally. He's currently on a ride but he watched the Drive video during the halt. He's really impressed by the 'Geo-Fencing' feature.
 
-Also, the 'Vault' feature for keeping family photos completely offline but accessible is exactly what he needs right now.
+His main concern right now is crowd management at meetups. If he can drop a location pin that *only* unlocks for fans who are physically present within 10 meters, that solves a huge security headache for us. He also loves the 'Vault' idea—he needs a completely offline space to store family photos of Sky without them syncing to the cloud.
 
-He's in. Send the details.
+We are ready to enroll. Please send the payment details for the lifetime access.
 
 Best,
-Shanice`,
+Shanice Shrestha`,
       timestamp: '2026-01-19T18:30:00'
     }
   },
@@ -421,11 +421,13 @@ Shanice`,
       subject: 'Re: The Blacklist // Script Security',
       body: `Kinjal,
 
-Big fan of the aesthetic. I watched the tour video. I often share raw scripts and rough cuts with my editor, and leaks are a nightmare.
+Rohit forwarded this to me. I checked the tour video—the aesthetic is top-tier. It feels very 'premium', which is rare.
 
-The 'Forensic Protection' you showed—does it prevent screen recording on iPads too? If yes, I need two accounts. One for me, one for my manager.
+My biggest headache is script security. We share raw drafts and edits for BB Ki Vines productions, and WhatsApp is just not cutting it anymore. The 'Forensic Protection' you showed—does that prevent screen recording on iPads too? I need a loop where nothing leaves the room.
 
-Let's do this.
+Also, does the 'Blacklist' allow for multiple profiles? I might need to segregate my production comms from personal chats.
+
+Let's make this happen.
 
 - BB`,
       timestamp: '2026-01-19T19:15:00'
@@ -438,14 +440,16 @@ Let's do this.
       subject: 'Re: Avengers level threat?',
       body: `Hey Kinjal!
 
-Ashish loved the 'Cyberpunk' look. He said it looks like something Tony Stark would build.
+Just saw the video you sent. Bhai, yeh UI kya hai?! It looks like Jarvis had a baby with Telegram. I'm obsessed with the neon/dark mode vibe.
 
-We are interested in the Blacklist tier. Primarily for the 'Vault' feature—he needs a place to brainstorm ideas without them ending up on Twitter before the video is out.
+I'm 100% interested in the 'Vault'. I have so many skit ideas and rough cuts that I'm terrified will leak before the upload. If this app guarantees that data *cannot* leave the device, I need it yesterday.
 
-Please share the payment link.
+One question: Can I create a shared 'War Room' with my writers that self-destructs after the video is live? That would be perfect for our brainstorming sessions.
 
-Thanks,
-Khushi`,
+Send the payment link. Take my money!
+
+Regards,
+Ashish Chanchlani`,
       timestamp: '2026-01-19T19:45:00'
     }
   }
