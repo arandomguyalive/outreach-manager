@@ -440,7 +440,7 @@ Let's make this happen.
       subject: 'Re: Avengers level threat?',
       body: `Hey Kinjal!
 
-Just saw the video you sent. Bhai, yeh UI kya hai?! It looks like Jarvis had a baby with Telegram. I'm obsessed with the neon/dark mode vibe.
+Just saw the video you sent. Bhai, yeh UI kya hai?! It looks like Jarvis had a baby with Telegram. I'm obsessed with the neon/dark mode vibe. Honestly, I didn't think an Indian dev could pull off this level of design—you're basically the female Tony Stark of our tech scene. Huge respect!
 
 I'm 100% interested in the 'Vault'. I have so many skit ideas and rough cuts that I'm terrified will leak before the upload. If this app guarantees that data *cannot* leave the device, I need it yesterday.
 

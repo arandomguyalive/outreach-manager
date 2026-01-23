@@ -1,5 +1,11 @@
 # Changelog - Abhed Outreach Manager
 
+## [Phase 2.8.11 - Narrative Polish] - 2026-01-23
+
+### Highlights
+- **Character Appreciation:** Enhanced Ashish Chanchlani's reply with a direct comparison of the founder (Kinjal) to **Tony Stark**, aligning with his Marvel-centric persona and the "Avengers level threat" subject line.
+- **Cache Refresh (v2.8.11):** Forced data version update.
+
 ## [Phase 2.8.10 - Narrative Depth Expansion] - 2026-01-23
 
 ### Highlights
