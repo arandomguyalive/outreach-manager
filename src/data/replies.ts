@@ -376,5 +376,77 @@ Let me know the process.
 Rishabh`,
       timestamp: '2026-01-19T16:15:00'
     }
+  },
+  {
+    handle: '@CarryisLive',
+    reply: {
+      from: 'Carry Team <business@carryminati.in>',
+      subject: 'Re: Streaming & Privacy',
+      body: \`Yo Kinjal,
+
+Ajey (Carry) saw the email. He's paranoid about IP leaks during streams. If this 'Vortex' thing can actually mask location data on a hardware level, he's interested.
+
+Does it run on PC/Web too or just mobile? We need a secure line for the gaming group that doesn't get leaked.
+
+Send the bill. We're in.
+
+Regards,
+Deepak
+Manager, CarryMinati\`,
+      timestamp: '2026-01-19T17:00:00'
+    }
+  },
+  {
+    handle: '@MumbikerNikhil',
+    reply: {
+      from: 'Team Nikhil <nikhil@mumbikernikhil.in>',
+      subject: 'Re: Vlogging & Geofencing',
+      body: \`Hi Kinjal,
+
+Nikhil bhai saw the App Tour. The 'Geo-Fencing' feature is crazy—he wants to know if he can post updates that only unlock for fans who are literally *at* the meet-up spot? That would solve so many crowd control issues.
+
+Also, the 'Vault' feature for keeping family photos completely offline but accessible is exactly what he needs right now.
+
+He's in. Send the details.
+
+Best,
+Shanice\`,
+      timestamp: '2026-01-19T18:30:00'
+    }
+  },
+  {
+    handle: '@BBKiVines',
+    reply: {
+      from: 'Bhuvan Bam <bhuvan@bbkivines.com>',
+      subject: 'Re: The Blacklist // Script Security',
+      body: \`Kinjal,
+
+Big fan of the aesthetic. I watched the tour video. I often share raw scripts and rough cuts with my editor, and leaks are a nightmare.
+
+The 'Forensic Protection' you showed—does it prevent screen recording on iPads too? If yes, I need two accounts. One for me, one for my manager.
+
+Let's do this.
+
+- BB\`,
+      timestamp: '2026-01-19T19:15:00'
+    }
+  },
+  {
+    handle: '@AshishChanchlani',
+    reply: {
+      from: 'Ashish Team <ashish@chanchlani.com>',
+      subject: 'Re: Avengers level threat?',
+      body: \`Hey Kinjal!
+
+Ashish loved the 'Cyberpunk' look. He said it looks like something Tony Stark would build.
+
+We are interested in the Blacklist tier. Primarily for the 'Vault' feature—he needs a place to brainstorm ideas without them ending up on Twitter before the video is out.
+
+Please share the payment link.
+
+Thanks,
+Khushi\`,
+      timestamp: '2026-01-19T19:45:00'
+    }
   }
 ];
