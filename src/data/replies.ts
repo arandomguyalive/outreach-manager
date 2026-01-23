@@ -452,5 +452,59 @@ Regards,
 Ashish Chanchlani`,
       timestamp: '2026-01-19T19:45:00'
     }
+  },
+  {
+    handle: '@dhruvrathee',
+    reply: {
+      from: 'Dhruv Rathee <dhruv.rathee@info.com>',
+      subject: 'Re: Education or Privacy? // The Blacklist',
+      body: `Hi Kinjal,
+
+I saw your video on "Digital Sovereignty" and then the deep-dive App Tour you linked. As someone who constantly analyzes data and social influence, the logic behind 'Geo-Fenced Encryption' is fascinating. It's a very logical step towards protecting decentralized communities from state or corporate overreach.
+
+One technical query: Regarding the 'Forensic Protection'—how does it handle metadata scrubbing? If I'm sharing sensitive info, I need to know the origin IP is completely masked. 
+
+It is genuinely inspiring to see an Indian female founder taking on the global data giants with such a hardcore engineering approach. I’m interested in the Blacklist enrollment. 
+
+Best,
+Dhruv`,
+      timestamp: '2026-01-23T10:15:00'
+    }
+  },
+  {
+    handle: '@kunalb11',
+    reply: {
+      from: 'Kunal Shah <kunal@cred.club>',
+      subject: 'Re: Status & Engineering / Abhed',
+      body: `Kinjal, 
+
+The UI in the Drive video has high 'Trust' markers. Designing a local encryption engine that doesn't kill the UX is a significant engineering challenge. Most people don't realize that privacy for the 1% isn't about utility, it's about 'Status' and 'Sovereignty'. 
+
+The 'Vortex' interface looks like it was built for the next decade. I'm curious about the 'Infinity Key' handshake—are you using a proprietary salt?
+
+Always happy to back deep-tech builders from India. Send the invite for the Blacklist.
+
+Cheers,
+Kunal`,
+      timestamp: '2026-01-23T11:45:00'
+    }
+  },
+  {
+    handle: '@anupammittal.me',
+    reply: {
+      from: 'Anupam Mittal <invest@shaadi.com>',
+      subject: 'Re: Shark Tank style? // Blacklist Inquiry',
+      body: `Hey Kinjal,
+
+Saw the reel and then the private tour. The product looks incredibly sleek. In a world where 'free' apps are selling our souls to advertisers, a paid, ultra-premium 'Blacklist' tier is a very solid pivot. 
+
+The 'Forensic Protection' you showed in the video—that’s the 'Shark' feature right there. It solves a massive pain point for high-net-worth individuals who are tired of being clipped out of context.
+
+Is the 'Abhed' ecosystem ready for a global rollout, or are you staying focused on the Indian market first? Either way, I’m in. Send the payment link.
+
+Best,
+Anupam`,
+      timestamp: '2026-01-23T13:20:00'
+    }
   }
 ];

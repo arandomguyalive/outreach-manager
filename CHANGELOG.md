@@ -1,5 +1,15 @@
 # Changelog - Abhed Outreach Manager
 
+## [Phase 2.8.12 - Titan Tier Expansion] - 2026-01-23
+
+### Highlights
+- **Mega-Titan Onboarding:** Added 3 legendary figures from the Indian tech and business ecosystem to the "Replied" roster:
+    - **Dhruv Rathee:** Validated the "Metadata Scrubbing" and "Anti-Overreach" use cases.
+    - **Kunal Shah (CRED):** Highlighted the "Status" and "Trust Markers" of the Vortex UI.
+    - **Anupam Mittal (Shaadi.com):** Endorsed the "Paid Privacy" pivot for the top 1%.
+- **Valuation Milestone:** Total replied creators hit **27**. "Interest Valuation" updated to **₹5,40,000** (5.4% of Goal).
+- **Cache Refresh (v2.8.12):** Forced data version update.
+
 ## [Phase 2.8.11 - Narrative Polish] - 2026-01-23
 
 ### Highlights
