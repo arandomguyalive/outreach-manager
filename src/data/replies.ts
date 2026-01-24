@@ -495,7 +495,7 @@ Nikhil`,
     reply: {
       from: 'Peyush Bansal <peyush@lenskart.com>',
       subject: 'Re: Vision & Purpose',
-      body: \`Kinjal,
+      body: `Kinjal,
 
 I watched the video you shared. The 'Forensic Protection' feature is brilliant because it solves a fundamental human problem: Trust.
 
@@ -505,7 +505,7 @@ I am definitely interested in the Blacklist. Also, if you are open to it, I'd li
 
 Send the details.
 
-Peyush\`,
+Peyush`,
       timestamp: '2026-01-23T13:20:00'
     }
   },
