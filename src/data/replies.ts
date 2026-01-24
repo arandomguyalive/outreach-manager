@@ -639,9 +639,9 @@ I have seen your 'App Tour'.
 
 When I built Telegram, the goal was to give people back their freedom. But you have taken it a step further with the 'Local Key' architecture. Eliminating the server relay entirely for the handshake is bold.
 
-I like the 'Vortex' UI. It feels fluid, like liquid.
+I like the 'Vortex' UI. It feels fluid, like liquid. 
 
-We should talk. I am always looking for founders who understand that privacy is the only way forward.
+I am interested in more than just the Blacklist. We should discuss whether Abhed should remain independent or if we should be working together as one team. A technology this sovereign deserves a global stage. Let's talk about the future—and perhaps an acquisition.
 
 Pavel`,
       timestamp: '2026-01-24T10:15:00'
@@ -677,7 +677,7 @@ I normally don't respond to external inquiries, but your 'App Tour' circulated a
 
 The way you are leveraging the Neural Engine (NPU) for real-time decryption without impacting the UI frame rate is impressive work. We constantly talk about "Privacy is a fundamental human right," and seeing a sovereign implementation like this is validating.
 
-I'd be interested to know if you are using Metal for the 'Vortex' rendering layer.
+I'd be interested to know if you are using Metal for the 'Vortex' rendering layer. The uncompromising focus on both the 'how' (engineering) and the 'why' (design/privacy) reminds me of the early days here with Steve. Your vision for Abhed carries that same Jobsian spirit—building something so right that it feels inevitable.
 
 I'd like to personally test the build. Please enroll me in the early access.
 

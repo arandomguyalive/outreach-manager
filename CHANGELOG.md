@@ -1,5 +1,13 @@
 # Changelog - Abhed Outreach Manager
 
+## [Phase 2.8.18 - Narrative Refinement: The Titans] - 2026-01-24
+
+### Highlights
+- **Titan Narrative Polish:** Enhanced the replies from global icons to raise the stakes of the project:
+    - **Pavel Durov:** Added a high-stakes inquiry about **acquisition** and "working together as one team," positioning Abhed as a potential successor or strategic partner to Telegram's mission.
+    - **Craig Federighi:** Introduced a direct comparison to **Steve Jobs**, validating the "uncompromising vision" and "inevitable" nature of the design and privacy model.
+- **Cache Refresh (v2.8.18):** Forced data version update to apply narrative changes.
+
 ## [Phase 2.8.17 - Global Sovereignty & Hardware Validation] - 2026-01-24
 
 ### Highlights
