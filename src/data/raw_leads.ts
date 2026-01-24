@@ -48,6 +48,9 @@ Pratik Gandhi	LinkedIn	India	English	Pro	 @pratikgandhi	Mid	pratik.gandhi @pro.c
 Vani Gupta	LinkedIn	India	English	Pro	 @vanigupta	Mid	vani.gupta @pro.com
 Abhishek Kar	LinkedIn	India	English	Pro	 @abhishekkar	Mid	abhishek.kar @pro.com
 Aman Sharma	LinkedIn	India	English	Prod/Des	 @amansharma	Micro	aman.sharma @prod.com
+Pavel Durov	Telegram	UAE	English	Tech/Founder	 @durov	Mega	pavel @telegram.org
+Aman Gupta	Instagram	India	English	D2C/Brand	 @boatxaman	Mega	aman @boat.com
+Craig Federighi	Apple	USA	English	Tech/SVP	 @craig_apple	Mega	craig @apple.com
 Raj Shamani	YouTube	India	Hindi	Product	 @RajShamani	Mega	raj.shamani @prod.com
 Neha Bhasin	LinkedIn	India	English	Pro/Int	 @nehabhasin	Micro	neha.bhasin @pro.com
 Harsh Gagrani	YouTube	India	English	Pro/Law	 @HarshGagrani	Macro	harsh.gagrani @law.com

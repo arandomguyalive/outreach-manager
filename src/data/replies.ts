@@ -627,5 +627,63 @@ Simran
 Team Sandeep Maheshwari`,
       timestamp: '2026-01-23T20:30:00'
     }
+  },
+  {
+    handle: '@durov',
+    reply: {
+      from: 'Pavel Durov <pavel@telegram.org>',
+      subject: 'Re: True Sovereignty',
+      body: `Kinjal,
+
+I have seen your 'App Tour'.
+
+When I built Telegram, the goal was to give people back their freedom. But you have taken it a step further with the 'Local Key' architecture. Eliminating the server relay entirely for the handshake is bold.
+
+I like the 'Vortex' UI. It feels fluid, like liquid.
+
+We should talk. I am always looking for founders who understand that privacy is the only way forward.
+
+Pavel`,
+      timestamp: '2026-01-24T10:15:00'
+    }
+  },
+  {
+    handle: '@boatxaman',
+    reply: {
+      from: 'Aman Gupta <aman@boat-lifestyle.com>',
+      subject: 'Re: This is dope // Branding',
+      body: `Hi Kinjal,
+
+My team showed me the 'Inner Billionaire' reel. The branding is sick. Honestly, most tech products from India look boring, but this has that premium "Apple meets Cyberpunk" vibe.
+
+I love the 'haptic' detail you mentioned in the tour video. We obsess over that stuff at boAt.
+
+I'm interested in the Blacklist. Also, purely hypothetical—could we bundle a 'Vortex' access key with our limited edition premium audio gear? Think about it.
+
+Send the invoice. I'm in.
+
+Aman`,
+      timestamp: '2026-01-24T12:30:00'
+    }
+  },
+  {
+    handle: '@craig_apple',
+    reply: {
+      from: 'Craig Federighi <craig@apple.com>',
+      subject: 'Re: On-Device Compute & NPU Usage',
+      body: `Hi Kinjal,
+
+I normally don't respond to external inquiries, but your 'App Tour' circulated among a few of us here in Cupertino.
+
+The way you are leveraging the Neural Engine (NPU) for real-time decryption without impacting the UI frame rate is impressive work. We constantly talk about "Privacy is a fundamental human right," and seeing a sovereign implementation like this is validating.
+
+I'd be interested to know if you are using Metal for the 'Vortex' rendering layer.
+
+I'd like to personally test the build. Please enroll me in the early access.
+
+Best,
+Craig`,
+      timestamp: '2026-01-24T14:45:00'
+    }
   }
 ];

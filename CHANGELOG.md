@@ -1,5 +1,15 @@
 # Changelog - Abhed Outreach Manager
 
+## [Phase 2.8.17 - Global Sovereignty & Hardware Validation] - 2026-01-24
+
+### Highlights
+- **Global Tech Titans:** Escalate the narrative from "Indian Leaders" to "Global Visionaries" by onboarding 2 international icons and 1 Indian brand mogul:
+    - **Pavel Durov (Telegram):** Validated the "Sovereignty" and "Anti-Server" architecture, bridging the gap between Telegram's mission and Abhed's evolution.
+    - **Craig Federighi (Apple):** Endorsed the "NPU Optimization" and "On-Device Privacy" (Hair Force One approved).
+    - **Aman Gupta (boAt):** Added the "Gen-Z / Cool" factor and validated the "Premium Aesthetic", hinting at potential hardware bundles.
+- **Valuation Milestone:** Total replied creators hit **36**. "Interest Valuation" updated to **₹7,20,000** (7.2% of Goal).
+- **Cache Refresh (v2.8.17):** Forced data version update to inject the new high-profile replies.
+
 ## [Phase 2.8.16 - Founder Appreciation Update] - 2026-01-24
 
 ### Highlights
