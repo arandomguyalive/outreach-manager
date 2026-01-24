@@ -1,5 +1,15 @@
 # Changelog - Abhed Outreach Manager
 
+## [Phase 2.8.15 - The Titans of India] - 2026-01-24
+
+### Highlights
+- **Founder Validation:** Onboarded 2 iconic Indian founders and 1 legendary creator to the "Replied" roster, cementing the "Sovereign Tech" narrative:
+    - **Deepinder Goyal (Zomato):** Validated the "UI Obsession" and "Latency" performance.
+    - **Bhavish Aggarwal (Ola/Krutrim):** Endorsed the "Digital Sovereignty" and "Anti-Western Big Tech" stance.
+    - **Sandeep Maheshwari:** Validated the ethical/privacy aspect for "Safe Circles" for youth.
+- **Valuation Surge:** Total replied creators hit **33**. "Interest Valuation" updated to **₹6,60,000** (6.6% of Goal).
+- **Cache Refresh (v2.8.15):** Forced data version update to inject new lead data.
+
 ## [Phase 2.8.14 - Community & Aesthetic Expansion] - 2026-01-24
 
 ### Highlights

@@ -514,7 +514,7 @@ Peyush\`,
     reply: {
       from: 'Harkirat Singh <harkirat@class.com>',
       subject: 'Re: Cohort Security / Scalability',
-      body: \`Hey Kinjal,
+      body: `Hey Kinjal,
 
 I checked the architecture breakdown in the Drive video. The 'Local Key' implementation is solid. I've been looking for a platform that can handle secure comms for my premium cohorts without relying on Discord's shaky privacy policy.
 
@@ -524,7 +524,7 @@ I want to test this out. If it holds up, I might move my entire inner circle her
 
 Send the Blacklist invite.
 
-- Harkirat\`,
+- Harkirat`,
       timestamp: '2026-01-23T14:45:00'
     }
   },
@@ -533,7 +533,7 @@ Send the Blacklist invite.
     reply: {
       from: 'Striver (Raj) <striver@takeuforward.org>',
       subject: 'Re: DSA Sheets / Leak Prevention',
-      body: \`Hi Kinjal,
+      body: `Hi Kinjal,
 
 Saw the reel and the tech deep-dive. Impressive work on the memory management for the 'Vortex' UI—it's rare to see that level of optimization in a React Native (or is it Capacitor?) wrapper.
 
@@ -542,7 +542,7 @@ I'm interested in the 'Forensic Protection'. I share premium DSA problem sets wi
 I'm ready to enroll in the Blacklist to verify the security myself.
 
 Cheers,
-Raj (Striver)\`,
+Raj (Striver)`,
       timestamp: '2026-01-23T15:30:00'
     }
   },
@@ -551,7 +551,7 @@ Raj (Striver)\`,
     reply: {
       from: 'Team Komal <manage@komalpandey.com>',
       subject: 'Re: Aesthetic & Exclusivity',
-      body: \`Hi Kinjal,
+      body: `Hi Kinjal,
 
 Komal absolutely loved the visual direction of the app in the video you sent. She said the 'Vortex' interface is the first time a tech product has looked "fashion-editorial" ready.
 
@@ -563,8 +563,69 @@ Please share the payment link.
 
 Best,
 Siddharth
-Manager\`,
+Manager`,
       timestamp: '2026-01-23T16:15:00'
+    }
+  },
+  {
+    handle: '@deepigoyal',
+    reply: {
+      from: 'Deepinder Goyal <deepinder@zomato.com>',
+      subject: 'Re: Design Language & Speed',
+      body: `Kinjal,
+
+I saw the 'App Tour' video. I usually don't reply to cold mails, but the attention to detail in your UI is rare. The haptic feedback logic you described for the 'Vortex' unlock... that's the kind of obsession we look for.
+
+I noticed a slight misalignment in the footer during the encryption demo (maybe 2px?), but the architecture seems solid.
+
+I want to test the latency myself. If this is truly peer-to-peer with no server relay, it solves a logistics communication problem for me.
+
+Send me the access.
+
+Deepinder`,
+      timestamp: '2026-01-23T17:10:00'
+    }
+  },
+  {
+    handle: '@bhash',
+    reply: {
+      from: 'Bhavish Aggarwal <bhavish@olacabs.com>',
+      subject: 'Re: Indian Cloud & Sovereignty',
+      body: `Hi Kinjal,
+
+My team forwarded your email. I watched the 'Digital Sovereignty' video. You are speaking my language. We need to break the shackles of Western big tech.
+
+Your 'Local Key' approach is exactly how we should be building for India. No data leaving the device = true independence.
+
+I'm interested in how this integrates with local map data. Are you using Google Maps or an open alternative? I might have something for you there.
+
+I'm in for the Blacklist. Let's build for Bharat.
+
+Bhavish`,
+      timestamp: '2026-01-23T18:45:00'
+    }
+  },
+  {
+    handle: '@SandeepSeminars',
+    reply: {
+      from: 'Sandeep Maheshwari Team <connect@sandeepmaheshwari.com>',
+      subject: 'Re: The Mission > The Money',
+      body: `Dear Kinjal,
+
+Sandeep Sir watched your video personally. He was moved by your statement: "Privacy is not a luxury, it's a right."
+
+He receives thousands of partnership offers, but he rejects them all because they are usually about extracting data or money from students. Your platform seems different. It seems to be about *protecting* them.
+
+He wants to use this to create a "Safe Circle" for students dealing with depression, where they can speak without fear of their chats being leaked or tracked.
+
+If your purpose is true, he will support this. No charge.
+
+Please let us know the next steps.
+
+Regards,
+Simran
+Team Sandeep Maheshwari`,
+      timestamp: '2026-01-23T20:30:00'
     }
   }
 ];

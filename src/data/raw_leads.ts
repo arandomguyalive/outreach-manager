@@ -995,4 +995,7 @@ Sole Brothers	YouTube	USA	English	Sneakers/App	 @SoleBrothers	Macro	solebrothers
 Foamer Simpson	YouTube	USA	English	Sneakers/Content	 @FoamerSimpson	Macro	foamie @gmail.com
 BullsLab	YouTube	Korea	Korean/Eng	Sneakers/Analysis	 @BullsLab	Macro	bullslab @gmail.com
 Nachiket Samant	Instagram	India	English	Fashion/Reel	 @nachiketsamant	Mid	nachiket @monk-e.in
-Apurva Motiwale	Instagram	India	English	Fashion/Budget	 @apurvamotiwale	Mid	apurva @style.com`;
+Xyaa	Instagram	India	English	Gaming	 @xyaa	Micro	xyaa @gaming.com
+Deepinder Goyal	Twitter	India	English	Founder/Tech	 @deepigoyal	Mega	deepinder @zomato.com
+Bhavish Aggarwal	Twitter	India	English	Founder/Tech	 @bhash	Mega	bhavish @olacabs.com
+Sandeep Maheshwari	YouTube	India	Hindi	Ed/Life	 @SandeepSeminars	Mega	connect @sandeep.com`;
