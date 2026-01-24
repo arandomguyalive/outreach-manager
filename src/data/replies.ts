@@ -576,7 +576,7 @@ Manager`,
 
 I saw the 'App Tour' video. I usually don't reply to cold mails, but the attention to detail in your UI is rare. The haptic feedback logic you described for the 'Vortex' unlock... that's the kind of obsession we look for.
 
-I noticed a slight misalignment in the footer during the encryption demo (maybe 2px?), but the architecture seems solid.
+It is genuinely refreshing to see a female founder leading such a hardcore engineering project. We need more innovators like you who aren't afraid to build deep tech from India.
 
 I want to test the latency myself. If this is truly peer-to-peer with no server relay, it solves a logistics communication problem for me.
 
