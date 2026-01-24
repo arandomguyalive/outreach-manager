@@ -495,7 +495,7 @@ Nikhil`,
     reply: {
       from: 'Peyush Bansal <peyush@lenskart.com>',
       subject: 'Re: Vision & Purpose',
-      body: `Kinjal,
+      body: \`Kinjal,
 
 I watched the video you shared. The 'Forensic Protection' feature is brilliant because it solves a fundamental human problem: Trust.
 
@@ -505,8 +505,66 @@ I am definitely interested in the Blacklist. Also, if you are open to it, I'd li
 
 Send the details.
 
-Peyush`,
+Peyush\`,
       timestamp: '2026-01-23T13:20:00'
+    }
+  },
+  {
+    handle: '@HarkiratSingh',
+    reply: {
+      from: 'Harkirat Singh <harkirat@class.com>',
+      subject: 'Re: Cohort Security / Scalability',
+      body: \`Hey Kinjal,
+
+I checked the architecture breakdown in the Drive video. The 'Local Key' implementation is solid. I've been looking for a platform that can handle secure comms for my premium cohorts without relying on Discord's shaky privacy policy.
+
+My main question is about scale: How does the mesh network handle 10k+ concurrent users in a single 'Geo-Fenced' zone? If I host an IRL meetup in Bangalore, will the handshake latency spike?
+
+I want to test this out. If it holds up, I might move my entire inner circle here.
+
+Send the Blacklist invite.
+
+- Harkirat\`,
+      timestamp: '2026-01-23T14:45:00'
+    }
+  },
+  {
+    handle: '@takeUforward',
+    reply: {
+      from: 'Striver (Raj) <striver@takeuforward.org>',
+      subject: 'Re: DSA Sheets / Leak Prevention',
+      body: \`Hi Kinjal,
+
+Saw the reel and the tech deep-dive. Impressive work on the memory management for the 'Vortex' UI—it's rare to see that level of optimization in a React Native (or is it Capacitor?) wrapper.
+
+I'm interested in the 'Forensic Protection'. I share premium DSA problem sets with my top students, and leaks are a constant headache. If I set a TTL (Time To Live) on a PDF, does it actually wipe from the device RAM after viewing?
+
+I'm ready to enroll in the Blacklist to verify the security myself.
+
+Cheers,
+Raj (Striver)\`,
+      timestamp: '2026-01-23T15:30:00'
+    }
+  },
+  {
+    handle: '@komalpandey',
+    reply: {
+      from: 'Team Komal <manage@komalpandey.com>',
+      subject: 'Re: Aesthetic & Exclusivity',
+      body: \`Hi Kinjal,
+
+Komal absolutely loved the visual direction of the app in the video you sent. She said the 'Vortex' interface is the first time a tech product has looked "fashion-editorial" ready.
+
+We have a specific use case: Unreleased shoot previews. We often share mood boards and raw edits with stylists, and we've had issues with screenshots leaking before the official drop. Does the 'Vault' feature prevent screen recording on iPhones specifically?
+
+If yes, we need this immediately for her production workflow.
+
+Please share the payment link.
+
+Best,
+Siddharth
+Manager\`,
+      timestamp: '2026-01-23T16:15:00'
     }
   }
 ];

@@ -1,5 +1,15 @@
 # Changelog - Abhed Outreach Manager
 
+## [Phase 2.8.14 - Community & Aesthetic Expansion] - 2026-01-24
+
+### Highlights
+- **Creator Expansion:** Onboarded 3 distinct archetypes to the "Replied" roster, broadening the validation spectrum:
+    - **Harkirat Singh:** Validated "Cohort Scale" and "Mesh Network" performance for large developer groups.
+    - **Striver (Raj Vikramaditya):** Focused on "RAM Wiping" and "TTL" for premium educational content (DSA sheets).
+    - **Komal Pandey:** Endorsed the "Fashion-Editorial" UI and "Anti-Leak" workflows for unreleased shoots.
+- **Valuation Milestone:** Total replied creators hit **30**. "Interest Valuation" updated to **₹6,00,000** (6.0% of Goal).
+- **Cache Refresh (v2.8.14):** Forced data version update.
+
 ## [Phase 2.8.13 - Investor Interest] - 2026-01-23
 
 ### Highlights
