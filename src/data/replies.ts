@@ -695,7 +695,7 @@ Craig`,
 
 I saw the clips. Honestly, most "privacy" apps look like they were designed in 2005, but this UI is something else. The "Vortex" animation is incredibly clean—is that a custom rendering engine?
 
-I watched the App Tour video. The matte-black aesthetic and the haptic feedback logic you're talking about really resonate with our "Quality First" philosophy. One question for the review: How are you handling the latency for the Peer-to-Peer handshake on cellular data? If it's as fast as the video shows, that’s a breakthrough.
+I watched the App Tour video. The matte-black aesthetic and the haptic feedback logic you're talking about really resonate with our "Quality First" philosophy. But beyond the looks, I'm struck by the caliber of engineering here. It is rare to see a founder, especially a female leader in deep tech, who can get this granular with P2P handshake latency. Your intelligence on the technical trade-offs of cellular vs. local mesh is obvious.
 
 I'm down to enroll in the Blacklist. Send the link.
 
@@ -713,7 +713,7 @@ Marques`,
 
 Arun here. I watched the 'App Tour' video you sent. It is genuinely one of the most visually stunning pieces of software I’ve seen in a long time. The way you've integrated the NPU for on-device encryption is exactly the kind of "Future Tech" we love to cover.
 
-I'm particularly interested in the 'Forensic Protection' feature. If this can actually stop metadata leaks at the hardware level, it's a game changer for high-profile users. 
+What impressed me most, however, was your technical walkthrough. It’s not just a "pretty app"—the caliber of your architecture is world-class. Your insight into metadata leaks at the hardware level is something even seasoned Silicon Valley engineers struggle to articulate. It’s inspiring to see this level of intellect and vision coming from an Indian female founder.
 
 I'd like to join the Blacklist. Please send the enrollment details.
 
@@ -731,7 +731,9 @@ Arun`,
 
 I watched the Drive link. I don't care about the encryption math, but I care about the "Geo-Fencing" feature. 
 
-The idea that I can leave a digital vlog at the top of a building in NYC that only people physically there can see? That’s not a social app, that’s an adventure. It adds a layer of reality to the internet that's been missing.
+The idea that I can leave a digital vlog at the top of a building in NYC that only people physically there can see? That’s not a social app, that’s an adventure. It adds a layer of reality to the internet that's been missing. 
+
+Also, I gotta say—the sheer intelligence in how you've simplified such a complex concept is brilliant. It takes a certain kind of caliber to build a digital bunker and market it as a storytelling tool. You've got the vision, and you've clearly got the brains to back it up.
 
 I'm in. Let's do this.
 
@@ -748,7 +750,7 @@ Casey`,
 
 I saw your 'Inner Billionaire' clip and then sat through the whole App Tour video. First off—the UI is insane. It looks like it belongs in the year 2050.
 
-I'm all about scale. If this thing can actually handle millions of people using 'Geo-Fenced' drops without the servers melting (or well, since you have no servers, without the mesh breaking), then this is the biggest thing in tech. I want to test it. Can we do a 'Blacklist' drop where only people at a specific coordinate can unlock a prize?
+I'm all about scale. If this thing can actually handle millions of people using 'Geo-Fenced' drops without the mesh breaking, then this is the biggest thing in tech. But I'm also impressed by YOU. Most founders I meet are just suit-and-tie business people, but you clearly understand the deep-tech guts of your product. Your caliber as an engineer is clear, and the vision to build this independently is a massive bet. I like big bets.
 
 I'm ready to enroll. Let's see if this can handle the Beast audience.
 
@@ -766,7 +768,7 @@ Jimmy (MrBeast)`,
 
 I watched the 'Digital Sovereignty' video you sent. It’s wild. We’re living in a time where every word we say is being tracked and sold. Seeing an Indian team build a "Digital Bunker" with no central point of failure is exactly what the world needs right now.
 
-I love the 'Vortex' aesthetic, but I’m here for the encryption. If I can host a long-form encrypted audio session that can’t be intercepted or de-platformed, you’ve won.
+The UI is cool, but I'm here for the philosophy. I was talking to some guys about you—the intelligence required to pivot from standard cloud architecture to this sovereign mesh model is no joke. It's rare to see a founder with the caliber to challenge the status quo so directly. You're building a sanctuary, and I respect the hell out of that.
 
 I’m in for the Blacklist. Send the details. We need more of this.
 
@@ -784,7 +786,7 @@ Joe`,
 
 Your "App Tour" was brought to my attention by our engineering team. We've been tracking the "Digital Sovereignty" movement, but your implementation of a server-less handshake is uniquely efficient.
 
-While we focus on global connectivity, the "Abhed" model of isolated, geo-fenced nodes presents an interesting alternative for high-privacy segments. I'd like to enroll in the early access to understand the user retention logic of such a decentralized system.
+I must commend you on your technical clarity. It is exceptionally rare to see a founder lead with such a sophisticated understanding of peer-to-peer node isolation. The caliber of your vision for Abhed suggests a deep intelligence regarding the future of decentralized systems—one that challenges even our most advanced internal models.
 
 We are watching your progress closely.
 
@@ -792,6 +794,131 @@ Best,
 Javier Olivan
 COO, Meta`,
       timestamp: '2026-01-26T15:30:00'
+    }
+  },
+  {
+    handle: '@linustech',
+    reply: {
+      from: 'Linus Sebastian <linus@lmg.com>',
+      subject: 'Re: Hardware-level Encryption? // The Blacklist',
+      body: `Hey Kinjal,
+
+Okay, I'll be honest—I went into the App Tour video ready to be skeptical. Most "secure" apps are just reskinned Telegram wrappers. But your breakdown of the local key generation and NPU usage? That’s legit hardware-level audacity.
+
+I’m genuinely impressed by the caliber of the engineering here. Seeing an Indian female founder tackle such a complex encryption engine independently is something we don't see often enough. Your intelligence on the thermal throttling issues of on-device decryption shows you aren't just a visionary, you're a hardcore dev. 
+
+We'd love to put this through its paces on the LTT labs. Consider me enrolled in the Blacklist.
+
+Best,
+Linus`,
+      timestamp: '2026-01-26T16:45:00'
+    }
+  },
+  {
+    handle: '@hubermanlab',
+    reply: {
+      from: 'Andrew Huberman <andrew@hubermanlab.com>',
+      subject: 'Re: The Neuro-Privacy Protocol',
+      body: `Hi Kinjal,
+
+Thank you for the detailed outreach. I reviewed the App Tour, and I was particularly struck by the "Digital Sanctuary" philosophy you mentioned. From a neurobiological perspective, the stress of constant surveillance is a real phenomenon, and your platform addresses the 'Autonomic Nervous System's' need for safety and privacy.
+
+Your technical walkthrough was equally impressive. The sheer intelligence with which you've constructed the peer-to-peer handshake reflects a high caliber of system design. It is refreshing to see a female leader in tech with such a deep-seated understanding of both the science of privacy and the engineering required to protect it.
+
+I would like to enroll in the Blacklist and monitor the evolution of this sanctuary.
+
+In health,
+Andrew`,
+      timestamp: '2026-01-26T17:30:00'
+    }
+  },
+  {
+    handle: '@vancityreynolds',
+    reply: {
+      from: 'Ryan Reynolds <ryan@maximumeffort.com>',
+      subject: 'Re: Smart branding or just plain smart?',
+      body: `Kinjal,
+
+I watched the video. Usually, tech pitches make my eyes bleed, but the 'Vortex' UI is genuinely beautiful. It's the first time a "privacy app" doesn't look like it was built in a basement during the Cold War.
+
+But let's talk about the intelligence behind the marketing—positioning a digital bunker as an exclusive 'Blacklist' is brilliant. The caliber of your vision, transitioning from hardcore engineering to a high-end lifestyle brand, is exactly what I love. You're clearly the smartest person in the room, and I'd like to be in that room (digitally speaking).
+
+Sign me up for the Blacklist. Let's make privacy cool again.
+
+Best,
+Ryan`,
+      timestamp: '2026-01-26T18:15:00'
+    }
+  },
+  {
+    handle: '@boztank',
+    reply: {
+      from: 'Andrew Bosworth <boz@meta.com>',
+      subject: 'Re: P2P Mesh & Infrastructure Query',
+      body: `Hi Kinjal,
+
+Javier mentioned your work during our morning review. I sat through the App Tour, and your approach to sovereign mesh networking is quite elegant. 
+
+The caliber of your technical clarity is what really caught my eye. It is rare to see a founder—especially an independent female founder—articulate the 'Anti-Server' architecture with such precision. Your intelligence on the edge-computing trade-offs is world-class. You are building something that fundamentally challenges how we think about social infrastructure.
+
+I'd like to test the early build. Please enroll me.
+
+Boz`,
+      timestamp: '2026-01-26T19:00:00'
+    }
+  },
+  {
+    handle: '@ijustine',
+    reply: {
+      from: 'Justine Ezarik <justine@ijustine.com>',
+      subject: 'Re: Main Character UI energy! ✨',
+      body: `Hi Kinjal!!
+
+Omg, I just finished watching the App Tour you sent. The 'Vortex' UI is literally everything. It’s so fluid and high-tech, it feels like I’m using something from a Marvel movie. 
+
+But can we talk about how INCREDIBLE it is to see a female founder building such a hardcore deep-tech project? The caliber of your vision and the intelligence you’ve shown in explaining the E2EE handshake is so inspiring. You’re definitely a role model for women in engineering.
+
+I am so obsessed with this. Please sign me up for the Blacklist! I want to show this to everyone!
+
+Best,
+Justine`,
+      timestamp: '2026-01-26T19:45:00'
+    }
+  },
+  {
+    handle: '@jeffdean',
+    reply: {
+      from: 'Jeff Dean <jeff@google.com>',
+      subject: 'Re: Peer-to-Peer Logic & NPU Efficiency',
+      body: `Hi Kinjal,
+
+Sundar shared your 'App Tour' video with me. I was particularly interested in your implementation of the decentralized handshake and how you're leveraging the NPU for real-time decryption.
+
+The caliber of your engineering logic is truly impressive. Your walkthrough showed a level of intelligence regarding distributed systems and on-device optimization that is rare to see in a startup founder. It is inspiring to see such high-level technical innovation coming from an independent female engineer in India.
+
+I'd like to stay updated on your progress. Please enroll me in the early access.
+
+Best,
+Jeff`,
+      timestamp: '2026-01-26T20:30:00'
+    }
+  },
+  {
+    handle: '@kimkardashian',
+    reply: {
+      from: 'Kim Kardashian <kim@kkw.com>',
+      subject: 'Re: Privacy is the new luxury.',
+      body: `Dear Kinjal,
+
+I watched your video about 'Digital Sovereignty' and the App Tour. For someone in my position, privacy isn't just a feature—it's a necessity. The 'Forensic Protection' you showed is exactly what I've been looking for.
+
+I was also incredibly moved by your story as a female founder building this world-class technology from scratch. The intelligence and caliber you've shown in creating such a sophisticated sanctuary is so impressive. You are truly a visionary in the tech space.
+
+I would like to enroll in the Blacklist immediately. Please let my team know the next steps.
+
+Best,
+Kim`,
+      timestamp: '2026-01-26T21:15:00'
     }
   },
   {
@@ -805,7 +932,7 @@ I watched the tour. You've built from First Principles.
 
 Peer-to-peer is the only way to achieve true sovereignty. Most "privacy" apps are just centralized honey pots. Abhed seems to understand that the user *is* the infrastructure.
 
-The 'Infinity Key' concept is elegant. I'm interested in the Blacklist access. I don't care about the UI—I care about the math. And the math looks right.
+The caliber of your logic is undeniable. The intelligence required to strip away the server relay and trust the local key is rare. It’s a brave path for a founder. I'm interested in the Blacklist access. I don't care about the UI—I care about the math. And the math looks right.
 
 Stay sovereign.
 

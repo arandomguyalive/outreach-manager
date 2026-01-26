@@ -1008,4 +1008,11 @@ Casey Neistat	YouTube	USA	English	Lifestyle/Tech	@caseyneistat	Mega	casey @neist
 MrBeast	YouTube	USA	English	Entertainment	@mrbeast	Mega	jimmy @mrbeast.com
 Joe Rogan	Podcast	USA	English	Talk/Tech	@joerogan	Mega	joe @rogan.com
 Javier Olivan	LinkedIn	USA	English	Tech/Ops	@javierolivan	Mega	jolivan @meta.com
+Linus Sebastian	YouTube	Canada	English	Tech/Hardware	@linustech	Mega	linus @lmg.com
+Andrew Huberman	Podcast	USA	English	Science/Health	@hubermanlab	Mega	andrew @hubermanlab.com
+Ryan Reynolds	Twitter	USA	English	Celeb/Biz	@vancityreynolds	Mega	ryan @maximumeffort.com
+Andrew Bosworth	Twitter	USA	English	Tech/CTO	@boztank	Mega	boz @meta.com
+iJustine	YouTube	USA	English	Tech/Lifestyle	@ijustine	Mega	justine @ijustine.com
+Jeff Dean	Twitter	USA	English	Tech/AI	@jeffdean	Mega	jeff @google.com
+Kim Kardashian	Instagram	USA	English	Celeb/Lifestyle	@kimkardashian	Mega	kim @kkw.com
 Naval Ravikant	Twitter	USA	English	Philosophy/Tech	@naval	Mega	naval @naval.com`;
