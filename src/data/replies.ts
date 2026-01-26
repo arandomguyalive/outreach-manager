@@ -1,63 +1,38 @@
 export const REPLY_DATA = [
-  // Mega Tier (Team/Agency Replies)
   {
-    handle: '@MortaL',
+    handle: '@tirthjoshi',
     reply: {
-      from: 'Team Mortal <mgmt@8bitcreatives.in>',
-      subject: 'Re: Exclusive Invitation: The Blacklist // Security Inquiry',
-      body: `Hi Kinjal & Team,
+      from: 'Tirth Joshi <tirth@dev.com>',
+      subject: 'Re: React patterns & Performance',
+      body: `Hey Kinjal,
 
-We hope this email finds you well. Naman (MortaL) forwarded your initial pitch to us. He first saw the values of ABHED in your YouTube teaser, but he just finished watching the private App Tour video you linked in the email. He was struck by the visual fidelity of the 'Vortex' interface—it aligns perfectly with the high-tech aesthetic gamers love.
+Saw the App Tour video on Drive. That 'Vortex' animation is clean stuff. Did you use Framer Motion for that, or is it WebGL? It looks incredibly smooth in the demo.
 
-From a security standpoint, our primary concern is the integrity of private team comms. We have faced issues with leaks on Discord and WhatsApp in the past. Your mention of 'Forensic Protection' caught our attention. Naman specifically asked: does this feature actively block screen recording on iOS, or is it just a deterrent?
+Def want to see how you handled the React state management for the encryption without blocking the main thread. I'm interested in enrolling for the early access just to check out the engineering.
 
-We are ready to proceed with the Blacklist enrollment. Please share the invoice and any technical documentation regarding the anti-leak measures.
+Count me in.
 
-Best regards,
-Animesh Agarwal
-Manager, 8Bit Creatives`,
-      timestamp: '2026-01-19T11:45:00'
+- Tirth`,
+      timestamp: '2026-01-18T20:40:00'
     }
   },
   {
-    handle: '@SharanHegde',
+    handle: '@SamayRainaOfficial',
     reply: {
-      from: 'Sharan Hegde Office <team@financewithsharan.com>',
-      subject: 'Re: Partnership / Blacklist Access Inquiry',
-      body: `Hello Kinjal,
+      from: 'Samay Raina <samay@chess.com>',
+      subject: 'Re: Private streams?',
+      body: `Bro, I watched the Drive link. This looks insane. The main thing I need is a place to host private lobbies where I can actually speak freely without getting banned or clipped out of context.
 
-Thank you for the detailed outreach. Sharan came across your Instagram handle (@iamkm18) via a suggested post, and the privacy values you spoke about really resonated. He just watched the Drive App Tour video to get a better look at the UI.
+Does the 'Blacklist' tier allow for unlisted voice channels or group calls? I saw the chat features but wasn't sure about voice.
 
-One specific question came up during our review: Does the app have a 'Vault' or 'Hidden Folder' feature? We saw the encryption protocols in the video, but for high-net-worth discussions, we often need a space that is completely invisible from the main chat list. If this exists, it's a huge selling point for us.
+If yes, take my money. I'm ready to enroll. Big ups for making this in India.
 
-We appreciate the vision of a homegrown Indian platform taking on global privacy giants. We are ready to enroll in the Blacklist tier immediately. Please send the payment link.
+Send the link.
 
-Regards,
-Team Sharan`,
-      timestamp: '2026-01-19T10:30:00'
+Samay`,
+      timestamp: '2026-01-18T21:10:00'
     }
   },
-  {
-    handle: '@NeonShow', 
-    reply: {
-      from: 'Neon Show Team <siddhartha@neon.show>',
-      subject: 'Re: The Blacklist - Startup of the Year?',
-      body: `Hi Kinjal,
-
-Siddhartha asked me to reach out after he saw your 'Values of ABHED' video on his feed. He has also reviewed the App Tour on Drive. He was quite impressed by the UI fluidity, noting it rivals Silicon Valley standards.
-
-He is intrigued by the 'Digital Sovereignty' angle and wants to support this kind of ambitious engineering from India. He specifically asked if the 'Blacklist' tier comes with advanced community moderation tools for his exclusive founder's circle?
-
-We would like to secure a spot for him on the Blacklist. Please share the lifetime enrollment link.
-
-Best,
-Riya
-Executive Assistant to Siddhartha Ahluwalia`,
-      timestamp: '2026-01-19T09:15:00'
-    }
-  },
-
-  // Macro Tier (Mixed)
   {
     handle: '@TanayPratap',
     reply: {
@@ -76,25 +51,6 @@ Send the payment details. I'm ready to enroll.
 Cheers,
 Tanay`,
       timestamp: '2026-01-18T21:45:00'
-    }
-  },
-  {
-    handle: '@AkshatShrivastava',
-    reply: {
-      from: 'Team Akshat <akshat@wisdomhatch.com>',
-      subject: 'Re: Investment / Access for Inner Circle',
-      body: `Hi Kinjal,
-
-Akshat reviewed your YouTube video and the App Tour you linked. The section regarding 'Forensic Protection' was very timely, as we were just discussing the risks of screenshot leaks in our premium consultation groups.
-
-We are interested in enrolling Akshat in the Blacklist to test if this can be the primary hub for his 'Inner Circle' members. One query from our side: Does the app support auto-deletion timers for messages and files?
-
-The fact that it's an Indian product compliant with the new DPDP norms is a major plus. Please share the enrollment invoice.
-
-Regards,
-Operations Team
-Wisdom Hatch`,
-      timestamp: '2026-01-19T12:10:00'
     }
   },
   {
@@ -117,6 +73,21 @@ Brand Partnerships`,
     }
   },
   {
+    handle: '@VarunMayya',
+    reply: {
+      from: 'Varun Mayya <varun@avaland.io>',
+      subject: 'Re: AI features? Local LLMs?',
+      body: `Dude, I just finished the Drive video. The UI latency looks almost zero—how are you handling the encryption overhead shown in the demo? If this is running locally on-device without lagging the UI thread, that's engineering wizardry.
+
+I'm definitely looking to enroll. Does the app have 'Offline-First' capabilities? Like, can I queue up encrypted messages when I have zero signal?
+
+I'm 100% sold. Send the payment link, I'll pay right now. I really want to poke around the architecture.
+
+- V`,
+      timestamp: '2026-01-18T23:15:00'
+    }
+  },
+  {
     handle: '@RajShamani',
     reply: {
       from: 'Raj Shamani Office <raj@shamani.industries>',
@@ -136,38 +107,42 @@ Chief of Staff, Shamani Industries`,
     }
   },
   {
-    handle: '@TechnicalGuruji',
+    handle: '@ApurvaSingh',
     reply: {
-      from: 'TG Team <gaurav@technicalguruji.in>',
-      subject: 'Re: App Access for Review',
-      body: `Namaste Kinjal Ma'am,
+      from: 'Apurva Singh <apurva@fintech.com>',
+      subject: 'Re: Privacy Policy & DPDP Act',
+      body: `Hi Kinjal,
 
-Gaurav sir watched the technical breakdown in the Google Drive video you shared. He was quite impressed by the demonstration of 'Local Key Generation' on the device itself. That is a very high standard of security.
+I reviewed the links you sent, including the App Tour. As someone who tracks the fintech regulatory space, the data sovereignty aspect mentioned in the video is compliant with the new Digital Personal Data Protection Act.
 
-He is interested in enrolling in the Blacklist tier to personally test the app. Specifically, he wants to check the battery optimization impact of the local encryption engine on flagship devices. Did you optimize for NPU usage?
+It is genuinely refreshing to see a woman leading the charge in cybersecurity innovation here. We need more role models like you in the industry.
 
-It is a proud moment to see such advanced cryptography being implemented by an Indian team, and especially led by a female engineer. Please share the invoice for enrollment.
+One compliance question: Are the encryption keys generated and stored strictly on the Indian user's device? That's a crucial detail for my audit.
+
+I'm interested in the Blacklist enrollment and would like to proceed with the next steps.
 
 Regards,
-TG Management Team`,
-      timestamp: '2026-01-19T11:20:00'
+Apurva`,
+      timestamp: '2026-01-19T09:05:00'
     }
   },
-
-  // Mid/Micro Tier (Direct/Personal)
   {
-    handle: '@VarunMayya',
+    handle: '@NeonShow',
     reply: {
-      from: 'Varun Mayya <varun@avaland.io>',
-      subject: 'Re: AI features? Local LLMs?',
-      body: `Dude, I just finished the Drive video. The UI latency looks almost zero—how are you handling the encryption overhead shown in the demo? If this is running locally on-device without lagging the UI thread, that's engineering wizardry.
+      from: 'Neon Show Team <siddhartha@neon.show>',
+      subject: 'Re: The Blacklist - Startup of the Year?',
+      body: `Hi Kinjal,
 
-I'm definitely looking to enroll. Does the app have 'Offline-First' capabilities? Like, can I queue up encrypted messages when I have zero signal?
+Siddhartha asked me to reach out after he saw your 'Values of ABHED' video on his feed. He has also reviewed the App Tour on Drive. He was quite impressed by the UI fluidity, noting it rivals Silicon Valley standards.
 
-I'm 100% sold. Send the payment link, I'll pay right now. I really want to poke around the architecture.
+He is intrigued by the 'Digital Sovereignty' angle and wants to support this kind of ambitious engineering from India. He specifically asked if the 'Blacklist' tier comes with advanced community moderation tools for his exclusive founder's circle?
 
-- V`,
-      timestamp: '2026-01-18T23:15:00'
+We would like to secure a spot for him on the Blacklist. Please share the lifetime enrollment link.
+
+Best,
+Riya
+Executive Assistant to Siddhartha Ahluwalia`,
+      timestamp: '2026-01-19T09:15:00'
     }
   },
   {
@@ -207,37 +182,21 @@ Always happy to back incredible Indian engineering. I'm interested in the Blackl
     }
   },
   {
-    handle: '@SamayRainaOfficial',
+    handle: '@SharanHegde',
     reply: {
-      from: 'Samay Raina <samay@chess.com>',
-      subject: 'Re: Private streams?',
-      body: `Bro, I watched the Drive link. This looks insane. The main thing I need is a place to host private lobbies where I can actually speak freely without getting banned or clipped out of context.
+      from: 'Sharan Hegde Office <team@financewithsharan.com>',
+      subject: 'Re: Partnership / Blacklist Access Inquiry',
+      body: `Hello Kinjal,
 
-Does the 'Blacklist' tier allow for unlisted voice channels or group calls? I saw the chat features but wasn't sure about voice.
+Thank you for the detailed outreach. Sharan came across your Instagram handle (@iamkm18) via a suggested post, and the privacy values you spoke about really resonated. He just watched the Drive App Tour video to get a better look at the UI.
 
-If yes, take my money. I'm ready to enroll. Big ups for making this in India.
+One specific question came up during our review: Does the app have a 'Vault' or 'Hidden Folder' feature? We saw the encryption protocols in the video, but for high-net-worth discussions, we often need a space that is completely invisible from the main chat list. If this exists, it's a huge selling point for us.
 
-Send the link.
+We appreciate the vision of a homegrown Indian platform taking on global privacy giants. We are ready to enroll in the Blacklist tier immediately. Please send the payment link.
 
-Samay`,
-      timestamp: '2026-01-18T21:10:00'
-    }
-  },
-  {
-    handle: '@srishtigarg',
-    reply: {
-      from: 'Srishti Garg <srishti@genz.com>',
-      subject: 'Re: Collab & Early Access',
-      body: `Omg hi Kinjal!! The algorithm finally blessed me with your reel, and I just watched the App Tour you sent. The UI is literally giving main character energy ✨.
-
-I just want to say it's SO inspiring to see a female founder building something this hardcore.
-
-But wait, the 'Geo-Fencing' feature you teased? Is that real? Being able to leave content at a specific location that my followers can only unlock if they are PHYSICALLY there? That is actually a revolution. I've never seen that before.
-
-I'm so ready to enroll! Please send the payment link pls!
-
-- Srishti`,
-      timestamp: '2026-01-19T12:50:00'
+Regards,
+Team Sharan`,
+      timestamp: '2026-01-19T10:30:00'
     }
   },
   {
@@ -258,40 +217,76 @@ Send the Blacklist invite, I'm ready to join.
     }
   },
   {
-    handle: '@tirthjoshi',
+    handle: '@TechnicalGuruji',
     reply: {
-      from: 'Tirth Joshi <tirth@dev.com>',
-      subject: 'Re: React patterns & Performance',
-      body: `Hey Kinjal,
+      from: 'TG Team <gaurav@technicalguruji.in>',
+      subject: 'Re: App Access for Review',
+      body: `Namaste Kinjal Ma'am,
 
-Saw the App Tour video on Drive. That 'Vortex' animation is clean stuff. Did you use Framer Motion for that, or is it WebGL? It looks incredibly smooth in the demo.
+Gaurav sir watched the technical breakdown in the Google Drive video you shared. He was quite impressed by the demonstration of 'Local Key Generation' on the device itself. That is a very high standard of security.
 
-Def want to see how you handled the React state management for the encryption without blocking the main thread. I'm interested in enrolling for the early access just to check out the engineering.
+He is interested in enrolling in the Blacklist tier to personally test the app. Specifically, he wants to check the battery optimization impact of the local encryption engine on flagship devices. Did you optimize for NPU usage?
 
-Count me in.
+It is a proud moment to see such advanced cryptography being implemented by an Indian team, and especially led by a female engineer. Please share the invoice for enrollment.
 
-- Tirth`,
-      timestamp: '2026-01-18T20:40:00'
+Regards,
+TG Management Team`,
+      timestamp: '2026-01-19T11:20:00'
     }
   },
   {
-    handle: '@ApurvaSingh',
+    handle: '@MortaL',
     reply: {
-      from: 'Apurva Singh <apurva@fintech.com>',
-      subject: 'Re: Privacy Policy & DPDP Act',
+      from: 'Team Mortal <mgmt@8bitcreatives.in>',
+      subject: 'Re: Exclusive Invitation: The Blacklist // Security Inquiry',
+      body: `Hi Kinjal & Team,
+
+We hope this email finds you well. Naman (MortaL) forwarded your initial pitch to us. He first saw the values of ABHED in your YouTube teaser, but he just finished watching the private App Tour video you linked in the email. He was struck by the visual fidelity of the 'Vortex' interface—it aligns perfectly with the high-tech aesthetic gamers love.
+
+From a security standpoint, our primary concern is the integrity of private team comms. We have faced issues with leaks on Discord and WhatsApp in the past. Your mention of 'Forensic Protection' caught our attention. Naman specifically asked: does this feature actively block screen recording on iOS, or is it just a deterrent?
+
+We are ready to proceed with the Blacklist enrollment. Please share the invoice and any technical documentation regarding the anti-leak measures.
+
+Best regards,
+Animesh Agarwal
+Manager, 8Bit Creatives`,
+      timestamp: '2026-01-19T11:45:00'
+    }
+  },
+  {
+    handle: '@AkshatShrivastava',
+    reply: {
+      from: 'Team Akshat <akshat@wisdomhatch.com>',
+      subject: 'Re: Investment / Access for Inner Circle',
       body: `Hi Kinjal,
 
-I reviewed the links you sent, including the App Tour. As someone who tracks the fintech regulatory space, the data sovereignty aspect mentioned in the video is compliant with the new Digital Personal Data Protection Act.
+Akshat reviewed your YouTube video and the App Tour you linked. The section regarding 'Forensic Protection' was very timely, as we were just discussing the risks of screenshot leaks in our premium consultation groups.
 
-It is genuinely refreshing to see a woman leading the charge in cybersecurity innovation here. We need more role models like you in the industry.
+We are interested in enrolling Akshat in the Blacklist to test if this can be the primary hub for his 'Inner Circle' members. One query from our side: Does the app support auto-deletion timers for messages and files?
 
-One compliance question: Are the encryption keys generated and stored strictly on the Indian user's device? That's a crucial detail for my audit.
-
-I'm interested in the Blacklist enrollment and would like to proceed with the next steps.
+The fact that it's an Indian product compliant with the new DPDP norms is a major plus. Please share the enrollment invoice.
 
 Regards,
-Apurva`,
-      timestamp: '2026-01-19T09:05:00'
+Operations Team
+Wisdom Hatch`,
+      timestamp: '2026-01-19T12:10:00'
+    }
+  },
+  {
+    handle: '@srishtigarg',
+    reply: {
+      from: 'Srishti Garg <srishti@genz.com>',
+      subject: 'Re: Collab & Early Access',
+      body: `Omg hi Kinjal!! The algorithm finally blessed me with your reel, and I just watched the App Tour you sent. The UI is literally giving main character energy ✨.
+
+I just want to say it's SO inspiring to see a female founder building something this hardcore.
+
+But wait, the 'Geo-Fencing' feature you teased? Is that real? Being able to leave content at a specific location that my followers can only unlock if they are PHYSICALLY there? That is actually a revolution. I've never seen that before.
+
+I'm so ready to enroll! Please send the payment link pls!
+
+- Srishti`,
+      timestamp: '2026-01-19T12:50:00'
     }
   },
   {
@@ -440,7 +435,7 @@ Let's make this happen.
       subject: 'Re: Avengers level threat?',
       body: `Hey Kinjal!
 
-Just saw the video you sent. Bhai, yeh UI kya hai?! It looks like Jarvis had a baby with Telegram. I'm obsessed with the neon/dark mode vibe. Honestly, I didn't think an Indian dev could pull off this level of design—you're basically the female Tony Stark of our tech scene. Huge respect!
+Just saw the video you sent. Bhai, yeh UI kya hai?! It looks like Jarvis had a baby with Telegram. I'm obsessed with the neon/dark mode vibe. Honestly, I didn't think an Indian dev could pull off this level of design—you've basically the female Tony Stark of our tech scene. Huge respect!
 
 I'm 100% interested in the 'Vault'. I have so many skit ideas and rough cuts that I'm terrified will leak before the upload. If this app guarantees that data *cannot* leave the device, I need it yesterday.
 
@@ -687,6 +682,42 @@ Craig`,
     }
   },
   {
+    handle: '@mrbeast',
+    reply: {
+      from: 'Jimmy Donaldson <jimmy@mrbeast.com>',
+      subject: 'Re: The Biggest Tech Launch? // Blacklist Invitation',
+      body: `Hey Kinjal,
+
+I saw your 'Inner Billionaire' clip and then sat through the whole App Tour video. First off—the UI is insane. It looks like it belongs in the year 2050.
+
+I'm all about scale. If this thing can actually handle millions of people using 'Geo-Fenced' drops without the mesh breaking, then this is the biggest thing in tech. But I'm also impressed by YOU. Most founders I meet are just suit-and-tie business people, but you clearly understand the deep-tech guts of your product. Your caliber as an engineer is clear, and the vision to build this independently is a massive bet. I like big bets.
+
+I'm ready to enroll. Let's see if this can handle the Beast audience.
+
+Best,
+Jimmy (MrBeast)`,
+      timestamp: '2026-01-25T10:30:00'
+    }
+  },
+  {
+    handle: '@joerogan',
+    reply: {
+      from: 'Joe Rogan <joe@rogan.com>',
+      subject: 'Re: Anti-Censorship & The Blacklist',
+      body: `Kinjal,
+
+I watched the 'Digital Sovereignty' video you sent. It’s wild. We’re living in a time where every word we say is being tracked and sold. Seeing an Indian team build a "Digital Bunker" with no central point of failure is exactly what the world needs right now.
+
+The UI is cool, but I'm here for the philosophy. I was talking to some guys about you—the intelligence required to pivot from standard cloud architecture to this sovereign mesh model is no joke. It's rare to see a founder with the caliber to challenge the status quo so directly. You're building a sanctuary, and I respect the hell out of that.
+
+I’m in for the Blacklist. Send the details. We need more of this.
+
+Cheers,
+Joe`,
+      timestamp: '2026-01-25T14:15:00'
+    }
+  },
+  {
     handle: '@mkbhd',
     reply: {
       from: 'Marques Brownlee <marques@mkbhd.com>',
@@ -702,6 +733,25 @@ I'm down to enroll in the Blacklist. Send the link.
 Peace,
 Marques`,
       timestamp: '2026-01-26T10:15:00'
+    }
+  },
+  {
+    handle: '@naval',
+    reply: {
+      from: 'Naval Ravikant <naval@naval.com>',
+      subject: 'Re: First Principles // Peer-to-Peer',
+      body: `Kinjal,
+
+I watched the tour. You've built from First Principles. 
+
+Peer-to-peer is the only way to achieve true sovereignty. Most "privacy" apps are just centralized honey pots. Abhed seems to understand that the user *is* the infrastructure.
+
+The caliber of your logic is undeniable. The intelligence required to strip away the server relay and trust the local key is rare. It’s a brave path for a founder. I'm interested in the Blacklist access. I don't care about the UI—I care about the math. And the math looks right.
+
+Stay sovereign.
+
+Naval`,
+      timestamp: '2026-01-26T11:05:00'
     }
   },
   {
@@ -739,42 +789,6 @@ I'm in. Let's do this.
 
 Casey`,
       timestamp: '2026-01-26T13:20:00'
-    }
-  },
-  {
-    handle: '@mrbeast',
-    reply: {
-      from: 'Jimmy Donaldson <jimmy@mrbeast.com>',
-      subject: 'Re: The Biggest Tech Launch? // Blacklist Invitation',
-      body: `Hey Kinjal,
-
-I saw your 'Inner Billionaire' clip and then sat through the whole App Tour video. First off—the UI is insane. It looks like it belongs in the year 2050.
-
-I'm all about scale. If this thing can actually handle millions of people using 'Geo-Fenced' drops without the mesh breaking, then this is the biggest thing in tech. But I'm also impressed by YOU. Most founders I meet are just suit-and-tie business people, but you clearly understand the deep-tech guts of your product. Your caliber as an engineer is clear, and the vision to build this independently is a massive bet. I like big bets.
-
-I'm ready to enroll. Let's see if this can handle the Beast audience.
-
-Best,
-Jimmy (MrBeast)`,
-      timestamp: '2026-01-25T10:30:00'
-    }
-  },
-  {
-    handle: '@joerogan',
-    reply: {
-      from: 'Joe Rogan <joe@rogan.com>',
-      subject: 'Re: Anti-Censorship & The Blacklist',
-      body: `Kinjal,
-
-I watched the 'Digital Sovereignty' video you sent. It’s wild. We’re living in a time where every word we say is being tracked and sold. Seeing an Indian team build a "Digital Bunker" with no central point of failure is exactly what the world needs right now.
-
-The UI is cool, but I'm here for the philosophy. I was talking to some guys about you—the intelligence required to pivot from standard cloud architecture to this sovereign mesh model is no joke. It's rare to see a founder with the caliber to challenge the status quo so directly. You're building a sanctuary, and I respect the hell out of that.
-
-I’m in for the Blacklist. Send the details. We need more of this.
-
-Cheers,
-Joe`,
-      timestamp: '2026-01-25T14:15:00'
     }
   },
   {
@@ -955,25 +969,6 @@ I'd like to join the early access to observe the protocol's performance at scale
 Best,
 Vitalik`,
       timestamp: '2026-01-26T22:45:00'
-    }
-  },
-  {
-    handle: '@naval',
-    reply: {
-      from: 'Naval Ravikant <naval@naval.com>',
-      subject: 'Re: First Principles // Peer-to-Peer',
-      body: `Kinjal,
-
-I watched the tour. You've built from First Principles. 
-
-Peer-to-peer is the only way to achieve true sovereignty. Most "privacy" apps are just centralized honey pots. Abhed seems to understand that the user *is* the infrastructure.
-
-The caliber of your logic is undeniable. The intelligence required to strip away the server relay and trust the local key is rare. It’s a brave path for a founder. I'm interested in the Blacklist access. I don't care about the UI—I care about the math. And the math looks right.
-
-Stay sovereign.
-
-Naval`,
-      timestamp: '2026-01-26T11:05:00'
     }
   }
 ];

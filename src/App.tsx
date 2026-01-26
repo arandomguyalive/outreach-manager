@@ -207,9 +207,6 @@ function App() {
                         <MessageSquare className="w-4 h-4" /> 
                         Incoming Reply
                       </h3>
-                      <span className="text-xs text-km18-cyan/70 font-mono">
-                        {new Date(selectedInfluencer.replyDetails.timestamp).toLocaleDateString()}
-                      </span>
                     </div>
                     <div className="p-4 space-y-3">
                       <div>

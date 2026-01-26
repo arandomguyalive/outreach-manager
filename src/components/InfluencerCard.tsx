@@ -76,12 +76,6 @@ export const InfluencerCard: React.FC<InfluencerCardProps> = ({ influencer, onCl
         </div>
       </div>
 
-      {influencer.lastInteraction && (
-        <div className="text-[10px] text-gray-500 border-t border-gray-800 pt-2 mt-2 flex justify-between">
-          <span>Last Activity:</span>
-          <span>{new Date(influencer.lastInteraction).toLocaleDateString()}</span>
-        </div>
-      )}
     </div>
   );
 };
