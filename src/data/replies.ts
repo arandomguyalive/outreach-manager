@@ -730,8 +730,9 @@ I watched the App Tour video. The matte-black aesthetic and the haptic feedback 
 
 I'm down to enroll in the Blacklist. Send the link.
 
-Peace,
-Marques`,
+Stay Crispy,
+Marques Brownlee
+MKBHD`,
       timestamp: '2026-01-26T10:15:00'
     }
   },
@@ -750,7 +751,7 @@ The caliber of your logic is undeniable. The intelligence required to strip away
 
 Stay sovereign.
 
-Naval`,
+Naval Ravikant`,
       timestamp: '2026-01-26T11:05:00'
     }
   },
@@ -768,7 +769,8 @@ What impressed me most, however, was your technical walkthrough. It’s not just
 I'd like to join the Blacklist. Please send the enrollment details.
 
 Best,
-Arun`,
+Arun Maini
+Founder, Mrwhosetheboss`,
       timestamp: '2026-01-26T11:45:00'
     }
   },
@@ -787,14 +789,14 @@ Also, I gotta say—the sheer intelligence in how you've simplified such a compl
 
 I'm in. Let's do this.
 
-Casey`,
+Casey Neistat`,
       timestamp: '2026-01-26T13:20:00'
     }
   },
   {
     handle: '@javierolivan',
     reply: {
-      from: 'Javier Olivan <jolivan@meta.com>',
+      from: 'Office of the COO <jolivan@meta.com>',
       subject: 'Re: Partnership Inquiry / Technical Review',
       body: `Dear Kinjal,
 
@@ -802,11 +804,11 @@ Your "App Tour" was brought to my attention by our engineering team. We've been 
 
 I must commend you on your technical clarity. It is exceptionally rare to see a founder lead with such a sophisticated understanding of peer-to-peer node isolation. The caliber of your vision for Abhed suggests a deep intelligence regarding the future of decentralized systems—one that challenges even our most advanced internal models.
 
-We are watching your progress closely.
+Javier is interested in following your progress closely. Please enroll him in the early access.
 
 Best,
-Javier Olivan
-COO, Meta`,
+Administrative Team to Javier Olivan
+Chief Operating Officer, Meta`,
       timestamp: '2026-01-26T15:30:00'
     }
   },
@@ -824,25 +826,26 @@ I’m genuinely impressed by the caliber of the engineering here. Seeing an Indi
 We'd love to put this through its paces on the LTT labs. Consider me enrolled in the Blacklist.
 
 Best,
-Linus`,
+Linus Sebastian
+Founder, Linus Media Group`,
       timestamp: '2026-01-26T16:45:00'
     }
   },
   {
     handle: '@hubermanlab',
     reply: {
-      from: 'Andrew Huberman <andrew@hubermanlab.com>',
+      from: 'Office of Dr. Huberman <team@hubermanlab.com>',
       subject: 'Re: The Neuro-Privacy Protocol',
       body: `Hi Kinjal,
 
-Thank you for the detailed outreach. I reviewed the App Tour, and I was particularly struck by the "Digital Sanctuary" philosophy you mentioned. From a neurobiological perspective, the stress of constant surveillance is a real phenomenon, and your platform addresses the 'Autonomic Nervous System's' need for safety and privacy.
+Dr. Huberman reviewed the App Tour, and he was particularly struck by the "Digital Sanctuary" philosophy you mentioned. From a neurobiological perspective, the stress of constant surveillance is a real phenomenon, and your platform addresses the 'Autonomic Nervous System's' need for safety and privacy.
 
 Your technical walkthrough was equally impressive. The sheer intelligence with which you've constructed the peer-to-peer handshake reflects a high caliber of system design. It is refreshing to see a female leader in tech with such a deep-seated understanding of both the science of privacy and the engineering required to protect it.
 
-I would like to enroll in the Blacklist and monitor the evolution of this sanctuary.
+Andrew would like to enroll in the Blacklist and monitor the evolution of this sanctuary.
 
 In health,
-Andrew`,
+Team Huberman Lab`,
       timestamp: '2026-01-26T17:30:00'
     }
   },
@@ -860,14 +863,15 @@ But let's talk about the intelligence behind the marketing—positioning a digit
 Sign me up for the Blacklist. Let's make privacy cool again.
 
 Best,
-Ryan`,
+Ryan Reynolds
+Maximum Effort`,
       timestamp: '2026-01-26T18:15:00'
     }
   },
   {
     handle: '@boztank',
     reply: {
-      from: 'Andrew Bosworth <boz@meta.com>',
+      from: 'Andrew Bosworth <boz@fb.com>',
       subject: 'Re: P2P Mesh & Infrastructure Query',
       body: `Hi Kinjal,
 
@@ -877,7 +881,8 @@ The caliber of your technical clarity is what really caught my eye. It is rare t
 
 I'd like to test the early build. Please enroll me.
 
-Boz`,
+Boz
+CTO, Meta`,
       timestamp: '2026-01-26T19:00:00'
     }
   },
@@ -895,7 +900,7 @@ But can we talk about how INCREDIBLE it is to see a female founder building such
 I am so obsessed with this. Please sign me up for the Blacklist! I want to show this to everyone!
 
 Best,
-Justine`,
+Justine Ezarik`,
       timestamp: '2026-01-26T19:45:00'
     }
   },
@@ -913,25 +918,27 @@ The caliber of your engineering logic is truly impressive. Your walkthrough show
 I'd like to stay updated on your progress. Please enroll me in the early access.
 
 Best,
-Jeff`,
+Jeff Dean
+Chief Scientist, Google DeepMind`,
       timestamp: '2026-01-26T20:30:00'
     }
   },
   {
     handle: '@kimkardashian',
     reply: {
-      from: 'Kim Kardashian <kim@kkw.com>',
+      from: 'Kashmere Management <info@kashmere.com>',
       subject: 'Re: Privacy is the new luxury.',
       body: `Dear Kinjal,
 
-I watched your video about 'Digital Sovereignty' and the App Tour. For someone in my position, privacy isn't just a feature—it's a necessity. The 'Forensic Protection' you showed is exactly what I've been looking for.
+Kimberly watched your video about 'Digital Sovereignty' and the App Tour. For someone in her position, privacy isn't just a feature—it's a necessity. The 'Forensic Protection' you showed is exactly what we've been looking for.
 
-I was also incredibly moved by your story as a female founder building this world-class technology from scratch. The intelligence and caliber you've shown in creating such a sophisticated sanctuary is so impressive. You are truly a visionary in the tech space.
+She was also incredibly moved by your story as a female founder building this world-class technology from scratch. The intelligence and caliber you've shown in creating such a sophisticated sanctuary is so impressive. You are truly a visionary in the tech space.
 
-I would like to enroll in the Blacklist immediately. Please let my team know the next steps.
+Kim would like to enroll in the Blacklist immediately. Please let us know the next steps.
 
-Best,
-Kim`,
+Best regards,
+Business Affairs
+Team Kardashian`,
       timestamp: '2026-01-26T21:15:00'
     }
   },
@@ -949,7 +956,8 @@ What struck me most was the intelligence in your delivery. Your understanding of
 I would love to learn more and perhaps have a conversation one day. Please enroll me in the Blacklist.
 
 Best,
-Lex`,
+Lex Fridman
+Host, Lex Fridman Podcast`,
       timestamp: '2026-01-26T22:00:00'
     }
   },
@@ -967,7 +975,8 @@ The caliber of your engineering logic is high. Your intelligence regarding the '
 I'd like to join the early access to observe the protocol's performance at scale.
 
 Best,
-Vitalik`,
+Vitalik Buterin
+Co-founder, Ethereum`,
       timestamp: '2026-01-26T22:45:00'
     }
   }
