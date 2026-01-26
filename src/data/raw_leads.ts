@@ -1001,4 +1001,11 @@ Nachiket Samant	Instagram	India	English	Fashion/Reel	 @nachiketsamant	Mid	nachik
 Xyaa	Instagram	India	English	Gaming	 @xyaa	Micro	xyaa @gaming.com
 Deepinder Goyal	Twitter	India	English	Founder/Tech	 @deepigoyal	Mega	deepinder @zomato.com
 Bhavish Aggarwal	Twitter	India	English	Founder/Tech	 @bhash	Mega	bhavish @olacabs.com
-Sandeep Maheshwari	YouTube	India	Hindi	Ed/Life	 @SandeepSeminars	Mega	connect @sandeep.com`;
+Sandeep Maheshwari	YouTube	India	Hindi	Ed/Life	@SandeepSeminars	Mega	connect @sandeep.com
+MKBHD	YouTube	USA	English	Tech/Review	@mkbhd	Mega	marques @mkbhd.com
+Mrwhosetheboss	YouTube	UK	English	Tech/Review	@mrwhosetheboss	Mega	arun @mrwhosetheboss.com
+Casey Neistat	YouTube	USA	English	Lifestyle/Tech	@caseyneistat	Mega	casey @neistat.com
+MrBeast	YouTube	USA	English	Entertainment	@mrbeast	Mega	jimmy @mrbeast.com
+Joe Rogan	Podcast	USA	English	Talk/Tech	@joerogan	Mega	joe @rogan.com
+Javier Olivan	LinkedIn	USA	English	Tech/Ops	@javierolivan	Mega	jolivan @meta.com
+Naval Ravikant	Twitter	USA	English	Philosophy/Tech	@naval	Mega	naval @naval.com`;

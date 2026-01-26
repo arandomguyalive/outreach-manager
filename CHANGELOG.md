@@ -1,5 +1,24 @@
 # Changelog - Abhed Outreach Manager
 
+## [Phase 2.9.1 - Global Creator Sovereignty] - 2026-01-26
+
+### Highlights
+- **Creator-Centric Global Roster:** Refined the international roster to focus on top-tier tech/lifestyle creators and strategic tech leaders:
+    - **MKBHD (Marques Brownlee):** Validated the "Matte Black" aesthetic and P2P handshake latency.
+    - **Mrwhosetheboss (Arun Maini):** Endorsed the NPU-optimized encryption and "Future Tech" visual direction.
+    - **Casey Neistat:** Validated the "Geo-Fencing" feature as a new frontier for physical-digital storytelling.
+    - **Javier Olivan (Meta COO):** Introduced a high-stakes "Competitive Intelligence" narrative from a global tech leader.
+    - **MrBeast & Joe Rogan:** Maintained for scale and anti-censorship validation.
+- **Cache Refresh (v2.9.1):** Forced version update to apply the refined creator narratives.
+
+## [Phase 2.9.0 - Global Domination & Real-Time Sync] - 2026-01-26
+
+### Highlights
+- **Initial Global Titan Roster:** Added global icons like MrBeast, Joe Rogan, and Naval Ravikant.
+- **Dynamic Dashboard Date:** Fixed the hardcoded date on the home page to reflect the current system date.
+- **Valuation Surge:** Total replied creators hit **41**. "Interest Valuation" updated to **₹8,20,000**.
+- **Cache Refresh (v2.9.0):** Initial global sync.
+
 ## [Phase 2.8.18 - Narrative Refinement: The Titans] - 2026-01-24
 
 ### Highlights

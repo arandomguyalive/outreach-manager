@@ -47,7 +47,9 @@ function App() {
             </div>
             <div className="text-right hidden md:block">
               <p className="text-sm text-gray-400">Current Date</p>
-              <p className="font-mono text-km18-cyan">Jan 19, 2026</p>
+              <p className="font-mono text-km18-cyan">
+                {new Date().toLocaleDateString('en-US', { month: 'short', day: '2-digit', year: 'numeric' })}
+              </p>
             </div>
           </div>
 

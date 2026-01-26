@@ -685,5 +685,132 @@ Best,
 Craig`,
       timestamp: '2026-01-24T14:45:00'
     }
+  },
+  {
+    handle: '@mkbhd',
+    reply: {
+      from: 'Marques Brownlee <marques@mkbhd.com>',
+      subject: 'Re: The "Vortex" UI // Engineering Query',
+      body: `Yo Kinjal,
+
+I saw the clips. Honestly, most "privacy" apps look like they were designed in 2005, but this UI is something else. The "Vortex" animation is incredibly clean—is that a custom rendering engine?
+
+I watched the App Tour video. The matte-black aesthetic and the haptic feedback logic you're talking about really resonate with our "Quality First" philosophy. One question for the review: How are you handling the latency for the Peer-to-Peer handshake on cellular data? If it's as fast as the video shows, that’s a breakthrough.
+
+I'm down to enroll in the Blacklist. Send the link.
+
+Peace,
+Marques`,
+      timestamp: '2026-01-26T10:15:00'
+    }
+  },
+  {
+    handle: '@mrwhosetheboss',
+    reply: {
+      from: 'Arun Maini <arun@mrwhosetheboss.com>',
+      subject: 'Re: The End of Social Surveillance?',
+      body: `Hi Kinjal,
+
+Arun here. I watched the 'App Tour' video you sent. It is genuinely one of the most visually stunning pieces of software I’ve seen in a long time. The way you've integrated the NPU for on-device encryption is exactly the kind of "Future Tech" we love to cover.
+
+I'm particularly interested in the 'Forensic Protection' feature. If this can actually stop metadata leaks at the hardware level, it's a game changer for high-profile users. 
+
+I'd like to join the Blacklist. Please send the enrollment details.
+
+Best,
+Arun`,
+      timestamp: '2026-01-26T11:45:00'
+    }
+  },
+  {
+    handle: '@caseyneistat',
+    reply: {
+      from: 'Casey Neistat <casey@neistat.com>',
+      subject: 'Re: Storytelling & Geofencing',
+      body: `Kinjal,
+
+I watched the Drive link. I don't care about the encryption math, but I care about the "Geo-Fencing" feature. 
+
+The idea that I can leave a digital vlog at the top of a building in NYC that only people physically there can see? That’s not a social app, that’s an adventure. It adds a layer of reality to the internet that's been missing.
+
+I'm in. Let's do this.
+
+Casey`,
+      timestamp: '2026-01-26T13:20:00'
+    }
+  },
+  {
+    handle: '@mrbeast',
+    reply: {
+      from: 'Jimmy Donaldson <jimmy@mrbeast.com>',
+      subject: 'Re: The Biggest Tech Launch? // Blacklist Invitation',
+      body: `Hey Kinjal,
+
+I saw your 'Inner Billionaire' clip and then sat through the whole App Tour video. First off—the UI is insane. It looks like it belongs in the year 2050.
+
+I'm all about scale. If this thing can actually handle millions of people using 'Geo-Fenced' drops without the servers melting (or well, since you have no servers, without the mesh breaking), then this is the biggest thing in tech. I want to test it. Can we do a 'Blacklist' drop where only people at a specific coordinate can unlock a prize?
+
+I'm ready to enroll. Let's see if this can handle the Beast audience.
+
+Best,
+Jimmy (MrBeast)`,
+      timestamp: '2026-01-25T10:30:00'
+    }
+  },
+  {
+    handle: '@joerogan',
+    reply: {
+      from: 'Joe Rogan <joe@rogan.com>',
+      subject: 'Re: Anti-Censorship & The Blacklist',
+      body: `Kinjal,
+
+I watched the 'Digital Sovereignty' video you sent. It’s wild. We’re living in a time where every word we say is being tracked and sold. Seeing an Indian team build a "Digital Bunker" with no central point of failure is exactly what the world needs right now.
+
+I love the 'Vortex' aesthetic, but I’m here for the encryption. If I can host a long-form encrypted audio session that can’t be intercepted or de-platformed, you’ve won.
+
+I’m in for the Blacklist. Send the details. We need more of this.
+
+Cheers,
+Joe`,
+      timestamp: '2026-01-25T14:15:00'
+    }
+  },
+  {
+    handle: '@javierolivan',
+    reply: {
+      from: 'Javier Olivan <jolivan@meta.com>',
+      subject: 'Re: Partnership Inquiry / Technical Review',
+      body: `Dear Kinjal,
+
+Your "App Tour" was brought to my attention by our engineering team. We've been tracking the "Digital Sovereignty" movement, but your implementation of a server-less handshake is uniquely efficient.
+
+While we focus on global connectivity, the "Abhed" model of isolated, geo-fenced nodes presents an interesting alternative for high-privacy segments. I'd like to enroll in the early access to understand the user retention logic of such a decentralized system.
+
+We are watching your progress closely.
+
+Best,
+Javier Olivan
+COO, Meta`,
+      timestamp: '2026-01-26T15:30:00'
+    }
+  },
+  {
+    handle: '@naval',
+    reply: {
+      from: 'Naval Ravikant <naval@naval.com>',
+      subject: 'Re: First Principles // Peer-to-Peer',
+      body: `Kinjal,
+
+I watched the tour. You've built from First Principles. 
+
+Peer-to-peer is the only way to achieve true sovereignty. Most "privacy" apps are just centralized honey pots. Abhed seems to understand that the user *is* the infrastructure.
+
+The 'Infinity Key' concept is elegant. I'm interested in the Blacklist access. I don't care about the UI—I care about the math. And the math looks right.
+
+Stay sovereign.
+
+Naval`,
+      timestamp: '2026-01-26T11:05:00'
+    }
   }
 ];
