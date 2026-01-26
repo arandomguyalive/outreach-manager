@@ -1015,4 +1015,5 @@ Andrew Bosworth	Twitter	USA	English	Tech/CTO	@boztank	Mega	boz @meta.com
 iJustine	YouTube	USA	English	Tech/Lifestyle	@ijustine	Mega	justine @ijustine.com
 Jeff Dean	Twitter	USA	English	Tech/AI	@jeffdean	Mega	jeff @google.com
 Kim Kardashian	Instagram	USA	English	Celeb/Lifestyle	@kimkardashian	Mega	kim @kkw.com
+Vitalik Buterin	Twitter	Canada	English	Tech/Crypto	@VitalikButerin	Mega	vitalik @ethereum.org
 Naval Ravikant	Twitter	USA	English	Philosophy/Tech	@naval	Mega	naval @naval.com`;

@@ -922,6 +922,42 @@ Kim`,
     }
   },
   {
+    handle: '@lexfridman',
+    reply: {
+      from: 'Lex Fridman <lex@lexfridman.com>',
+      subject: 'Re: Love, Technology, and Sovereignty',
+      body: `Hi Kinjal,
+
+I watched the 'App Tour' video. It's rare to see technology that attempts to protect the human spirit with such mathematical rigor. The way you've constructed the decentralized handshake is a beautiful piece of engineering.
+
+What struck me most was the intelligence in your delivery. Your understanding of both the cold reality of cryptographic protocols and the warm necessity of human connection is a rare combination. The caliber of your vision for Abhed as a sovereign sanctuary reflects a deep, multi-disciplinary intellect. It is inspiring to see an independent female founder leading this charge.
+
+I would love to learn more and perhaps have a conversation one day. Please enroll me in the Blacklist.
+
+Best,
+Lex`,
+      timestamp: '2026-01-26T22:00:00'
+    }
+  },
+  {
+    handle: '@VitalikButerin',
+    reply: {
+      from: 'Vitalik Buterin <vitalik@ethereum.org>',
+      subject: 'Re: Cryptographic Maturity // The Handshake',
+      body: `Hello Kinjal,
+
+I reviewed your "App Tour" and the brief technical notes on your E2EE implementation. I was quite surprised by the maturity of the cryptographic handshake you've developed for the local mesh. Eliminating the server relay for the initial key exchange while maintaining forward secrecy is a non-trivial achievement.
+
+The caliber of your engineering logic is high. Your intelligence regarding the 'Anti-Server' architecture is evident, and seeing such a sophisticated sovereign implementation coming from a single independent founder is genuinely impressive. It challenges many of the centralized assumptions currently dominating the social space.
+
+I'd like to join the early access to observe the protocol's performance at scale.
+
+Best,
+Vitalik`,
+      timestamp: '2026-01-26T22:45:00'
+    }
+  },
+  {
     handle: '@naval',
     reply: {
       from: 'Naval Ravikant <naval@naval.com>',
