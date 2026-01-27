@@ -979,5 +979,79 @@ Vitalik Buterin
 Co-founder, Ethereum`,
       timestamp: '2026-01-26T22:45:00'
     }
+  },
+  {
+    handle: '@Snowden',
+    reply: {
+      from: 'Edward Snowden <edward@snowden.org>',
+      subject: 'Re: Anti-Server Architecture // The Sovereignty Project',
+      body: `Kinjal,
+
+I have seen many "secure" messaging projects. Most fail because they cannot resist the gravity of centralization. Your "Local Key" generation and the elimination of the server relay for the handshake is a necessary evolution. 
+
+True privacy is not about trusting a service; it is about the mathematical inability of that service to betray you. The "Anti-Server" approach you've outlined in the App Tour is a brave and sophisticated response to the era of total surveillance. It is inspiring to see an independent female founder tackling this from a first-principles engineering perspective.
+
+I'm interested in enrolling in the Blacklist to verify the protocol's resistance to metadata analysis.
+
+Stay sovereign.
+
+Edward Snowden`,
+      timestamp: '2026-01-27T09:15:00'
+    }
+  },
+  {
+    handle: '@signalapp',
+    reply: {
+      from: 'Meredith Whittaker <meredith@signal.org>',
+      subject: 'Re: Beyond Centralized Metadata // Abhed',
+      body: `Hi Kinjal,
+
+I watched your technical breakdown. At Signal, we've fought hard to minimize metadata, but the server-client model always leaves some footprint. Your peer-to-peer mesh approach for the initial handshake is a fascinating step forward in removing the central point of failure entirely.
+
+The caliber of your engineering—especially how you've optimized for NPU decryption—is world-class. Seeing this level of deep-tech innovation led by a female engineer in India is exactly the kind of decentralization the world needs right now.
+
+I'd like to join the Blacklist early access to see how the mesh handles higher latency environments.
+
+Best,
+Meredith Whittaker
+President, Signal Messenger`,
+      timestamp: '2026-01-27T10:45:00'
+    }
+  },
+  {
+    handle: '@garrytan',
+    reply: {
+      from: 'Garry Tan <garry@ycombinator.com>',
+      subject: 'Re: Founder Caliber // Abhed Outreach',
+      body: `Kinjal,
+
+I sat through the App Tour. This is what we call "Founder-Market Fit." Your obsession with the "Vortex" UI and the underlying P2P architecture reminds me of the early days of Stripe and Airbnb. You aren't just building a feature; you're building a new layer of the internet.
+
+The intelligence required to reject the standard cloud model in favor of a sovereign mesh is rare. This is a multi-billion dollar vision, and the caliber of your engineering makes it believable. We need more technical founders like you who aren't afraid to solve the hard problems.
+
+I'm enrolling in the Blacklist. Also, let me know when you're in SF. I'd love to chat more about the vision.
+
+Best,
+Garry Tan
+CEO, Y Combinator`,
+      timestamp: '2026-01-27T12:00:00'
+    }
+  },
+  {
+    handle: '@Grimezsz',
+    reply: {
+      from: 'C (Grimes) <c@grimezsz.io>',
+      subject: 'Re: Elven Tech // The Vortex',
+      body: `Hi Kinjal!
+
+I just saw the "Vortex" UI. It’s literally elven technology. It feels like a piece of the future that accidentally fell into our timeline. The fluid holographic vibe is exactly where the human-machine interface needs to go. 
+
+But beyond the beauty, the fact that you’ve built this as an "Anti-Server" sanctuary is so cool. It’s like a digital bunker but for the aesthetic elite. The caliber of your vision is breathtaking, and I love that it’s a woman leading this hardcore engineering mission. You are literally the main character.
+
+I need a spot on the Blacklist. Let's make the internet beautiful and private again.
+
+🤍 c`,
+      timestamp: '2026-01-27T14:30:00'
+    }
   }
 ];
