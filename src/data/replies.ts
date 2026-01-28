@@ -1380,111 +1380,117 @@ Tata Trusts`,
   {
     handle: '@k.mbappe',
     reply: {
-      from: 'Kylian Mbappé <kylian@psg.com>',
+      from: 'Team KM <office@kylianmbappe.com>',
       subject: 'Re: Zero Lag',
       body: `Kinjal,
 
-I need speed.
+Kylian reviewed the demo. He needs speed.
 
-On the pitch, I move faster than they can think. I need my communication to be the same. Zero lag. Zero leaks. Zero nonsense.
+On the pitch, he moves faster than they can think. He needs his communication to be the same. Zero lag. Zero leaks. Zero nonsense.
 
-I want my inner circle to be on this. If the "Vortex" is as fast as you say, and if it keeps the press out of my life, I am in. I want to control the narrative by controlling the channel.
+He wants his inner circle to be on this. If the "Vortex" is as fast as you say, and if it keeps the press out of his life, we are in. He wants to control the narrative by controlling the channel.
 
-My team will be in touch.
+We will be in touch to set this up.
 
-Kylian Mbappé`,
+Regards,
+Team Kylian Mbappé`,
       timestamp: '2026-01-28T16:00:00'
     }
   },
   {
     handle: '@rogerfederer',
     reply: {
-      from: 'Roger Federer <roger@federer.com>',
+      from: 'Team RF <management@rogerfederer.com>',
       subject: 'Re: Elegance',
       body: `Hi Kinjal,
 
-I watched the demo.
+Roger watched the demo and was impressed.
 
-There is a fluidity to the interface... it reminds me of a one-handed backhand. Effortless power. Most apps feel like work; they feel cluttered. This feels like play. It has a rhythm.
+He noted the fluidity of the interface—he compared it to a one-handed backhand. Effortless power. Most apps feel like work to him; they feel cluttered. This feels like play. It has a rhythm.
 
-I appreciate excellence in any field. This is timeless design. I would love to use this for my foundation team to coordinate quietly.
+He appreciates excellence in any field. This is timeless design. We would love to use this for the foundation team to coordinate quietly.
 
 Warmly,
-Roger`,
+Mary
+Executive Assistant to Roger Federer`,
       timestamp: '2026-01-28T16:45:00'
     }
   },
   {
     handle: '@cristiano',
     reply: {
-      from: 'Cristiano Ronaldo <cr7@alnassr.com>',
+      from: 'CR7 Management <mgmt@alnassr.com>',
       subject: 'Re: The Best',
       body: `Kinjal,
 
-I know what it takes to be Number 1.
+Cristiano saw the pitch. He knows what it takes to be Number 1.
 
-The discipline. The focus. The refusal to compromise. I see it in this code. It is elite. No distractions. Just the goal.
+The discipline. The focus. The refusal to compromise. He sees it in this code. It is elite. No distractions. Just the goal.
 
-The world is noisy. I need a place where I can focus. This app is for winners.
+The world is noisy. He needs a place where he can focus. This app is for winners.
 
-My manager will handle the details.
+We will handle the details of the account setup.
 
-CR7`,
+Best,
+Ricardo
+Manager, CR7 Team`,
       timestamp: '2026-01-28T17:30:00'
     }
   },
   {
     handle: '@dualipa',
     reply: {
-      from: 'Dua Lipa <dua@dualipa.com>',
+      from: 'Dua Lipa Mgmt <team@dualipa.com>',
       subject: 'Re: Levitating // The Vibe',
       body: `Hey Kinjal!
 
-The vibe is electric. ⚡️
+Dua absolutely loves the vibe. ⚡️
 
-It doesn't feel like an app, it feels like a club. A private one where the lights are low and the music is loud, but no one can hear it outside. It has that midnight energy.
+She said it doesn't feel like an app, it feels like a club. A private one where the lights are low and the music is loud, but no one can hear it outside. It has that midnight energy.
 
-I need this for my tour crew. We need a place to just be us, without the world watching. No leaks. Just us.
+We need this for the tour crew. We need a place to just be us, without the world watching. No leaks. Just us.
 
-x
-Dua`,
+We are ready to enroll.
+
+Best,
+Team Dua`,
       timestamp: '2026-01-28T18:15:00'
     }
   },
   {
     handle: '@shakira',
     reply: {
-      from: 'Shakira <shakira@shakira.com>',
+      from: 'Shakira Media <office@shakira.com>',
       subject: 'Re: Truth',
       body: `Hola Kinjal,
 
-Data doesn't lie.
+Shakira reviewed the proposal. For her, data doesn't lie.
 
-In a world of noise and rumors, this feels honest. A place where I can just be myself without performing for the cameras. It feels like a private confessional—a space where the walls don't have ears.
+In a world of noise and rumors, she feels this is honest. A place where she can just be herself without performing for the cameras. It feels like a private confessional—a space where the walls don't have ears.
 
-Privacy is the most expensive thing I own. I want to protect it.
+Privacy is the most expensive thing she owns. We want to protect it.
 
-Un abrazo,
-Shakira`,
+Regards,
+Management Team`,
       timestamp: '2026-01-28T19:00:00'
     }
   },
   {
     handle: '@champagnepapi',
     reply: {
-      from: 'Drake <aubrey@ovo.com>',
+      from: 'OVO Sound <mgmt@ovosound.com>',
       subject: 'Re: Inner Circle',
       body: `Kinjal,
 
-Top boy behavior.
+Aubrey (Drake) saw the video. Top boy behavior.
 
-This is for the inner circle only. No opps allowed. The "Vault" is exactly what I need for the studio sessions. If it ain't encrypted, it ain't OVO.
+This is for the inner circle only. No opps allowed. The "Vault" is exactly what we need for the studio sessions. If it ain't encrypted, it ain't OVO.
 
-I need a channel where I can move in silence. The visuals are crazy, but the silence is what I'm paying for.
+We need a channel where we can move in silence. The visuals are crazy, but the silence is what we are paying for.
 
-My team will reach out.
+We will reach out to clear the invoice.
 
-Aubrey`,
+OVO Management`,
       timestamp: '2026-01-28T19:45:00'
     }
   },
