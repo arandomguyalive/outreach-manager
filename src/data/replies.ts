@@ -1219,7 +1219,7 @@ Emaar Properties`,
     reply: {
       from: 'Jony Ive <jony@lovefrom.com>',
       subject: 'Re: Integrity',
-      body: \`Kinjal,
+      body: `Kinjal,
 
 I have spent my life obsessing over the integrity of objects.
 
@@ -1227,7 +1227,7 @@ Software usually feels fragile. It feels like layers of paint over a hollow core
 
 You have managed to make code feel like aluminium. It is inevitable.
 
-Jony\`,
+Jony`,
       timestamp: '2026-01-28T09:15:00'
     }
   },
@@ -1236,7 +1236,7 @@ Jony\`,
     reply: {
       from: 'Evan Spiegel <evan@snap.com>',
       subject: 'Re: The Camera as Server',
-      body: \`Hi Kinjal,
+      body: `Hi Kinjal,
 
 We spent years trying to convince the world that the camera is the keyboard.
 
@@ -1244,7 +1244,7 @@ You have gone a step further. You have made the camera the server. The way Abhed
 
 I'd love to see how this scales. Enroll me.
 
-Evan\`,
+Evan`,
       timestamp: '2026-01-28T10:00:00'
     }
   },
@@ -1253,7 +1253,7 @@ Evan\`,
     reply: {
       from: 'Jensen Huang <jensen@nvidia.com>',
       subject: 'Re: Inference Speed // Beautiful Math',
-      body: \`Kinjal,
+      body: `Kinjal,
 
 I looked at your encryption benchmarks.
 
@@ -1261,7 +1261,7 @@ You are doing on a smartphone processor what we usually reserve for data centers
 
 The more we push compute to the edge, the more sovereign the user becomes. You are riding the correct wave. I want to see this running on our new mobile chips.
 
-Jensen\`,
+Jensen`,
       timestamp: '2026-01-28T10:45:00'
     }
   },
@@ -1270,7 +1270,7 @@ Jensen\`,
     reply: {
       from: 'Demis Hassabis <demis@deepmind.com>',
       subject: 'Re: Alpha-level Strategy',
-      body: \`Hi Kinjal,
+      body: `Hi Kinjal,
 
 The architecture is elegant.
 
@@ -1278,7 +1278,7 @@ Most systems optimize for connectivity. You have optimized for isolation. It is 
 
 Your local inference engine is finding paths we haven't seen before. I am curious to test the boundaries of this "Digital Clean Room".
 
-Demis\`,
+Demis`,
       timestamp: '2026-01-28T11:30:00'
     }
   },
@@ -1287,7 +1287,7 @@ Demis\`,
     reply: {
       from: 'CZ <cz@binance.com>',
       subject: 'Re: Unstoppable',
-      body: \`Kinjal,
+      body: `Kinjal,
 
 They can shut down servers. They can seize domains. They cannot shut down people.
 
@@ -1295,7 +1295,7 @@ Abhed is infrastructure for the new world. If the handshake is truly peer-to-pee
 
 I am in.
 
-CZ\`,
+CZ`,
       timestamp: '2026-01-28T12:15:00'
     }
   },
@@ -1304,7 +1304,7 @@ CZ\`,
     reply: {
       from: 'Narayana Murthy <nm@infosys.com>',
       subject: 'Re: Sweat Equity',
-      body: \`Dear Kinjal,
+      body: `Dear Kinjal,
 
 I see the details in your work.
 
@@ -1313,7 +1313,7 @@ This level of polish—the fluid animations, the cryptographic depth—it does n
 You are not just building an app; you are building digital infrastructure for the nation. I would be proud to support this.
 
 Regards,
-NRN\`,
+NRN`,
       timestamp: '2026-01-28T13:00:00'
     }
   },
@@ -1322,7 +1322,7 @@ NRN\`,
     reply: {
       from: 'Office of Bernard Arnault <ba@lvmh.com>',
       subject: 'Re: Objects of Desire',
-      body: \`Mademoiselle Mishra,
+      body: `Mademoiselle Mishra,
 
 At LVMH, we do not sell products. We sell desire.
 
@@ -1330,7 +1330,7 @@ Tech is usually utilitarian. But this "Vortex"... it has romance. It creates a f
 
 We are interested in the Blacklist for our private client relations.
 
-Bernard Arnault\`,
+Bernard Arnault`,
       timestamp: '2026-01-28T13:45:00'
     }
   },
@@ -1339,7 +1339,7 @@ Bernard Arnault\`,
     reply: {
       from: 'Gwynne Shotwell <gwynne@spacex.com>',
       subject: 'Re: Interplanetary Comms',
-      body: \`Hi Kinjal,
+      body: `Hi Kinjal,
 
 Elon showed me the specs.
 
@@ -1347,7 +1347,7 @@ If we are going to Mars, we can't ping Earth servers for every message. The late
 
 Your p2p architecture is accidentally interplanetary ready. That's the kind of redundancy we like. Sign me up.
 
-Gwynne\`,
+Gwynne`,
       timestamp: '2026-01-28T14:30:00'
     }
   },
@@ -1356,7 +1356,7 @@ Gwynne\`,
     reply: {
       from: 'Office of Ratan Tata (Estate) <office@tata.com>',
       subject: 'Re: Technology with a Conscience',
-      body: \`Dear Kinjal,
+      body: `Dear Kinjal,
 
 Mr. Tata always believed that technology should elevate the human spirit, not commodify it.
 
@@ -1364,7 +1364,7 @@ He would have been proud to see a young Indian woman building a tool that protec
 
 You have our blessings and our support.
 
-Tata Trusts\`,
+Tata Trusts`,
       timestamp: '2026-01-28T15:15:00'
     }
   },
@@ -1373,7 +1373,7 @@ Tata Trusts\`,
     reply: {
       from: 'Kylian Mbappé <kylian@psg.com>',
       subject: 'Re: Zero Lag',
-      body: \`Kinjal,
+      body: `Kinjal,
 
 I need speed.
 
@@ -1381,7 +1381,7 @@ On the pitch, zero lag. In my life, zero leaks. I want my inner circle to be on 
 
 Let's go. 🐢
 
-Kylian\`,
+Kylian`,
       timestamp: '2026-01-28T16:00:00'
     }
   },
@@ -1390,7 +1390,7 @@ Kylian\`,
     reply: {
       from: 'Roger Federer <roger@federer.com>',
       subject: 'Re: Elegance',
-      body: \`Hi Kinjal,
+      body: `Hi Kinjal,
 
 I watched the demo.
 
@@ -1399,7 +1399,7 @@ There is a fluidity to the interface... it reminds me of a one-handed backhand. 
 I would love to use this for my foundation team. Effortless is always best.
 
 Best,
-Roger\`,
+Roger`,
       timestamp: '2026-01-28T16:45:00'
     }
   },
@@ -1408,7 +1408,7 @@ Roger\`,
     reply: {
       from: 'Cristiano Ronaldo <cr7@alnassr.com>',
       subject: 'Re: The Best',
-      body: \`Kinjal,
+      body: `Kinjal,
 
 I know what it takes to be Number 1.
 
@@ -1416,7 +1416,7 @@ The discipline. The focus. I see it in this code. It is elite. No distractions. 
 
 Siii.
 
-CR7\`,
+CR7`,
       timestamp: '2026-01-28T17:30:00'
     }
   },
@@ -1425,7 +1425,7 @@ CR7\`,
     reply: {
       from: 'Dua Lipa <dua@dualipa.com>',
       subject: 'Re: Levitating // The Vibe',
-      body: \`Hey Kinjal!
+      body: `Hey Kinjal!
 
 The vibe is electric. ⚡️
 
@@ -1434,7 +1434,7 @@ It doesn't feel like an app, it feels like a club. A private one where the light
 I need this for my tour crew. No leaks. Just us.
 
 Love,
-Dua\`,
+Dua`,
       timestamp: '2026-01-28T18:15:00'
     }
   },
@@ -1443,7 +1443,7 @@ Dua\`,
     reply: {
       from: 'Shakira <shakira@shakira.com>',
       subject: 'Re: Truth',
-      body: \`Hola Kinjal,
+      body: `Hola Kinjal,
 
 Data doesn't lie.
 
@@ -1451,7 +1451,7 @@ In a world of noise, this feels honest. A place where I can just be myself witho
 
 I'm ready to join.
 
-Shakira\`,
+Shakira`,
       timestamp: '2026-01-28T19:00:00'
     }
   },
@@ -1460,7 +1460,7 @@ Shakira\`,
     reply: {
       from: 'Drake <aubrey@ovo.com>',
       subject: 'Re: Inner Circle',
-      body: \`Kinjal,
+      body: `Kinjal,
 
 Top boy behavior.
 
@@ -1468,7 +1468,7 @@ This is for the inner circle only. No opps allowed. The "Vault" is exactly what 
 
 Lock me in.
 
-Drizzy\`,
+Drizzy`,
       timestamp: '2026-01-28T19:45:00'
     }
   },
@@ -1477,7 +1477,7 @@ Drizzy\`,
     reply: {
       from: 'Keanu Reeves <keanu@archmoto.com>',
       subject: 'Re: Wake Up',
-      body: \`Kinjal,
+      body: `Kinjal,
 
 Wake up, Samurai. We have a server to burn.
 
@@ -1485,7 +1485,7 @@ The Matrix is watching, but this code feels like the exit.
 
 This is breathtaking.
 
-Keanu\`,
+Keanu`,
       timestamp: '2026-01-28T20:30:00'
     }
   },
@@ -1494,7 +1494,7 @@ Keanu\`,
     reply: {
       from: 'Magnus Carlsen <magnus@chess.com>',
       subject: 'Re: Endgame',
-      body: \`Hi Kinjal,
+      body: `Hi Kinjal,
 
 I see 20 moves ahead.
 
@@ -1502,7 +1502,7 @@ The current game of surveillance capitalism is a losing position for the user. Y
 
 Brilliant move.
 
-Magnus\`,
+Magnus`,
       timestamp: '2026-01-28T21:15:00'
     }
   },
@@ -1511,7 +1511,7 @@ Magnus\`,
     reply: {
       from: 'Tim Ferriss <tim@fourhour.com>',
       subject: 'Re: Deep Work // The Sanctuary',
-      body: \`Kinjal,
+      body: `Kinjal,
 
 The "Cognitive Offramp" concept is the only way to survive the AI noise.
 
@@ -1519,7 +1519,7 @@ We are drowning in interruptions. An app that is designed to be *quiet*? That re
 
 I'm interested in the notification shielding protocols.
 
-Tim\`,
+Tim`,
       timestamp: '2026-01-28T22:00:00'
     }
   },
@@ -1528,7 +1528,7 @@ Tim\`,
     reply: {
       from: 'Neil deGrasse Tyson <neil@hayden.com>',
       subject: 'Re: Cosmic Topology',
-      body: \`Kinjal,
+      body: `Kinjal,
 
 The network topology... it looks like a galaxy.
 
@@ -1536,7 +1536,7 @@ Stars connecting without a center. Gravity holding it together, but no single po
 
 Keep looking up.
 
-Neil\`,
+Neil`,
       timestamp: '2026-01-28T22:45:00'
     }
   },
@@ -1545,7 +1545,7 @@ Neil\`,
     reply: {
       from: 'Greta Thunberg <greta@fridays.com>',
       subject: 'Re: How Dare You (Fix This)',
-      body: \`Kinjal,
+      body: `Kinjal,
 
 No server farms? No massive cooling towers?
 
@@ -1553,7 +1553,7 @@ Finally, tech that doesn't boil the ocean. The energy efficiency of local comput
 
 I support this.
 
-Greta\`,
+Greta`,
       timestamp: '2026-01-28T23:30:00'
     }
   },
@@ -1562,7 +1562,7 @@ Greta\`,
     reply: {
       from: 'Elie Saab <elie@eliesaab.com>',
       subject: 'Re: Digital Couture',
-      body: \`Dear Kinjal,
+      body: `Dear Kinjal,
 
 It has texture.
 
@@ -1570,7 +1570,7 @@ The blur, the glass, the way the light hits the "Vortex"... it is digital coutur
 
 Simply magnificent.
 
-Elie Saab\`,
+Elie Saab`,
       timestamp: '2026-01-29T09:00:00'
     }
   }
