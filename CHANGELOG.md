@@ -1,5 +1,18 @@
 # Changelog - Abhed Outreach Manager
 
+## [Phase 3.1.4 - Authentic Voice Overhaul] - 2026-01-27
+
+### Highlights
+- **High-Fidelity Persona Update:** Conducted a comprehensive rewrite of the 20 most recent high-tier replies to eliminate generic corporate/technical phrasing and inject authentic "voice":
+    - **Grimes:** Now uses lowercase, abstract "dune-core" / "elven tech" language.
+    - **Vitalik Buterin:** Shifted to lowercase, direct technical questioning about peer discovery.
+    - **Casey Neistat:** Removed technical jargon, focused purely on "Storytelling" and "Adventure" utility.
+    - **MKBHD:** Focused on "Matte Black", "120Hz", and specific battery drain inquiries.
+    - **Naval Ravikant:** Reduced to aphoristic, first-principles logic ("Code is leverage").
+    - **Ryan Reynolds:** Added self-deprecating humor (Deadpool reference) and cynicism about the "Blacklist" branding.
+- **Narrative Polish:** Removed the repetitive "caliber of engineering" verbatim that was appearing across multiple replies.
+- **Cache Refresh (v3.1.4):** Forced version update to apply the new text immediately.
+
 ## [Phase 3.1.3 - The Sovereignty & Culture Apex] - 2026-01-27
 
 ### Highlights

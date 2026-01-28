@@ -16,6 +16,11 @@ The Abhed Outreach Manager has evolved from a lead-tracking tool into a high-fid
 
 ## Comprehensive Project Log (Chronological)
 
+### **Phase 3.1.4 - Authentic Voice Overhaul (Jan 27, 2026)**
+- **Refactor:** Completely rewrote replies for 20 high-profile accounts (MrBeast, Rogan, MKBHD, Naval, Mrwhosetheboss, Casey, Meta, Linus, Huberman, Reynolds, Boz, iJustine, Jeff Dean, Kim K, Lex, Vitalik, Snowden, Signal, Garry Tan, Grimes).
+- **Goal:** Removed generic "caliber/intelligence" verbatims. Replaced with highly distinctive, persona-specific tones (e.g., Casey's storytelling focus, Grimes' lowercase/sci-fi style, Vitalik's technical brevity).
+- **Tech:** Updated `DATA_VERSION` to `v3.1.4` to force the new text.
+
 ### **Phase 3.1.3 - The Sovereignty & Culture Apex (Jan 27, 2026)**
 - **Onboarding:** Added **Edward Snowden** (Security validation), **Meredith Whittaker/Signal** (Metadata-less validation), **Garry Tan** (VC/Founder caliber validation), and **Grimes** (Aesthetic/Cyberpunk validation).
 - **Milestone:** Total unique replies reached **56**.
