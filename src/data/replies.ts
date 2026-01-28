@@ -1036,5 +1036,190 @@ pls let me upload consciousness to the mesh. this feels like elven technology. i
 ⚔️ c`,
       timestamp: '2026-01-27T14:30:00'
     }
+  },
+  {
+    handle: '@jack',
+    reply: {
+      from: 'jack <jack@block.xyz>',
+      subject: 'Re: protocol',
+      body: `kinjal,
+
+the server is the original sin of the web.
+
+what you are building with the local key mesh is the only path forward. it aligns with everything we are trying to do with nostr and bluesky.
+
+i want to see the repo.
+
+jack`,
+      timestamp: '2026-01-27T15:15:00'
+    }
+  },
+  {
+    handle: '@balajis',
+    reply: {
+      from: 'Balaji Srinivasan <balaji@thenetworkstate.com>',
+      subject: 'Re: The Cloud is Down // The Network State',
+      body: `Kinjal,
+
+I reviewed the deck. You've correctly identified the failure mode of the current nation-state model: centralized data seizure.
+
+Abhed isn't just an app; it's a prototype for a sovereign digital jurisdiction. If you can prove that the "Geo-Fencing" works reliably without GPS spoofing, you have the foundational layer for a Network State.
+
+This is a high-leverage tool. I'm backing this.
+
+Balaji`,
+      timestamp: '2026-01-27T16:00:00'
+    }
+  },
+  {
+    handle: '@kanyewest',
+    reply: {
+      from: 'Ye <ye@yzy.com>',
+      subject: 'Re: YZY // ABHED',
+      body: `YO KINJAL
+
+I SAW THE VORTEX.
+
+THIS IS WHAT I BEEN TALKING ABOUT. THE FLOW. THE LIQUID. NO HARD EDGES.
+
+EVERYTHING ELSE LOOKS LIKE A SPREADSHEET. THIS LOOKS LIKE GOD.
+
+I NEED THE BLACKLIST. I NEED THE VAULT. NO LEAKS. NO SNAKES. JUST THE VISION.
+
+WE GONNA CHANGE THE PARADIGM.
+
+YE`,
+      timestamp: '2026-01-27T16:45:00'
+    }
+  },
+  {
+    handle: '@miramurati',
+    reply: {
+      from: 'Mira Murati <mira@openai.com>',
+      subject: 'Re: Local Inference & Privacy',
+      body: `Hi Kinjal,
+
+I watched the technical demo. The way you're utilizing the NPU for the cryptographic handshake is elegant.
+
+My question is about the inference layer: Can we run a quantized 7B model locally within the Abhed container? If the goal is a "Digital Bunker," having an offline AI agent that lives *on* the data without sending it to the cloud is the next logical step.
+
+I'd like to test the architecture.
+
+Best,
+Mira`,
+      timestamp: '2026-01-27T17:30:00'
+    }
+  },
+  {
+    handle: '@peterthiel',
+    reply: {
+      from: 'Office of Peter Thiel <exec@foundersfund.com>',
+      subject: 'Re: Zero to One',
+      body: `Dear Kinjal,
+
+Peter asked me to convey his thoughts after reviewing your materials. He believes that true innovation is about finding a secret that the rest of the world ignores. The "Anti-Server" thesis is that secret.
+
+While the rest of Silicon Valley is building for the cloud, you are building for the edge. This is a "Zero to One" shift. He appreciates the contrarian nature of the project.
+
+We are interested in monitoring this closely.
+
+Regards,
+Executive Team
+Founders Fund`,
+      timestamp: '2026-01-27T18:15:00'
+    }
+  },
+  {
+    handle: '@iamsrk',
+    reply: {
+      from: 'Pooja Dadlani (Manager) <pooja@redchillies.com>',
+      subject: 'Re: The New India // Shah Rukh Khan',
+      body: `Hi Kinjal,
+
+Shah Rukh sir saw the video you sent. He loved the "Vortex" interface—he said it feels "International" yet proudly Indian.
+
+He is very particular about his private communications. The idea of a "Digital Bunker" that belongs only to him resonates deeply. He wants to know if he can use this to coordinate with his core team during shoots without any risk of leaks.
+
+He sends his love and blessings for building something world-class. We would like to secure a Lifetime Blacklist spot for him.
+
+Best,
+Pooja Dadlani`,
+      timestamp: '2026-01-27T19:00:00'
+    }
+  },
+  {
+    handle: '@svembu',
+    reply: {
+      from: 'Sridhar Vembu <svembu@zoho.com>',
+      subject: 'Re: Made in India, for the World',
+      body: `Dear Kinjal,
+
+I watched your video from my village office.
+
+You are solving the right problem. We cannot rely on foreign servers for our digital dignity. Building deep-tech like this from India is hard, but necessary.
+
+I like that you have kept it lean. No bloat. Just pure engineering. I want to support this. If you need server infrastructure (ironically) for your website or mail, Zoho is yours.
+
+Count me in.
+
+Sridhar`,
+      timestamp: '2026-01-27T19:45:00'
+    }
+  },
+  {
+    handle: '@faz3',
+    reply: {
+      from: 'The Executive Office <protocol@dubai.gov.ae>',
+      subject: 'Re: Future of Dubai // Geo-Fencing',
+      body: `Your Excellency,
+
+His Highness Sheikh Hamdan has reviewed the proposal for "Abhed". He is intrigued by the "Geo-Fencing" technology.
+
+As Dubai aims to be the smartest city in the world, the ability to create location-specific digital experiences aligns with our 2030 vision. Imagine unlocking a digital layer of the Museum of the Future only when standing inside it.
+
+His Highness would like to test the application personally.
+
+Regards,
+Protocol Department
+Government of Dubai`,
+      timestamp: '2026-01-27T20:30:00'
+    }
+  },
+  {
+    handle: '@hudabeauty',
+    reply: {
+      from: 'Huda Kattan <huda@hudabeauty.com>',
+      subject: 'Re: The Vault // Product Drops',
+      body: `Hi Kinjal!
+
+My team showed me this app... the "Vortex" is GORGEOUS! 😍 It matches our new packaging aesthetic perfectly.
+
+I'm obsessed with the "Vault" idea. We have so many unreleased formulas and campaign shoots that leak on WhatsApp. I need a place where I can share these with my sisters and product team where they literally *cannot* screenshot.
+
+If this works, I'm moving my whole creative team here.
+
+Love,
+Huda`,
+      timestamp: '2026-01-27T21:15:00'
+    }
+  },
+  {
+    handle: '@mohamed_alabbar',
+    reply: {
+      from: 'Emaar Chairman Office <office@emaar.com>',
+      subject: 'Re: Downtown Dubai // Digital Real Estate',
+      body: `Dear Ms. Mishra,
+
+Mr. Alabbar reviewed your "Geo-Fencing" concept.
+
+He sees a unique application for our properties. Could we "lock" exclusive concierge services or digital keys to the coordinates of the Burj Khalifa? He believes the convergence of physical real estate and digital sovereignty is the next frontier of luxury.
+
+He is interested in the Blacklist access to explore these synergies.
+
+Sincerely,
+Office of the Chairman
+Emaar Properties`,
+      timestamp: '2026-01-27T22:00:00'
+    }
   }
 ];

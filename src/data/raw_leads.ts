@@ -1019,4 +1019,14 @@ Vitalik Buterin	Twitter	Canada	English	Tech/Crypto	@VitalikButerin	Mega	vitalik 
 Naval Ravikant	Twitter	USA	English	Philosophy/Tech	@naval	Mega	naval @naval.com
 Edward Snowden	Twitter	Russia	English	Security	@Snowden	Mega	edward @snowden.org
 Signal Messenger	Twitter	USA	English	Security	@signalapp	Mega	meredith @signal.org
-Grimes	Twitter	USA	English	Culture/AI	@Grimezsz	Mega	c @grimezsz.io`;
+Grimes	Twitter	USA	English	Culture/AI	@Grimezsz	Mega	c @grimezsz.io
+Jack Dorsey	Twitter	USA	English	Tech/Bitcoin	@jack	Mega	jack @block.xyz
+Balaji Srinivasan	Twitter	USA	English	Tech/Sovereignty	@balajis	Mega	balaji @thenetworkstate.com
+Ye	Instagram	USA	English	Music/Design	@kanyewest	Mega	ye @yzy.com
+Mira Murati	Twitter	USA	English	Tech/AI	@miramurati	Mega	mira @openai.com
+Peter Thiel	LinkedIn	USA	English	VC/Tech	@peterthiel	Mega	peter @foundersfund.com
+Shah Rukh Khan	Twitter	India	English	Celeb/Icon	@iamsrk	Mega	srk @redchillies.com
+Sridhar Vembu	Twitter	India	English	Tech/Sovereignty	@svembu	Mega	svembu @zoho.com
+Sheikh Hamdan	Instagram	UAE	English	Leadership	@faz3	Mega	faz3 @dubai.gov.ae
+Huda Kattan	Instagram	UAE	English	Beauty/Biz	@hudabeauty	Mega	huda @hudabeauty.com
+Mohamed Alabbar	LinkedIn	UAE	English	Biz/RealEstate	@mohamed_alabbar	Mega	malabbar @emaar.com`;
