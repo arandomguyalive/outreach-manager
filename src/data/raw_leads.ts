@@ -1029,4 +1029,25 @@ Shah Rukh Khan	Twitter	India	English	Celeb/Icon	@iamsrk	Mega	srk @redchillies.co
 Sridhar Vembu	Twitter	India	English	Tech/Sovereignty	@svembu	Mega	svembu @zoho.com
 Sheikh Hamdan	Instagram	UAE	English	Leadership	@faz3	Mega	faz3 @dubai.gov.ae
 Huda Kattan	Instagram	UAE	English	Beauty/Biz	@hudabeauty	Mega	huda @hudabeauty.com
-Mohamed Alabbar	LinkedIn	UAE	English	Biz/RealEstate	@mohamed_alabbar	Mega	malabbar @emaar.com`;
+Mohamed Alabbar	LinkedIn	UAE	English	Biz/RealEstate	@mohamed_alabbar	Mega	malabbar @emaar.com
+Jony Ive	Apple	USA	English	Design/Tech	@lovefrom_jony	Mega	jony @lovefrom.com
+Evan Spiegel	Snapchat	USA	English	Tech/Founder	@evanspiegel	Mega	evan @snap.com
+Jensen Huang	NVIDIA	USA	English	Tech/Hardware	@nvidia_jensen	Mega	jensen @nvidia.com
+Demis Hassabis	DeepMind	UK	English	Tech/AI	@demishassabis	Mega	demis @deepmind.com
+Changpeng Zhao	Binance	UAE	English	Crypto/Tech	@cz_binance	Mega	cz @binance.com
+Narayana Murthy	Infosys	India	English	Tech/Founder	@infosys_nm	Mega	nm @infosys.com
+Bernard Arnault	LVMH	France	English	Luxury/Biz	@lvmh_bernard	Mega	bernard @lvmh.com
+Gwynne Shotwell	SpaceX	USA	English	Tech/Space	@spacex_gwynne	Mega	gwynne @spacex.com
+Ratan Tata Estate	Tata	India	English	Philanthropy	@tata_trusts	Mega	office @tata.com
+Kylian Mbappé	Instagram	France	English	Sports	@k.mbappe	Mega	kylian @psg.com
+Roger Federer	Instagram	Swiss	English	Sports	@rogerfederer	Mega	roger @federer.com
+Cristiano Ronaldo	Instagram	Portugal	English	Sports	@cristiano	Mega	cr7 @alnassr.com
+Dua Lipa	Instagram	UK	English	Music	@dualipa	Mega	dua @dualipa.com
+Shakira	Instagram	Colombia	English	Music	@shakira	Mega	shakira @shakira.com
+Drake	Instagram	Canada	English	Music	@champagnepapi	Mega	aubrey @ovo.com
+Keanu Reeves	Instagram	Canada	English	Actor	@arch_keanu	Mega	keanu @archmoto.com
+Magnus Carlsen	Chess	Norway	English	Strategy	@magnuscarlsen	Mega	magnus @chess.com
+Tim Ferriss	Podcast	USA	English	Productivity	@tferriss	Mega	tim @fourhour.com
+Neil deGrasse Tyson	Science	USA	English	Science	@neiltyson	Mega	neil @hayden.com
+Greta Thunberg	Twitter	Sweden	English	Activism	@gretathunberg	Mega	greta @fridays.com
+Elie Saab	Fashion	Lebanon	English	Fashion	@eliesaabworld	Mega	elie @eliesaab.com`;

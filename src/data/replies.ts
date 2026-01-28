@@ -1213,5 +1213,365 @@ Office of the Chairman
 Emaar Properties`,
       timestamp: '2026-01-27T22:00:00'
     }
+  },
+  {
+    handle: '@lovefrom_jony',
+    reply: {
+      from: 'Jony Ive <jony@lovefrom.com>',
+      subject: 'Re: Integrity',
+      body: \`Kinjal,
+
+I have spent my life obsessing over the integrity of objects.
+
+Software usually feels fragile. It feels like layers of paint over a hollow core. But what you have built... it feels solid. The "Vortex" interface doesn't just display information; it feels like a singular, machined object.
+
+You have managed to make code feel like aluminium. It is inevitable.
+
+Jony\`,
+      timestamp: '2026-01-28T09:15:00'
+    }
+  },
+  {
+    handle: '@evanspiegel',
+    reply: {
+      from: 'Evan Spiegel <evan@snap.com>',
+      subject: 'Re: The Camera as Server',
+      body: \`Hi Kinjal,
+
+We spent years trying to convince the world that the camera is the keyboard.
+
+You have gone a step further. You have made the camera the server. The way Abhed uses the lens for the cryptographic handshake is the most natural evolution of ephemerality I have seen since we launched Stories.
+
+I'd love to see how this scales. Enroll me.
+
+Evan\`,
+      timestamp: '2026-01-28T10:00:00'
+    }
+  },
+  {
+    handle: '@nvidia_jensen',
+    reply: {
+      from: 'Jensen Huang <jensen@nvidia.com>',
+      subject: 'Re: Inference Speed // Beautiful Math',
+      body: \`Kinjal,
+
+I looked at your encryption benchmarks.
+
+You are doing on a smartphone processor what we usually reserve for data centers. The local inference speed... it is not magic, it is math. Beautiful math.
+
+The more we push compute to the edge, the more sovereign the user becomes. You are riding the correct wave. I want to see this running on our new mobile chips.
+
+Jensen\`,
+      timestamp: '2026-01-28T10:45:00'
+    }
+  },
+  {
+    handle: '@demishassabis',
+    reply: {
+      from: 'Demis Hassabis <demis@deepmind.com>',
+      subject: 'Re: Alpha-level Strategy',
+      body: \`Hi Kinjal,
+
+The architecture is elegant.
+
+Most systems optimize for connectivity. You have optimized for isolation. It is a counter-intuitive move, but in a world of abundant surveillance, silence is the alpha-level strategy.
+
+Your local inference engine is finding paths we haven't seen before. I am curious to test the boundaries of this "Digital Clean Room".
+
+Demis\`,
+      timestamp: '2026-01-28T11:30:00'
+    }
+  },
+  {
+    handle: '@cz_binance',
+    reply: {
+      from: 'CZ <cz@binance.com>',
+      subject: 'Re: Unstoppable',
+      body: \`Kinjal,
+
+They can shut down servers. They can seize domains. They cannot shut down people.
+
+Abhed is infrastructure for the new world. If the handshake is truly peer-to-peer, you have built the first unstoppable social layer. This is the way to true freedom.
+
+I am in.
+
+CZ\`,
+      timestamp: '2026-01-28T12:15:00'
+    }
+  },
+  {
+    handle: '@infosys_nm',
+    reply: {
+      from: 'Narayana Murthy <nm@infosys.com>',
+      subject: 'Re: Sweat Equity',
+      body: \`Dear Kinjal,
+
+I see the details in your work.
+
+This level of polish—the fluid animations, the cryptographic depth—it does not come from a 40-hour work week. This looks like 70, maybe 80 hours of relentless focus. I respect the sweat equity you have poured into this.
+
+You are not just building an app; you are building digital infrastructure for the nation. I would be proud to support this.
+
+Regards,
+NRN\`,
+      timestamp: '2026-01-28T13:00:00'
+    }
+  },
+  {
+    handle: '@lvmh_bernard',
+    reply: {
+      from: 'Office of Bernard Arnault <ba@lvmh.com>',
+      subject: 'Re: Objects of Desire',
+      body: \`Mademoiselle Mishra,
+
+At LVMH, we do not sell products. We sell desire.
+
+Tech is usually utilitarian. But this "Vortex"... it has romance. It creates a feeling of exclusivity that cannot be manufactured, only designed. You have finally built true Digital Scarcity.
+
+We are interested in the Blacklist for our private client relations.
+
+Bernard Arnault\`,
+      timestamp: '2026-01-28T13:45:00'
+    }
+  },
+  {
+    handle: '@spacex_gwynne',
+    reply: {
+      from: 'Gwynne Shotwell <gwynne@spacex.com>',
+      subject: 'Re: Interplanetary Comms',
+      body: \`Hi Kinjal,
+
+Elon showed me the specs.
+
+If we are going to Mars, we can't ping Earth servers for every message. The latency would kill the conversation. We need a mesh network that works locally, regardless of the planet.
+
+Your p2p architecture is accidentally interplanetary ready. That's the kind of redundancy we like. Sign me up.
+
+Gwynne\`,
+      timestamp: '2026-01-28T14:30:00'
+    }
+  },
+  {
+    handle: '@tata_trusts',
+    reply: {
+      from: 'Office of Ratan Tata (Estate) <office@tata.com>',
+      subject: 'Re: Technology with a Conscience',
+      body: \`Dear Kinjal,
+
+Mr. Tata always believed that technology should elevate the human spirit, not commodify it.
+
+He would have been proud to see a young Indian woman building a tool that protects the dignity of the common man. It is rare to see technology with a conscience. Build for the people, and the value will follow.
+
+You have our blessings and our support.
+
+Tata Trusts\`,
+      timestamp: '2026-01-28T15:15:00'
+    }
+  },
+  {
+    handle: '@k.mbappe',
+    reply: {
+      from: 'Kylian Mbappé <kylian@psg.com>',
+      subject: 'Re: Zero Lag',
+      body: \`Kinjal,
+
+I need speed.
+
+On the pitch, zero lag. In my life, zero leaks. I want my inner circle to be on this. If the "Vortex" is as fast as you say, I am in.
+
+Let's go. 🐢
+
+Kylian\`,
+      timestamp: '2026-01-28T16:00:00'
+    }
+  },
+  {
+    handle: '@rogerfederer',
+    reply: {
+      from: 'Roger Federer <roger@federer.com>',
+      subject: 'Re: Elegance',
+      body: \`Hi Kinjal,
+
+I watched the demo.
+
+There is a fluidity to the interface... it reminds me of a one-handed backhand. Effortless power. Most apps feel like work. This feels like play.
+
+I would love to use this for my foundation team. Effortless is always best.
+
+Best,
+Roger\`,
+      timestamp: '2026-01-28T16:45:00'
+    }
+  },
+  {
+    handle: '@cristiano',
+    reply: {
+      from: 'Cristiano Ronaldo <cr7@alnassr.com>',
+      subject: 'Re: The Best',
+      body: \`Kinjal,
+
+I know what it takes to be Number 1.
+
+The discipline. The focus. I see it in this code. It is elite. No distractions. Just the goal.
+
+Siii.
+
+CR7\`,
+      timestamp: '2026-01-28T17:30:00'
+    }
+  },
+  {
+    handle: '@dualipa',
+    reply: {
+      from: 'Dua Lipa <dua@dualipa.com>',
+      subject: 'Re: Levitating // The Vibe',
+      body: \`Hey Kinjal!
+
+The vibe is electric. ⚡️
+
+It doesn't feel like an app, it feels like a club. A private one where the lights are low and the music is loud, but no one can hear it outside.
+
+I need this for my tour crew. No leaks. Just us.
+
+Love,
+Dua\`,
+      timestamp: '2026-01-28T18:15:00'
+    }
+  },
+  {
+    handle: '@shakira',
+    reply: {
+      from: 'Shakira <shakira@shakira.com>',
+      subject: 'Re: Truth',
+      body: \`Hola Kinjal,
+
+Data doesn't lie.
+
+In a world of noise, this feels honest. A place where I can just be myself without performing for the cameras. It feels like a private confessional.
+
+I'm ready to join.
+
+Shakira\`,
+      timestamp: '2026-01-28T19:00:00'
+    }
+  },
+  {
+    handle: '@champagnepapi',
+    reply: {
+      from: 'Drake <aubrey@ovo.com>',
+      subject: 'Re: Inner Circle',
+      body: \`Kinjal,
+
+Top boy behavior.
+
+This is for the inner circle only. No opps allowed. The "Vault" is exactly what I need for the studio sessions. If it ain't encrypted, it ain't OVO.
+
+Lock me in.
+
+Drizzy\`,
+      timestamp: '2026-01-28T19:45:00'
+    }
+  },
+  {
+    handle: '@arch_keanu',
+    reply: {
+      from: 'Keanu Reeves <keanu@archmoto.com>',
+      subject: 'Re: Wake Up',
+      body: \`Kinjal,
+
+Wake up, Samurai. We have a server to burn.
+
+The Matrix is watching, but this code feels like the exit.
+
+This is breathtaking.
+
+Keanu\`,
+      timestamp: '2026-01-28T20:30:00'
+    }
+  },
+  {
+    handle: '@magnuscarlsen',
+    reply: {
+      from: 'Magnus Carlsen <magnus@chess.com>',
+      subject: 'Re: Endgame',
+      body: \`Hi Kinjal,
+
+I see 20 moves ahead.
+
+The current game of surveillance capitalism is a losing position for the user. Your architecture... it is checkmate. You have removed the king (the server) from the board entirely.
+
+Brilliant move.
+
+Magnus\`,
+      timestamp: '2026-01-28T21:15:00'
+    }
+  },
+  {
+    handle: '@tferriss',
+    reply: {
+      from: 'Tim Ferriss <tim@fourhour.com>',
+      subject: 'Re: Deep Work // The Sanctuary',
+      body: \`Kinjal,
+
+The "Cognitive Offramp" concept is the only way to survive the AI noise.
+
+We are drowning in interruptions. An app that is designed to be *quiet*? That respects my attention span? That is a productivity tool, not just a social network.
+
+I'm interested in the notification shielding protocols.
+
+Tim\`,
+      timestamp: '2026-01-28T22:00:00'
+    }
+  },
+  {
+    handle: '@neiltyson',
+    reply: {
+      from: 'Neil deGrasse Tyson <neil@hayden.com>',
+      subject: 'Re: Cosmic Topology',
+      body: \`Kinjal,
+
+The network topology... it looks like a galaxy.
+
+Stars connecting without a center. Gravity holding it together, but no single point of failure. It is beautifully decentralized, just like the universe itself.
+
+Keep looking up.
+
+Neil\`,
+      timestamp: '2026-01-28T22:45:00'
+    }
+  },
+  {
+    handle: '@gretathunberg',
+    reply: {
+      from: 'Greta Thunberg <greta@fridays.com>',
+      subject: 'Re: How Dare You (Fix This)',
+      body: \`Kinjal,
+
+No server farms? No massive cooling towers?
+
+Finally, tech that doesn't boil the ocean. The energy efficiency of local compute is the only sustainable future. Thank you for not just talking about it, but building it.
+
+I support this.
+
+Greta\`,
+      timestamp: '2026-01-28T23:30:00'
+    }
+  },
+  {
+    handle: '@eliesaabworld',
+    reply: {
+      from: 'Elie Saab <elie@eliesaab.com>',
+      subject: 'Re: Digital Couture',
+      body: \`Dear Kinjal,
+
+It has texture.
+
+The blur, the glass, the way the light hits the "Vortex"... it is digital couture. It feels woven, not coded. You have brought the atelier to the screen.
+
+Simply magnificent.
+
+Elie Saab\`,
+      timestamp: '2026-01-29T09:00:00'
+    }
   }
 ];
