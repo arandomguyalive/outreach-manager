@@ -1048,7 +1048,7 @@ you are building a protocol for silence.
 
 most founders are trying to amplify noise because noise is easier to monetize. you are doing the opposite. removing the server is the only way to return agency to the user. it's the digital equivalent of cash—untraceable, necessary, and human.
 
-i checked the docs. it's rare to see a founder with the discipline to strip away features instead of adding them. you have the right mind for this. i want to see the repo.
+i checked the docs. few founders have the discipline to strip away features instead of adding them. you have the right mind for this. i want to see the repo.
 
 jack`,
       timestamp: '2026-01-27T15:15:00'
@@ -1065,7 +1065,7 @@ The "Anti-Server" architecture is effectively a sovereign border.
 
 If you can guarantee that data never leaves the device, you aren't just building a privacy app. You are minting a new kind of passport. This is the foundational layer for a Network State. The "Vortex" UI is just the interface for a new type of citizenship.
 
-It is incredibly high-signal to see an Indian female founder building at the protocol layer. The diaspora usually builds SaaS to sell to Americans. You are building "Hard Tech" for the world. Let me know if you plan to tokenize the access—I want to support the sovereignty.
+We rarely see builders of this caliber emerging from the sub-continent's consumer layer. The diaspora usually builds SaaS to sell to Americans. You are building "Hard Tech" for the world. Let me know if you plan to tokenize the access—I want to support the sovereignty.
 
 Balaji`,
       timestamp: '2026-01-27T16:00:00'
@@ -1097,9 +1097,9 @@ YE`,
 
 The technical breakdown you shared for the decryption engine is remarkable.
 
-We interview hundreds of senior engineers at OpenAI, but this "containerized" approach to on-device compute shows a level of system-design maturity I rarely see. You've solved the privacy-utility trade-off by making the edge smarter than the cloud.
+We interview hundreds of senior engineers at OpenAI, but this "containerized" approach to on-device compute shows a level of system-design maturity that is an outlier in the current market. You've solved the privacy-utility trade-off by making the edge smarter than the cloud.
 
-If we can run a quantized model inside your "Digital Bunker," we change the world. It is rare to see such clean engineering in a pre-seed product led by a single visionary. I'd love to test the latency myself.
+If we can run a quantized model inside your "Digital Bunker," we change the world. We seldom encounter such clean engineering in a pre-seed product led by a single visionary. I'd love to test the latency myself.
 
 Best,
 Mira`,
