@@ -1227,6 +1227,7 @@ Software usually feels fragile. It feels like layers of paint over a hollow core
 
 You have managed to make code feel like aluminium. It is inevitable.
 
+Best,
 Jony`,
       timestamp: '2026-01-28T09:15:00'
     }
@@ -1242,8 +1243,9 @@ We spent years trying to convince the world that the camera is the keyboard.
 
 You have gone a step further. You have made the camera the server. The way Abhed uses the lens for the cryptographic handshake is the most natural evolution of ephemerality I have seen since we launched Stories.
 
-I'd love to see how this scales. Enroll me.
+I'd love to see how this scales.
 
+Best,
 Evan`,
       timestamp: '2026-01-28T10:00:00'
     }
@@ -1260,6 +1262,8 @@ I looked at your encryption benchmarks.
 You are doing on a smartphone processor what we usually reserve for data centers. The local inference speed... it is not magic, it is math. Beautiful math.
 
 The more we push compute to the edge, the more sovereign the user becomes. You are riding the correct wave. I want to see this running on our new mobile chips.
+
+Let's build.
 
 Jensen`,
       timestamp: '2026-01-28T10:45:00'
@@ -1278,7 +1282,8 @@ Most systems optimize for connectivity. You have optimized for isolation. It is 
 
 Your local inference engine is finding paths we haven't seen before. I am curious to test the boundaries of this "Digital Clean Room".
 
-Demis`,
+Best,
+Demis Hassabis`,
       timestamp: '2026-01-28T11:30:00'
     }
   },
@@ -1293,7 +1298,7 @@ They can shut down servers. They can seize domains. They cannot shut down people
 
 Abhed is infrastructure for the new world. If the handshake is truly peer-to-peer, you have built the first unstoppable social layer. This is the way to true freedom.
 
-I am in.
+Let's talk.
 
 CZ`,
       timestamp: '2026-01-28T12:15:00'
@@ -1330,6 +1335,7 @@ Tech is usually utilitarian. But this "Vortex"... it has romance. It creates a f
 
 We are interested in the Blacklist for our private client relations.
 
+Sincerely,
 Bernard Arnault`,
       timestamp: '2026-01-28T13:45:00'
     }
@@ -1345,8 +1351,9 @@ Elon showed me the specs.
 
 If we are going to Mars, we can't ping Earth servers for every message. The latency would kill the conversation. We need a mesh network that works locally, regardless of the planet.
 
-Your p2p architecture is accidentally interplanetary ready. That's the kind of redundancy we like. Sign me up.
+Your p2p architecture is accidentally interplanetary ready. That's the kind of redundancy we like.
 
+Best,
 Gwynne`,
       timestamp: '2026-01-28T14:30:00'
     }
@@ -1379,9 +1386,9 @@ I need speed.
 
 On the pitch, zero lag. In my life, zero leaks. I want my inner circle to be on this. If the "Vortex" is as fast as you say, I am in.
 
-Let's go. 🐢
+My team will be in touch.
 
-Kylian`,
+Kylian Mbappé`,
       timestamp: '2026-01-28T16:00:00'
     }
   },
@@ -1398,7 +1405,7 @@ There is a fluidity to the interface... it reminds me of a one-handed backhand. 
 
 I would love to use this for my foundation team. Effortless is always best.
 
-Best,
+Warmly,
 Roger`,
       timestamp: '2026-01-28T16:45:00'
     }
@@ -1414,7 +1421,7 @@ I know what it takes to be Number 1.
 
 The discipline. The focus. I see it in this code. It is elite. No distractions. Just the goal.
 
-Siii.
+My manager will handle the details.
 
 CR7`,
       timestamp: '2026-01-28T17:30:00'
@@ -1433,7 +1440,7 @@ It doesn't feel like an app, it feels like a club. A private one where the light
 
 I need this for my tour crew. No leaks. Just us.
 
-Love,
+x
 Dua`,
       timestamp: '2026-01-28T18:15:00'
     }
@@ -1449,8 +1456,7 @@ Data doesn't lie.
 
 In a world of noise, this feels honest. A place where I can just be myself without performing for the cameras. It feels like a private confessional.
 
-I'm ready to join.
-
+Un abrazo,
 Shakira`,
       timestamp: '2026-01-28T19:00:00'
     }
@@ -1466,9 +1472,9 @@ Top boy behavior.
 
 This is for the inner circle only. No opps allowed. The "Vault" is exactly what I need for the studio sessions. If it ain't encrypted, it ain't OVO.
 
-Lock me in.
+My team will reach out.
 
-Drizzy`,
+Aubrey`,
       timestamp: '2026-01-28T19:45:00'
     }
   },
@@ -1485,7 +1491,8 @@ The Matrix is watching, but this code feels like the exit.
 
 This is breathtaking.
 
-Keanu`,
+Best,
+Keanu Reeves`,
       timestamp: '2026-01-28T20:30:00'
     }
   },
@@ -1499,8 +1506,6 @@ Keanu`,
 I see 20 moves ahead.
 
 The current game of surveillance capitalism is a losing position for the user. Your architecture... it is checkmate. You have removed the king (the server) from the board entirely.
-
-Brilliant move.
 
 Magnus`,
       timestamp: '2026-01-28T21:15:00'
@@ -1519,6 +1524,7 @@ We are drowning in interruptions. An app that is designed to be *quiet*? That re
 
 I'm interested in the notification shielding protocols.
 
+Pura Vida,
 Tim`,
       timestamp: '2026-01-28T22:00:00'
     }
@@ -1551,8 +1557,7 @@ No server farms? No massive cooling towers?
 
 Finally, tech that doesn't boil the ocean. The energy efficiency of local compute is the only sustainable future. Thank you for not just talking about it, but building it.
 
-I support this.
-
+In solidarity,
 Greta`,
       timestamp: '2026-01-28T23:30:00'
     }
@@ -1570,6 +1575,7 @@ The blur, the glass, the way the light hits the "Vortex"... it is digital coutur
 
 Simply magnificent.
 
+Yours,
 Elie Saab`,
       timestamp: '2026-01-29T09:00:00'
     }
