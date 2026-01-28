@@ -1700,7 +1700,7 @@ Microsoft Executive Correspondence`,
     reply: {
       from: 'Jordan Management <mgmt@jordan.com>',
       subject: 'Re: Excellence // The Mental Game',
-      body: \`Kinjal,
+      body: `Kinjal,
 
 Michael reviewed the demo. He doesn't look at many apps, but he recognizes "The Zone" when he sees it.
 
@@ -1710,7 +1710,7 @@ He needs a place where he can coordinate his ventures without the noise. We are 
 
 Best,
 Estee Portnoy
-Manager, Michael Jordan\`,
+Manager, Michael Jordan`,
       timestamp: '2026-01-29T14:00:00'
     }
   },
