@@ -7,7 +7,7 @@
     - **Sridhar Vembu:** Now opens with a location marker ("Writing this from Tenkasi"), grounding his reply in his rural tech philosophy.
     - **Peter Thiel:** Opens with a contrarian aphorism ("Competition is for losers"), bypassing pleasantries entirely.
     - **Shah Rukh Khan:** Opens with a philosophical statement about fame ("Silence is a luxury"), shifting focus from the product to the *feeling*.
-    - **Mira Murati:** Jumps directly into technical validation ("The NPU efficiency graphs..."), removing the preamble.
+    - **Mira Murati:** Jumps directly into technical validation ("The NPU implementation details..."), removing the preamble.
 - **Cache Refresh (v3.1.7):** Forced version update to apply the structurally diverse text.
 
 ## [Phase 3.1.6 - The Persona Fidelity Update] - 2026-01-27

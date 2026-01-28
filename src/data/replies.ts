@@ -817,9 +817,9 @@ Meta Operations`,
       subject: 'Re: Hardware-level Encryption? // The Blacklist',
       body: `Hey Kinjal,
 
-So, I was ready to roast this as another "secure" telegram clone, but then I saw the NPU utilization graph in your demo.
+So, I was ready to roast this as another "secure" telegram clone, but the way you're offloading the decryption to the neural engine in that demo is actually surprising.
 
-You're actually offloading the decryption to the neural engine? That is... surprisingly legit. Most devs are too lazy to optimize for that. If this doesn't turn my phone into a hand-warmer, color me impressed.
+Most devs are too lazy to optimize for that. If this doesn't turn my phone into a hand-warmer, color me impressed.
 
 I want to get this into the Labs and throw some packet sniffers at it. Sign me up.
 
@@ -1101,7 +1101,7 @@ YE`,
       subject: 'Re: Local Inference & Privacy',
       body: `Hi Kinjal,
 
-The NPU efficiency graphs you shared are remarkable.
+The NPU implementation details you shared for the decryption engine are remarkable.
 
 We are constantly exploring how to bring intelligence to the edge. Your architecture—a container that handles both cryptographic handshakes and potentially local inference—is a significant win.
 
