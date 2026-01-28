@@ -225,7 +225,7 @@ Send the Blacklist invite, I'm ready to join.
 
 Gaurav sir watched the technical breakdown in the Google Drive video you shared. He was quite impressed by the demonstration of 'Local Key Generation' on the device itself. That is a very high standard of security.
 
-He is interested in enrolling in the Blacklist tier to personally test the app. Specifically, he wants to check the battery optimization impact of the local encryption engine on flagship devices. Did you optimize for NPU usage?
+He is interested in enrolling in the Blacklist tier to personally test the app. Specifically, he wants to check the battery optimization impact of the local encryption engine on flagship devices. Did you optimize for low-power compute?
 
 It is a proud moment to see such advanced cryptography being implemented by an Indian team, and especially led by a female engineer. Please share the invoice for enrollment.
 
@@ -665,12 +665,12 @@ Aman`,
     handle: '@craig_apple',
     reply: {
       from: 'Craig Federighi <craig@apple.com>',
-      subject: 'Re: On-Device Compute & NPU Usage',
+      subject: 'Re: On-Device Compute & Performance',
       body: `Hi Kinjal,
 
 I normally don't respond to external inquiries, but your 'App Tour' circulated among a few of us here in Cupertino.
 
-The way you are leveraging the Neural Engine (NPU) for real-time decryption without impacting the UI frame rate is impressive work. We constantly talk about "Privacy is a fundamental human right," and seeing a sovereign implementation like this is validating.
+The way you are leveraging on-device compute for real-time decryption without impacting the UI frame rate is impressive work. We constantly talk about "Privacy is a fundamental human right," and seeing a sovereign implementation like this is validating.
 
 I'd be interested to know if you are using Metal for the 'Vortex' rendering layer. The uncompromising focus on both the 'how' (engineering) and the 'why' (design/privacy) reminds me of the early days here with Steve. Your vision for Abhed carries that same Jobsian spirit—building something so right that it feels inevitable.
 
@@ -731,7 +731,7 @@ Matte black everything? Check.
 Haptic feedback that actually feels tactile? Check.
 120Hz smooth animations? Check.
 
-But the real question I have is about the battery impact. If you're running all this decryption locally on the NPU, what does that do to my SOT (Screen On Time)? I'd love to run a drain test on this vs standard apps.
+But the real question I have is about the battery impact. If you're running all this decryption locally on-device, what does that do to my SOT (Screen On Time)? I'd love to run a drain test on this vs standard apps.
 
 I'm definitely interested in the Blacklist access. Let's see if the tech holds up to the aesthetics.
 
@@ -817,9 +817,9 @@ Meta Operations`,
       subject: 'Re: Hardware-level Encryption? // The Blacklist',
       body: `Hey Kinjal,
 
-So, I was ready to roast this as another "secure" telegram clone, but the way you're offloading the decryption to the neural engine in that demo is actually surprising.
+So, I was ready to roast this as another "secure" telegram clone, but the way you're handling the on-device decryption in that demo is actually surprising.
 
-Most devs are too lazy to optimize for that. If this doesn't turn my phone into a hand-warmer, color me impressed.
+Most devs are too lazy to optimize for local compute like that. If this doesn't turn my phone into a hand-warmer, color me impressed.
 
 I want to get this into the Labs and throw some packet sniffers at it. Sign me up.
 
@@ -901,12 +901,12 @@ Justine`,
     handle: '@jeffdean',
     reply: {
       from: 'Jeff Dean <jeff@google.com>',
-      subject: 'Re: Peer-to-Peer Logic & NPU Efficiency',
+      subject: 'Re: Peer-to-Peer Logic & Performance',
       body: `Hi Kinjal,
 
 I reviewed your notes on the distributed handshake.
 
-Leveraging the NPU for real-time decryption is the correct approach for mobile-first privacy, though rarely implemented due to complexity. Your handling of the forward secrecy keys is interesting.
+Leveraging local compute for real-time decryption is the correct approach for mobile-first privacy, though rarely implemented due to complexity. Your handling of the forward secrecy keys is interesting.
 
 I'd like to see how the mesh behaves under partition. Enroll me in the alpha.
 
@@ -1101,7 +1101,7 @@ YE`,
       subject: 'Re: Local Inference & Privacy',
       body: `Hi Kinjal,
 
-The NPU implementation details you shared for the decryption engine are remarkable.
+The technical breakdown you shared for the decryption engine is remarkable.
 
 We are constantly exploring how to bring intelligence to the edge. Your architecture—a container that handles both cryptographic handshakes and potentially local inference—is a significant win.
 

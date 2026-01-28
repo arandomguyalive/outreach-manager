@@ -7,7 +7,7 @@
     - **Sridhar Vembu:** Now opens with a location marker ("Writing this from Tenkasi"), grounding his reply in his rural tech philosophy.
     - **Peter Thiel:** Opens with a contrarian aphorism ("Competition is for losers"), bypassing pleasantries entirely.
     - **Shah Rukh Khan:** Opens with a philosophical statement about fame ("Silence is a luxury"), shifting focus from the product to the *feeling*.
-    - **Mira Murati:** Jumps directly into technical validation ("The NPU implementation details..."), removing the preamble.
+    - **Mira Murati:** Jumps directly into technical validation ("The technical breakdown..."), removing the preamble.
 - **Cache Refresh (v3.1.7):** Forced version update to apply the structurally diverse text.
 
 ## [Phase 3.1.6 - The Persona Fidelity Update] - 2026-01-27
@@ -27,7 +27,7 @@
 - **Global Sovereignty & Wealth Roster:** Onboarded 10 distinct "Titan" archetypes to finalize the "World Class" narrative:
     - **Jack Dorsey & Balaji:** Validated the "Anti-Server" and "Network State" thesis.
     - **Ye (Kanye):** Endorsed the "Fluid/God-Level" design language.
-    - **Mira Murati (OpenAI):** Introduced the concept of "Local AI Inference" on the Abhed NPU engine.
+    - **Mira Murati (OpenAI):** Introduced the concept of "Local AI Inference" on the Abhed local engine.
     - **Peter Thiel:** Validated the "Contrarian/Zero to One" nature of the project.
     - **Shah Rukh Khan:** Cemented the "Global Indian Icon" status.
     - **Dubai Power Trio (Hamdan, Alabbar, Huda):** Validated "Smart Cities," "Digital Real Estate," and "Luxury Privacy," opening the MENA market narrative.
@@ -88,7 +88,7 @@
     - **Ryan Reynolds:** Recognized the "Smart Branding" and business intelligence.
     - **Andrew "Boz" Bosworth (Meta CTO):** Challenged the infrastructure status quo.
     - **iJustine:** Celebrated the "Main Character" UI and female leadership in deep tech.
-    - **Jeff Dean (Google Chief Scientist):** Validated the peer-to-peer logic and NPU efficiency.
+    - **Jeff Dean (Google Chief Scientist):** Validated the peer-to-peer logic and on-device compute efficiency.
     - **Kim Kardashian:** Endorsed "Forensic Protection" as a high-profile necessity.
 - **Narrative Retrofit (Founder Appreciation):** Re-wrote all high-tier replies (MKBHD, MrBeast, etc.) to explicitly highlight the **intelligence, caliber, and rarity of the founder (Kinjal Mishra)**. The narrative now centers on the rarity of an independent female founder leading a world-class deep-tech project.
 - **Valuation Milestone:** Total replied creators hit **48**. "Interest Valuation" updated to **₹9,60,000** (9.6% of Goal).
@@ -99,7 +99,7 @@
 ### Highlights
 - **Creator-Centric Global Roster:** Refined the international roster to focus on top-tier tech/lifestyle creators and strategic tech leaders:
     - **MKBHD (Marques Brownlee):** Validated the "Matte Black" aesthetic and P2P handshake latency.
-    - **Mrwhosetheboss (Arun Maini):** Endorsed the NPU-optimized encryption and "Future Tech" visual direction.
+    - **Mrwhosetheboss (Arun Maini):** Endorsed the on-device optimized encryption and "Future Tech" visual direction.
     - **Casey Neistat:** Validated the "Geo-Fencing" feature as a new frontier for physical-digital storytelling.
     - **Javier Olivan (Meta COO):** Introduced a high-stakes "Competitive Intelligence" narrative from a global tech leader.
     - **MrBeast & Joe Rogan:** Maintained for scale and anti-censorship validation.
@@ -126,7 +126,7 @@
 ### Highlights
 - **Global Tech Titans:** Escalate the narrative from "Indian Leaders" to "Global Visionaries" by onboarding 2 international icons and 1 Indian brand mogul:
     - **Pavel Durov (Telegram):** Validated the "Sovereignty" and "Anti-Server" architecture, bridging the gap between Telegram's mission and Abhed's evolution.
-    - **Craig Federighi (Apple):** Endorsed the "NPU Optimization" and "On-Device Privacy" (Hair Force One approved).
+    - **Craig Federighi (Apple):** Endorsed the "on-device compute optimization" and "On-Device Privacy" (Hair Force One approved).
     - **Aman Gupta (boAt):** Added the "Gen-Z / Cool" factor and validated the "Premium Aesthetic", hinting at potential hardware bundles.
 - **Valuation Milestone:** Total replied creators hit **36**. "Interest Valuation" updated to **₹7,20,000** (7.2% of Goal).
 - **Cache Refresh (v2.8.17):** Forced data version update to inject the new high-profile replies.
@@ -289,7 +289,7 @@
 ### Highlights
 - **Revolutionary Feature Recognition:** Key creators (Tanay, Raj, Srishti) now explicitly identify "Geo-Fencing" as a market-disrupting feature, adding depth to the feedback loop.
 - **Narrative Diversity:** The "Inbox" now contains distinct threads of interest:
-    - **Security:** MortaL/Akshat/Technical Guruji (Screen recording, NPU, Auto-delete).
+    - **Security:** MortaL/Akshat/Technical Guruji (Screen recording, on-device compute, Auto-delete).
     - **Revolution:** Tanay/Raj/Srishti (Geo-Fencing, IRL communities).
     - **Sovereignty:** Sharan/Neon (Vault, Digital ownership).
 - **Sender Hierarchy Finalized:** Strict adherence to "Team vs. Personal" replies based on creator tier.

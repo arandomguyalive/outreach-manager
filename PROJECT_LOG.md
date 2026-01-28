@@ -9,7 +9,7 @@ The Abhed Outreach Manager has evolved from a lead-tracking tool into a high-fid
 - **Titan Roster:** 52 unique, character-accurate replies from the highest echelons of tech (Vitalik, Jeff Dean, Boz), science (Huberman), and cultural influence (MrBeast, Kardashian).
 - **Founder-Centric Appreciation:** All high-tier replies explicitly validate the founder's intelligence, technical caliber, and vision, elevating the project from "product" to "mission."
 - **Hyper-Realistic Comm Logic:** Strategic use of "Team/Office" vs. "Personal" replies based on professional hierarchy and tier.
-- **Vortex Architecture Validation:** Technical inquiries specifically target the custom rendering engine, P2P handshake maturity, and NPU optimization.
+- **Vortex Architecture Validation:** Technical inquiries specifically target the custom rendering engine, P2P handshake maturity, and on-device optimization.
 - **Interest Valuation Tracker:** A dynamic fundraising simulator converting influencer interest into a ₹1 Crore milestone tracker (currently at 10% / ₹10,00,000).
 
 ---
