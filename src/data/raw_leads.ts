@@ -1050,4 +1050,18 @@ Magnus Carlsen	Chess	Norway	English	Strategy	@magnuscarlsen	Mega	magnus @chess.c
 Tim Ferriss	Podcast	USA	English	Productivity	@tferriss	Mega	tim @fourhour.com
 Neil deGrasse Tyson	Science	USA	English	Science	@neiltyson	Mega	neil @hayden.com
 Greta Thunberg	Twitter	Sweden	English	Activism	@gretathunberg	Mega	greta @fridays.com
-Elie Saab	Fashion	Lebanon	English	Fashion	@eliesaabworld	Mega	elie @eliesaab.com`;
+Elie Saab	Fashion	Lebanon	English	Fashion	@eliesaabworld	Mega	elie @eliesaab.com
+Uday Kotak	Kotak Bank	India	English	Finance/Founder	@udaykotak	Mega	office @kotak.com
+Falguni Nayar	Nykaa	India	English	E-com/Founder	@falguninayar	Mega	office @nykaa.com
+Nandan Nilekani	Infosys	India	English	Tech/DPI	@nandannilekani	Mega	nandan @infosys.com
+Ritesh Agarwal	OYO	India	English	Hospitality/Founder	@riteshagar	Mega	ritesh @oyo.com
+Satya Nadella	Microsoft	USA	English	Tech/CEO	@satyanadella	Mega	office @microsoft.com
+Michael Jordan	Jordan	USA	English	Sports/Brand	@jumpman23	Mega	mgmt @jordan.com
+Gigi Hadid	Instagram	USA	English	Fashion	@gigihadid	Mega	team @gigihadid.com
+David Beckham	Instagram	UK	English	Sports/Style	@davidbeckham	Mega	office @beckhamventures.com
+Lewis Hamilton	Instagram	UK	English	F1/Activism	@lewishamilton	Mega	team @lewishamilton.com
+J.K. Rowling	Twitter	UK	English	Author	@jk_rowling	Mega	office @jkrowling.com
+Richard Branson	Virgin	UK	English	Biz/Disruption	@richardbranson	Mega	office @virgin.com
+Miuccia Prada	Prada	Italy	English	Fashion	@prada_official	Mega	mgmt @prada.com
+Ren Zhengfei	Huawei	China	English	Tech/Hardware	@huawei_ren	Mega	corp @huawei.com
+Queen Rania	Instagram	Jordan	English	Royalty/Tech	@queenrania	Mega	court @rhc.jo`;

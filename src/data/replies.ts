@@ -1601,5 +1601,263 @@ Yours,
 Elie Saab`,
       timestamp: '2026-01-29T09:00:00'
     }
+  },
+  {
+    handle: '@udaykotak',
+    reply: {
+      from: 'Office of Uday Kotak <office@kotak.com>',
+      subject: 'Re: Financial Sovereignty // The Abhed Protocol',
+      body: `Dear Kinjal,
+
+Mr. Kotak has reviewed your technical overview of the "Anti-Server" architecture.
+
+In banking, we often say that trust is the only asset that doesn't appear on the balance sheet, but it's the one that determines its value. By removing the central relay, you are effectively creating a "Trustless Trust" infrastructure. This is a significant leap for Indian financial sovereignty.
+
+He is particularly interested in the DPDP compliance aspect. If the keys are truly sovereign to the user, you have solved a massive regulatory headache for premium wealth management. We would like to discuss a potential pilot for our internal Sovereign Desk.
+
+Regards,
+Executive Secretariat
+Office of Uday Kotak`,
+      timestamp: '2026-01-29T10:15:00'
+    }
+  },
+  {
+    handle: '@falguninayar',
+    reply: {
+      from: 'Office of Falguni Nayar <exec@nykaa.com>',
+      subject: 'Re: Democratizing Premium Privacy',
+      body: `Hi Kinjal,
+
+Falguni was very impressed by the "Vortex" demo you shared. At Nykaa, we built our brand on the idea that premium experiences should be accessible, but still feel curated and exclusive.
+
+Your UI achieves that rare balance. It looks like a high-fashion editorial, but the engineering beneath it—specifically the "Forensic Protection"—solves a real problem for our brand partners who deal with unreleased product leaks.
+
+She believes that privacy is the next great consumer category. We are interested in the Blacklist enrollment to explore how this "Digital Scarcity" model can be applied to luxury e-commerce.
+
+Best,
+Team Falguni`,
+      timestamp: '2026-01-29T11:00:00'
+    }
+  },
+  {
+    handle: '@nandannilekani',
+    reply: {
+      from: 'Nandan Nilekani <nandan@infosys.com>',
+      subject: 'Re: Unbundling the Server // DPI Logic',
+      body: `Hey Kinjal,
+
+I looked at the App Tour. You are thinking about "Unbundling" the right way.
+
+We spent the last decade building Digital Public Infrastructure (DPI) for identity and payments. What you are building feels like the DPI for Private Communication. By removing the server, you aren't just building an app; you are building a protocol for digital dignity.
+
+I like that you've handled the p2p handshake locally. It’s the "Small Tech" approach that actually scales to a billion people without the fragility of central nodes. 
+
+Let's catch up when you're in Bangalore. I want to see the mesh performance data.
+
+Best,
+Nandan`,
+      timestamp: '2026-01-29T11:45:00'
+    }
+  },
+  {
+    handle: '@riteshagar',
+    reply: {
+      from: 'Ritesh Agarwal <ritesh@oyo.com>',
+      subject: 'Re: Asset-Light Architecture // Global Scale',
+      body: `Hi Kinjal,
+
+I usually look at businesses through the lens of "Asset-Light" models. You've taken that to the extreme by making your architecture "Server-Light" (or rather, Server-Zero).
+
+The way you've scaled the "Vortex" UI to handle complex animations on low-end devices is exactly how we thought about scaling OYO—engineering for the real world, not just the lab. It's inspiring to see a young founder from the ecosystem tackling "Hard Tech" with this much audacity.
+
+I want to be on the Blacklist. If this can handle the scale of India, it can handle the world.
+
+Cheers,
+Ritesh`,
+      timestamp: '2026-01-29T12:30:00'
+    }
+  },
+  {
+    handle: '@satyanadella',
+    reply: {
+      from: 'Office of Satya Nadella <satya@microsoft.com>',
+      subject: 'Re: Empowering Individual Sovereignty',
+      body: `Dear Ms. Mishra,
+
+Your "Anti-Server" approach was shared internally within our security architecture team.
+
+We often talk about empowering every person and organization on the planet to achieve more. Usually, that involves the cloud. But you are proposing a model where the individual achieves more by *owning* their compute entirely. It is a sophisticated pivot back to the edge.
+
+Satya was intrigued by the "Local Key" logic. In an era of AI-driven surveillance, the "Digital Clean Room" you've designed is a necessary alternative. We will be monitoring your progress with great interest.
+
+Sincerely,
+Microsoft Executive Correspondence`,
+      timestamp: '2026-01-29T13:15:00'
+    }
+  },
+  {
+    handle: '@jumpman23',
+    reply: {
+      from: 'Jordan Management <mgmt@jordan.com>',
+      subject: 'Re: Excellence // The Mental Game',
+      body: \`Kinjal,
+
+Michael reviewed the demo. He doesn't look at many apps, but he recognizes "The Zone" when he sees it.
+
+The "Vortex" UI doesn't just look good; it looks focused. It has the discipline of a championship game. He liked your statement about "respecting the silicon"—it's the same way he respected the court. No wasted movement.
+
+He needs a place where he can coordinate his ventures without the noise. We are ready to secure his spot on the Blacklist. We expect nothing but excellence.
+
+Best,
+Estee Portnoy
+Manager, Michael Jordan\`,
+      timestamp: '2026-01-29T14:00:00'
+    }
+  },
+  {
+    handle: '@gigihadid',
+    reply: {
+      from: 'Team Gigi <info@gigihadid.com>',
+      subject: 'Re: Editorial Privacy // The Vortex',
+      body: `Hi Kinjal,
+
+Gigi saw the "Vortex" animation and said it’s the first time she's seen software that feels like "Editorial Art."
+
+She spends her life in front of lenses she doesn't control. The idea of using her own camera lens as the "Key" for her private space is a poetic and powerful shift. She needs the "Vault" for her unreleased shoot mood-boards and personal family updates.
+
+We love seeing a female engineer leading a project with this much aesthetic integrity. We are ready to enroll.
+
+Warmly,
+Team Gigi`,
+      timestamp: '2026-01-29T14:45:00'
+    }
+  },
+  {
+    handle: '@davidbeckham',
+    reply: {
+      from: 'Beckham Ventures <office@beckhamventures.com>',
+      subject: 'Re: Global Brand Integrity',
+      body: `Dear Kinjal,
+
+David reviewed the Abhed App Tour. He was struck by the "Clean Sheet" approach you've taken to privacy.
+
+As a global brand, our biggest risk is the fragmentation of private information. Your "Geo-Fenced" logic offers a fascinating way to drop exclusive "Moments" for his partners and inner circle that cannot be leaked or screenshotted. It matches the premium standard we set for everything we do.
+
+We would like to set up a private test for the ventures team.
+
+Regards,
+Executive Office
+Beckham Ventures`,
+      timestamp: '2026-01-29T15:30:00'
+    }
+  },
+  {
+    handle: '@lewishamilton',
+    reply: {
+      from: 'Team LH <management@lewishamilton.com>',
+      subject: 'Re: Purpose-led Performance',
+      body: `Hi Kinjal,
+
+Lewis watched the demo. He is always looking for technology that aligns with his values of purpose and efficiency.
+
+He loved the "Sustainability" angle Greta mentioned—tech that doesn't "boil the ocean." But from a driver's perspective, he's obsessed with the zero-latency p2p handshake. In F1, milliseconds are everything. Seeing that same level of engineering applied to human rights and privacy is powerful.
+
+He wants to support this. Please send the details for the Blacklist enrollment.
+
+Best,
+Team LH`,
+      timestamp: '2026-01-29T16:15:00'
+    }
+  },
+  {
+    handle: '@jk_rowling',
+    reply: {
+      from: 'Office of J.K. Rowling <office@jkrowling.com>',
+      subject: 'Re: Protecting the Narrative',
+      body: `Dear Kinjal,
+
+Ms. Rowling has reviewed your proposal.
+
+She has spent decades protecting the "Secrets" of her worlds from premature leaks. Your "Geo-Fencing" feature reminds her of a digital Marauder's Map—where information is only revealed to those who are in the right place at the right time. It is a rare piece of technology that understands the importance of mystery and the sanctity of a story.
+
+We are interested in the Blacklist for her private coordination.
+
+Yours sincerely,
+F. Moore
+Office of J.K. Rowling`,
+      timestamp: '2026-01-29T17:00:00'
+    }
+  },
+  {
+    handle: '@richardbranson',
+    reply: {
+      from: 'Virgin Group <office@virgin.com>',
+      subject: 'Re: Screw it, let\'s build it!',
+      body: `Hi Kinjal,
+
+Richard saw the reel. He loved the audacity. "Screw it, let's build it" has always been our motto, and you seem to be living it by taking on the global data giants single-handedly.
+
+He was particularly amused by the idea of an app that works on Mars. He says we might need that sooner than people think! But more importantly, he values the customer-centricity of your design. You are putting the power back where it belongs: with the people.
+
+He wants to be on the Blacklist. Let's make some noise (quietly).
+
+Cheers,
+Virgin Executive Team`,
+      timestamp: '2026-01-29T17:45:00'
+    }
+  },
+  {
+    handle: '@prada_official',
+    reply: {
+      from: 'Prada Management <mgmt@prada.com>',
+      subject: 'Re: The Intellectual Silhouette',
+      body: `Mademoiselle Mishra,
+
+Miuccia Prada has reviewed the "Vortex" interface. She found the visual language to be "Intellectual."
+
+Tech is usually obsessed with being "Easy." But your UI embraces the "Ugly-Beautiful"—it is complex, deep, and requires an elevated eye to appreciate. It is the first time software has felt like a piece of fashion that one *wears* rather than just uses.
+
+We are interested in the "Digital Scarcity" model you've implemented. It aligns with our vision for the future of luxury client interaction.
+
+Sincerely,
+Prada Corporate`,
+      timestamp: '2026-01-29T18:30:00'
+    }
+  },
+  {
+    handle: '@huawei_ren',
+    reply: {
+      from: 'Huawei Corporate <hq@huawei.com>',
+      subject: 'Re: Hardware Sovereignty // The Long Game',
+      body: `Dear Ms. Mishra,
+
+Mr. Ren Zhengfei has reviewed your work on on-device optimization.
+
+He respects the "Long Game" you are playing. Most software founders hide behind the cloud because they are afraid of the metal. You have embraced the hardware. The "Sovereign Mesh" you are building is the only way to ensure true security in a fragmented global landscape.
+
+He noted that your engineering approach to the "handshake" is remarkably robust for a pre-launch build. We will be following Abhed's development with great interest.
+
+Regards,
+Huawei Executive Office`,
+      timestamp: '2026-01-29T19:15:00'
+    }
+  },
+  {
+    handle: '@queenrania',
+    reply: {
+      from: 'Office of Her Majesty <court@rhc.jo>',
+      subject: 'Re: Modernity and Humanity',
+      body: `Dear Kinjal,
+
+Her Majesty Queen Rania has reviewed the materials you shared regarding ABHED.
+
+She believes that technology should be a bridge, not a barrier, and that privacy is essential for true human connection to flourish. Your vision for a "Digital Sanctuary" that respects the dignity of the individual while utilizing world-class engineering is a commendable example of how the next generation can lead with both heart and mind.
+
+She welcomes your commitment to data sovereignty and wishes you success in this ambitious project.
+
+Sincerely,
+The Royal Hashemite Court`,
+      timestamp: '2026-01-29T20:00:00'
+    }
   }
 ];
