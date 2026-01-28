@@ -1064,4 +1064,5 @@ J.K. Rowling	Twitter	UK	English	Author	@jk_rowling	Mega	office @jkrowling.com
 Richard Branson	Virgin	UK	English	Biz/Disruption	@richardbranson	Mega	office @virgin.com
 Miuccia Prada	Prada	Italy	English	Fashion	@prada_official	Mega	mgmt @prada.com
 Ren Zhengfei	Huawei	China	English	Tech/Hardware	@huawei_ren	Mega	corp @huawei.com
-Queen Rania	Instagram	Jordan	English	Royalty/Tech	@queenrania	Mega	court @rhc.jo`;
+Queen Rania	Instagram	Jordan	English	Royalty/Tech	@queenrania	Mega	court @rhc.jo
+Sheikh Tamim bin Hamad	Twitter	Qatar	English	Royalty/Global	@tamim_althani	Mega	office @diwan.gov.qa`;

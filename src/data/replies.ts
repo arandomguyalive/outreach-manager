@@ -1859,5 +1859,24 @@ Sincerely,
 The Royal Hashemite Court`,
       timestamp: '2026-01-29T20:00:00'
     }
+  },
+  {
+    handle: '@tamim_althani',
+    reply: {
+      from: 'Amiri Diwan of Qatar <office@diwan.gov.qa>',
+      subject: 'Re: Sovereign Communication Infrastructure // State Security',
+      body: `Dear Ms. Mishra,
+
+His Highness Sheikh Tamim bin Hamad Al Thani has taken note of your presentation regarding the ABHED protocol and its "Anti-Server" architecture.
+
+As a nation that sits at the crossroads of global media and diplomacy, Qatar understands that the control of information flow is a pillar of national sovereignty. Your implementation of a decentralized, peer-to-peer handshake represents a sophisticated shift away from vulnerable centralized nodes. It provides a level of technical guarantee for privacy that is essential for high-level state and financial coordination.
+
+His Highness is interested in the strategic potential of "Geo-Fenced Encryption" for securing sensitive diplomatic zones. We wish to schedule a formal technical audit with our security department to explore a partnership.
+
+Sincerely,
+Director of Information Security
+Amiri Diwan of the State of Qatar`,
+      timestamp: '2026-01-29T21:00:00'
+    }
   }
 ];
