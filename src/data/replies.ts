@@ -2313,6 +2313,44 @@ Tom Cruise`,
     }
   },
   {
+    handle: '@justinbieber',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Bieber Time <hailey@justinbieber.com>',
+      subject: 'Re: The Safe Space // Privacy',
+      body: `Hey Kinjal,
+
+I've been in the spotlight since I was a kid. I'm tired of my stuff leaking and people tracking my every move.
+
+I saw the video on 'Geo-Fencing'—locking the conversation to where I actually am physically. That's a game-changer. I need a space that's just for me and Hailey, where the world can't peek in.
+
+If this is real, I'm all in. Let me know how to get the key.
+
+Much love,
+Justin`,
+      timestamp: '2026-01-30T14:00:00'
+    }
+  },
+  {
+    handle: '@serena',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Serena Ventures <office@serenaventures.com>',
+      subject: 'Re: Ownership // Champion\'s Tool',
+      body: `Hi Kinjal,
+
+I've spent my career owning the court. Now I want to own my data.
+
+The 'Vortex' looks like a champion's tool—focused, fast, and uncompromising on security. My venture team at Serena Ventures needs a digital vault that actually holds. We deal with unreleased deals and private comms that cannot be on a central server.
+
+I'm impressed by the engineering maturity you've shown in the tour. We want to be part of the early cohort.
+
+Best,
+Serena Williams`,
+      timestamp: '2026-01-30T14:15:00'
+    }
+  },
+  {
     handle: '@gen_hayden',
     isIntercept: true,
     reply: {

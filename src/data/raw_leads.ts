@@ -1092,4 +1092,6 @@ Kylie Jenner	Instagram	USA	English	Lifestyle/Biz	@kyliejenner	Mega	kylie @kyliec
 Rihanna	Instagram	Barbados/USA	English	Music/Biz	@badgalriri	Mega	rihanna @fenty.com
 Sundar Pichai	Google	USA	English	Tech/CEO	@sundarpichai	Mega	sundar @google.com
 Linus Torvalds	Linux	Finland/USA	English	Tech/Core	@torvalds	Mega	torvalds @linux.com
-Tom Cruise	Film	USA	English	Actor/Stunts	@tomcruise	Mega	tom @cruise.com`;
+Tom Cruise	Film	USA	English	Actor/Stunts	@tomcruise	Mega	tom @cruise.com
+Justin Bieber	Instagram	Canada/USA	English	Music/Icon	@justinbieber	Mega	justin @bieber.com
+Serena Williams	Instagram	USA	English	Sports/VC	@serena	Mega	serena @serenaventures.com`;
