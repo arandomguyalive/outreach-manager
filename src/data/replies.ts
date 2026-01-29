@@ -2075,7 +2075,7 @@ This is not about valuation; it is about survival.
 
 I have teams in zones where a phone check means execution. Your 'Geo-Fenced' encryption could save lives by ensuring data physically cannot exist outside safe zones.
 
-We have a donor ready to grant $10M to make this the standard for global human rights defenders. We need this yesterday.
+We have a donor ready to grant $10M to make this the standard for global human rights defenders. We must deploy this immediately.
 
 In solidarity,
 Agnes`,
