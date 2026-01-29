@@ -165,6 +165,36 @@ export const useInfluencers = () => {
   const uniquePlatforms = useMemo(() => Array.from(new Set(influencers.map(i => i.platform))).sort(), [influencers]);
   const uniqueTiers = useMemo(() => Array.from(new Set(influencers.map(i => i.tier))).sort(), [influencers]);
 
+  const replyToInfluencer = (id: string, subject: string, body: string) => {
+    setInfluencers(prev => {
+      const next = prev.map(inf => {
+        if (inf.id === id) {
+          const updatedHistory = [
+            ...inf.history,
+            {
+              id: 'outbound-' + Math.random(),
+              type: 'Email Sent' as const,
+              timestamp: new Date().toISOString(),
+              notes: `Outbound reply: ${subject}`
+            }
+          ];
+          return {
+            ...inf,
+            outboundReply: {
+              subject,
+              body,
+              timestamp: new Date().toISOString()
+            },
+            history: updatedHistory
+          };
+        }
+        return inf;
+      });
+      localStorage.setItem('abhed_influencers', JSON.stringify(next));
+      return next;
+    });
+  };
+
   return {
     influencers: filteredInfluencers,
     allInfluencers: influencers,
@@ -173,6 +203,7 @@ export const useInfluencers = () => {
     setFilters,
     stats,
     incrementDispatched,
+    replyToInfluencer,
     options: {
       categories: uniqueCategories,
       platforms: uniquePlatforms,

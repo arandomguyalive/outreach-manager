@@ -6,13 +6,15 @@ import { LiveCampaignBoard } from './components/LiveCampaignBoard';
 import { Filters } from './components/Filters';
 import { PitchGenerator } from './components/PitchGenerator';
 import { RepliedDashboard } from './components/RepliedDashboard';
+import { ReplyModal } from './components/ReplyModal';
 import type { Influencer } from './types';
 import { Users, Send, MailOpen, MessageSquare, X, ExternalLink, RefreshCw, Zap } from 'lucide-react';
 import { AnimatePresence, motion } from 'framer-motion';
 
 function App() {
-  const { influencers, stats, loading, filters, setFilters, options, incrementDispatched } = useInfluencers();
+  const { influencers, stats, loading, filters, setFilters, options, incrementDispatched, replyToInfluencer } = useInfluencers();
   const [selectedInfluencer, setSelectedInfluencer] = useState<Influencer | null>(null);
+  const [replyingToInfluencer, setReplyingToInfluencer] = useState<Influencer | null>(null);
   const [showRepliedDashboard, setShowRepliedDashboard] = useState(false);
 
   if (loading) {
@@ -109,6 +111,7 @@ function App() {
                 key={inf.id} 
                 influencer={inf} 
                 onClick={setSelectedInfluencer} 
+                onReplyClick={setReplyingToInfluencer}
               />
             ))}
             {influencers.length === 0 && (
@@ -126,17 +129,25 @@ function App() {
           <RepliedDashboard 
             influencers={influencers.filter(i => i.status === 'Replied')} 
             onClose={() => setShowRepliedDashboard(false)}
+            onReplyClick={setReplyingToInfluencer}
             onSelectInfluencer={(inf) => {
               setSelectedInfluencer(inf);
-              // Optional: Close dashboard when selecting details, or keep it open. 
-              // For now, let's keep dashboard open underneath or close it?
-              // The original logic puts the drawer on top. If dashboard is z-50 and drawer is z-50, we need to manage z-index or close one.
-              // Let's rely on z-indexing. Drawer is z-50. Dashboard is z-50.
-              // Let's bump Drawer to z-[60].
             }}
           />
         )}
       </AnimatePresence>
+
+      {/* Reply Modal */}
+      {replyingToInfluencer && (
+        <ReplyModal
+          influencer={replyingToInfluencer}
+          isOpen={!!replyingToInfluencer}
+          onClose={() => setReplyingToInfluencer(null)}
+          onSend={(subject, body) => {
+            replyToInfluencer(replyingToInfluencer.id, subject, body);
+          }}
+        />
+      )}
 
       {/* Detail Drawer */}
       <AnimatePresence>

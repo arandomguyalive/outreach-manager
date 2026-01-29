@@ -8,9 +8,10 @@ interface RepliedDashboardProps {
   influencers: Influencer[];
   onClose: () => void;
   onSelectInfluencer: (influencer: Influencer) => void;
+  onReplyClick?: (influencer: Influencer) => void;
 }
 
-export const RepliedDashboard: React.FC<RepliedDashboardProps> = ({ influencers, onClose, onSelectInfluencer }) => {
+export const RepliedDashboard: React.FC<RepliedDashboardProps> = ({ influencers, onClose, onSelectInfluencer, onReplyClick }) => {
   const TARGET_AMOUNT = 10000000; // 1 Crore
   const VALUE_PER_CREATOR = 20000;
   
@@ -132,7 +133,8 @@ export const RepliedDashboard: React.FC<RepliedDashboardProps> = ({ influencers,
               <InfluencerCard 
                 key={inf.id} 
                 influencer={inf} 
-                onClick={onSelectInfluencer} 
+                onClick={onSelectInfluencer}
+                onReplyClick={onReplyClick}
               />
             ))}
           </div>

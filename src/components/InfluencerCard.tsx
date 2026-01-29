@@ -5,6 +5,7 @@ import { Instagram, Youtube, Twitter, Linkedin, ExternalLink, Globe } from 'luci
 interface InfluencerCardProps {
   influencer: Influencer;
   onClick: (influencer: Influencer) => void;
+  onReplyClick?: (influencer: Influencer) => void;
 }
 
 const getPlatformIcon = (platform: string) => {
@@ -29,7 +30,7 @@ const getStatusColor = (status: string) => {
   }
 };
 
-export const InfluencerCard: React.FC<InfluencerCardProps> = ({ influencer, onClick }) => {
+export const InfluencerCard: React.FC<InfluencerCardProps> = ({ influencer, onClick, onReplyClick }) => {
   const Icon = getPlatformIcon(influencer.platform);
   const statusColor = getStatusColor(influencer.status);
 
@@ -58,9 +59,26 @@ export const InfluencerCard: React.FC<InfluencerCardProps> = ({ influencer, onCl
             </a>
           </div>
         </div>
-        <span className={`px-2 py-1 rounded-full text-xs font-medium border ${statusColor}`}>
-          {influencer.status}
-        </span>
+        <div className="flex flex-col items-end gap-2">
+          <span className={`px-2 py-1 rounded-full text-[10px] font-medium border ${statusColor}`}>
+            {influencer.status}
+          </span>
+          {influencer.status === 'Replied' && onReplyClick && (
+            <button
+              onClick={(e) => {
+                e.stopPropagation();
+                onReplyClick(influencer);
+              }}
+              className="flex items-center gap-1 px-2 py-1 bg-km18-cyan/20 text-km18-cyan border border-km18-cyan/30 rounded hover:bg-km18-cyan hover:text-black transition-all text-[10px] font-bold"
+            >
+              <ExternalLink className="w-3 h-3 rotate-45" />
+              REPLY
+            </button>
+          )}
+          {influencer.outboundReply && (
+             <span className="text-[9px] text-green-400 font-mono uppercase">Replied ✓</span>
+          )}
+        </div>
       </div>
 
       <div className="grid grid-cols-2 gap-2 text-xs text-gray-400 mb-3">

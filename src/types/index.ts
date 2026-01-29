@@ -19,6 +19,11 @@ export interface Influencer {
     to: string;
     timestamp: string;
   };
+  outboundReply?: {
+    subject: string;
+    body: string;
+    timestamp: string;
+  };
 }
 
 export interface Interaction {
