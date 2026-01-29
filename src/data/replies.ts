@@ -2144,7 +2144,7 @@ LRMR Management`,
     handle: '@virat_kohli',
     reply: {
       to: 'info@abhed.co',
-      from: 'Cornerstone Sport <mgmt@cornerstone.in>',
+      from: 'Sporting Beyond <office@sportingbeyond.com>',
       subject: 'Re: The Bubble // Silence',
       body: `Hi Kinjal,
 
@@ -2157,8 +2157,7 @@ He needs a space that is just for him and Anushka. No noise. No trackers. Just t
 We want to set up his private account immediately.
 
 Regards,
-Bunty Sajdeh
-Cornerstone Sport`,
+Sporting Beyond Team`,
       timestamp: '2026-01-30T11:45:00'
     }
   },
@@ -2218,6 +2217,99 @@ I want to use this for my Book Club inner circle. A place where we can be real.
 Warmly,
 Oprah`,
       timestamp: '2026-01-30T12:30:00'
+    }
+  },
+  {
+    handle: '@kyliejenner',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Kylie Cosmetics Team <management@kyliecosmetics.com>',
+      subject: 'Re: The Vault // No Leaks',
+      body: `Kinjal,
+
+I've lived my whole life in front of a lens. I need a space that doesn't have one.
+
+We have unreleased formulations and campaign shots for Kylie Skin that cannot leak. Your 'Vault' concept—where data physically cannot leave the device—is exactly what I've been looking for. Stormi's photos stay on my phone, period.
+
+We're ready to enroll. Send the invite.
+
+Best,
+Kylie Jenner Team`,
+      timestamp: '2026-01-30T12:45:00'
+    }
+  },
+  {
+    handle: '@badgalriri',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Fenty Corp <office@fenty.com>',
+      subject: 'Re: Control // Silence',
+      body: `Kinjal,
+
+I move in silence. The industry is noisy.
+
+Your app feels like the studio at 3 AM—just the work, no distractions. If the 'Vortex' allows me to run my empire from Barbados without a server tracking my location, Fenty needs 10 keys.
+
+I love seeing a woman building this kind of power. Let's get it.
+
+Rih`,
+      timestamp: '2026-01-30T13:00:00'
+    }
+  },
+  {
+    handle: '@sundarpichai',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Sundar Pichai <sundar@google.com>',
+      subject: 'Re: The Shift // Edge Compute',
+      body: `Dear Ms. Mishra,
+
+We spent the last decade organizing the world's information on the cloud. You are organizing it on the edge.
+
+The latency benchmarks you achieved with the local handshake are impressive. It is the natural evolution of Android's privacy sandbox, though significantly more ambitious in its peer-to-peer implementation.
+
+I'd like to see the code and discuss the mesh topology.
+
+Best,
+Sundar`,
+      timestamp: '2026-01-30T13:15:00'
+    }
+  },
+  {
+    handle: '@torvalds',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Linus Torvalds <torvalds@linux-foundation.org>',
+      subject: 'Re: No Bullshit // Code Quality',
+      body: `Kinjal,
+
+I checked your repo.
+
+Most 'secure' apps are just bloated Electron wrappers. You actually stripped the kernel down to what matters. No server relay? Good. That's how TCP/IP was meant to work before everyone got greedy.
+
+It's clean. It's fast. Don't break it by adding useless features.
+
+Linus`,
+      timestamp: '2026-01-30T13:30:00'
+    }
+  },
+  {
+    handle: '@tomcruise',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'TC Productions <office@tomcruise.com>',
+      subject: 'Re: The Operator // No Doubles',
+      body: `Kinjal,
+
+I don't use stunt doubles, and I don't use proxy servers.
+
+If I'm hanging off a plane, I need the comms to be direct and unbreakable. Your p2p mesh is 'Mission Impossible' tech made real. I want to test this in the field with my production crew.
+
+Great work on the UI—it's fast and intuitive.
+
+Best,
+Tom Cruise`,
+      timestamp: '2026-01-30T13:45:00'
     }
   },
   {

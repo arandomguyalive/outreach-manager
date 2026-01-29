@@ -16,15 +16,21 @@ The Abhed Outreach Manager has evolved from a lead-tracking tool into a high-fid
 
 ## Comprehensive Project Log (Chronological)
 
+### **Phase 3.6.1 - The Global Icon Expansion (Jan 30, 2026)**
+- **Onboarding:** Added **Kylie Jenner** (Privacy/Vault), **Rihanna** (Sovereign Control), **Sundar Pichai** (Edge Compute Validation), **Linus Torvalds** (Code Integrity), and **Tom Cruise** (Field Ops).
+- **Correction:** Standardized **Virat Kohli's** management to **Sporting Beyond** (following his 2024 transition).
+- **Narrative:** Validation now spans from "High Fashion/Social Influence" to "Deep Infrastructure Architecture" and "Open Source Purity."
+- **Tech:** Updated `REPLY_DATA` with 5 additional entries. `DATA_VERSION` remains `v3.4.0`.
+
 ### **Phase 3.6.0 - The Cultural Architects (Jan 30, 2026)**
 - **Onboarding:** Added **LeBron James** (Control), **Virat Kohli** (Silence), **Christopher Nolan** (Analog Soul), **James Cameron** (Engineering), and **Oprah Winfrey** (Trust).
 - **Narrative:** Expanded the validation to include "High Performance," "Physical Security," and "Emotional Safety."
-- **Tech:** Updated `REPLY_DATA` with 5 new entries. `DATA_VERSION` remains `v3.4.0`.
+- **Tech:** Updated `REPLY_DATA` with 5 new entries. Standardized Virat Kohli's management to **Sporting Beyond**. `DATA_VERSION` remains `v3.4.0`.
 
 ### **Phase 3.5.1 - The Intercept Protocol Implementation (Jan 30, 2026)**
 - **Feature: Strict Intercept Logic:**
     - **No Cold Outreach:** Modified `useInfluencers.ts` to strictly remove any "Email Sent" history for "Intercept" designated accounts (CIA, MI6, Unit 8200). These entities now have a clean history starting directly with "⚠ Signal Detected."
-    - **Dynamic 'To' Addressing:** Implemented realistic recipient routing. Replies now correctly show addressed to `kinjal@abhed.co` (standard) or `SECURE_NODE_VORTEX_01` (intercepts), replacing the generic logic.
+    - **Dynamic 'To' Addressing:** Implemented realistic recipient routing. Replies now correctly show addressed to `info@abhed.co` (standard) or `SECURE_NODE_VORTEX_01` (intercepts), replacing the generic logic.
     - **Event Type:** Officially registered `Signal Detected` as a distinct interaction type in the TypeScript definitions.
 - **Refinement:**
     - Updated `REPLY_DATA` to include realistic `to` addresses for all 109+ replies, ensuring the entire communication chain looks authentic.
@@ -67,7 +73,7 @@ The Abhed Outreach Manager has evolved from a lead-tracking tool into a high-fid
 
 ### **Phase 3.3.4 - Narrative Consistency Fix (Jan 30, 2026)**
 - **Correction:** Adjusted **Bill Gates'** and **Jeff Bezos'** replies to remove the reference to a "whitepaper" (which was never sent). The replies now correctly reference the "note" or email outreach, maintaining strict continuity with the campaign's actual assets.
-- **Metaphor Retention:** Kept the "Digital Immune System" and "Day 1 Thinking" analogies, as they fit the personas perfectly.
+- **Metaphor Retention:** Keep the "Digital Immune System" and "Day 1 Thinking" analogies, as they fit the personas perfectly.
 - **Tech:** Updated `DATA_VERSION` to `v3.3.4`.
 
 ### **Phase 3.3.3 - The Sage & The Architect (Jan 30, 2026)**
