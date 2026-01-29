@@ -18,15 +18,11 @@ The Abhed Outreach Manager has evolved from a lead-tracking tool into a high-fid
 
 ### **Phase 3.4.0 - The Sovereign Security Update (Jan 30, 2026)**
 - **Intelligence & Defense Validation:** Onboarded **10 Security Heavyweights** to validate the "Anti-Server" architecture as a military-grade asset.
-- **New Titans:**
-    - **Intelligence:** General Michael Hayden (Ex-CIA/NSA), Sir Richard Moore (Chief of MI6), Anonymized CIA Cyber-Ops Chief.
-    - **Defense Tech:** Alex Karp (Palantir), Unit 8200 Lead (Israel).
-    - **Human Rights & Law:** Agnes Callamard (Amnesty), Cindy Cohn (EFF), Interpol Cyber Directorate.
-    - **Ultimate Secrecy:** Commander of the Swiss Guard (Vatican), Satoshi Nakamoto.
-- **Narrative Stakes:**
-    - **"Ghost Network":** CIA/NSA alumni validating the app as the only "deaf" architecture.
-    - **"Black Budget":** Offers for uncapped funding for "Dark" operations.
-    - **"Digital Confessional":** The Vatican validating the app for absolute spiritual secrecy.
+- **Narrative Logic Refinement (v2):**
+    - **Intelligence Intercepts:** Removed "Cold Email" logic. Replies now indicate agencies *found* Abhed via signal monitoring/traffic anomalies (e.g., "A dossier crossed my desk," "Passive trace").
+    - **Domain vs. App:** Clarified that Red Teams attacked the *domain/infrastructure* (attempting injection), not the app binary, maintaining the "Invite Only" exclusivity.
+    - **Specific Threats:** Integrated existential warnings into high-stakes replies (e.g., CIA: "We know where you sleep," Unit 8200: "Do not invite the spear").
+- **New Titans:** General Michael Hayden (Ex-CIA/NSA), Sir Richard Moore (MI6), Alex Karp (Palantir), Unit 8200, Vatican Swiss Guard.
 - **Tech:** Updated `DATA_VERSION` to `v3.4.0` and appended new VIP leads to `raw_leads.ts`.
 
 ### **Phase 3.2.3 - The Hierarchy Update (Jan 28, 2026)**
