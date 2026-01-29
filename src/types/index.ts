@@ -28,7 +28,7 @@ export interface Influencer {
 
 export interface Interaction {
   id: string;
-  type: 'Email Sent' | 'Email Opened' | 'Email Replied' | 'Link Clicked';
+  type: 'Email Sent' | 'Email Opened' | 'Email Replied' | 'Link Clicked' | 'Signal Detected';
   timestamp: string;
   notes?: string;
 }

@@ -58,9 +58,13 @@ export const useInfluencers = () => {
            // We inject a "Trigger" email sent ~4-12 hours before the reply
            const triggerTime = new Date(new Date(replyTimestamp).getTime() - (1000 * 60 * 60 * (4 + Math.random() * 8))).toISOString();
            
-           const newHistory = [...inf.history];
-           
-           if (!isIntercept) {
+           let newHistory = [...inf.history];
+
+           if (isIntercept) {
+             // For intercepts, we strictly remove ANY prior "Sent" history because we never emailed them.
+             // They found us.
+             newHistory = newHistory.filter(h => h.type !== 'Email Sent');
+           } else {
              // 1. Inject Trigger Email if not present (only for non-intercepts)
              const hasRecentSent = newHistory.some(h => 
                h.type === 'Email Sent' && 
@@ -78,7 +82,7 @@ export const useInfluencers = () => {
 
            // 2. Add/Update Reply Event
            // For Intercepts, we use a special event type
-           const eventType = isIntercept ? '⚠ Signal Detected' : 'Email Replied';
+           const eventType = isIntercept ? 'Signal Detected' : 'Email Replied';
            const hasReplyEvent = newHistory.some(h => h.type === eventType || h.type === 'Email Replied'); // Check for either to be safe
            
            if (!hasReplyEvent) {
@@ -108,7 +112,7 @@ export const useInfluencers = () => {
              status: isIntercept ? '⚠ Intercept' : 'Replied',
              replyDetails: {
                ...replyConfig.reply,
-               to: isIntercept ? 'SECURE_NODE_VORTEX_01' : 'info@abhed.co',
+               to: (replyConfig.reply as any).to || 'kinjal@abhed.co',
                timestamp: replyTimestamp
              },
              history: newHistory
