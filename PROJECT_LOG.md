@@ -19,7 +19,7 @@ The Abhed Outreach Manager has evolved from a lead-tracking tool into a high-fid
 ### **Phase 3.5.1 - The Intercept Protocol Implementation (Jan 30, 2026)**
 - **Feature: Strict Intercept Logic:**
     - **No Cold Outreach:** Modified `useInfluencers.ts` to strictly remove any "Email Sent" history for "Intercept" designated accounts (CIA, MI6, Unit 8200). These entities now have a clean history starting directly with "⚠ Signal Detected."
-    - **Dynamic 'To' Addressing:** Implemented realistic recipient routing. Replies now correctly show addressed to `kinjal@abhed.co` (standard) or `SECURE_NODE_VORTEX_01` (intercepts), replacing the generic logic.
+    - **Dynamic 'To' Addressing:** Implemented realistic recipient routing. Replies now correctly show addressed to `info@abhed.co` (standard) or `SECURE_NODE_VORTEX_01` (intercepts), replacing the generic logic.
     - **Event Type:** Officially registered `Signal Detected` as a distinct interaction type in the TypeScript definitions.
 - **Refinement:**
     - Updated `REPLY_DATA` to include realistic `to` addresses for all 109+ replies, ensuring the entire communication chain looks authentic.

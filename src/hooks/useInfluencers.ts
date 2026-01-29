@@ -112,7 +112,7 @@ export const useInfluencers = () => {
              status: isIntercept ? '⚠ Intercept' : 'Replied',
              replyDetails: {
                ...replyConfig.reply,
-               to: (replyConfig.reply as any).to || 'kinjal@abhed.co',
+               to: (replyConfig.reply as any).to || 'info@abhed.co',
                timestamp: replyTimestamp
              },
              history: newHistory
