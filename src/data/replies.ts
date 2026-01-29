@@ -2120,6 +2120,107 @@ Paulo`,
     }
   },
   {
+    handle: '@kingjames',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'LRMR Management <office@lrmr.com>',
+      subject: 'Re: The War Room // Control',
+      body: `Kinjal,
+
+LeBron saw the pitch. He's spent 20 years building a fortress around his inner circle.
+
+The media wants the leaks. We want the vault. Rich Paul showed him the 'Forensic Protection' demo. The idea of a digital 'War Room' where the plan stays inside the room... that's exactly what we need for the next chapter.
+
+We don't play games with security. If this is as locked down as you say, we need it yesterday.
+
+Let's talk.
+
+Best,
+LRMR Management`,
+      timestamp: '2026-01-30T11:30:00'
+    }
+  },
+  {
+    handle: '@virat_kohli',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Cornerstone Sport <mgmt@cornerstone.in>',
+      subject: 'Re: The Bubble // Silence',
+      body: `Hi Kinjal,
+
+Virat watched the video.
+
+In India, he cannot breathe without a camera pointing at him. The noise is deafening. He told us, "This is the first time a digital product actually respects my need for silence."
+
+He needs a space that is just for him and Anushka. No noise. No trackers. Just them. Your 'Anti-Server' logic is the only thing he trusts.
+
+We want to set up his private account immediately.
+
+Regards,
+Bunty Sajdeh
+Cornerstone Sport`,
+      timestamp: '2026-01-30T11:45:00'
+    }
+  },
+  {
+    handle: '@christophernolan',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Syncopy Inc. <production@syncopy.com>',
+      subject: 'Re: Architecture // The Analog Soul',
+      body: `Dear Ms. Mishra,
+
+Mr. Nolan does not use email. He does not carry a smartphone. He believes they dissolve the soul.
+
+However, he reviewed your 'Vortex' interface on our secure terminal. He remarked that it is not a distraction; it is a piece of architecture. It feels like 35mm film in a digital world—it has weight. Texture.
+
+He respects that you have built something tangible in an age of vapor. Our production team requires this level of security for our scripts.
+
+Sincerely,
+Production Office
+Syncopy Inc.`,
+      timestamp: '2026-01-30T12:00:00'
+    }
+  },
+  {
+    handle: '@jimcameron',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Lightstorm Entertainment <jim@lightstorm.com>',
+      subject: 'Re: Extreme Engineering // Pressure Test',
+      body: `Kinjal,
+
+I build machines to go where humans aren't supposed to survive. The pressure at the bottom of the Mariana Trench is unforgiving.
+
+Your encryption pressure test looks similar. You've built a submersible for data. Most apps crack under the pressure of government surveillance or corporate greed. You've engineered a hull that holds.
+
+I want to see if it cracks under depth. I'm enrolling my engineering team to stress-test this.
+
+Best,
+Jim Cameron`,
+      timestamp: '2026-01-30T12:15:00'
+    }
+  },
+  {
+    handle: '@oprah',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Harpo Productions <ow@harpo.com>',
+      subject: 'Re: The Vault // Trust',
+      body: `Dear Kinjal,
+
+Trust is the currency I trade in. When people sit in my chair, they tell me their truth.
+
+I need a Vault where those truths can stay sacred. Your app feels like a sanctuary. I loved the 'Vortex'—it reminds me that our words have power and should be protected.
+
+I want to use this for my Book Club inner circle. A place where we can be real.
+
+Warmly,
+Oprah`,
+      timestamp: '2026-01-30T12:30:00'
+    }
+  },
+  {
     handle: '@gen_hayden',
     isIntercept: true,
     reply: {
