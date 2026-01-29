@@ -1065,4 +1065,9 @@ Richard Branson	Virgin	UK	English	Biz/Disruption	@richardbranson	Mega	office @vi
 Miuccia Prada	Prada	Italy	English	Fashion	@prada_official	Mega	mgmt @prada.com
 Ren Zhengfei	Huawei	China	English	Tech/Hardware	@huawei_ren	Mega	corp @huawei.com
 Queen Rania	Instagram	Jordan	English	Royalty/Tech	@queenrania	Mega	court @rhc.jo
-Sheikh Tamim bin Hamad	Twitter	Qatar	English	Royalty/Global	@tamim_althani	Mega	office @diwan.gov.qa`;
+Sheikh Tamim bin Hamad	Twitter	Qatar	English	Royalty/Global	@tamim_althani	Mega	office @diwan.gov.qa
+Mukesh Ambani	Reliance	India	English	Biz/Infra	@mukesh_ambani	Mega	chairman @ril.com
+Taylor Swift	Instagram	USA	English	Music/Icon	@taylorswift	Mega	management @13.com
+Jeff Bezos	Amazon	USA	English	Tech/Space	@jeffbezos	Mega	jeff @bezos.com
+Sam Altman	OpenAI	USA	English	Tech/AI	@sama	Mega	sam @openai.com
+Beyoncé	Instagram	USA	English	Music/Culture	@beyonce	Mega	parkwood @beyonce.com`;

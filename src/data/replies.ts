@@ -1878,5 +1878,100 @@ Director of Information Security
 Amiri Diwan of the State of Qatar`,
       timestamp: '2026-01-29T21:00:00'
     }
+  },
+  {
+    handle: '@mukesh_ambani',
+    reply: {
+      from: 'Reliance Chairman Office <chairman@ril.com>',
+      subject: 'Re: Data Sovereignty // Strategic Asset',
+      body: `Dear Ms. Mishra,
+
+Mr. Ambani has reviewed your proposal regarding the "Sovereign Mesh."
+
+He has often stated that "Data is the new oil." But for that oil to be valuable, it must be refined and secured within our borders. Your "Local Key" architecture ensures that the data of Indian citizens remains physically on their devices, not on foreign servers. This aligns with our vision for a self-reliant digital India.
+
+He sees this not just as an app, but as critical digital infrastructure. We would like to explore how this protocol could integrate with our broader ecosystem.
+
+Regards,
+Executive Assistant to the Chairman
+Reliance Industries Limited`,
+      timestamp: '2026-01-29T21:45:00'
+    }
+  },
+  {
+    handle: '@taylorswift',
+    reply: {
+      from: '13 Management <management@13.com>',
+      subject: 'Re: Ownership // The Vault',
+      body: `Hi Kinjal,
+
+Taylor saw the "Vortex" demo. She knows the value of ownership better than anyone.
+
+In an industry that tries to own your voice, your image, and your work, she found your approach to "Sovereign Data" incredibly refreshing. She specifically loved the concept of the "Vault"—a place where her unreleased lyrics and voice memos can exist without the risk of a leak.
+
+She wants to control her narrative. This tool gives her that control back. We are ready to set up her private account.
+
+Best,
+13 Management`,
+      timestamp: '2026-01-29T22:30:00'
+    }
+  },
+  {
+    handle: '@jeffbezos',
+    reply: {
+      from: 'Bezos Expeditions <jeff@bezos.com>',
+      subject: 'Re: Day 1 Thinking',
+      body: `Kinjal,
+
+I read your whitepaper. This is "Day 1" thinking.
+
+Most companies treat customer data as *their* asset. You are treating it as the *customer's* asset. That is the ultimate form of customer obsession. By removing the server, you have removed the conflict of interest that plagues the entire social media industry.
+
+It is a hard engineering problem, but the best way to predict the future is to invent it. You are inventing a future where privacy is the default setting.
+
+I want to see the latency metrics.
+
+Jeff`,
+      timestamp: '2026-01-29T23:15:00'
+    }
+  },
+  {
+    handle: '@sama',
+    reply: {
+      from: 'Sam Altman <sam@openai.com>',
+      subject: 'Re: Proof of Humanity',
+      body: `Hi Kinjal,
+
+I checked the p2p logic.
+
+As AI generates infinite noise, verified human connection will become the scarcest resource on the planet. We are entering an era where we need "Digital Clean Rooms" to know we are speaking to a human, not a model.
+
+Abhed is effectively a Turing Test for intimacy. If the encryption keys are physically bound to the device and the biometric signature, it creates a "Proof of Humanity" layer that is very valuable.
+
+I'd like to test the beta.
+
+Sam`,
+      timestamp: '2026-01-30T09:00:00'
+    }
+  },
+  {
+    handle: '@beyonce',
+    reply: {
+      from: 'Parkwood Entertainment <parkwood@beyonce.com>',
+      subject: 'Re: Control // The Quiet',
+      body: `Dear Kinjal,
+
+Beyoncé reviewed the "App Tour."
+
+She operates with a level of precision that requires absolute silence. She releases work when *she* wants. She speaks when *she* wants. The world is noisy; she values the quiet.
+
+Your app respects that silence. The "Vortex" feels like a space where she can create without the industry watching. It is rare to see technology that understands the need for a sanctuary.
+
+We will coordinate the setup for her and Mr. Carter.
+
+Sincerely,
+Parkwood Entertainment`,
+      timestamp: '2026-01-30T09:45:00'
+    }
   }
 ];
