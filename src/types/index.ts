@@ -8,7 +8,7 @@ export interface Influencer {
   handle: string;
   tier: string;
   email: string;
-  status: 'New' | 'Sent' | 'Delivered' | 'Opened' | 'Viewed' | 'Replied' | 'Bounced';
+  status: 'New' | 'Sent' | 'Delivered' | 'Opened' | 'Viewed' | 'Replied' | 'Bounced' | '⚠ Intercept';
   lastInteraction?: string;
   history: Interaction[];
   isSelected?: boolean;

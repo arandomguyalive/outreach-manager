@@ -25,6 +25,7 @@ const getStatusColor = (status: string) => {
     case 'Opened': return 'bg-green-900/50 text-green-300 border-green-700';
     case 'Viewed': return 'bg-purple-900/50 text-purple-300 border-purple-700';
     case 'Replied': return 'bg-pink-900/50 text-pink-300 border-pink-700';
+    case '⚠ Intercept': return 'bg-red-900/50 text-red-300 border-red-700 animate-pulse';
     case 'Bounced': return 'bg-red-900/50 text-red-300 border-red-700';
     default: return 'bg-gray-700 text-gray-300';
   }
@@ -37,7 +38,7 @@ export const InfluencerCard: React.FC<InfluencerCardProps> = ({ influencer, onCl
   return (
     <div 
       onClick={() => onClick(influencer)}
-      className="glass-panel p-4 rounded-lg hover:bg-white/10 transition-all cursor-pointer group border border-transparent hover:border-km18-cyan/30"
+      className={`glass-panel p-4 rounded-lg hover:bg-white/10 transition-all cursor-pointer group border ${influencer.status === '⚠ Intercept' ? 'border-red-500/50 shadow-[0_0_15px_rgba(239,68,68,0.2)]' : 'border-transparent hover:border-km18-cyan/30'}`}
     >
       <div className="flex justify-between items-start mb-3">
         <div className="flex items-center gap-3">
@@ -63,16 +64,20 @@ export const InfluencerCard: React.FC<InfluencerCardProps> = ({ influencer, onCl
           <span className={`px-2 py-1 rounded-full text-[10px] font-medium border ${statusColor}`}>
             {influencer.status}
           </span>
-          {influencer.status === 'Replied' && onReplyClick && (
+          {(influencer.status === 'Replied' || influencer.status === '⚠ Intercept') && onReplyClick && (
             <button
               onClick={(e) => {
                 e.stopPropagation();
                 onReplyClick(influencer);
               }}
-              className="flex items-center gap-1 px-2 py-1 bg-km18-cyan/20 text-km18-cyan border border-km18-cyan/30 rounded hover:bg-km18-cyan hover:text-black transition-all text-[10px] font-bold"
+              className={`flex items-center gap-1 px-2 py-1 rounded transition-all text-[10px] font-bold border ${
+                influencer.status === '⚠ Intercept' 
+                  ? 'bg-red-500/20 text-red-400 border-red-500/30 hover:bg-red-500 hover:text-black'
+                  : 'bg-km18-cyan/20 text-km18-cyan border-km18-cyan/30 hover:bg-km18-cyan hover:text-black'
+              }`}
             >
               <ExternalLink className="w-3 h-3 rotate-45" />
-              REPLY
+              {influencer.status === '⚠ Intercept' ? 'SECURE REPLY' : 'REPLY'}
             </button>
           )}
           {influencer.outboundReply && (

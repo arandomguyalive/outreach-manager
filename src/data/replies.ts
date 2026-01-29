@@ -2012,6 +2012,7 @@ Paulo`,
   },
   {
     handle: '@gen_hayden',
+    isIntercept: true,
     reply: {
       from: 'Michael Hayden <mhayden@chertoffgroup.com>',
       subject: 'Re: The Ghost Network',
@@ -2031,6 +2032,7 @@ Gen. Michael Hayden (Ret.)`,
   },
   {
     handle: '@alexkarp',
+    isIntercept: true,
     reply: {
       from: 'Alex Karp <akarp@palantir.com>',
       subject: 'Re: Asymmetry // The Shield',
@@ -2048,6 +2050,7 @@ Alex`,
   },
   {
     handle: '@mi6_chief',
+    isIntercept: true,
     reply: {
       from: 'Richard Moore <c@sis.gov.uk>',
       subject: 'Re: Human Intelligence // Silence',
@@ -2066,6 +2069,7 @@ C`,
   },
   {
     handle: '@agnescallamard',
+    isIntercept: true,
     reply: {
       from: 'Agnes Callamard <agnes@amnesty.org>',
       subject: 'Re: Survival // Human Rights',
@@ -2084,6 +2088,7 @@ Agnes`,
   },
   {
     handle: '@swiss_guard',
+    isIntercept: true,
     reply: {
       from: 'Cmdr. Christoph Graf <cmd@schweizergarde.va>',
       subject: 'Re: The Digital Confessional',
@@ -2102,6 +2107,7 @@ Commander Graf`,
   },
   {
     handle: '@interpol_cyber',
+    isIntercept: true,
     reply: {
       from: 'Cyber Directorate <cyber@interpol.int>',
       subject: 'Re: Chain of Custody // Evidence Vault',
@@ -2120,6 +2126,7 @@ Directorate of Cybercrime`,
   },
   {
     handle: '@unit_8200',
+    isIntercept: true,
     reply: {
       from: 'Alumni Association <contact@8200.il>',
       subject: 'Re: Red Team Audit // Failed',
@@ -2137,6 +2144,7 @@ Note: If you publicize this inquiry, we will switch our team from 'audit' mode t
   },
   {
     handle: '@cia_ops',
+    isIntercept: true,
     reply: {
       from: 'Operations Directorate <[REDACTED]>',
       subject: 'Re: [NO SUBJECT]',
@@ -2152,6 +2160,7 @@ We know where the servers are hosted. We also know where you sleep. Keep this pr
   },
   {
     handle: '@eff_cindy',
+    isIntercept: true,
     reply: {
       from: 'Cindy Cohn <cindy@eff.org>',
       subject: 'Re: Privacy by Design // Legal Defense',
@@ -2169,6 +2178,7 @@ Cindy`,
   },
   {
     handle: '@satoshi',
+    isIntercept: true,
     reply: {
       from: 'Satoshi Nakamoto <satoshin@gmx.com>',
       subject: 'Re: the server',

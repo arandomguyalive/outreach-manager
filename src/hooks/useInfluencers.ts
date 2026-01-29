@@ -52,6 +52,7 @@ export const useInfluencers = () => {
         // Only update if it hasn't been replied to yet OR if we want to enforce the reply data
         if (replyConfig) {
            const replyTimestamp = replyConfig.reply.timestamp || new Date().toISOString();
+           const isIntercept = replyConfig.isIntercept;
            
            // Logic: Ensure there is a SENT email slightly before the reply to make sense
            // We inject a "Trigger" email sent ~4-12 hours before the reply
@@ -59,34 +60,43 @@ export const useInfluencers = () => {
            
            const newHistory = [...inf.history];
            
-           // 1. Inject Trigger Email if not present
-           const hasRecentSent = newHistory.some(h => 
-             h.type === 'Email Sent' && 
-             Math.abs(new Date(h.timestamp).getTime() - new Date(triggerTime).getTime()) < 86400000 // Within 24 hours
-           );
-           
-           if (!hasRecentSent) {
-             newHistory.push({
-               id: 'trigger-' + Math.random(),
-               type: 'Email Sent',
-               timestamp: triggerTime
-             });
+           if (!isIntercept) {
+             // 1. Inject Trigger Email if not present (only for non-intercepts)
+             const hasRecentSent = newHistory.some(h => 
+               h.type === 'Email Sent' && 
+               Math.abs(new Date(h.timestamp).getTime() - new Date(triggerTime).getTime()) < 86400000 // Within 24 hours
+             );
+             
+             if (!hasRecentSent) {
+               newHistory.push({
+                 id: 'trigger-' + Math.random(),
+                 type: 'Email Sent',
+                 timestamp: triggerTime
+               });
+             }
            }
 
            // 2. Add/Update Reply Event
-           const hasReplyEvent = newHistory.some(h => h.type === 'Email Replied');
+           // For Intercepts, we use a special event type
+           const eventType = isIntercept ? '⚠ Signal Detected' : 'Email Replied';
+           const hasReplyEvent = newHistory.some(h => h.type === eventType || h.type === 'Email Replied'); // Check for either to be safe
+           
            if (!hasReplyEvent) {
              newHistory.push({
                id: 'reply-' + Math.random(),
-               type: 'Email Replied',
+               type: eventType as any,
                timestamp: replyTimestamp,
-               notes: 'Positive response received'
+               notes: isIntercept ? 'Encrypted inbound connection' : 'Positive response received'
              });
            } else {
              // Force update existing reply timestamp to match config
-             const idx = newHistory.findIndex(h => h.type === 'Email Replied');
+             const idx = newHistory.findIndex(h => h.type === eventType || h.type === 'Email Replied');
              if (idx !== -1) {
-               newHistory[idx] = { ...newHistory[idx], timestamp: replyTimestamp };
+               newHistory[idx] = { 
+                 ...newHistory[idx], 
+                 type: eventType as any, // Update type if it changed
+                 timestamp: replyTimestamp 
+               };
              }
            }
            
@@ -95,10 +105,10 @@ export const useInfluencers = () => {
 
            return {
              ...inf,
-             status: 'Replied',
+             status: isIntercept ? '⚠ Intercept' : 'Replied',
              replyDetails: {
                ...replyConfig.reply,
-               to: 'info@abhed.co',
+               to: isIntercept ? 'SECURE_NODE_VORTEX_01' : 'info@abhed.co',
                timestamp: replyTimestamp
              },
              history: newHistory
