@@ -1981,7 +1981,7 @@ Parkwood Entertainment`,
       subject: 'Re: A Digital Immune System',
       body: `Dear Kinjal,
 
-I reviewed your whitepaper on the peer-to-peer handshake.
+I read your note regarding the peer-to-peer handshake.
 
 In my work with global health, we often talk about the need for robust immune systems. The internet, in its current state, has a weak immune system against surveillance and data exploitation. Your "Anti-Server" architecture acts like a digital T-cell—it isolates the conversation and protects the host.
 
