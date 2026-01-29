@@ -241,13 +241,15 @@ function App() {
                   </div>
                 )}
 
-                <div className="mb-8">
-                  <h3 className="text-lg font-bold text-white mb-4 flex items-center gap-2">
-                    <Send className="w-5 h-5 text-km18-cyan" />
-                    Outreach Generator
-                  </h3>
-                  <PitchGenerator influencer={selectedInfluencer} />
-                </div>
+                {selectedInfluencer.status !== '⚠ Intercept' && (
+                  <div className="mb-8">
+                    <h3 className="text-lg font-bold text-white mb-4 flex items-center gap-2">
+                      <Send className="w-5 h-5 text-km18-cyan" />
+                      Outreach Generator
+                    </h3>
+                    <PitchGenerator influencer={selectedInfluencer} />
+                  </div>
+                )}
 
                 <div>
                   <h3 className="text-lg font-bold text-white mb-4">Interaction History</h3>
