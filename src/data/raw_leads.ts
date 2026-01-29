@@ -1082,4 +1082,14 @@ Interpol Cyber	Government	Global	English	Law Enforcement	@interpol_cyber	Titan	c
 Unit 8200	Government	Israel	Hebrew	Intelligence	@unit_8200	Titan	contact @8200.il
 CIA Operations	Government	USA	English	Intelligence	@cia_ops	Titan	ops @cia.gov
 Cindy Cohn	NGO	USA	English	Privacy Law	@eff_cindy	Titan	cindy @eff.org
-Satoshi Nakamoto	Crypto	Global	English	Legend	@satoshi	Titan	satoshin @gmx.com`;
+Satoshi Nakamoto	Crypto	Global	English	Legend	@satoshi	Titan	satoshin @gmx.com
+LeBron James	Instagram	USA	English	Sports/Icon	@kingjames	Mega	king @lrmr.com
+Virat Kohli	Instagram	India	English	Sports/Icon	@virat_kohli	Mega	virat @sportingbeyond.com
+Christopher Nolan	Film	UK/USA	English	Director/Art	@christophernolan	Mega	nolan @syncopy.com
+James Cameron	Film	USA	English	Director/Tech	@jimcameron	Mega	jim @lightstorm.com
+Oprah Winfrey	TV	USA	English	Media/Icon	@oprah	Mega	oprah @harpo.com
+Kylie Jenner	Instagram	USA	English	Lifestyle/Biz	@kyliejenner	Mega	kylie @kyliecosmetics.com
+Rihanna	Instagram	Barbados/USA	English	Music/Biz	@badgalriri	Mega	rihanna @fenty.com
+Sundar Pichai	Google	USA	English	Tech/CEO	@sundarpichai	Mega	sundar @google.com
+Linus Torvalds	Linux	Finland/USA	English	Tech/Core	@torvalds	Mega	torvalds @linux.com
+Tom Cruise	Film	USA	English	Actor/Stunts	@tomcruise	Mega	tom @cruise.com`;
