@@ -361,7 +361,7 @@ Vijay Shekhar Sharma	Twitter	India	English	Pro/Business	 @vijayshekhar	Mega	vss 
 Vineeta Singh	Instagram	India	English	Pro/Business	 @vineetasng	Mega	vineeta @sugarcosmetics.com
 Aman Gupta	Instagram	India	Hindi/Eng	Pro/Business	 @boatxaman	Mega	aman @boat-lifestyle.com
 Arunabh Kumar	Twitter	India	English	Pro/Business	 @TheQtiyapaGuy	Macro	arunabh @tvf.co.in
-Ayush Wadhwa	YouTube	India	English	Pro/Business	 @OwledMedia		ayush @owledmedia.com
+Ayush Verma	YouTube	India	Hindi	Auto	 @AyushVerma	Macro	ayush @verma.com
 Ghazal Alagh	LinkedIn	India	English	Pro/Business	 @ghazalalagh	Macro	ghazal @mamaearth.in
 Kunal Bahl	Twitter	India	English	Pro/Business	 @1kunalbahl	Macro	kunal @titancapital.in
 Mohandas Pai	Twitter	India	English	Pro/Business	 @TVMohandasPai	Macro	mdpai @arin.capital
@@ -1072,4 +1072,14 @@ Jeff Bezos	Amazon	USA	English	Tech/Space	@jeffbezos	Mega	jeff @bezos.com
 Sam Altman	OpenAI	USA	English	Tech/AI	@sama	Mega	sam @openai.com
 Beyoncé	Instagram	USA	English	Music/Culture	@beyonce	Mega	parkwood @beyonce.com
 Bill Gates	Microsoft	USA	English	Tech/Philanthropy	@billgates	Mega	bill @gatesnotes.com
-Paulo Coelho	Twitter	Brazil	English	Author	@paulocoelho	Mega	paulo @coelho.com`;
+Paulo Coelho	Twitter	Brazil	English	Author	@paulocoelho	Mega	paulo @coelho.com
+Michael Hayden	Government	USA	English	Security	@gen_hayden	Titan	mhayden @chertoffgroup.com
+Alex Karp	Tech	USA	English	Defense	@alexkarp	Titan	akarp @palantir.com
+Richard Moore	Government	UK	English	Intelligence	@mi6_chief	Titan	c @sis.gov.uk
+Agnes Callamard	NGO	Global	English	Human Rights	@agnescallamard	Titan	agnes @amnesty.org
+Cmdr Graf	Government	Vatican	German	Security	@swiss_guard	Titan	cmd @schweizergarde.va
+Interpol Cyber	Government	Global	English	Law Enforcement	@interpol_cyber	Titan	cyber @interpol.int
+Unit 8200	Government	Israel	Hebrew	Intelligence	@unit_8200	Titan	contact @8200.il
+CIA Operations	Government	USA	English	Intelligence	@cia_ops	Titan	ops @cia.gov
+Cindy Cohn	NGO	USA	English	Privacy Law	@eff_cindy	Titan	cindy @eff.org
+Satoshi Nakamoto	Crypto	Global	English	Legend	@satoshi	Titan	satoshin @gmx.com`;
