@@ -1923,7 +1923,7 @@ Best,
       subject: 'Re: Day 1 Thinking',
       body: `Kinjal,
 
-I read your whitepaper. This is "Day 1" thinking.
+I read your note. This is "Day 1" thinking.
 
 Most companies treat customer data as *their* asset. You are treating it as the *customer's* asset. That is the ultimate form of customer obsession. By removing the server, you have removed the conflict of interest that plagues the entire social media industry.
 
