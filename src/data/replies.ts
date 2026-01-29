@@ -1973,5 +1973,41 @@ Sincerely,
 Parkwood Entertainment`,
       timestamp: '2026-01-30T09:45:00'
     }
+  },
+  {
+    handle: '@billgates',
+    reply: {
+      from: 'Bill Gates <bill@gatesnotes.com>',
+      subject: 'Re: A Digital Immune System',
+      body: `Dear Kinjal,
+
+I reviewed your whitepaper on the peer-to-peer handshake.
+
+In my work with global health, we often talk about the need for robust immune systems. The internet, in its current state, has a weak immune system against surveillance and data exploitation. Your "Anti-Server" architecture acts like a digital T-cell—it isolates the conversation and protects the host.
+
+It is a sophisticated approach to a problem most people ignore until it's too late. I am optimistic about what this kind of "Sovereign Tech" can do for the developing world.
+
+Best,
+Bill Gates`,
+      timestamp: '2026-01-30T10:30:00'
+    }
+  },
+  {
+    handle: '@paulocoelho',
+    reply: {
+      from: 'Paulo Coelho <paulo@paulocoelho.com>',
+      subject: 'Re: The Personal Legend',
+      body: `My dear Kinjal,
+
+When you want something, all the universe conspires in helping you to achieve it. You wanted silence in a noisy world, and so you built it.
+
+I write to find the truth in the human soul. Your "Vortex" is a place where that truth can be spoken without fear. It is not just an app; it is a sanctuary for the Personal Legend of every user.
+
+Keep following the omens.
+
+Love,
+Paulo`,
+      timestamp: '2026-01-30T11:15:00'
+    }
   }
 ];

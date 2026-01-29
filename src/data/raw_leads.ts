@@ -1070,4 +1070,6 @@ Mukesh Ambani	Reliance	India	English	Biz/Infra	@mukesh_ambani	Mega	chairman @ril
 Taylor Swift	Instagram	USA	English	Music/Icon	@taylorswift	Mega	management @13.com
 Jeff Bezos	Amazon	USA	English	Tech/Space	@jeffbezos	Mega	jeff @bezos.com
 Sam Altman	OpenAI	USA	English	Tech/AI	@sama	Mega	sam @openai.com
-Beyoncé	Instagram	USA	English	Music/Culture	@beyonce	Mega	parkwood @beyonce.com`;
+Beyoncé	Instagram	USA	English	Music/Culture	@beyonce	Mega	parkwood @beyonce.com
+Bill Gates	Microsoft	USA	English	Tech/Philanthropy	@billgates	Mega	bill @gatesnotes.com
+Paulo Coelho	Twitter	Brazil	English	Author	@paulocoelho	Mega	paulo @coelho.com`;
