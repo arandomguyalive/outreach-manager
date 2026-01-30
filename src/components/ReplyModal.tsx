@@ -84,31 +84,44 @@ export const ReplyModal: React.FC<ReplyModalProps> = ({ influencer, isOpen, onCl
         <div className="p-6 space-y-4">
           {/* Conversation History */}
           {influencer.thread && influencer.thread.length > 0 ? (
-            <div className="space-y-3 max-h-64 overflow-y-auto pr-2 mb-4 scrollbar-thin scrollbar-thumb-white/20 scrollbar-track-transparent">
+            <div className="space-y-4 max-h-[60vh] overflow-y-auto pr-2 mb-4 scrollbar-thin scrollbar-thumb-white/20 scrollbar-track-transparent">
+              <div className="flex items-center gap-2 mb-2 px-1">
+                <div className="h-px bg-white/10 flex-1"></div>
+                <span className="text-[10px] text-gray-500 font-mono uppercase tracking-widest">Secure Thread History</span>
+                <div className="h-px bg-white/10 flex-1"></div>
+              </div>
               {influencer.thread.map((msg, idx) => (
                 <div 
                   key={idx} 
-                  className={`rounded-lg p-3 border text-xs ${
+                  className={`relative rounded-xl p-4 border text-sm ${
                     msg.direction === 'outbound' 
-                      ? 'bg-km18-purple/10 border-km18-purple/30 ml-12' 
-                      : 'bg-white/5 border-white/10 mr-12'
+                      ? 'bg-km18-purple/5 border-km18-purple/20 ml-8 md:ml-16' 
+                      : 'bg-white/5 border-white/10 mr-8 md:mr-16'
                   }`}
                 >
-                  <div className="flex justify-between items-center mb-2">
-                    <span className={`font-mono uppercase text-[9px] font-bold ${
-                      msg.direction === 'outbound' ? 'text-km18-purple' : 'text-km18-cyan'
-                    }`}>
-                      {msg.direction === 'outbound' ? 'ABHED Protocol (You)' : `Incoming Signal // ${influencer.handle}`}
-                    </span>
-                    <span className="text-[9px] text-gray-500 font-mono">
-                      {new Date(msg.timestamp).toLocaleDateString()} {new Date(msg.timestamp).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
+                  <div className="flex justify-between items-start mb-3 border-b border-white/5 pb-2">
+                    <div className="flex flex-col">
+                      <span className={`font-mono text-xs font-bold mb-0.5 ${
+                        msg.direction === 'outbound' ? 'text-km18-purple' : 'text-km18-cyan'
+                      }`}>
+                        {msg.direction === 'outbound' ? 'You (Kinjal Mishra)' : influencer.name}
+                      </span>
+                      <span className="text-[10px] text-gray-500">{msg.from}</span>
+                    </div>
+                    <span className="text-[10px] text-gray-500 font-mono">
+                      {new Date(msg.timestamp).toLocaleDateString('en-GB', { day: 'numeric', month: 'short' })} • {new Date(msg.timestamp).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
                     </span>
                   </div>
-                  <div className="text-gray-300 whitespace-pre-wrap leading-relaxed">
+                  <div className="text-gray-300 whitespace-pre-wrap leading-relaxed font-sans">
                     {msg.body}
                   </div>
                 </div>
               ))}
+              <div className="flex items-center gap-2 mt-2 px-1">
+                <div className="h-px bg-white/10 flex-1"></div>
+                <span className="text-[10px] text-km18-cyan font-mono uppercase tracking-widest animate-pulse">Live Connection</span>
+                <div className="h-px bg-white/10 flex-1"></div>
+              </div>
             </div>
           ) : (
             influencer.replyDetails && (
