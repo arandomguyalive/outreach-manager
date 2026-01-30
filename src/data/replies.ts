@@ -1299,14 +1299,15 @@ Emaar Properties | Dubai`,
             subject: 'Re: Downtown Dubai // Digital Real Estate',
             body: `Dear Ms. Mishra,
 
-We define the skyline, but we must also define the digital horizon.
+The Burj Khalifa should not just be the tallest building in the world physically, but also the most secure digitally.
 
-Mr. Alabbar believes that true luxury is no longer about height or gold; it is about silence. It is about the ability to disconnect from the world while standing on top of it.
+Mr. Alabbar is intrigued by the idea of "locking" exclusive digital assets to our physical coordinates. Creating an exclusive "Abhed Zone" at the 154th floor for our VIP guests is a concept we wish to explore. Your engineering approach to location-based encryption is the most robust we've seen.
 
-Your concept of "Digital Sovereignty" is the missing piece of our architecture.
+The convergence of real estate and digital sovereignty is the next frontier, and we want ABHED to be the layer.
 
-Regards,
-Executive Office`,
+Sincerely,
+Office of the Chairman
+Emaar Properties`,
             timestamp: '2026-01-29T09:00:00'
         },
         {

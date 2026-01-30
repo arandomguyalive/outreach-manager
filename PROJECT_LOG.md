@@ -14,6 +14,15 @@ The Abhed Outreach Manager has evolved from a lead-tracking tool into a high-fid
 
 ---
 
+### **Phase 3.7.3 - Narrative Logic Restoration (Jan 30, 2026)**
+- **Correction:** Restored the original "Initial Reply" for **Mohamed Alabbar**.
+- **Context:** The previous update (3.7.2) inadvertently overwrote the specific "154th Floor / Abhed Zone" proposal with a generic "Silence/Luxury" text. This broke the continuity of the subsequent outbound reply (which references the 154th floor).
+- **Result:** The conversation thread now flows correctly:
+    1. **Alabbar:** Proposes the "Abhed Zone" at the 154th floor.
+    2. **Kinjal:** Accepts the challenge ("Vault in the Sky").
+    3. **Alabbar:** Escalates to investment ("Foundational Stake").
+- **Tech:** Updated `src/data/replies.ts`.
+
 ### **Phase 3.7.2 - Conversation Thread Implementation (Jan 30, 2026)**
 - **Feature: Full Thread View:**
     - Implemented a scrollable conversation history view in `ReplyModal.tsx`.
