@@ -2914,6 +2914,124 @@ Sincerely,
 David Attenborough`,
       timestamp: '2026-01-30T18:00:00'
     }
+  },
+  {
+    handle: '@elonmusk',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Elon Musk <elon@x.com>',
+      subject: 'Re: First Principles // The Public Square',
+      body: `Kinjal,
+
+I looked at the code.
+
+The only way to guarantee free speech is to remove the ability for anyone to delete it. If the server exists, censorship is inevitable. Your "Anti-Server" logic is correct from first principles.
+
+We are trying to fix the Public Square at X, but you have built a Private Square. Both are necessary for civilization.
+
+I want to see if the mesh can handle planetary scale. Let's break it.
+
+Elon`,
+      timestamp: '2026-01-30T18:30:00'
+    }
+  },
+  {
+    handle: '@hideo_kojima_en',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Hideo Kojima <kojima@kojimaproductions.jp>',
+      subject: 'Re: The Strand',
+      body: `Dear Kinjal,
+
+I saw the "Vortex."
+
+It is not an app. It is a bridge. In Death Stranding, I wanted to connect people without words. You have done this with code. You have built a digital strand that connects souls while keeping the demons out.
+
+The interface... it feels like liquid memory. It is very "Kojima."
+
+I want to use this for my next script. No leaks. Only connections.
+
+Hideo`,
+      timestamp: '2026-01-30T19:00:00'
+    }
+  },
+  {
+    handle: '@dalailama',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Office of His Holiness <office@dalailama.com>',
+      subject: 'Re: The Digital Monastery',
+      body: `Dear Ms. Mishra,
+
+His Holiness has received your message.
+
+In a world of noise, silence is a spiritual act. Protecting one's private thoughts is the first step towards inner peace. He sees your "Abhed" (The Impenetrable) not just as technology, but as a "Digital Monastery"—a place where the mind can be safe from the chaos of the world.
+
+Technology should serve compassion, not control. You have built a compassionate tool.
+
+With prayers,
+Office of His Holiness the Dalai Lama`,
+      timestamp: '2026-01-30T19:30:00'
+    }
+  },
+  {
+    handle: '@mercedesamgf1',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Toto Wolff <toto@mercedes.com>',
+      subject: 'Re: Precision Engineering // No Drag',
+      body: `Kinjal,
+
+I reviewed the telemetry of your handshake protocol.
+
+In Formula 1, latency is failure. Drag is the enemy. Your code runs like a race engine—no excess weight, just pure speed. The way you've optimized the local compute is what we call "marginal gains," but at a systemic level.
+
+We need a channel for the pit wall that cannot be intercepted by rivals. If this is as fast as you say, we are interested.
+
+Toto`,
+      timestamp: '2026-01-30T20:00:00'
+    }
+  },
+  {
+    handle: '@youranonnews',
+    isIntercept: true,
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Legion <legion@anon.com>',
+      subject: 'Re: Signal Detected // Ghost Ship',
+      body: `Kinjal,
+
+We tried to breach the mesh. We failed.
+
+The "Vortex" has no center. It is a ghost ship. We respect the architecture. In a world of panopticons, you have built a blind spot.
+
+We are Legion. We do not forgive censorship. But we recognize sovereignty.
+
+Keep the keys local. We are watching.
+
+- Anonymous`,
+      timestamp: '2026-01-30T20:30:00'
+    }
+  },
+  {
+    handle: '@bjarkeingels',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Bjarke Ingels <big@big.dk>',
+      subject: 'Re: Digital Urban Planning',
+      body: `Kinjal,
+
+This is architecture.
+
+You aren't coding features; you are creating "Digital Urban Planning." The Geo-Fencing feature allows us to build invisible rooms inside physical cities. Imagine a digital gallery inside the CopenHill power plant that only exists if you are standing on the roof.
+
+You are giving space a new dimension. I love the structural integrity of the code.
+
+Let's build something impossible.
+
+Bjarke`,
+      timestamp: '2026-01-30T21:00:00'
+    }
   }
 ];
   

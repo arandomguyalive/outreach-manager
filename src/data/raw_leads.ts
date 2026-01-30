@@ -1109,4 +1109,10 @@ Prince William	Royalty	UK	English	Royalty/Sovereign	@kensingtonroyal	Mega	info @
 Tim Cook	Apple	USA	English	Tech/CEO	@tim_cook	Mega	tcook @apple.com
 Ray Dalio	Bridgewater	USA	English	Finance/Principles	@raydalio	Mega	ray @principles.com
 Banksy	Art	UK	English	Art/Sovereign	@banksy	Mega	studio @pestcontroloffice.com
-David Attenborough	Science	UK	English	Nature/Icon	@davidattenborough	Mega	office @attenborough.com`;
+David Attenborough	Science	UK	English	Nature/Icon	@davidattenborough	Mega	office @attenborough.com
+Elon Musk	X	USA	English	Tech/Space	@elonmusk	Mega	elon @x.com
+Hideo Kojima	Gaming	Japan	English	Auteur/Game	@hideo_kojima_en	Mega	kojima @kojimaproductions.jp
+Dalai Lama	Spirituality	Tibet/India	English	Peace/Icon	@dalailama	Mega	office @dalailama.com
+Toto Wolff	F1	Austria	English	F1/Mercedes	@mercedesamgf1	Mega	toto @mercedes.com
+Anonymous	Hacker	Global	English	Legion/Sec	@youranonnews	Titan	legion @anon.com
+Bjarke Ingels	Arch	Denmark	English	Arch/Design	@bjarkeingels	Mega	big @big.dk`;
