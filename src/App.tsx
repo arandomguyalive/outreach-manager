@@ -211,57 +211,74 @@ function App() {
                   </div>
                 </div>
 
-                {selectedInfluencer.outboundReply && (
-                  <div className="mb-8 bg-km18-cyan/5 border border-km18-cyan/50 rounded-xl overflow-hidden shadow-[0_0_20px_rgba(0,212,229,0.1)]">
-                    <div className="bg-km18-cyan/20 p-3 border-b border-km18-cyan/30 flex items-center justify-between">
-                      <h3 className="font-bold text-km18-cyan flex items-center gap-2">
-                        <Send className="w-4 h-4" />
-                        Sovereign Response Dispatched
-                      </h3>
-                      <span className="text-[10px] font-mono text-km18-cyan/80 bg-km18-cyan/10 px-2 py-1 rounded border border-km18-cyan/20">
-                        {new Date(selectedInfluencer.outboundReply.timestamp).toLocaleString()}
-                      </span>
-                    </div>
-                    <div className="p-4 space-y-3">
-                      <div>
-                        <p className="text-xs text-km18-cyan/60 uppercase font-bold tracking-wider">Subject</p>
-                        <p className="text-white text-sm font-bold">{selectedInfluencer.outboundReply.subject}</p>
-                      </div>
-                      <div className="pt-2 border-t border-km18-cyan/10 mt-2">
-                        <p className="text-gray-300 text-sm whitespace-pre-wrap leading-relaxed font-mono text-[13px]">
-                          {selectedInfluencer.outboundReply.body}
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                )}
-
-                {selectedInfluencer.replyDetails && (
-                  <div className="mb-8 bg-white/5 border border-km18-cyan/30 rounded-xl overflow-hidden">
-                    <div className="bg-km18-cyan/10 p-3 border-b border-km18-cyan/20 flex items-center justify-between">
-                      <h3 className="font-bold text-km18-cyan flex items-center gap-2">
-                        <MessageSquare className="w-4 h-4" /> 
-                        Incoming Reply
-                      </h3>
-                    </div>
-                    <div className="p-4 space-y-3">
-                      <div>
-                        <p className="text-xs text-gray-500 uppercase font-bold tracking-wider">From</p>
-                        <p className="text-white text-sm font-mono">{selectedInfluencer.replyDetails.from}</p>
-                      </div>
-                      <div>
-                        <p className="text-xs text-gray-500 uppercase font-bold tracking-wider">To</p>
-                        <p className="text-white text-sm font-mono">{selectedInfluencer.replyDetails.to}</p>
-                      </div>
-                      <div>
-                        <p className="text-xs text-gray-500 uppercase font-bold tracking-wider">Subject</p>
-                        <p className="text-white text-sm font-bold">{selectedInfluencer.replyDetails.subject}</p>
-                      </div>
-                      <div className="pt-2 border-t border-white/10 mt-2">
-                        <p className="text-gray-300 text-sm whitespace-pre-wrap leading-relaxed">
-                          {selectedInfluencer.replyDetails.body}
-                        </p>
-                      </div>
+                {/* Secure Conversation Thread */}
+                {(selectedInfluencer.thread || selectedInfluencer.replyDetails || selectedInfluencer.outboundReply) && (
+                  <div className="mb-8">
+                    <h3 className="text-lg font-bold text-white mb-4 flex items-center gap-2">
+                      <MessageSquare className="w-5 h-5 text-km18-cyan" />
+                      Secure Conversation Thread
+                    </h3>
+                    
+                    <div className="space-y-4">
+                      {selectedInfluencer.thread ? (
+                        // Render full thread if available
+                        selectedInfluencer.thread.map((msg, idx) => (
+                          <div 
+                            key={idx} 
+                            className={`rounded-xl border p-4 text-sm ${
+                              msg.direction === 'outbound' 
+                                ? 'bg-km18-purple/5 border-km18-purple/20 ml-6' 
+                                : 'bg-white/5 border-white/10 mr-6'
+                            }`}
+                          >
+                            <div className="flex justify-between items-start mb-2 border-b border-white/5 pb-2">
+                              <span className={`font-mono text-[10px] font-bold uppercase tracking-wider ${
+                                msg.direction === 'outbound' ? 'text-km18-purple' : 'text-km18-cyan'
+                              }`}>
+                                {msg.direction === 'outbound' ? 'You' : selectedInfluencer.name}
+                              </span>
+                              <span className="text-[10px] text-gray-500 font-mono">
+                                {new Date(msg.timestamp).toLocaleDateString([], { day: '2-digit', month: 'short' })} • {new Date(msg.timestamp).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
+                              </span>
+                            </div>
+                            <p className="text-gray-300 whitespace-pre-wrap leading-relaxed">
+                              {msg.body}
+                            </p>
+                          </div>
+                        ))
+                      ) : (
+                        // Fallback to dynamic assembly of replyDetails and outboundReply
+                        [
+                          selectedInfluencer.replyDetails && { ...selectedInfluencer.replyDetails, direction: 'inbound' },
+                          selectedInfluencer.outboundReply && { ...selectedInfluencer.outboundReply, direction: 'outbound' }
+                        ]
+                          .filter(Boolean)
+                          .sort((a: any, b: any) => new Date(a.timestamp).getTime() - new Date(b.timestamp).getTime())
+                          .map((msg: any, idx) => (
+                            <div 
+                              key={idx} 
+                              className={`rounded-xl border p-4 text-sm ${
+                                msg.direction === 'outbound' 
+                                  ? 'bg-km18-purple/5 border-km18-purple/20 ml-6' 
+                                  : 'bg-white/5 border-white/10 mr-6'
+                              }`}
+                            >
+                              <div className="flex justify-between items-start mb-2 border-b border-white/5 pb-2">
+                                <span className={`font-mono text-[10px] font-bold uppercase tracking-wider ${
+                                  msg.direction === 'outbound' ? 'text-km18-purple' : 'text-km18-cyan'
+                                }`}>
+                                  {msg.direction === 'outbound' ? 'You' : selectedInfluencer.name}
+                                </span>
+                                <span className="text-[10px] text-gray-500 font-mono">
+                                  {new Date(msg.timestamp).toLocaleDateString([], { day: '2-digit', month: 'short' })} • {new Date(msg.timestamp).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
+                                </span>
+                              </div>
+                              <p className="text-gray-300 whitespace-pre-wrap leading-relaxed">
+                                {msg.body}
+                              </p>
+                            </div>
+                          ))
+                      )}
                     </div>
                   </div>
                 )}
