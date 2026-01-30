@@ -237,9 +237,11 @@ function App() {
                               }`}>
                                 {msg.direction === 'outbound' ? 'You' : selectedInfluencer.name}
                               </span>
-                              <span className="text-[10px] text-gray-500 font-mono">
-                                {new Date(msg.timestamp).toLocaleDateString([], { day: '2-digit', month: 'short' })} • {new Date(msg.timestamp).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
-                              </span>
+                              {msg.timestamp && (
+                                <span className="text-[10px] text-gray-500 font-mono">
+                                  {new Date(msg.timestamp).toLocaleDateString([], { day: '2-digit', month: 'short' })} • {new Date(msg.timestamp).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
+                                </span>
+                              )}
                             </div>
                             <p className="text-gray-300 whitespace-pre-wrap leading-relaxed">
                               {msg.body}
@@ -269,9 +271,11 @@ function App() {
                                 }`}>
                                   {msg.direction === 'outbound' ? 'You' : selectedInfluencer.name}
                                 </span>
-                                <span className="text-[10px] text-gray-500 font-mono">
-                                  {new Date(msg.timestamp).toLocaleDateString([], { day: '2-digit', month: 'short' })} • {new Date(msg.timestamp).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
-                                </span>
+                                {msg.timestamp && (
+                                  <span className="text-[10px] text-gray-500 font-mono">
+                                    {new Date(msg.timestamp).toLocaleDateString([], { day: '2-digit', month: 'short' })} • {new Date(msg.timestamp).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
+                                  </span>
+                                )}
                               </div>
                               <p className="text-gray-300 whitespace-pre-wrap leading-relaxed">
                                 {msg.body}

@@ -1308,7 +1308,8 @@ The convergence of real estate and digital sovereignty is the next frontier, and
 Regards,
 
 Executive Office of the Chairman
-Emaar Properties | Dubai`
+Emaar Properties | Dubai`,
+            timestamp: '2026-01-27T09:00:00'
         },
         {
             direction: 'outbound',
@@ -1325,7 +1326,8 @@ I want to make it perfect for your guests. Could we schedule a session with your
 
 Kinjal Mishra
 System Architect, ABHED
-Author, The Inner Billionaire`
+Author, The Inner Billionaire`,
+            timestamp: '2026-01-30T14:00:00'
         },
         {
             direction: 'inbound',
@@ -1354,7 +1356,8 @@ Please confirm your dates. The 154th floor awaits its architect.
 Regards,
 
 Executive Office of the Chairman
-Emaar Properties | Dubai`
+Emaar Properties | Dubai`,
+            timestamp: '2026-01-30T16:00:00'
         }
     ]
   },
