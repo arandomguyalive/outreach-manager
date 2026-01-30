@@ -2525,24 +2525,7 @@ Cindy`,
       timestamp: '2026-01-30T18:00:00'
     }
   },
-    reply: {
-      to: 'info@abhed.co',
-      from: 'Reliance Chairman Office <chairman@ril.com>',
-      subject: 'Re: Data Sovereignty // Strategic Asset',
-      body: `Dear Ms. Mishra,
 
-Mr. Ambani has reviewed your proposal regarding the "Sovereign Mesh."
-
-He has often stated that "Data is the new oil." But for that oil to be valuable, it must be refined and secured within our borders. Your "Local Key" architecture ensures that the data of Indian citizens remains physically on their devices, not on foreign servers. This aligns with our vision for a self-reliant digital India.
-
-He sees this not just as an app, but as critical digital infrastructure. We would like to explore how this protocol could integrate with our broader ecosystem.
-
-Regards,
-Executive Assistant to the Chairman
-Reliance Industries Limited`,
-      timestamp: '2026-01-29T22:00:00'
-    }
-  },
   {
     handle: '@barackobama',
     reply: {
