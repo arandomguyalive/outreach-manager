@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { X, Send, CheckCircle, Shield, Brain, BookOpen } from 'lucide-react';
+import { X, Send, CheckCircle, Shield, Brain, BookOpen, Zap } from 'lucide-react';
 import type { Influencer } from '../types';
 
 interface ReplyModalProps {
@@ -8,6 +8,29 @@ interface ReplyModalProps {
   onClose: () => void;
   onSend: (subject: string, body: string) => void;
 }
+
+const RESPONSE_TEMPLATES = [
+  {
+    id: 'grant',
+    label: 'Grant Access',
+    text: "Access credentials generated. Your node has been whitelisted for the Alpha Vortex. Welcome to the sovereign web. \n\nCheck your secure drive for the keyfile."
+  },
+  {
+    id: 'stealth',
+    label: 'Stealth Protocol',
+    text: "We are currently operating in deep stealth. I have flagged your profile for high-priority access once we lift the embargo. \n\nStay tuned."
+  },
+  {
+    id: 'technical',
+    label: 'Architects Note',
+    text: "Appreciate the deep dive. The goal is total data sovereignty—no middleman, no metadata. \n\nWould love to walk you through the P2P architecture personally."
+  },
+  {
+    id: 'meeting',
+    label: 'Secure Sync',
+    text: "Your vision aligns with the protocol. Let's take this offline. \n\nI'm available for a secure sync this week to discuss the roadmap."
+  }
+];
 
 export const ReplyModal: React.FC<ReplyModalProps> = ({ influencer, isOpen, onClose, onSend }) => {
   const [subject, setSubject] = useState('');
@@ -87,7 +110,21 @@ export const ReplyModal: React.FC<ReplyModalProps> = ({ influencer, isOpen, onCl
             </div>
 
             <div>
-              <label className="block text-[10px] text-gray-500 uppercase tracking-widest mb-1 font-mono">Body</label>
+              <div className="flex justify-between items-end mb-1">
+                <label className="text-[10px] text-gray-500 uppercase tracking-widest font-mono">Body</label>
+                <div className="flex gap-2">
+                  {RESPONSE_TEMPLATES.map(template => (
+                    <button
+                      key={template.id}
+                      onClick={() => setBody(template.text)}
+                      className="text-[9px] bg-km18-cyan/10 text-km18-cyan border border-km18-cyan/20 px-2 py-1 rounded hover:bg-km18-cyan hover:text-black transition-colors font-mono uppercase flex items-center gap-1"
+                    >
+                      <Zap className="w-2 h-2" />
+                      {template.label}
+                    </button>
+                  ))}
+                </div>
+              </div>
               <textarea
                 value={body}
                 onChange={(e) => setBody(e.target.value)}

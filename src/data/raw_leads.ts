@@ -1094,4 +1094,10 @@ Sundar Pichai	Google	USA	English	Tech/CEO	@sundarpichai	Mega	sundar @google.com
 Linus Torvalds	Linux	Finland/USA	English	Tech/Core	@torvalds	Mega	torvalds @linux.com
 Tom Cruise	Film	USA	English	Actor/Stunts	@tomcruise	Mega	tom @cruise.com
 Justin Bieber	Instagram	Canada/USA	English	Music/Icon	@justinbieber	Mega	justin @bieber.com
-Serena Williams	Instagram	USA	English	Sports/VC	@serena	Mega	serena @serenaventures.com`;
+Serena Williams	Instagram	USA	English	Sports/VC	@serena	Mega	serena @serenaventures.com
+Barack Obama	Twitter	USA	English	Politics/Icon	@barackobama	Mega	info @obama.org
+Leonardo DiCaprio	Instagram	USA	English	Actor/Activist	@leonardodicaprio	Mega	leo @dicaprio.org
+Leo Messi	Instagram	Argentina	English	Sports/Icon	@leomessi	Mega	leo @messi.com
+Masayoshi Son	Twitter	Japan	English	VC/Visionary	@masason	Mega	masa @softbank.com
+Larry Ellison	Oracle	USA	English	Tech/Cloud	@larryellison	Mega	larry @oracle.com
+Sergey Brin	Google	USA	English	Tech/Founder	@sergeybrin	Mega	sergey @google.com`;

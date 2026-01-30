@@ -211,6 +211,31 @@ function App() {
                   </div>
                 </div>
 
+                {selectedInfluencer.outboundReply && (
+                  <div className="mb-8 bg-km18-cyan/5 border border-km18-cyan/50 rounded-xl overflow-hidden shadow-[0_0_20px_rgba(0,212,229,0.1)]">
+                    <div className="bg-km18-cyan/20 p-3 border-b border-km18-cyan/30 flex items-center justify-between">
+                      <h3 className="font-bold text-km18-cyan flex items-center gap-2">
+                        <Send className="w-4 h-4" />
+                        Sovereign Response Dispatched
+                      </h3>
+                      <span className="text-[10px] font-mono text-km18-cyan/80 bg-km18-cyan/10 px-2 py-1 rounded border border-km18-cyan/20">
+                        {new Date(selectedInfluencer.outboundReply.timestamp).toLocaleString()}
+                      </span>
+                    </div>
+                    <div className="p-4 space-y-3">
+                      <div>
+                        <p className="text-xs text-km18-cyan/60 uppercase font-bold tracking-wider">Subject</p>
+                        <p className="text-white text-sm font-bold">{selectedInfluencer.outboundReply.subject}</p>
+                      </div>
+                      <div className="pt-2 border-t border-km18-cyan/10 mt-2">
+                        <p className="text-gray-300 text-sm whitespace-pre-wrap leading-relaxed font-mono text-[13px]">
+                          {selectedInfluencer.outboundReply.body}
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                )}
+
                 {selectedInfluencer.replyDetails && (
                   <div className="mb-8 bg-white/5 border border-km18-cyan/30 rounded-xl overflow-hidden">
                     <div className="bg-km18-cyan/10 p-3 border-b border-km18-cyan/20 flex items-center justify-between">

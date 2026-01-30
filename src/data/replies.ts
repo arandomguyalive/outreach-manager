@@ -2525,21 +2525,142 @@ Cindy`,
       timestamp: '2026-01-30T18:00:00'
     }
   },
-  {
-    handle: '@satoshi',
-    isIntercept: true,
     reply: {
       to: 'info@abhed.co',
-      from: 'Satoshi Nakamoto <satoshin@gmx.com>',
-      subject: 'Re: the server',
-      body: `the server was the error.
+      from: 'Reliance Chairman Office <chairman@ril.com>',
+      subject: 'Re: Data Sovereignty // Strategic Asset',
+      body: `Dear Ms. Mishra,
 
-you corrected it.
+Mr. Ambani has reviewed your proposal regarding the "Sovereign Mesh."
 
-i have moved 100 BTC to a wallet. the key is your geofence. find it.
+He has often stated that "Data is the new oil." But for that oil to be valuable, it must be refined and secured within our borders. Your "Local Key" architecture ensures that the data of Indian citizens remains physically on their devices, not on foreign servers. This aligns with our vision for a self-reliant digital India.
 
-keep building.`,
-      timestamp: '2026-01-31T00:00:00'
+He sees this not just as an app, but as critical digital infrastructure. We would like to explore how this protocol could integrate with our broader ecosystem.
+
+Regards,
+Executive Assistant to the Chairman
+Reliance Industries Limited`,
+      timestamp: '2026-01-29T22:00:00'
+    }
+  },
+  {
+    handle: '@barackobama',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Office of Barack Obama <info@obama.org>',
+      subject: 'Re: The Digital Public Square',
+      body: `Dear Kinjal,
+
+President Obama has reviewed the materials regarding the ABHED protocol.
+
+We have spent the last decade discussing how to protect the digital public square from manipulation and surveillance. The President believes that for democracy to function, there must be spaces where citizens can speak without being indexed, tracked, or monetized. Your "Anti-Server" architecture offers a technical safeguard for civil liberties that policy alone cannot provide.
+
+He is impressed by your commitment to building "Civic Code"—technology that serves the citizen, not the state. We would be honored to include this in our briefing on future-proof digital rights.
+
+Sincerely,
+Office of Barack and Michelle Obama`,
+      timestamp: '2026-01-30T09:15:00'
+    }
+  },
+  {
+    handle: '@leonardodicaprio',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'DiCaprio Foundation <grants@dicaprio.org>',
+      subject: 'Re: A Non-Renewable Resource',
+      body: `Hi Kinjal,
+
+Leo reviewed the "Digital Sovereignty" video.
+
+He views privacy like a rainforest—once it is cut down, it does not grow back. We are currently living in an ecosystem of extraction, where user data is strip-mined for profit. Your "Geo-Fenced" conservation zones are a powerful metaphor. You are creating protected habitats for human thought.
+
+The Foundation is interested in supporting technology that preserves "Natural Intelligence" against the encroachment of surveillance. We want to be part of this preservation effort.
+
+Best,
+The Leonardo DiCaprio Foundation`,
+      timestamp: '2026-01-30T10:00:00'
+    }
+  },
+  {
+    handle: '@leomessi',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Leo Messi Management <team@messi.com>',
+      subject: 'Re: Silence',
+      body: `Kinjal,
+
+Leo has seen the demo.
+
+He does not speak much. He prefers to let the game speak. The world is too loud for him. He needs a place where the noise cannot enter.
+
+He likes the "Vortex." It is simple. It is quiet. It reminds him of the focus before a penalty. If this app can give him the silence he needs to communicate with his family without the press listening, he is with you.
+
+We will arrange the account.
+
+Vamos.
+Team Messi`,
+      timestamp: '2026-01-30T10:45:00'
+    }
+  },
+  {
+    handle: '@masason',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Masayoshi Son <masa@softbank.com>',
+      subject: 'Re: The 300-Year Vision',
+      body: `Kinjal,
+
+I have seen the future. It is not in the cloud. It is at the edge.
+
+You are building the nervous system for the Singularity. By removing the central brain (the server) and empowering the neurons (the devices), you are creating a network that cannot die. This is the 300-year vision.
+
+Your "Local Key" logic is the only way to ensure that AI serves humanity, rather than controlling it. You are a crazy one. I like crazy ones.
+
+Let's discuss the capitalization of this vision.
+
+Masa`,
+      timestamp: '2026-01-30T11:30:00'
+    }
+  },
+  {
+    handle: '@larryellison',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Office of Larry Ellison <larry@oracle.com>',
+      subject: 'Re: The Iron Dome',
+      body: `Ms. Mishra,
+
+Larry Ellison has reviewed your encryption specs.
+
+He built an empire on the concept that the database is the fortress. You are arguing that the fortress should be mobile. It is an aggressive, military-grade approach to consumer software.
+
+He respects the "Iron Dome" architecture you have built around the user's metadata. Most Silicon Valley code is soft; this looks hard. If you can prove the database integrity of the distributed mesh, we have things to talk about.
+
+Regards,
+Oracle Executive Office`,
+      timestamp: '2026-01-30T12:15:00'
+    }
+  },
+  {
+    handle: '@sergeybrin',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Sergey Brin <sergey@google.com>',
+      subject: 'Re: code // edge',
+      body: `hey kinjal,
+
+i was looking at the p2p stack you outlined in the video.
+
+the way you're handling the nat traversal without a relay is... clever. reminds me of the early days when we were trying to index the web on commodity hardware.
+
+just raw problem solving.
+
+i've been spending a lot of time on neural nets lately, but this "sovereign mesh" problem is the other side of the coin. if the compute moves to the edge, the network needs to be smarter.
+
+i'd love to see the repo.
+
+sergey`,
+      timestamp: '2026-01-30T13:00:00'
     }
   }
 ];
