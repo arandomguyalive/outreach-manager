@@ -1105,4 +1105,8 @@ Larry Fink	BlackRock	USA	English	Finance/CEO	@larryfink	Mega	larry @blackrock.co
 Warren Buffett	Finance	USA	English	Finance/Legend	@warrenbuffett	Mega	warren @berkshire.com
 Kendrick Lamar	Music	USA	English	Music/Poet	@kendricklamar	Mega	kendrick @pg-lang.com
 DJ Khaled	Instagram	USA	English	Music/Icon	@djkhaled	Mega	khaled @wethebest.com
-Prince William	Royalty	UK	English	Royalty/Sovereign	@kensingtonroyal	Mega	info @kensington.gov.uk`;
+Prince William	Royalty	UK	English	Royalty/Sovereign	@kensingtonroyal	Mega	info @kensington.gov.uk
+Tim Cook	Apple	USA	English	Tech/CEO	@tim_cook	Mega	tcook @apple.com
+Ray Dalio	Bridgewater	USA	English	Finance/Principles	@raydalio	Mega	ray @principles.com
+Banksy	Art	UK	English	Art/Sovereign	@banksy	Mega	studio @pestcontroloffice.com
+David Attenborough	Science	UK	English	Nature/Icon	@davidattenborough	Mega	office @attenborough.com`;

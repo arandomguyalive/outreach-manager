@@ -2821,8 +2821,98 @@ The Prince of Wales commends your technical ingenuity and your commitment to dig
 
 Yours sincerely,
 
-Private Secretary to HRH The Prince of Wales`,
+Office of the Prince of Wales`,
       timestamp: '2026-01-30T15:30:00'
+    }
+  },
+  {
+    handle: '@tim_cook',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Tim Cook <tcook@apple.com>',
+      subject: 'Re: Privacy as a Human Right',
+      body: `Kinjal,
+
+I reviewed the 'Anti-Server' spec. You have effectively built the software equivalent of the Secure Enclave.
+
+At Apple, we build the device to protect the user. You have built the shield to protect their thoughts. This alignment with our core philosophy is rare to see in the wild.
+
+I am enrolling to test the build personally.
+
+Tim`,
+      timestamp: '2026-01-30T16:00:00'
+    }
+  },
+  {
+    handle: '@narendramodi',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Prime Minister\'s Office <connect@pmo.gov.in>',
+      subject: 'Re: Digital Sovereignty // Atmanirbhar Bharat',
+      body: `Dear Ms. Mishra,
+
+The Prime Minister has reviewed your note on 'Data Sovereignty.'
+
+The concept of a 'Vault in the Sky' that keeps Indian data within Indian jurisdiction—without servers—is exactly the Atmanirbhar vision we champion. This is not just an app; it is digital infrastructure for a self-reliant India.
+
+The PMO requests a briefing on the strategic utility of this protocol.
+
+Jai Hind.
+
+Office of the Prime Minister
+New Delhi`,
+      timestamp: '2026-01-30T16:30:00'
+    }
+  },
+  {
+    handle: '@raydalio',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Ray Dalio <ray@principles.com>',
+      subject: 'Re: Principles // Radical Privacy',
+      body: `Kinjal,
+
+I track principles, not just markets.
+
+The principle of 'Radical Privacy' you are building is the necessary counter-balance to the 'Radical Transparency' I advocate for organizations. One cannot exist without the other. Your architecture is principled. It has an economic moat because it is hard to do.
+
+I am interested in the Blacklist.
+
+Ray`,
+      timestamp: '2026-01-30T17:00:00'
+    }
+  },
+  {
+    handle: '@banksy',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Banksy <studio@pestcontroloffice.com>',
+      subject: 'Re: ...',
+      body: `...
+
+The art is in the invisibility.
+
+You have built a blank canvas that no one can paint over but the owner. I like it. Keep it hidden.
+
+- B`,
+      timestamp: '2026-01-30T17:30:00'
+    }
+  },
+  {
+    handle: '@davidattenborough',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Sir David Attenborough <office@attenborough.com>',
+      subject: 'Re: The Natural State',
+      body: `Dear Kinjal,
+
+In nature, communication is often silent, unseen, and purposeful.
+
+Your 'Vortex' reminds me of this—preserving the natural state of human connection without the interference of the industrial observation machine. It is a digital sanctuary. We must protect these habitats.
+
+Sincerely,
+David Attenborough`,
+      timestamp: '2026-01-30T18:00:00'
     }
   }
 ];
