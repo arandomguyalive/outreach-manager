@@ -108,9 +108,11 @@ export const ReplyModal: React.FC<ReplyModalProps> = ({ influencer, isOpen, onCl
                       </span>
                       <span className="text-[10px] text-gray-500">{msg.from}</span>
                     </div>
-                    <span className="text-[10px] text-gray-500 font-mono">
-                      {new Date(msg.timestamp).toLocaleDateString('en-GB', { day: 'numeric', month: 'short' })} • {new Date(msg.timestamp).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
-                    </span>
+                    {msg.timestamp && (
+                      <span className="text-[10px] text-gray-500 font-mono">
+                        {new Date(msg.timestamp).toLocaleDateString('en-GB', { day: 'numeric', month: 'short' })} • {new Date(msg.timestamp).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
+                      </span>
+                    )}
                   </div>
                   <div className="text-gray-300 whitespace-pre-wrap leading-relaxed font-sans">
                     {msg.body}
