@@ -2364,7 +2364,7 @@ Sundar`,
       subject: 'Re: No Bullshit // Code Quality',
       body: `Kinjal,
 
-I checked your repo.
+I checked the kernel modules you linked.
 
 Most 'secure' apps are just bloated Electron wrappers. You actually stripped the kernel down to what matters. No server relay? Good. That's how TCP/IP was meant to work before everyone got greedy.
 
@@ -2923,7 +2923,7 @@ David Attenborough`,
       subject: 'Re: First Principles // The Public Square',
       body: `Kinjal,
 
-I looked at the code.
+Gwynne showed me the specs.
 
 The only way to guarantee free speech is to remove the ability for anyone to delete it. If the server exists, censorship is inevitable. Your "Anti-Server" logic is correct from first principles.
 
@@ -2943,7 +2943,7 @@ Elon`,
       subject: 'Re: The Strand',
       body: `Dear Kinjal,
 
-I saw the "Vortex."
+I watched the "Vortex" demo.
 
 It is not an app. It is a bridge. In Death Stranding, I wanted to connect people without words. You have done this with code. You have built a digital strand that connects souls while keeping the demons out.
 
