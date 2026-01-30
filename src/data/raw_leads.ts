@@ -1100,4 +1100,9 @@ Leonardo DiCaprio	Instagram	USA	English	Actor/Activist	@leonardodicaprio	Mega	le
 Leo Messi	Instagram	Argentina	English	Sports/Icon	@leomessi	Mega	leo @messi.com
 Masayoshi Son	Twitter	Japan	English	VC/Visionary	@masason	Mega	masa @softbank.com
 Larry Ellison	Oracle	USA	English	Tech/Cloud	@larryellison	Mega	larry @oracle.com
-Sergey Brin	Google	USA	English	Tech/Founder	@sergeybrin	Mega	sergey @google.com`;
+Sergey Brin	Google	USA	English	Tech/Founder	@sergeybrin	Mega	sergey @google.com
+Larry Fink	BlackRock	USA	English	Finance/CEO	@larryfink	Mega	larry @blackrock.com
+Warren Buffett	Finance	USA	English	Finance/Legend	@warrenbuffett	Mega	warren @berkshire.com
+Kendrick Lamar	Music	USA	English	Music/Poet	@kendricklamar	Mega	kendrick @pg-lang.com
+DJ Khaled	Instagram	USA	English	Music/Icon	@djkhaled	Mega	khaled @wethebest.com
+Prince William	Royalty	UK	English	Royalty/Sovereign	@kensingtonroyal	Mega	info @kensington.gov.uk`;
