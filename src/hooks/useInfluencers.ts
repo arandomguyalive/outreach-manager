@@ -1,5 +1,5 @@
 import { useState, useEffect, useMemo } from 'react';
-import type { Influencer, FilterState } from '../types';
+import type { Influencer, FilterState, Message } from '../types';
 import { parseRawLeads } from '../utils/parser';
 import { RAW_LEADS_DATA } from '../data/raw_leads';
 import { REPLY_DATA } from '../data/replies';
@@ -184,6 +184,32 @@ export const useInfluencers = () => {
     setInfluencers(prev => {
       const next = prev.map(inf => {
         if (inf.id === id) {
+          const newOutboundMsg: Message = {
+            direction: 'outbound',
+            from: 'Kinjal Mishra <kinjal@abhed.co>',
+            to: inf.email,
+            subject: subject,
+            body: body,
+            timestamp: new Date().toISOString()
+          };
+
+          // Update Thread
+          let updatedThread = inf.thread ? [...inf.thread] : [];
+          
+          // If no thread exists but there was a replyDetails, start the thread with it
+          if (updatedThread.length === 0 && inf.replyDetails) {
+            updatedThread.push({
+              direction: 'inbound',
+              from: inf.replyDetails.from,
+              to: inf.replyDetails.to,
+              subject: inf.replyDetails.subject,
+              body: inf.replyDetails.body,
+              timestamp: inf.replyDetails.timestamp
+            });
+          }
+          
+          updatedThread.push(newOutboundMsg);
+
           const updatedHistory = [
             ...inf.history,
             {
@@ -200,6 +226,7 @@ export const useInfluencers = () => {
               body,
               timestamp: new Date().toISOString()
             },
+            thread: updatedThread,
             history: updatedHistory
           };
         }
