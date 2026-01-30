@@ -100,13 +100,23 @@ export const ReplyModal: React.FC<ReplyModalProps> = ({ influencer, isOpen, onCl
                   }`}
                 >
                   <div className="flex justify-between items-start mb-3 border-b border-white/5 pb-2">
-                    <div className="flex flex-col">
-                      <span className={`font-mono text-xs font-bold mb-0.5 ${
+                    <div className="flex flex-col w-full">
+                      <span className={`font-mono text-xs font-bold mb-1 ${
                         msg.direction === 'outbound' ? 'text-km18-purple' : 'text-km18-cyan'
                       }`}>
                         {msg.direction === 'outbound' ? 'You (Kinjal Mishra)' : influencer.name}
                       </span>
-                      <span className="text-[10px] text-gray-500">{msg.from}</span>
+                      <div className="flex flex-col gap-0.5 border-l-2 border-white/10 pl-2 my-1">
+                        <span className="text-[10px] text-gray-500 font-mono flex gap-1">
+                          <span className="uppercase tracking-widest text-gray-600">From:</span> {msg.from}
+                        </span>
+                        <span className="text-[10px] text-gray-500 font-mono flex gap-1">
+                          <span className="uppercase tracking-widest text-gray-600">To:</span> {msg.to}
+                        </span>
+                        <span className="text-[10px] text-gray-400 font-mono flex gap-1">
+                          <span className="uppercase tracking-widest text-gray-600">Subj:</span> {msg.subject}
+                        </span>
+                      </div>
                     </div>
                     {msg.timestamp && (
                       <span className="text-[10px] text-gray-500 font-mono">
