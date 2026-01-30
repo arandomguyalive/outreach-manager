@@ -19,8 +19,11 @@ The Abhed Outreach Manager has evolved from a lead-tracking tool into a high-fid
     - Implemented a scrollable conversation history view in `ReplyModal.tsx`.
     - Users can now see the full "Inbound -> Outbound -> Inbound" context for complex negotiations.
 - **Data: Alabbar Escalation History:**
-    - Backfilled the "Correspondence regarding the 154th floor pilot" referenced in Mohamed Alabbar's latest email.
-    - Includes the initial inquiry from Emaar and Kinjal's technical "Server-Zero" pitch that triggered the investment offer.
+    - Restored the correct conversation flow:
+        1. **Alabbar (Inbound):** Visionary note on "Silence as Luxury."
+        2. **Kinjal (Outbound):** The "Vault in the Sky" pitch.
+        3. **Alabbar (Inbound):** The final investment invitation.
+    - Ensures the narrative matches the specific "154th floor pilot" context.
 - **Tech:** Updated `Influencer` type to support `thread[]`, bumped `DATA_VERSION` to `v3.7.1`.
 
 ### **Phase 3.7.1 - The Alabbar Escalation (Jan 30, 2026)**
