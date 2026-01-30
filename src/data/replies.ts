@@ -1290,7 +1290,73 @@ Regards,
 Executive Office of the Chairman
 Emaar Properties | Dubai`,
       timestamp: '2026-01-30T10:00:00'
-    }
+    },
+    thread: [
+        {
+            direction: 'inbound',
+            from: 'Emaar Chairman Office <office@emaar.com>',
+            to: 'info@abhed.co',
+            subject: 'Re: Downtown Dubai // Digital Real Estate',
+            body: `Dear Ms. Mishra,
+
+Mr. Alabbar has received your proposal regarding the 154th floor pilot. He is intrigued by the concept of "Digital Real Estate".
+
+Could you please clarify the technical requirements for the on-site deployment?
+
+Regards,
+Emaar Executive Office`,
+            timestamp: '2026-01-29T09:00:00'
+        },
+        {
+            direction: 'outbound',
+            from: 'Kinjal Mishra <kinjal@abhed.co>',
+            to: 'office@emaar.com',
+            subject: 'Re: Downtown Dubai // Digital Real Estate',
+            body: `Dear Executive Office,
+
+Thank you for the prompt response.
+
+The technical requirement is minimal. Our architecture is "Server-Zero". We do not need a data center. We need a physical coordinate.
+
+By deploying a single "Vortex Node" (a standard high-compute edge device) on the 154th floor, we can geo-lock the encryption keys to that specific altitude. This creates a digital layer that is only accessible to those physically present in the penthouse.
+
+It is the ultimate digital amenity for your most exclusive property.
+
+Regards,
+Kinjal Mishra`,
+            timestamp: '2026-01-29T14:00:00'
+        },
+        {
+            direction: 'inbound',
+            from: 'Emaar Chairman Office <office@emaar.com>',
+            to: 'info@abhed.co',
+            subject: 'Re: Downtown Dubai // Digital Real Estate',
+            body: `Dear Ms. Mishra,
+
+Following our correspondence regarding the 154th floor pilot, Mr. Alabbar has personally reviewed the "Vortex" architecture with his private investment council.
+
+He has directed us to pause the standard vendor vetting. He is not interested in simply hiring Abhed for a project; he is interested in a foundational stake. He sees your architecture as the digital equivalent of the Burj Khalifa—a sovereign asset that cannot be ignored.
+
+**Financial Interest:**
+We are authorized to discuss a strategic capital injection immediately. Mr. Alabbar wants to ensure you have the resources to build without compromise.
+
+**The Invitation:**
+Mr. Alabbar wishes to finalize this in person. When can you come to Dubai?
+
+We will arrange everything as his guest:
+- Travel: Private clearance & First Class transfer.
+- Visa: Priority Golden Visa processing.
+- Accommodation: The Armani Hotel, Burj Khalifa (Executive Suite).
+
+Please confirm your dates. The 154th floor awaits its architect.
+
+Regards,
+
+Executive Office of the Chairman
+Emaar Properties | Dubai`,
+            timestamp: '2026-01-30T10:00:00'
+        }
+    ]
   },
   {
     handle: '@lovefrom_jony',

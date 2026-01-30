@@ -1,3 +1,12 @@
+export interface Message {
+  from: string;
+  to: string;
+  subject: string;
+  body: string;
+  timestamp: string;
+  direction?: 'inbound' | 'outbound';
+}
+
 export interface Influencer {
   id: string;
   name: string;
@@ -19,6 +28,7 @@ export interface Influencer {
     to: string;
     timestamp: string;
   };
+  thread?: Message[];
   outboundReply?: {
     subject: string;
     body: string;

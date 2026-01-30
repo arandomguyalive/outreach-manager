@@ -82,12 +82,41 @@ export const ReplyModal: React.FC<ReplyModalProps> = ({ influencer, isOpen, onCl
         </div>
 
         <div className="p-6 space-y-4">
-          {/* Incoming Reference */}
-          {influencer.replyDetails && (
-            <div className="bg-white/5 rounded-lg p-3 border border-white/10 text-xs">
-              <span className="text-km18-cyan font-mono uppercase text-[9px] block mb-1">Incoming Signal From {influencer.handle}</span>
-              <p className="text-gray-400 italic line-clamp-2">"{influencer.replyDetails.body}"</p>
+          {/* Conversation History */}
+          {influencer.thread && influencer.thread.length > 0 ? (
+            <div className="space-y-3 max-h-64 overflow-y-auto pr-2 mb-4 scrollbar-thin scrollbar-thumb-white/20 scrollbar-track-transparent">
+              {influencer.thread.map((msg, idx) => (
+                <div 
+                  key={idx} 
+                  className={`rounded-lg p-3 border text-xs ${
+                    msg.direction === 'outbound' 
+                      ? 'bg-km18-purple/10 border-km18-purple/30 ml-12' 
+                      : 'bg-white/5 border-white/10 mr-12'
+                  }`}
+                >
+                  <div className="flex justify-between items-center mb-2">
+                    <span className={`font-mono uppercase text-[9px] font-bold ${
+                      msg.direction === 'outbound' ? 'text-km18-purple' : 'text-km18-cyan'
+                    }`}>
+                      {msg.direction === 'outbound' ? 'ABHED Protocol (You)' : `Incoming Signal // ${influencer.handle}`}
+                    </span>
+                    <span className="text-[9px] text-gray-500 font-mono">
+                      {new Date(msg.timestamp).toLocaleDateString()} {new Date(msg.timestamp).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
+                    </span>
+                  </div>
+                  <div className="text-gray-300 whitespace-pre-wrap leading-relaxed">
+                    {msg.body}
+                  </div>
+                </div>
+              ))}
             </div>
+          ) : (
+            influencer.replyDetails && (
+              <div className="bg-white/5 rounded-lg p-3 border border-white/10 text-xs">
+                <span className="text-km18-cyan font-mono uppercase text-[9px] block mb-1">Incoming Signal From {influencer.handle}</span>
+                <p className="text-gray-400 italic line-clamp-2">"{influencer.replyDetails.body}"</p>
+              </div>
+            )
           )}
 
           {/* Form Fields */}
