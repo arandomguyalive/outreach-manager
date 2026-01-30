@@ -233,25 +233,28 @@ function App() {
                           >
                             <div className="flex justify-between items-start mb-2 border-b border-white/5 pb-2">
                               <div className="flex flex-col w-full">
-                                <span className={`font-mono text-[10px] font-bold uppercase tracking-wider mb-1 ${
+                                <span className={`font-mono text-xs font-bold uppercase tracking-wider mb-2 ${
                                   msg.direction === 'outbound' ? 'text-km18-purple' : 'text-km18-cyan'
                                 }`}>
                                   {msg.direction === 'outbound' ? 'You' : selectedInfluencer.name}
                                 </span>
-                                <div className="flex flex-col gap-0.5 border-l-2 border-white/10 pl-2 my-1">
-                                  <span className="text-[9px] text-gray-500 font-mono flex gap-1">
-                                    <span className="uppercase tracking-widest text-gray-600">From:</span> {msg.from}
+                                <div className="flex flex-col gap-1 border-l-2 border-white/20 pl-3 my-1">
+                                  <span className="text-[11px] text-gray-300 font-mono flex gap-2">
+                                    <span className="uppercase tracking-widest text-gray-500 w-10 shrink-0">From:</span>
+                                    <span className="text-white">{msg.from}</span>
                                   </span>
-                                  <span className="text-[9px] text-gray-500 font-mono flex gap-1">
-                                    <span className="uppercase tracking-widest text-gray-600">To:</span> {msg.to}
+                                  <span className="text-[11px] text-gray-300 font-mono flex gap-2">
+                                    <span className="uppercase tracking-widest text-gray-500 w-10 shrink-0">To:</span>
+                                    <span className="text-white">{msg.to}</span>
                                   </span>
-                                  <span className="text-[9px] text-gray-400 font-mono flex gap-1">
-                                    <span className="uppercase tracking-widest text-gray-600">Subj:</span> {msg.subject}
+                                  <span className="text-[11px] text-gray-300 font-mono flex gap-2">
+                                    <span className="uppercase tracking-widest text-gray-500 w-10 shrink-0">Subj:</span>
+                                    <span className="text-white font-medium">{msg.subject}</span>
                                   </span>
                                 </div>
                               </div>
                               {msg.timestamp && (
-                                <span className="text-[9px] text-gray-500 font-mono shrink-0 ml-2">
+                                <span className="text-[10px] text-gray-500 font-mono shrink-0 ml-2">
                                   {new Date(msg.timestamp).toLocaleDateString([], { day: '2-digit', month: 'short' })}
                                 </span>
                               )}
@@ -280,25 +283,28 @@ function App() {
                             >
                               <div className="flex justify-between items-start mb-2 border-b border-white/5 pb-2">
                                 <div className="flex flex-col w-full">
-                                  <span className={`font-mono text-[10px] font-bold uppercase tracking-wider mb-1 ${
+                                  <span className={`font-mono text-xs font-bold uppercase tracking-wider mb-2 ${
                                     msg.direction === 'outbound' ? 'text-km18-purple' : 'text-km18-cyan'
                                   }`}>
                                     {msg.direction === 'outbound' ? 'You' : selectedInfluencer.name}
                                   </span>
-                                  <div className="flex flex-col gap-0.5 border-l-2 border-white/10 pl-2 my-1">
-                                    <span className="text-[9px] text-gray-500 font-mono flex gap-1">
-                                      <span className="uppercase tracking-widest text-gray-600">From:</span> {msg.from}
+                                  <div className="flex flex-col gap-1 border-l-2 border-white/20 pl-3 my-1">
+                                    <span className="text-[11px] text-gray-300 font-mono flex gap-2">
+                                      <span className="uppercase tracking-widest text-gray-500 w-10 shrink-0">From:</span>
+                                      <span className="text-white">{msg.from}</span>
                                     </span>
-                                    <span className="text-[9px] text-gray-500 font-mono flex gap-1">
-                                      <span className="uppercase tracking-widest text-gray-600">To:</span> {msg.to}
+                                    <span className="text-[11px] text-gray-300 font-mono flex gap-2">
+                                      <span className="uppercase tracking-widest text-gray-500 w-10 shrink-0">To:</span>
+                                      <span className="text-white">{msg.to}</span>
                                     </span>
-                                    <span className="text-[9px] text-gray-400 font-mono flex gap-1">
-                                      <span className="uppercase tracking-widest text-gray-600">Subj:</span> {msg.subject}
+                                    <span className="text-[11px] text-gray-300 font-mono flex gap-2">
+                                      <span className="uppercase tracking-widest text-gray-500 w-10 shrink-0">Subj:</span>
+                                      <span className="text-white font-medium">{msg.subject}</span>
                                     </span>
                                   </div>
                                 </div>
                                 {msg.timestamp && (
-                                  <span className="text-[9px] text-gray-500 font-mono shrink-0 ml-2">
+                                  <span className="text-[10px] text-gray-500 font-mono shrink-0 ml-2">
                                     {new Date(msg.timestamp).toLocaleDateString([], { day: '2-digit', month: 'short' })}
                                   </span>
                                 )}
