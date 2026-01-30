@@ -1268,16 +1268,28 @@ Huda`,
       subject: 'Re: Downtown Dubai // Digital Real Estate',
       body: `Dear Ms. Mishra,
 
-The Burj Khalifa should not just be the tallest building in the world physically, but also the most secure digitally.
+Following our correspondence regarding the 154th floor pilot, Mr. Alabbar has personally reviewed the "Vortex" architecture with his private investment council.
 
-Mr. Alabbar is intrigued by the idea of "locking" exclusive digital assets to our physical coordinates. Creating an exclusive "Abhed Zone" at the 154th floor for our VIP guests is a concept we wish to explore. Your engineering approach to location-based encryption is the most robust we've seen.
+He has directed us to pause the standard vendor vetting. He is not interested in simply hiring Abhed for a project; he is interested in a foundational stake. He sees your architecture as the digital equivalent of the Burj Khalifa—a sovereign asset that cannot be ignored.
 
-The convergence of real estate and digital sovereignty is the next frontier, and we want ABHED to be the layer.
+**Financial Interest:**
+We are authorized to discuss a strategic capital injection immediately. Mr. Alabbar wants to ensure you have the resources to build without compromise.
 
-Sincerely,
-Office of the Chairman
-Emaar Properties`,
-      timestamp: '2026-01-27T22:00:00'
+**The Invitation:**
+Mr. Alabbar wishes to finalize this in person. When can you come to Dubai?
+
+We will arrange everything as his guest:
+- Travel: Private clearance & First Class transfer.
+- Visa: Priority Golden Visa processing.
+- Accommodation: The Armani Hotel, Burj Khalifa (Executive Suite).
+
+Please confirm your dates. The 154th floor awaits its architect.
+
+Regards,
+
+Executive Office of the Chairman
+Emaar Properties | Dubai`,
+      timestamp: '2026-01-30T10:00:00'
     }
   },
   {
