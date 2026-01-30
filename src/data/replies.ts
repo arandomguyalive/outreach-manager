@@ -2364,9 +2364,9 @@ Sundar`,
       subject: 'Re: No Bullshit // Code Quality',
       body: `Kinjal,
 
-I checked the kernel modules you linked.
+I read your architecture note.
 
-Most 'secure' apps are just bloated Electron wrappers. You actually stripped the kernel down to what matters. No server relay? Good. That's how TCP/IP was meant to work before everyone got greedy.
+Most 'secure' apps are just bloated Electron wrappers. You seem to have stripped the kernel interaction down to what matters. No server relay? Good. That's how TCP/IP was meant to work before everyone got greedy.
 
 It's clean. It's fast. Don't break it by adding useless features.
 
