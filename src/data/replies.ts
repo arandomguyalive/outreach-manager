@@ -1305,9 +1305,10 @@ Mr. Alabbar is intrigued by the idea of "locking" exclusive digital assets to ou
 
 The convergence of real estate and digital sovereignty is the next frontier, and we want ABHED to be the layer.
 
-Sincerely,
-Office of the Chairman
-Emaar Properties`,
+Regards,
+
+Executive Office of the Chairman
+Emaar Properties | Dubai`,
             timestamp: '2026-01-29T09:00:00'
         },
         {
