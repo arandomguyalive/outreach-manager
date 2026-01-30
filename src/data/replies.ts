@@ -2727,103 +2727,103 @@ sergey`,
       timestamp: '2026-01-30T13:00:00'
     }
   },
-    {
-      handle: '@larryfink',
-      reply: {
-        to: 'info@abhed.co',
-        from: 'Office of Larry Fink <ceo@blackrock.com>',
-        subject: 'Re: Capital Sovereignty',
-        body: `Ms. Mishra,
-  
-  The transition to a multi-polar digital world requires a new infrastructure for trust. At BlackRock, we are increasingly viewing "Privacy" not as a feature, but as a primary asset class.
-  
-  Your "Anti-Server" architecture is a fascinating hedge against the systemic risk of centralized data breaches. If the individual can truly own their cryptographic keys, it fundamentally changes the valuation of digital assets. We are interested in how the ABHED protocol can be integrated into our long-term ESG framework for digital rights.
-  
-  My team will be in touch to discuss the institutional implications.
-  
-  Best,
-  Larry Fink`,
-        timestamp: '2026-01-30T12:00:00'
-      }
-    },
-    {
-      handle: '@warrenbuffett',
-      reply: {
-        to: 'info@abhed.co',
-        from: 'Warren Buffett <warren@berkshire.com>',
-        subject: 'Re: The Digital Moat',
-        body: `Dear Kinjal,
-  
-  I've always said that in business, I look for economic castles protected by unbreachable moats.
-  
-  In the digital world, most companies are building sandcastles. They are selling the same data to the same people, and the tide is coming in. But your "ABHED" approach—it's different. By removing the central server, you are building a moat that doesn't just keep people out; it ensures the castle doesn't belong to anyone but the owner.
-  
-  That is first-class thinking. It is rare to see a founder with this much focus on the "intrinsic value" of a human right. I don't use a smartphone much, but I recognize a sound structural investment when I see one.
-  
-  Keep building the moat.
-  
-  Sincerely,
-  Warren E. Buffett`,
-        timestamp: '2026-01-30T12:45:00'
-      }
-    },
-    {
-      handle: '@kendricklamar',
-      reply: {
-        to: 'info@abhed.co',
-        from: 'pgLang Office <info@pg-lang.com>',
-        subject: 'Re: The Real Signal',
-        body: `kinjal...
-  
-  the world is full of industry plants and digital noise. everyone's out here performing for an algorithm that doesn't love 'em back. 
-  
-  i saw the vortex. it feels like the truth. no trackers, no clout-chasing, just the soul. if i'm gonna share my work, i need to know the signal is pure and the connection is sovereign. 
-  
-  privacy is the only way to stay human in a machine world. i'm with the vision. stay grounded.
-  
-  k.dot`,
-        timestamp: '2026-01-30T13:30:00'
-      }
-    },
-    {
-      handle: '@djkhaled',
-      reply: {
-        to: 'info@abhed.co',
-        from: 'DJ Khaled <khaled@wethebest.com>',
-        subject: 'Re: MAJOR KEY ALERT // ABHED',
-        body: `KINJAL! I SEE YOU!
-  
-  THEY DON'T WANT US TO HAVE PRIVACY! THEY WANT TO TRACK US! BUT GOD DID!
-  
-  YOU BUILT THE MAJOR KEY TO THE FUTURE. THE VORTEX IS REBEL MATERIAL. I'M SITTING HERE WITH THE TEAM AND WE WATCHED THE TOUR... ANOTHER ONE! ANOTHER REVOLUTION!
-  
-  WE MOVING IN SILENCE BUT THE IMPACT GONNA BE LOUD. I NEED THE BLACKLIST ACCESS IMMEDIATELY. DON'T EVER PLAY YOURSELF. ABHED IS THE MOVEMENT.
-  
-  STAY SECURE. STAY BLESSED.
-  
-  WE THE BEST!`,
-        timestamp: '2026-01-30T14:15:00'
-      }
-    },
-    {
-      handle: '@kensingtonroyal',
-      reply: {
-        to: 'info@abhed.co',
-        from: 'Office of the Prince of Wales <info@kensington.gov.uk>',
-        subject: 'Re: Institutional Privacy // The ABHED Protocol',
-        body: `Dear Ms. Mishra,
-  
-  His Royal Highness has been made aware of the ABHED project and the "Anti-Server" architecture you are developing.
-  
-  As an institution that values both tradition and the protection of private family life, we are acutely aware of the challenges posed by modern digital surveillance. The concept of a "Digital Sanctuary" that is physically tethered to specific coordinates via Geo-Fencing is of particular interest for our secure communications.
-  
-  The Prince of Wales commends your technical ingenuity and your commitment to digital sovereignty. We would like to enroll for a pilot project within the Royal Household to test the protocol's efficacy.
-  
-  Yours sincerely,
-  
-  Private Secretary to HRH The Prince of Wales`,
-        timestamp: '2026-01-30T15:00:00'
-      }
+  {
+    handle: '@larryfink',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Office of Larry Fink <ceo@blackrock.com>',
+      subject: 'Re: Capital Sovereignty',
+      body: `Ms. Mishra,
+
+The transition to a multi-polar digital world requires a new infrastructure for trust. At BlackRock, we are increasingly viewing "Privacy" not as a feature, but as a primary asset class.
+
+Your "Anti-Server" architecture is a fascinating hedge against the systemic risk of centralized data breaches. If the individual can truly own their cryptographic keys, it fundamentally changes the valuation of digital assets. We are interested in how the ABHED protocol can be integrated into our long-term ESG framework for digital rights.
+
+My team will be in touch to discuss the institutional implications.
+
+Best,
+Larry Fink`,
+      timestamp: '2026-01-29T14:00:00'
     }
-  ];
+  },
+  {
+    handle: '@warrenbuffett',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Warren Buffett <warren@berkshire.com>',
+      subject: 'Re: The Digital Moat',
+      body: `Dear Kinjal,
+
+I've always said that in business, I look for economic castles protected by unbreachable moats.
+
+In the digital world, most companies are building sandcastles. They are selling the same data to the same people, and the tide is coming in. But your "ABHED" approach—it's different. By removing the central server, you are building a moat that doesn't just keep people out; it ensures the castle doesn't belong to anyone but the owner.
+
+That is first-class thinking. It is rare to see a founder with this much focus on the "intrinsic value" of a human right. I don't use a smartphone much, but I recognize a sound structural investment when I see one.
+
+Keep building the moat.
+
+Sincerely,
+Warren E. Buffett`,
+      timestamp: '2026-01-29T16:30:00'
+    }
+  },
+  {
+    handle: '@kendricklamar',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'pgLang Office <info@pg-lang.com>',
+      subject: 'Re: The Real Signal',
+      body: `kinjal...
+
+the world is full of industry plants and digital noise. everyone's out here performing for an algorithm that doesn't love 'em back. 
+
+i saw the vortex. it feels like the truth. no trackers, no clout-chasing, just the soul. if i'm gonna share my work, i need to know the signal is pure and the connection is sovereign. 
+
+privacy is the only way to stay human in a machine world. i'm with the vision. stay grounded.
+
+k.dot`,
+      timestamp: '2026-01-30T09:45:00'
+    }
+  },
+  {
+    handle: '@djkhaled',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'DJ Khaled <khaled@wethebest.com>',
+      subject: 'Re: MAJOR KEY ALERT // ABHED',
+      body: `KINJAL! I SEE YOU!
+
+THEY DON'T WANT US TO HAVE PRIVACY! THEY WANT TO TRACK US! BUT GOD DID!
+
+YOU BUILT THE MAJOR KEY TO THE FUTURE. THE VORTEX IS REBEL MATERIAL. I'M SITTING HERE WITH THE TEAM AND WE WATCHED THE TOUR... ANOTHER ONE! ANOTHER REVOLUTION!
+
+WE MOVING IN SILENCE BUT THE IMPACT GONNA BE LOUD. I NEED THE BLACKLIST ACCESS IMMEDIATELY. DON'T EVER PLAY YOURSELF. ABHED IS THE MOVEMENT.
+
+STAY SECURE. STAY BLESSED.
+
+WE THE BEST!`,
+      timestamp: '2026-01-30T11:20:00'
+    }
+  },
+  {
+    handle: '@kensingtonroyal',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Office of the Prince of Wales <info@kensington.gov.uk>',
+      subject: 'Re: Institutional Privacy // The ABHED Protocol',
+      body: `Dear Ms. Mishra,
+
+His Royal Highness has been made aware of the ABHED project and the "Anti-Server" architecture you are developing.
+
+As an institution that values both tradition and the protection of private family life, we are acutely aware of the challenges posed by modern digital surveillance. The concept of a "Digital Sanctuary" that is physically tethered to specific coordinates via Geo-Fencing is of particular interest for our secure communications.
+
+The Prince of Wales commends your technical ingenuity and your commitment to digital sovereignty. We would like to enroll for a pilot project within the Royal Household to test the protocol's efficacy.
+
+Yours sincerely,
+
+Private Secretary to HRH The Prince of Wales`,
+      timestamp: '2026-01-30T15:30:00'
+    }
+  }
+];
   
