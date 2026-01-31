@@ -2179,7 +2179,7 @@ This capital is allocated to establish ABHED as the primary secure layer for our
 Regarding logistics, a Qatar Executive Gulfstream G650ER is on standby to transport you to Doha. You will be hosted at the Royal Suite, Raffles Doha in the Katara Towers for the duration of your stay.
 
 **Visa & Security Clearance:**
-Your diplomatic entry clearance (Visa Class: A-1) has been pre-approved by the Ministry of Interior. Passport details have been forwarded to airport security for expedited "VVIP Track" processing. You will bypass standard immigration channels.
+Your diplomatic entry clearance (Visa Class: A-1) will be pre-approved by the Ministry of Interior. As soon as you share your passport details and confirm your arrival date, these will be forwarded to airport security for expedited "VVIP Track" processing. You will bypass standard immigration channels.
 
 Upon arrival, you will be briefed by the Minister of Communications, followed by a private audience with His Highness at the Amiri Diwan to discuss the long-term Digital Sovereignty roadmap for the State of Qatar.
 
