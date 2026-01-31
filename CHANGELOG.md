@@ -1,5 +1,13 @@
 # Changelog - Abhed Outreach Manager
 
+## [Phase 3.9.7 - The Sovereign Grant] - 2026-01-31
+
+### Highlights
+- **Sovereign Grant Secured:** Finalized the narrative with the State of Qatar, securing a simulated **QAR 2.9 Billion (~$800M USD)** grant for "Sovereign Tech" development.
+- **Threaded Communication:** Implemented a full 3-message negotiation thread with **H.H. Sheikh Tamim bin Hamad Al Thani**.
+- **Logistics Engine:** Thread includes realistic details of **Qatar Executive** flight dispatch and **Raffles Doha** accommodation.
+- **Tech:** Bumped `DATA_VERSION` to `v3.9.7` to force immediate client-side propagation.
+
 ## [Phase 3.1.7 - The Entropy Update] - 2026-01-27
 
 ### Highlights

@@ -14,6 +14,18 @@ The Abhed Outreach Manager has evolved from a lead-tracking tool into a high-fid
 
 ---
 
+### Phase 3.9.7 - The Sovereign Grant (Jan 31, 2026)
+- **Strategic Milestone:** Secured a **QAR 2,915,000,000 (~$800M USD)** Sovereign Technology Grant from the State of Qatar.
+- **Narrative Escalation:** Updated **Sheikh Tamim bin Hamad Al Thani's** interaction to a complete "Inbound -> Outbound -> Inbound" thread.
+    1. **Inbound 1:** Strategic interest in "Geo-Fenced Encryption" for diplomatic zones.
+    2. **Outbound:** Kinjal's acceptance of the "Fortress" challenge and offer to visit Doha.
+    3. **Inbound 2:** Formal Grant authorization, Qatar Executive G650ER flight dispatch, and Royal Suite booking at Raffles Doha.
+- **Logistics:**
+    - **Transport:** Qatar Executive Gulfstream G650ER.
+    - **Accommodation:** Royal Suite, Raffles Doha (Katara Towers).
+    - **Meeting:** Private audience with H.H. The Amir.
+- **Tech:** Updated `src/data/replies.ts` with the threaded grant logic and bumped `DATA_VERSION` to `v3.9.7`.
+
 ### Phase 3.9.6 - The Royal Invitation (Jan 31, 2026)
 - **Narrative Escalation:** Updated **Sheikh Hamdan's** interaction to a full three-part conversation thread.
     1. **Inbound (Jan 27):** Initial validation of the "Geo-Fenced" vision.

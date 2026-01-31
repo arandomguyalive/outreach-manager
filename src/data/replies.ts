@@ -2126,7 +2126,68 @@ His Highness is interested in the strategic potential of "Geo-Fenced Encryption"
 Sincerely,
 Director of Information Security
 Amiri Diwan of the State of Qatar`,
-      timestamp: '2026-01-29T21:00:00'
+      timestamp: '2026-01-29T21:00:00',
+      thread: [
+        {
+          from: 'Amiri Diwan of Qatar <office@diwan.gov.qa>',
+          to: 'info@abhed.co',
+          subject: 'Re: Sovereign Communication Infrastructure // State Security',
+          body: `Dear Ms. Mishra,
+
+His Highness Sheikh Tamim bin Hamad Al Thani has taken note of your presentation regarding the ABHED protocol and its "Anti-Server" architecture.
+
+As a nation that sits at the crossroads of global media and diplomacy, Qatar understands that the control of information flow is a pillar of national sovereignty. Your implementation of a decentralized, peer-to-peer handshake represents a sophisticated shift away from vulnerable centralized nodes. It provides a level of technical guarantee for privacy that is essential for high-level state and financial coordination.
+
+His Highness is interested in the strategic potential of "Geo-Fenced Encryption" for securing sensitive diplomatic zones. We wish to schedule a formal technical audit with our security department to explore a partnership.
+
+Sincerely,
+Director of Information Security
+Amiri Diwan of the State of Qatar`,
+          timestamp: '2026-01-29T21:00:00'
+        },
+        {
+          from: 'Kinjal Mishra <kinjal@abhed.co>',
+          to: 'Amiri Diwan of Qatar <office@diwan.gov.qa>',
+          subject: 'Re: Sovereign Communication Infrastructure // State Security',
+          body: `Your Highness,
+
+I am humbled by your message. For a sovereign leader to recognize that Anti-Server architecture is the key to national security is the highest form of validation we could hope for. You are right – if the data leaves the walls, the sovereignty is lost.
+
+We build ABHED to be a fortress. Integrating our "Geo-fenced Encryption" into the diplomatic zones of the Amiri Diwan would be the ultimate test for its purpose. We are prepared to prove that our code can protect the silence of the state.
+
+I would be honored to fly to Doha to meet with your Director of Information Security. I want to personally ensure that our protocols meet the exacting standards required for your diplomatic communications.
+
+With High Regards,
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+          timestamp: '2026-01-30T09:15:00'
+        },
+        {
+          from: 'Amiri Diwan of Qatar <office@diwan.gov.qa>',
+          to: 'Kinjal Mishra <kinjal@abhed.co>',
+          subject: 'Re: Sovereign Communication Infrastructure // State Security',
+          body: `Dear Ms. Mishra,
+
+The Amiri Diwan acknowledges your readiness.
+
+We have reviewed the strategic value of the Fortress architecture. To accelerate its deployment within our diplomatic zones and secure exclusive regional rights to the protocol, His Highness has authorized a Sovereign Technology Grant of QAR 2,915,000,000 (Two Billion Nine Hundred Fifteen Million Qatari Riyals).
+
+This capital is allocated to establish ABHED as the primary secure layer for our state communications and to scale your sovereign infrastructure globally. We wish to conclude the formalities immediately.
+
+Regarding logistics, a Qatar Executive Gulfstream G650ER is on standby to transport you to Doha. You will be hosted at the Royal Suite, Raffles Doha in the Katara Towers for the duration of your stay.
+
+Upon arrival, you will be briefed by the Minister of Communications, followed by a private audience with His Highness at the Amiri Diwan to discuss the long-term Digital Sovereignty roadmap for the State of Qatar.
+
+Please inform us of your earliest availability for departure so we may clear the flight path.
+
+Sincerely,
+Director of Information Security
+Amiri Diwan of the State of Qatar`,
+          timestamp: '2026-01-31T14:30:00'
+        }
+      ]
     }
   },
   {
