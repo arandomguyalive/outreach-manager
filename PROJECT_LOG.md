@@ -23,6 +23,7 @@ The Abhed Outreach Manager has evolved from a lead-tracking tool into a high-fid
 - **Logistics:**
     - **Transport:** Qatar Executive Gulfstream G650ER.
     - **Accommodation:** Royal Suite, Raffles Doha (Katara Towers).
+    - **Clearance:** A-1 Diplomatic Visa & VVIP Immigration Track.
     - **Meeting:** Private audience with H.H. The Amir.
 - **Tech:** Updated `src/data/replies.ts` with the threaded grant logic and bumped `DATA_VERSION` to `v3.9.7`.
 
