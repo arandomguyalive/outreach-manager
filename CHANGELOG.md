@@ -1,5 +1,12 @@
 # Changelog - Abhed Outreach Manager
 
+## [Phase 3.9.8 - Royal Hospitality] - 2026-01-31
+
+### Highlights
+- **Royal Protocol Refinement:** Updated the Qatar thread to reflect "Guest of the State" status with high-level diplomatic prose.
+- **State Honors:** Integrated Royal Pavilion reception and personal hospitality details into the narrative.
+- **UI Safety:** Implemented strict conditional checks for `timestamp` rendering in `App.tsx` and `ReplyModal.tsx` to prevent "Invalid Date" errors in thread views.
+
 ## [Phase 3.9.7 - The Sovereign Grant] - 2026-01-31
 
 ### Highlights
