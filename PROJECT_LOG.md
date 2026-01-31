@@ -14,6 +14,20 @@ The Abhed Outreach Manager has evolved from a lead-tracking tool into a high-fid
 
 ---
 
+### Phase 4.1.0 - The Financial Fortress (Jan 31, 2026)
+- **Titan Onboarding:** Added 6 global figures representing "Financial Sovereignty" and "Old Money":
+    - **Jamie Dimon (JPMorgan):** Validating the "Fortress Balance Sheet" of data (Zero Liability).
+    - **Stephen Schwarzman (Blackstone):** Validating the "Private Market" for communication.
+    - **Michael Bloomberg:** Validating the "Terminal" aspect of exclusive, first-access data.
+    - **David de Rothschild:** Validating the "Quiet Ledger" and intergenerational discretion.
+    - **Dr. Lisa Su (AMD):** Validating "Silicon Trust" and on-device compute.
+    - **George Soros (OSF):** Validating the "Open Paradox"—closed comms for open societies.
+- **Narrative Depth:**
+    - **Dimon:** Uses risk-management terminology ("Liability", "Balance Sheet").
+    - **Bloomberg:** References the "Terminal" and exclusivity.
+    - **Rothschild:** References 200 years of history and "The Courier."
+- **Tech:** Updated `RAW_LEADS_DATA`, `REPLY_DATA`, and bumped `DATA_VERSION` to `v4.1.0`.
+
 ### Phase 4.0.0 - The Sovereign Alliance (Jan 31, 2026)
 - **Major Milestone:** Official onboarding of Global Royalty and Sovereign Capital.
 - **New Sovereign Partners:**

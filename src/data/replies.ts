@@ -3361,6 +3361,120 @@ I must respect the code.
 Zhang`,
       timestamp: '2026-01-31T15:45:00'
     }
+  },
+  {
+    handle: '@jpmorgan',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Jamie Dimon <jamie@jpmorgan.com>',
+      subject: 'Re: The Fortress Balance Sheet',
+      body: `Ms. Mishra,
+
+I survived 2008 because I controlled the risk. I refused to buy garbage assets when everyone else was greedy.
+
+In the digital age, data is the liability. Every byte you store on a server is a potential lawsuit or breach. Your "Anti-Server" architecture is what I call a "Fortress Balance Sheet" for information. You have eliminated the liability entirely.
+
+This is the only risk-managed way to build a social network. I want to see if this can handle our institutional communication volume.
+
+Best,
+Jamie Dimon`,
+      timestamp: '2026-01-31T16:30:00'
+    }
+  },
+  {
+    handle: '@schwarzman_bx',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Stephen Schwarzman <steve@blackstone.com>',
+      subject: 'Re: Private Equity, Private Life',
+      body: `Dear Kinjal,
+
+Public markets are for the noise. Private markets are where the real value is created.
+
+I have built Blackstone on the principle that long-term value requires patience and silence. Your "Vortex" is a private market for communication. It shuts out the noise of the algorithm and allows for deal-making in a vacuum.
+
+This is exactly what the top tier of the market is missing. We are interested in the Blacklist for our senior partners.
+
+Sincerely,
+Stephen A. Schwarzman`,
+      timestamp: '2026-01-31T17:15:00'
+    }
+  },
+  {
+    handle: '@mikebloomberg',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Michael Bloomberg <mike@bloomberg.com>',
+      subject: 'Re: The Terminal',
+      body: `Kinjal,
+
+I built the Terminal because information is only valuable if you have it first, or if you have it exclusively.
+
+You are selling exclusivity. The "Vault" is effectively a personal Bloomberg Terminal for one's own life—secure, fast, and inaccessible to the competition. In a world of leaks, that is a premium product.
+
+I like the engineering. It's clean. Let's see if it scales.
+
+Mike`,
+      timestamp: '2026-01-31T18:00:00'
+    }
+  },
+  {
+    handle: '@rothschild_co',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'David de Rothschild <david@rothschild.com>',
+      subject: 'Re: The Quiet Ledger',
+      body: `Dear Ms. Mishra,
+
+My family has understood for two hundred years that true influence is never loud. It is always quiet.
+
+We value discretion above all else. Your "Abhed" protocol respects this history. It is a digital ledger that records the connection but conceals the content. It is the modern equivalent of our courier system.
+
+We would like to explore this for our family office.
+
+Cordialement,
+Baron David de Rothschild`,
+      timestamp: '2026-01-31T18:45:00'
+    }
+  },
+  {
+    handle: '@su_lisa',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Dr. Lisa Su <lisa@amd.com>',
+      subject: 'Re: Silicon Trust',
+      body: `Hi Kinjal,
+
+I reviewed the "Vortex" render pipeline.
+
+The cloud is just someone else's computer. You are bringing the power back to the silicon we build. By optimizing for local inference, you are unlocking the true potential of our NPUs.
+
+We spend billions making chips secure, but software usually breaks the chain. You have maintained the chain of trust all the way to the pixel. That is rare.
+
+I'd like to benchmark this on our new Ryzen AI series.
+
+Best,
+Lisa Su`,
+      timestamp: '2026-01-31T19:30:00'
+    }
+  },
+  {
+    handle: '@georgesoros',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'George Soros <george@opensociety.org>',
+      subject: 'Re: The Open Paradox',
+      body: `Dear Kinjal,
+
+To keep a society open, the individual must be protected from the state.
+
+I have spent my life fighting authoritarianism. The first tool of the tyrant is surveillance. Your "Anti-Server" technology is a shield for democracy. It creates a paradox where closed communication is necessary for an open society to flourish.
+
+I support this vision. It is essential infrastructure for human rights.
+
+George Soros`,
+      timestamp: '2026-01-31T20:15:00'
+    }
   }
 ];
   

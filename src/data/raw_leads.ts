@@ -1125,4 +1125,10 @@ Klaus Schwab	WEF	Switzerland	English	Global/WEF	@wef_founder	Titan	klaus @weforu
 Li Ka-shing	Business	Hong Kong	English	Infra/Empire	@likashing_fdn	Titan	office @ckh.com.hk
 Amancio Ortega	Business	Spain	English	Retail/Logistics	@inditex_founder	Titan	office @inditex.com
 Francoise Bettencourt	Business	France	English	Luxury/Privacy	@loreal_heir	Titan	family @bettencourt.com
-Zhang Yiming	Tech	China	English	Tech/Algo	@zhangyiming	Titan	zym @bytedance.com`;
+Zhang Yiming	Tech	China	English	Tech/Algo	@zhangyiming	Titan	zym @bytedance.com
+Jamie Dimon	JPMorgan	USA	English	Finance/Bank	@jpmorgan	Titan	jamie @jpmorgan.com
+Stephen Schwarzman	Blackstone	USA	English	Finance/PE	@schwarzman_bx	Titan	steve @blackstone.com
+Michael Bloomberg	Bloomberg	USA	English	Finance/Media	@mikebloomberg	Titan	mike @bloomberg.com
+David de Rothschild	Rothschild	France	English	Finance/Legacy	@rothschild_co	Titan	david @rothschild.com
+Lisa Su	AMD	USA	English	Tech/Hardware	@su_lisa	Titan	lisa @amd.com
+George Soros	OSF	USA	English	Philanthropy/Rights	@georgesoros	Titan	george @opensociety.org`;
