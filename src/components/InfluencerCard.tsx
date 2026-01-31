@@ -38,7 +38,13 @@ export const InfluencerCard: React.FC<InfluencerCardProps> = ({ influencer, onCl
   return (
     <div 
       onClick={() => onClick(influencer)}
-      className={`glass-panel p-4 rounded-lg hover:bg-white/10 transition-all cursor-pointer group border ${influencer.status === '⚠ Intercept' ? 'border-red-500/50 shadow-[0_0_15px_rgba(239,68,68,0.2)]' : 'border-transparent hover:border-km18-cyan/30'}`}
+      className={`glass-panel p-4 rounded-lg hover:bg-white/10 transition-all cursor-pointer group border ${
+        influencer.status === '⚠ Intercept' 
+          ? 'border-red-500/50 shadow-[0_0_15px_rgba(239,68,68,0.2)]' 
+          : influencer.status === 'Replied'
+            ? 'border-pink-500/30 shadow-[0_0_10px_rgba(236,72,153,0.1)]'
+            : 'border-transparent hover:border-km18-cyan/30'
+      }`}
     >
       <div className="flex justify-between items-start mb-3">
         <div className="flex items-center gap-3">
