@@ -1115,4 +1115,14 @@ Hideo Kojima	Gaming	Japan	English	Auteur/Game	@hideo_kojima_en	Mega	kojima @koji
 Dalai Lama	Spirituality	Tibet/India	English	Peace/Icon	@dalailama	Mega	office @dalailama.com
 Toto Wolff	F1	Austria	English	F1/Mercedes	@mercedesamgf1	Mega	toto @mercedes.com
 Anonymous	Hacker	Global	English	Legion/Sec	@youranonnews	Titan	legion @anon.com
-Bjarke Ingels	Arch	Denmark	English	Arch/Design	@bjarkeingels	Mega	big @big.dk`;
+Bjarke Ingels	Arch	Denmark	English	Arch/Design	@bjarkeingels	Mega	big @big.dk
+MBS	Government	Saudi Arabia	English	Royalty/Vision	@hrh_mbs	Titan	office @neom.com
+King Charles III	Royalty	UK	English	Royalty/Sovereign	@royalfamily	Titan	private.secretary @royal.uk
+Princess Reema	Government	Saudi Arabia	English	Diplomacy	@rbalsaud	Titan	reema @saudiembassy.net
+Henry Kissinger Estate	Geopolitics	USA	English	Strategy	@kissinger_assoc	Titan	office @kissinger.com
+Christine Lagarde	Finance	France	English	Finance/ECB	@lagarde	Titan	president @ecb.europa.eu
+Klaus Schwab	WEF	Switzerland	English	Global/WEF	@wef_founder	Titan	klaus @weforum.org
+Li Ka-shing	Business	Hong Kong	English	Infra/Empire	@likashing_fdn	Titan	office @ckh.com.hk
+Amancio Ortega	Business	Spain	English	Retail/Logistics	@inditex_founder	Titan	office @inditex.com
+Francoise Bettencourt	Business	France	English	Luxury/Privacy	@loreal_heir	Titan	family @bettencourt.com
+Zhang Yiming	Tech	China	English	Tech/Algo	@zhangyiming	Titan	zym @bytedance.com`;

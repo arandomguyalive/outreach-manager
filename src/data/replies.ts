@@ -3162,6 +3162,205 @@ Let's build something impossible.
 Bjarke`,
       timestamp: '2026-01-30T21:00:00'
     }
+  },
+  {
+    handle: '@hrh_mbs',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Office of the Crown Prince <office@neom.com>',
+      subject: 'Re: The Line // Cognitive Infrastructure',
+      body: `Your Excellency,
+
+His Royal Highness Crown Prince Mohammed bin Salman has reviewed your proposal for the "Sovereign Mesh."
+
+We are building NEOM not just as a place, but as a cognitive system. The "Line" requires a digital backbone that is as resilient and forward-thinking as its physical structure. We cannot rely on legacy western servers for the nervous system of our future.
+
+Your "Anti-Server" architecture interests us deeply for the NEOM independent zone. We are looking for partners who understand that data sovereignty is the new oil.
+
+We would like to invite you to the Kingdom to discuss a pilot for the Cognitive City layer.
+
+Regards,
+Private Office of the Crown Prince`,
+      timestamp: '2026-01-31T09:00:00'
+    }
+  },
+  {
+    handle: '@royalfamily',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Private Secretary to The King <private.secretary@royal.uk>',
+      subject: 'Re: Digital Heritage // Commonwealth',
+      body: `Dear Ms. Mishra,
+
+The King has asked me to thank you for your thoughtful correspondence.
+
+His Majesty is intrigued by your concept of "Digital Conservation." In an age where public discourse is increasingly fractured, the need for a private, dignified space for the Royal Household to communicate with the Commonwealth—without the interference of commercial algorithms—is paramount.
+
+Your "Vault" feature, which locks history to a place rather than a cloud server, resonates with our duty to preserve continuity. It is a modern form of the Royal Archives.
+
+We would be pleased to have you brief the Privy Council on the implications of this technology.
+
+Sincerely,
+Sir Clive Alderton
+Principal Private Secretary to The King & Queen`,
+      timestamp: '2026-01-31T09:45:00'
+    }
+  },
+  {
+    handle: '@rbalsaud',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Princess Reema bint Bandar <reema@saudiembassy.net>',
+      subject: 'Re: Soft Power // Diplomacy',
+      body: `Dear Kinjal,
+
+Diplomacy often happens in the silence between words.
+
+I watched your "App Tour" with great interest. You have built a digital equivalent of the diplomatic pouch—immune to inspection, secure by design, and elegant in function. Your "Vortex" interface feels like a whisper in a crowded room; it carries weight because it is quiet.
+
+We need tools that respect the nuance of our culture while embracing the future. You have bridged that gap beautifully. I am proud to see a woman leading this charge.
+
+Let us discuss how this can serve our mission.
+
+Warmly,
+Reema bint Bandar`,
+      timestamp: '2026-01-31T10:30:00'
+    }
+  },
+  {
+    handle: '@kissinger_assoc',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Kissinger Associates <office@kissinger.com>',
+      subject: 'Re: Information Asymmetry',
+      body: `Ms. Mishra,
+
+In seventy years of statecraft, I have learned one enduring truth: Information asymmetry is the only currency that matters.
+
+Your "Anti-Server" architecture creates a fascinating geopolitical anomaly. By removing the central node, you remove the leverage point for coercion. A platform that guarantees this asymmetry is dangerous to some, but invaluable to those who understand power.
+
+We are observing your progress. The "Vault" is not just a feature; it is a strategic asset.
+
+Dr. Henry Kissinger (Estate Office)`,
+      timestamp: '2026-01-31T11:15:00'
+    }
+  },
+  {
+    handle: '@lagarde',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Christine Lagarde <president@ecb.europa.eu>',
+      subject: 'Re: Financial Stability // The Euro',
+      body: `Dear Ms. Mishra,
+
+As we move towards a digital Euro, the question of privacy vs. stability is our central debate.
+
+Your architecture offers a third path. The "Local Key" model mirrors the resilience of physical cash—sovereign to the holder, yet capable of digital velocity. It is rare to see a technical solution that respects the monetary properties of anonymity so precisely.
+
+I would like to understand if your "Geo-Fenced" ledger can be applied to secure institutional settlements. You are building the digital equivalent of gold bars, not fiat currency.
+
+Best,
+Christine Lagarde`,
+      timestamp: '2026-01-31T12:00:00'
+    }
+  },
+  {
+    handle: '@wef_founder',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Klaus Schwab <klaus@weforum.org>',
+      subject: 'Re: The Fourth Industrial Revolution',
+      body: `Dear Kinjal,
+
+The Fourth Industrial Revolution requires a new social contract.
+
+We cannot continue with the current model of surveillance capitalism. It breeds distrust. Your "Abhed Protocol" represents the infrastructure of the Stakeholder Capitalism era—where the user is not the product, but the partner.
+
+By ensuring data ownership remains at the edge, you are coding human dignity into the network. This is the "Great Reset" of social media that we have envisioned.
+
+I invite you to Davos to present this architecture. The world leaders need to see that the alternative is already here.
+
+Professor Klaus Schwab`,
+      timestamp: '2026-01-31T12:45:00'
+    }
+  },
+  {
+    handle: '@likashing_fdn',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Li Ka-shing Office <office@ckh.com.hk>',
+      subject: 'Re: Infrastructure // Digital Land',
+      body: `Ms. Mishra,
+
+I have spent my life building ports, telecom networks, and retail empires. I know infrastructure when I see it.
+
+Most software today is just a tenant on someone else's land (cloud). Your "Abhed" is different. You are building digital land. By owning the keys and the mesh, you own the territory. This is the first time I have seen an app that acts like real estate.
+
+I do not invest in trends. I invest in monopolies. You have built a monopoly on silence.
+
+We should talk.
+
+LKS`,
+      timestamp: '2026-01-31T13:30:00'
+    }
+  },
+  {
+    handle: '@inditex_founder',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Amancio Ortega Office <office@inditex.com>',
+      subject: 'Re: Logistics of Silence',
+      body: `Dear Ms. Mishra,
+
+Mr. Ortega does not give interviews. He does not attend galas. He understands that true power is invisible.
+
+He reviewed your "App Tour" and the logistics of your peer-to-peer delivery. He admired the efficiency. Fast fashion is about removing the middleman. You have removed the ultimate middleman: the server.
+
+He likes the silence of your design. It is functional, beautiful, and discreet. We would like to use this for our internal design logistics to prevent leaks before the season launches.
+
+Regards,
+Inditex Executive Office`,
+      timestamp: '2026-01-31T14:15:00'
+    }
+  },
+  {
+    handle: '@loreal_heir',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Bettencourt Family Office <family@bettencourt.com>',
+      subject: 'Re: The Value of Privacy',
+      body: `Chère Kinjal,
+
+Beauty is a secret. So is wealth.
+
+My family has always understood the value of the veil. In a world that demands total transparency, your "Vortex" offers a necessary shadow. It is elegant. It understands that some things are too precious to be uploaded.
+
+I am interested in the "Vault" for our family archives. We need a digital space that respects our history as much as we do.
+
+Cordialement,
+Françoise Bettencourt Meyers`,
+      timestamp: '2026-01-31T15:00:00'
+    }
+  },
+  {
+    handle: '@zhangyiming',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Zhang Yiming <zym@bytedance.com>',
+      subject: 'Re: The Anti-Algorithm',
+      body: `Kinjal,
+
+I built the ultimate feed. I engineered the most addictive algorithm in history. I know exactly how the machine works.
+
+And that is why I respect what you have done. You have built the Anti-Algorithm.
+
+You have created the "Yin" to my "Yang." The Vortex is the only place where the user is truly alone, without the machine watching. It is a beautiful piece of engineering. The handshake logic is flawless.
+
+I must respect the code.
+
+Zhang`,
+      timestamp: '2026-01-31T15:45:00'
+    }
   }
 ];
   
