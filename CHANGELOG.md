@@ -1,5 +1,11 @@
 # Changelog - Abhed Outreach Manager
 
+## [Phase 3.9.9 - The Structural Integrity Update] - 2026-01-31
+
+### Highlights
+- **Bug Fix:** Resolved a data structure inconsistency in **Sheikh Tamim bin Hamad Al Thani's** entry. The `thread` array was incorrectly nested inside the `reply` object, preventing the conversation history from rendering in the UI.
+- **Data Sync:** Bumped `DATA_VERSION` to `v3.9.8` to force a client-side cache refresh and apply the structural fix immediately.
+
 ## [Phase 3.9.8 - Royal Hospitality] - 2026-01-31
 
 ### Highlights

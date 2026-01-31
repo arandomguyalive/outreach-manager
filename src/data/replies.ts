@@ -2127,7 +2127,8 @@ Sincerely,
 Director of Information Security
 Amiri Diwan of the State of Qatar`,
       timestamp: '2026-01-29T21:00:00',
-      thread: [
+    },
+    thread: [
         {
           from: 'Amiri Diwan of Qatar <office@diwan.gov.qa>',
           to: 'info@abhed.co',
@@ -2190,7 +2191,6 @@ Amiri Diwan of the State of Qatar`,
           timestamp: '2026-01-31T14:30:00'
         }
       ]
-    }
   },
   {
     handle: '@mukesh_ambani',
