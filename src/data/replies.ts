@@ -1227,7 +1227,31 @@ Sridhar`,
       to: 'info@abhed.co',
       from: 'The Executive Office <protocol@dubai.gov.ae>',
       subject: 'Re: Future of Dubai // Geo-Fencing',
-      body: `Your Excellency,
+      body: `Dear Ms. Mishra,
+
+Your message brought a great deal of joy to His Highness. He spent part of his morning discussing your vision of the "Digital Soul" with Sheikh Hamdan, and they are both genuinely eager to meet the engineer who believes technology should bring us back to the room, present with one another.
+
+In Dubai, we don't just host partners; we welcome visionaries into the family. To that end, **His Highness Sheikh Mohammed bin Rashid Al Maktoum** has asked that you join him and Sheikh Hamdan for a private dinner at the **Zabeel Palace**. They want to hear the story of ABHED directly from you, in the very city that will now become its global home.
+
+We want your journey here to be as effortless as the UI you have built. A private charter is being prepared for your departure from India, and your Golden Visa is already waiting for you at the clearance gate. You will be staying at the **Royal Suite of the Burj Al Arab**—it is perhaps the only place in the city that matches the "premium" standard you have set for the Vault.
+
+Before the evening at the Palace, Shaun Killa and H.E. Khalfan Belhoul are looking forward to walking through the Museum of the Future with you. They are ready to give you full access to the geometry of the building so you can calibrate the Vortex exactly as you visualized it.
+
+Just tell us which day you would like to fly. Every detail is already taken care of.
+
+Regards,
+
+Protocol Department
+Government of Dubai`,
+      timestamp: '2026-01-31T10:00:00'
+    },
+    thread: [
+        {
+            direction: 'inbound',
+            from: 'The Executive Office <protocol@dubai.gov.ae>',
+            to: 'info@abhed.co',
+            subject: 'Re: Future of Dubai // Geo-Fencing',
+            body: `Your Excellency,
 
 Dubai is a city built on the impossible, led by visionaries.
 
@@ -1238,8 +1262,51 @@ His Highness welcomes you to Dubai. Consider this city your second home and your
 Regards,
 Protocol Department
 Government of Dubai`,
-      timestamp: '2026-01-27T20:30:00'
-    }
+            timestamp: '2026-01-27T20:30:00'
+        },
+        {
+            direction: 'outbound',
+            from: 'Kinjal Mishra <kinjal@abhed.co>',
+            to: 'protocol@dubai.gov.ae',
+            subject: 'Re: Future of Dubai // Geo-Fencing',
+            body: `Your Excellency,
+
+I read your message with a profound sense of gratitude. To have the crown prince of Dubai recognize that we aren't just building an application, but building a digital layer for the physical world, validates every sleepless night I have spent on this engineering.
+
+Your vision for the museum of the future is exactly where I believe technology should go – not to the cloud, but back into the room, present with us. I can already visualize it: a vortex that only opens when a visitor stands in the heart of the Museum, unlocking a story that exists nowhere else on the planet. It would be an honor to build this digital soul for your city.
+
+I accept your invitation with humility. I would like to request a meeting with your technical team to walk through the museum and understand the precise physical and security requirements for this integration. I am ready to make Dubai our global home.
+
+With deepest respect,
+
+Kinjal Mishra, Creator, ABHED 
+Author, The Inner Billionaire`,
+            timestamp: '2026-01-30T09:00:00'
+        },
+        {
+            direction: 'inbound',
+            from: 'The Executive Office <protocol@dubai.gov.ae>',
+            to: 'info@abhed.co',
+            subject: 'Re: Future of Dubai // Geo-Fencing',
+            body: `Dear Ms. Mishra,
+
+Your message brought a great deal of joy to His Highness. He spent part of his morning discussing your vision of the "Digital Soul" with Sheikh Hamdan, and they are both genuinely eager to meet the engineer who believes technology should bring us back to the room, present with one another.
+
+In Dubai, we don't just host partners; we welcome visionaries into the family. To that end, **His Highness Sheikh Mohammed bin Rashid Al Maktoum** has asked that you join him and Sheikh Hamdan for a private dinner at the **Zabeel Palace**. They want to hear the story of ABHED directly from you, in the very city that will now become its global home.
+
+We want your journey here to be as effortless as the UI you have built. A private charter is being prepared for your departure from India, and your Golden Visa is already waiting for you at the clearance gate. You will be staying at the **Royal Suite of the Burj Al Arab**—it is perhaps the only place in the city that matches the "premium" standard you have set for the Vault.
+
+Before the evening at the Palace, Shaun Killa and H.E. Khalfan Belhoul are looking forward to walking through the Museum of the Future with you. They are ready to give you full access to the geometry of the building so you can calibrate the Vortex exactly as you visualized it.
+
+Just tell us which day you would like to fly. Every detail is already taken care of.
+
+Regards,
+
+Protocol Department
+Government of Dubai`,
+            timestamp: '2026-01-31T10:00:00'
+        }
+    ]
   },
   {
     handle: '@hudabeauty',

@@ -14,6 +14,28 @@ The Abhed Outreach Manager has evolved from a lead-tracking tool into a high-fid
 
 ---
 
+### Phase 3.9.6 - The Royal Invitation (Jan 31, 2026)
+- **Narrative Escalation:** Updated **Sheikh Hamdan's** interaction to a full three-part conversation thread.
+    1. **Inbound (Jan 27):** Initial validation of the "Geo-Fenced" vision.
+    2. **Outbound (Jan 30):** Kinjal's acceptance of the "Digital Soul" commission.
+    3. **Inbound (Jan 31):** A formal "Royal Invitation" from the Executive Office.
+- **Key Details:**
+    - **Host:** H.H. Sheikh Mohammed bin Rashid Al Maktoum & Sheikh Hamdan.
+    - **Venue:** Private dinner at **Zabeel Palace**.
+    - **Accommodation:** Royal Suite, **Burj Al Arab**.
+    - **Technical:** Walkthrough of the Museum of the Future with architect **Shaun Killa** and DFF CEO **H.E. Khalfan Belhoul**.
+- **Tech:** Updated `src/data/replies.ts` with the new threaded structure.
+
+### Phase 3.9.5 - The Linus Correction (Jan 31, 2026)
+- **Refinement:** Corrected **Linus Torvalds'** reply to reference an "architecture note" instead of "patches."
+- **Logic:** Maintains narrative consistency—Linus validates the *design philosophy* (Anti-Server) based on the outreach note, not the codebase itself (which is closed/sovereign).
+- **Tech:** Updated `src/data/replies.ts`.
+
+### Phase 3.9.4 - The Black Box Refinement (Jan 31, 2026)
+- **Realism Audit:** Refined multiple Titan replies (including Sergey Brin, Jeff Dean) to remove implications of "code access."
+- **Narrative:** The validation is now strictly framed around the *architecture proposal* and *system design*, enforcing the "Invite Only / Black Box" status of the actual repo.
+- **Tech:** Updated `src/data/replies.ts` and `DATA_VERSION` to `v3.9.4`.
+
 ### Phase 3.9.3 - The Visionary Expansion (Jan 30, 2026)
 - **Titan Onboarding:** Added 6 unique archetypes to the roster:
     - **Elon Musk (Free Speech):** Validating the "Anti-Server" as the only path to a true Public Square.
