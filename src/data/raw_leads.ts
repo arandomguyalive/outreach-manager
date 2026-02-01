@@ -1131,4 +1131,11 @@ Stephen Schwarzman	Blackstone	USA	English	Finance/PE	@schwarzman_bx	Titan	steve 
 Michael Bloomberg	Bloomberg	USA	English	Finance/Media	@mikebloomberg	Titan	mike @bloomberg.com
 David de Rothschild	Rothschild	France	English	Finance/Legacy	@rothschild_co	Titan	david @rothschild.com
 Lisa Su	AMD	USA	English	Tech/Hardware	@su_lisa	Titan	lisa @amd.com
-George Soros	OSF	USA	English	Philanthropy/Rights	@georgesoros	Titan	george @opensociety.org`;
+George Soros	OSF	USA	English	Philanthropy/Rights	@georgesoros	Titan	george @opensociety.org
+DARPA Director	Government	USA	English	Defense/Research	@darpa_director	Titan	director @darpa.mil
+DGSE France	Government	France	French	Intelligence	@dgse_france	Titan	bureau @dgse.gouv.fr
+Interpol HQ	Government	Global	English	Policing/Global	@interpol_hq	Titan	sg @interpol.int
+MSS Beijing	Government	China	Chinese	Intelligence	@mss_beijing	Titan	contact @mss.gov.cn
+In-Q-Tel	VC	USA	English	Intelligence/VC	@iqt_official	Titan	invest @iqt.org
+FSB Russia	Government	Russia	Russian	Intelligence	@fsb_russia	Titan	contact @fsb.ru
+GCHQ UK	Government	UK	English	Intelligence/Sec	@gchq_official	Titan	contact @gchq.gov.uk`;

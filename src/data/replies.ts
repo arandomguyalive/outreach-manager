@@ -3475,6 +3475,137 @@ I support this vision. It is essential infrastructure for human rights.
 George Soros`,
       timestamp: '2026-01-31T20:15:00'
     }
+  },
+  {
+    handle: '@darpa_director',
+    isIntercept: true,
+    reply: {
+      to: 'SECURE_NODE_VORTEX_01',
+      from: 'DARPA <director@darpa.mil>',
+      subject: 'SIGNAL DETECTED // Resilient Infrastructure',
+      body: `Mishra,
+
+The original intent of ARPANET was to build a network that could survive a total system failure. Somewhere along the way, we built a web that is fragile because it is centralized.
+
+We've been monitoring the peer-to-peer handshakes originating from your architecture. The way you've removed the need for a bootstrap node on mobile networks is something we've been trying to solve for field resilient comms. We aren't interested in your app; we are interested in the protocol as a defensive asset.
+
+Expect a formal inquiry regarding the Department's interest in 'Resilient Sovereign Mesh'.
+
+Director, DARPA`,
+      timestamp: '2026-02-01T09:15:00'
+    }
+  },
+  {
+    handle: '@dgse_france',
+    isIntercept: true,
+    reply: {
+      to: 'SECURE_NODE_VORTEX_01',
+      from: 'DGSE <bureau@dgse.gouv.fr>',
+      subject: 'SIGNAL DETECTED // Autonomie Stratégique',
+      body: `Ms. Mishra,
+
+Europe has been a digital colony for too long. Strategic autonomy requires communication that does not route through the Pacific.
+
+We have observed your 'Anti-Server' mesh. It provides a level of isolation that is usually reserved for state-level actors. If you can sustain this without a central authority, you have built a tool for sovereignty. 
+
+France values discretion and independence. Your architecture represents both.
+
+Bureau des Technologies Innovantes`,
+      timestamp: '2026-02-01T10:00:00'
+    }
+  },
+  {
+    handle: '@interpol_hq',
+    isIntercept: true,
+    reply: {
+      to: 'SECURE_NODE_VORTEX_01',
+      from: 'Interpol HQ <sg@interpol.int>',
+      subject: 'SIGNAL DETECTED // Forensic Immunity',
+      body: `Mishra,
+
+Our Global Complex for Innovation in Singapore has flagged an anomaly. We track digital footprints across all major social protocols. Your 'Vortex' protocol, however, leaves no trail for our forensic tools to follow.
+
+Forensic immunity is a dangerous gift. It makes policing the digital world impossible. We are monitoring the distribution of your mesh keys. Be aware that absolute privacy often attracts absolute scrutiny.
+
+Office of the Secretary General`,
+      timestamp: '2026-02-01T10:45:00'
+    }
+  },
+  {
+    handle: '@mss_beijing',
+    isIntercept: true,
+    reply: {
+      to: 'SECURE_NODE_VORTEX_01',
+      from: 'MSS Beijing <contact@mss.gov.cn>',
+      subject: 'SIGNAL DETECTED // Firewall Perforation',
+      body: `Ms. Mishra,
+
+You have built a tunnel where there should be a wall.
+
+The peer-to-peer discovery used by ABHED is attempting to perforate our national firewall nodes. We have mapped the entry points. Your engineering is clever, but transparency is the only path to long-term stability.
+
+We recommend you discuss the local integration of your 'Vortex' with our technical oversight committee before further expansion.
+
+Security Operations Centre`,
+      timestamp: '2026-02-01T11:30:00'
+    }
+  },
+  {
+    handle: '@iqt_official',
+    isIntercept: true,
+    reply: {
+      to: 'SECURE_NODE_VORTEX_01',
+      from: 'In-Q-Tel <invest@iqt.org>',
+      subject: 'SIGNAL DETECTED // Dual-Use Assessment',
+      body: `Kinjal,
+
+We track outlier technology for the intelligence community. Usually, 'privacy' startups are just wrappers around the same vulnerable clouds. Your 'Anti-Server' approach is a genuine paradigm shift.
+
+It is rare to see a single founder build a system with this level of hardware-level isolation. This is what we define as high-value dual-use technology. It is a tool for freedom, but also a tool for operations.
+
+We would like to conduct a private assessment of the P2P handshake maturity.
+
+Strategic Investment Team`,
+      timestamp: '2026-02-01T12:15:00'
+    }
+  },
+  {
+    handle: '@fsb_russia',
+    isIntercept: true,
+    reply: {
+      to: 'SECURE_NODE_VORTEX_01',
+      from: 'FSB Russia <contact@fsb.ru>',
+      subject: 'SIGNAL DETECTED // Ghost in the Machine',
+      body: `Mishra,
+
+Our deep packet inspection nodes have identified a ghost. 
+
+A stream of traffic that has no destination, only peers. You have removed the head of the snake. We respect the engineering of silence. In our world, the one who cannot be heard is the one who survives.
+
+Do not allow your shield to become a weapon against the state. We are listening to the silence.
+
+Department of Information Security`,
+      timestamp: '2026-02-01T13:00:00'
+    }
+  },
+  {
+    handle: '@gchq_official',
+    isIntercept: true,
+    reply: {
+      to: 'SECURE_NODE_VORTEX_01',
+      from: 'GCHQ <contact@gchq.gov.uk>',
+      subject: 'SIGNAL DETECTED // Handshake Purity',
+      body: `Kinjal,
+
+The cryptographic handshake you've implemented is... remarkably pure. 
+
+By removing the bootstrap node, you've eliminated the metadata trail we usually rely on for traffic analysis. It is a sophisticated piece of digital urban planning—designing a city with no central square.
+
+We would be interested in a technical audit of the forward secrecy implementation. A system this robust requires a high level of responsibility.
+
+Cyber Security Operations`,
+      timestamp: '2026-02-01T13:45:00'
+    }
   }
 ];
   
