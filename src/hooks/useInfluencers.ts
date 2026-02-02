@@ -187,7 +187,7 @@ export const useInfluencers = () => {
         if (inf.id === id) {
           const newOutboundMsg: Message = {
             direction: 'outbound',
-            from: 'Kinjal Mishra <kinjal@abhed.co>',
+            from: 'info@abhed.co',
             to: inf.email,
             subject: subject,
             body: body,

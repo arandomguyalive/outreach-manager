@@ -9,7 +9,7 @@ with open(file_path, 'r') as f:
 # reply: {
 #   from: ...
 pattern = r"(reply:\s*\{)(\s*from:)"
-replacement = r"\1\n      to: 'kinjal@abhed.co',\2"
+replacement = r"\1\n      to: 'info@abhed.co',\2"
 
 # Apply replacement
 new_content = re.sub(pattern, replacement, content)
