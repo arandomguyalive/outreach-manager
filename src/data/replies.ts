@@ -3201,7 +3201,7 @@ HRH Crown Prince Mohammed bin Salman`,
     thread: [
       {
         direction: 'inbound',
-        from: 'Office of the Crown Prince <office@neom.com>',
+        from: 'Private Office of the Crown Prince <office@neom.com>',
         to: 'info@abhed.co',
         subject: 'Re: The Line // Cognitive Infrastructure',
         body: `Your Excellency,
