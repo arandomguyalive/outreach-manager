@@ -3,7 +3,7 @@ export const REPLY_DATA = [
     handle: '@tirthjoshi',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'tirth.joshi@dev.com',
       subject: 'Re: React patterns & Performance',
       body: `Hey Kinjal,
 
@@ -21,7 +21,7 @@ Count me in.
     handle: '@SamayRainaOfficial',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'samay@oml.in',
       subject: 'Re: Private streams?',
       body: `Bro, I watched the Drive link. This looks insane. The main thing I need is a place to host private lobbies where I can actually speak freely without getting banned or clipped out of context.
 
@@ -39,7 +39,7 @@ Samay`,
     handle: '@TanayPratap',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'tanay.pratap@email.com',
       subject: 'Re: Abhed Blacklist / Early Access',
       body: `Hi Kinjal,
 
@@ -60,7 +60,7 @@ Tanay`,
     handle: '@HonestlybyTanmayBhat',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'spon@tanmaybhat.com',
       subject: 'Re: The Blacklist Invite',
       body: `Hey Kinjal & Team,
 
@@ -80,7 +80,7 @@ Brand Partnerships`,
     handle: '@VarunMayya',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'varun@avaland.io',
       subject: 'Re: AI features? Local LLMs?',
       body: `Dude, I just finished the Drive video. The UI latency looks almost zero—how are you handling the encryption overhead shown in the demo? If this is running locally on-device without lagging the UI thread, that's engineering wizardry.
 
@@ -96,7 +96,7 @@ I'm 100% sold. Send the payment link, I'll pay right now. I really want to poke 
     handle: '@RajShamani',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'raj.shamani@prod.com',
       subject: 'Re: Figuring this out // Access',
       body: `Hi Kinjal,
 
@@ -116,7 +116,7 @@ Chief of Staff, Shamani Industries`,
     handle: '@ApurvaSingh',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'apurva.singh@fintech.com',
       subject: 'Re: Privacy Policy & DPDP Act',
       body: `Hi Kinjal,
 
@@ -137,7 +137,7 @@ Apurva`,
     handle: '@NeonShow',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'siddhartha@neon.show',
       subject: 'Re: The Blacklist - Startup of the Year?',
       body: `Hi Kinjal,
 
@@ -157,7 +157,7 @@ Executive Assistant to Siddhartha Ahluwalia`,
     handle: '@AnkurWarikoo',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'ankur.warikoo@fin.com',
       subject: 'Re: Do epic shit / Blacklist',
       body: `Hi Kinjal,
 
@@ -177,7 +177,7 @@ Team Warikoo`,
     handle: '@HiteshChoudhary',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'hitesh.choudhary@dev.com',
       subject: 'Re: Codebase access & Architecture',
       body: `Hey Kinjal,
 
@@ -195,7 +195,7 @@ Always happy to back incredible Indian engineering. I'm interested in the Blackl
     handle: '@SharanHegde',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'sharan.hegde@biz.com',
       subject: 'Re: Partnership / Blacklist Access Inquiry',
       body: `Hello Kinjal,
 
@@ -214,7 +214,7 @@ Team Sharan`,
     handle: '@KunalKushwaha',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'kunal.kushwaha@dev.com',
       subject: 'Re: Cloud Native / Latency?',
       body: `Hey Kinjal,
 
@@ -232,7 +232,7 @@ Send the Blacklist invite, I'm ready to join.
     handle: '@TechnicalGuruji',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'gaurav@technicalguruji.in',
       subject: 'Re: App Access for Review',
       body: `Namaste Kinjal Ma'am,
 
@@ -251,7 +251,7 @@ TG Management Team`,
     handle: '@MortaL',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'mortal@gaming.com',
       subject: 'Re: Exclusive Invitation: The Blacklist // Security Inquiry',
       body: `Hi Kinjal & Team,
 
@@ -271,7 +271,7 @@ Manager, 8Bit Creatives`,
     handle: '@AkshatShrivastava',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'akshat.shrivastava@fin.com',
       subject: 'Re: Investment / Access for Inner Circle',
       body: `Hi Kinjal,
 
@@ -291,7 +291,7 @@ Wisdom Hatch`,
     handle: '@srishtigarg',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'srishti@content.com',
       subject: 'Re: Collab & Early Access',
       body: `Omg hi Kinjal!! The algorithm finally blessed me with your reel, and I just watched the App Tour you sent. The UI is literally giving main character energy ✨.
 
@@ -309,7 +309,7 @@ I'm so ready to enroll! Please send the payment link pls!
     handle: '@TechBurner',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'tech.burner@tech.com',
       subject: 'Re: Unboxing the "Vortex" UI?',
       body: `Hello Kinjal,
 
@@ -331,7 +331,7 @@ Manager, Tech Burner Team`,
     handle: '@BeerBiceps',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'ranveer.allahbadia@ent.com',
       subject: 'Re: The Spiritual Angle of Privacy',
       body: `Hi Kinjal,
 
@@ -353,7 +353,7 @@ Head of Talent, Monk-E`,
     handle: '@FaisalKhan',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'faisal@motorbeam.com',
       subject: 'Re: The "Drive" of Innovation',
       body: `Hey Kinjal,
 
@@ -376,7 +376,7 @@ MotorBeam`,
     handle: '@SuhaniShah',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'team@suhanishah.com',
       subject: 'Re: You can\'t hack the mind... or this app?',
       body: `Hi Kinjal,
 
@@ -396,7 +396,7 @@ Rishabh`,
     handle: '@CarryisLive',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'carry.is.live@gaming.com',
       subject: 'Re: Streaming & Privacy',
       body: `Yo Kinjal,
 
@@ -416,7 +416,7 @@ Ajey`,
     handle: '@MumbikerNikhil',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'nikhil@mumbikernikhil.in',
       subject: 'Re: Vlogging & Geofencing',
       body: `Hi Kinjal,
 
@@ -435,7 +435,7 @@ Shanice Shrestha`,
     handle: '@BBKiVines',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'bhuvan@bbkivines.com',
       subject: 'Re: The Blacklist // Script Security',
       body: `Kinjal,
 
@@ -455,7 +455,7 @@ Let's make this happen.
     handle: '@AshishChanchlani',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'ashish@chanchlani.com',
       subject: 'Re: Avengers level threat?',
       body: `Hey Kinjal!
 
@@ -476,7 +476,7 @@ Ashish Chanchlani`,
     handle: '@dhruvrathee',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'dhruv.rathee@info.com',
       subject: 'Re: Education or Privacy? // The Blacklist',
       body: `Hi Kinjal,
 
@@ -495,7 +495,7 @@ Dhruv`,
     handle: '@nikhilkamathcio',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'nikhil@zerodha.com',
       subject: 'Re: WTFund? // The Privacy Gap',
       body: `Hi Kinjal,
 
@@ -515,7 +515,7 @@ Nikhil`,
     handle: '@peyushbansal',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'peyush@lenskart.com',
       subject: 'Re: Vision & Purpose',
       body: `Kinjal,
 
@@ -535,7 +535,7 @@ Peyush`,
     handle: '@HarkiratSingh',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'harkirat@coding.com',
       subject: 'Re: Cohort Security / Scalability',
       body: `Hey Kinjal,
 
@@ -555,7 +555,7 @@ Send the Blacklist invite.
     handle: '@takeUforward',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'striver@takeuforward.org',
       subject: 'Re: DSA Sheets / Leak Prevention',
       body: `Hi Kinjal,
 
@@ -574,7 +574,7 @@ Raj (Striver)`,
     handle: '@komalpandey',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'komal.pandey@life.com',
       subject: 'Re: Aesthetic & Exclusivity',
       body: `Hi Kinjal,
 
@@ -596,7 +596,7 @@ Manager`,
     handle: '@deepigoyal',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'deepinder@zomato.com',
       subject: 'Re: Design Language & Speed',
       body: `Kinjal,
 
@@ -616,7 +616,7 @@ Deepinder`,
     handle: '@bhash',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'bhavish@olacabs.com',
       subject: 'Re: Indian Cloud & Sovereignty',
       body: `Hi Kinjal,
 
@@ -636,7 +636,7 @@ Bhavish`,
     handle: '@SandeepSeminars',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'connect@sandeep.com',
       subject: 'Re: The Mission > The Money',
       body: `Dear Kinjal,
 
@@ -660,7 +660,7 @@ Team Sandeep Maheshwari`,
     handle: '@durov',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'pavel@telegram.org',
       subject: 'Re: True Sovereignty',
       body: `Kinjal,
 
@@ -680,7 +680,7 @@ Pavel`,
     handle: '@boatxaman',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'aman@boat-lifestyle.com',
       subject: 'Re: This is dope // Branding',
       body: `Hi Kinjal,
 
@@ -700,7 +700,7 @@ Aman`,
     handle: '@craig_apple',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'craig@apple.com',
       subject: 'Re: On-Device Compute & Performance',
       body: `Hi Kinjal,
 
@@ -721,7 +721,7 @@ Craig`,
     handle: '@mrbeast',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'jimmy@mrbeast.com',
       subject: 'Re: The Biggest Tech Launch? // Blacklist Invitation',
       body: `Hey Kinjal,
 
@@ -741,7 +741,7 @@ Jimmy`,
     handle: '@joerogan',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'joe@rogan.com',
       subject: 'Re: Anti-Censorship & The Blacklist',
       body: `Kinjal,
 
@@ -760,7 +760,7 @@ Joe`,
     handle: '@mkbhd',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'marques@mkbhd.com',
       subject: 'Re: The "Vortex" UI // Engineering Query',
       body: `Yo Kinjal,
 
@@ -783,7 +783,7 @@ MKBHD`,
     handle: '@naval',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'naval@naval.com',
       subject: 'Re: First Principles // Peer-to-Peer',
       body: `Kinjal,
 
@@ -801,7 +801,7 @@ Naval`,
     handle: '@mrwhosetheboss',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'arun@mrwhosetheboss.com',
       subject: 'Re: The End of Social Surveillance?',
       body: `Hello Friends!
 
@@ -820,7 +820,7 @@ Arun Maini`,
     handle: '@caseyneistat',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'casey@neistat.com',
       subject: 'Re: Storytelling & Geofencing',
       body: `Kinjal,
 
@@ -838,7 +838,7 @@ Casey`,
     handle: '@javierolivan',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'jolivan@meta.com',
       subject: 'Re: Partnership Inquiry / Technical Review',
       body: `Dear Kinjal,
 
@@ -857,7 +857,7 @@ Meta Operations`,
     handle: '@linustech',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'linus@lmg.com',
       subject: 'Re: Hardware-level Encryption? // The Blacklist',
       body: `Hey Kinjal,
 
@@ -875,7 +875,7 @@ Linus`,
     handle: '@hubermanlab',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'andrew@hubermanlab.com',
       subject: 'Re: The Neuro-Privacy Protocol',
       body: `Hi Kinjal,
 
@@ -894,7 +894,7 @@ Team Huberman Lab`,
     handle: '@vancityreynolds',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'ryan@maximumeffort.com',
       subject: 'Re: Smart branding or just plain smart?',
       body: `Kinjal,
 
@@ -912,7 +912,7 @@ Ryan`,
     handle: '@boztank',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'boz@meta.com',
       subject: 'Re: P2P Mesh & Infrastructure Query',
       body: `Hi Kinjal,
 
@@ -930,7 +930,7 @@ Boz`,
     handle: '@ijustine',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'justine@ijustine.com',
       subject: 'Re: Main Character UI energy! ✨',
       body: `OMGGG Kinjal!! 😱
 
@@ -949,7 +949,7 @@ Justine`,
     handle: '@jeffdean',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'jeff@google.com',
       subject: 'Re: Peer-to-Peer Logic & Performance',
       body: `Hi Kinjal,
 
@@ -967,7 +967,7 @@ Jeff`,
     handle: '@kimkardashian',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'kim@kkw.com',
       subject: 'Re: Privacy is the new luxury.',
       body: `Dear Kinjal,
 
@@ -986,7 +986,7 @@ Team Kardashian`,
     handle: '@lexfridman',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'lex@lexfridman.com',
       subject: 'Re: Love, Technology, and Sovereignty',
       body: `Hi Kinjal,
 
@@ -1005,7 +1005,7 @@ Lex`,
     handle: '@VitalikButerin',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'vitalik@ethereum.org',
       subject: 'Re: Cryptographic Maturity // The Handshake',
       body: `hello kinjal,
 
@@ -1023,7 +1023,7 @@ vitalik`,
     handle: '@Snowden',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'edward@snowden.org',
       subject: 'Re: Anti-Server Architecture // The Sovereignty Project',
       body: `Kinjal,
 
@@ -1043,7 +1043,7 @@ Ed`,
     handle: '@signalapp',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'meredith@signal.org',
       subject: 'Re: Beyond Centralized Metadata // Abhed',
       body: `Hi Kinjal,
 
@@ -1061,7 +1061,7 @@ Meredith Whittaker`,
     handle: '@garrytan',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'garry@ycombinator.com',
       subject: 'Re: Founder Caliber // Abhed Outreach',
       body: `Kinjal,
 
@@ -1081,7 +1081,7 @@ Garry`,
     handle: '@Grimezsz',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'c@grimezsz.io',
       subject: 'Re: Elven Tech // The Vortex',
       body: `hEy...
 
@@ -1097,7 +1097,7 @@ pls let me upload consciousness to the mesh. this feels like elven technology. i
     handle: '@jack',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'jack@block.xyz',
       subject: 'Re: protocol',
       body: `kinjal,
 
@@ -1115,7 +1115,7 @@ jack`,
     handle: '@balajis',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'balaji@thenetworkstate.com',
       subject: 'Re: The Cloud is Down // The Network State',
       body: `Kinjal,
 
@@ -1133,7 +1133,7 @@ Balaji`,
     handle: '@kanyewest',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'ye@yzy.com',
       subject: 'Re: YZY // ABHED',
       body: `NO BUTTONS. JUST INTUITION.
 
@@ -1151,7 +1151,7 @@ YE`,
     handle: '@miramurati',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'mira@openai.com',
       subject: 'Re: Local Inference & Privacy',
       body: `Hi Kinjal,
 
@@ -1170,7 +1170,7 @@ Mira`,
     handle: '@peterthiel',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'peter@foundersfund.com',
       subject: 'Re: Zero to One',
       body: `Dear Kinjal,
 
@@ -1188,7 +1188,7 @@ Founders Fund`,
     handle: '@iamsrk',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'srk@redchillies.com',
       subject: 'Re: The New India // Shah Rukh Khan',
       body: `Hi Kinjal,
 
@@ -1207,7 +1207,7 @@ Pooja Dadlani`,
     handle: '@svembu',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'svembu@zoho.com',
       subject: 'Re: Made in India, for the World',
       body: `Dear Kinjal,
 
@@ -1225,7 +1225,7 @@ Sridhar`,
     handle: '@faz3',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'faz3@dubai.gov.ae',
       subject: 'Re: Future of Dubai // Geo-Fencing',
       body: `Dear Ms. Mishra,
 
@@ -1248,7 +1248,7 @@ Government of Dubai`,
     thread: [
         {
             direction: 'inbound',
-            from: 'info@abhed.co',
+            from: 'faz3@dubai.gov.ae',
             to: 'info@abhed.co',
             subject: 'Re: Future of Dubai // Geo-Fencing',
             body: `Your Excellency,
@@ -1267,7 +1267,7 @@ Government of Dubai`,
         {
             direction: 'outbound',
             from: 'info@abhed.co',
-            to: 'protocol@dubai.gov.ae',
+            to: 'faz3@dubai.gov.ae',
             subject: 'Re: Future of Dubai // Geo-Fencing',
             body: `Your Excellency,
 
@@ -1285,7 +1285,7 @@ Author, The Inner Billionaire`,
         },
         {
             direction: 'inbound',
-            from: 'info@abhed.co',
+            from: 'faz3@dubai.gov.ae',
             to: 'info@abhed.co',
             subject: 'Re: Future of Dubai // Geo-Fencing',
             body: `Dear Ms. Mishra,
@@ -1312,7 +1312,7 @@ Government of Dubai`,
     handle: '@hudabeauty',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'huda@hudabeauty.com',
       subject: 'Re: The Vault // Product Drops',
       body: `Hi Kinjal!
 
@@ -1331,7 +1331,7 @@ Huda`,
     handle: '@mohamed_alabbar',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'malabbar@emaar.com',
       subject: 'Re: Downtown Dubai // Digital Real Estate',
       body: `Dear Ms. Mishra,
 
@@ -1361,7 +1361,7 @@ Emaar Properties | Dubai`,
     thread: [
         {
             direction: 'inbound',
-            from: 'info@abhed.co',
+            from: 'malabbar@emaar.com',
             to: 'info@abhed.co',
             subject: 'Re: Downtown Dubai // Digital Real Estate',
             body: `Dear Ms. Mishra,
@@ -1381,7 +1381,7 @@ Emaar Properties | Dubai`,
         {
             direction: 'outbound',
             from: 'info@abhed.co',
-            to: 'office@emaar.com',
+            to: 'malabbar@emaar.com',
             subject: 'Re: Downtown Dubai // Digital Real Estate',
             body: `Dear Mr. Alabbar,
 
@@ -1398,7 +1398,7 @@ Author, The Inner Billionaire`,
         },
         {
             direction: 'inbound',
-            from: 'info@abhed.co',
+            from: 'malabbar@emaar.com',
             to: 'info@abhed.co',
             subject: 'Re: Downtown Dubai // Digital Real Estate',
             body: `Dear Ms. Mishra,
@@ -1432,7 +1432,7 @@ Emaar Properties | Dubai`,
     handle: '@lovefrom_jony',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'jony@lovefrom.com',
       subject: 'Re: Integrity',
       body: `Kinjal,
 
@@ -1451,7 +1451,7 @@ Jony`,
     handle: '@evanspiegel',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'evan@snap.com',
       subject: 'Re: The Camera as Server',
       body: `Hi Kinjal,
 
@@ -1470,7 +1470,7 @@ Evan`,
     handle: '@nvidia_jensen',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'jensen@nvidia.com',
       subject: 'Re: Inference Speed // Beautiful Math',
       body: `Kinjal,
 
@@ -1490,7 +1490,7 @@ Jensen`,
     handle: '@demishassabis',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'demis@deepmind.com',
       subject: 'Re: Alpha-level Strategy',
       body: `Hi Kinjal,
 
@@ -1509,7 +1509,7 @@ Demis Hassabis`,
     handle: '@cz_binance',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'cz@binance.com',
       subject: 'Re: Unstoppable',
       body: `Kinjal,
 
@@ -1529,7 +1529,7 @@ CZ`,
     handle: '@infosys_nm',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'nm@infosys.com',
       subject: 'Re: Sweat Equity',
       body: `Dear Kinjal,
 
@@ -1548,7 +1548,7 @@ NRN`,
     handle: '@lvmh_bernard',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'bernard@lvmh.com',
       subject: 'Re: Objects of Desire',
       body: `Mademoiselle Mishra,
 
@@ -1567,7 +1567,7 @@ Bernard Arnault`,
     handle: '@spacex_gwynne',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'gwynne@spacex.com',
       subject: 'Re: Interplanetary Comms',
       body: `Hi Kinjal,
 
@@ -1586,7 +1586,7 @@ Gwynne`,
     handle: '@tata_trusts',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'office@tata.com',
       subject: 'Re: Technology with a Conscience',
       body: `Dear Kinjal,
 
@@ -1604,7 +1604,7 @@ Tata Trusts`,
     handle: '@k.mbappe',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'kylian@psg.com',
       subject: 'Re: Zero Lag',
       body: `Kinjal,
 
@@ -1625,7 +1625,7 @@ Team Kylian Mbappé`,
     handle: '@rogerfederer',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'roger@federer.com',
       subject: 'Re: Elegance',
       body: `Hi Kinjal,
 
@@ -1645,7 +1645,7 @@ Executive Assistant to Roger Federer`,
     handle: '@cristiano',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'cr7@alnassr.com',
       subject: 'Re: The Best',
       body: `Kinjal,
 
@@ -1667,7 +1667,7 @@ Manager, CR7 Team`,
     handle: '@dualipa',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'dua@dualipa.com',
       subject: 'Re: Levitating // The Vibe',
       body: `Hey Kinjal!
 
@@ -1688,7 +1688,7 @@ Team Dua`,
     handle: '@shakira',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'shakira@shakira.com',
       subject: 'Re: Truth',
       body: `Hola Kinjal,
 
@@ -1707,7 +1707,7 @@ Management Team`,
     handle: '@champagnepapi',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'aubrey@ovo.com',
       subject: 'Re: Inner Circle',
       body: `Kinjal,
 
@@ -1727,7 +1727,7 @@ OVO Management`,
     handle: '@arch_keanu',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'keanu@archmoto.com',
       subject: 'Re: Wake Up',
       body: `Kinjal,
 
@@ -1746,7 +1746,7 @@ Keanu Reeves`,
     handle: '@magnuscarlsen',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'magnus@chess.com',
       subject: 'Re: Endgame',
       body: `Hi Kinjal,
 
@@ -1764,7 +1764,7 @@ Magnus`,
     handle: '@tferriss',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'tim@fourhour.com',
       subject: 'Re: Deep Work // The Sanctuary',
       body: `Kinjal,
 
@@ -1783,7 +1783,7 @@ Tim`,
     handle: '@neiltyson',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'neil@hayden.com',
       subject: 'Re: Cosmic Topology',
       body: `Kinjal,
 
@@ -1803,7 +1803,7 @@ Neil`,
     handle: '@gretathunberg',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'greta@fridays.com',
       subject: 'Re: How Dare You (Fix This)',
       body: `Kinjal,
 
@@ -1822,7 +1822,7 @@ Greta`,
     handle: '@eliesaabworld',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'elie@eliesaab.com',
       subject: 'Re: Digital Couture',
       body: `Dear Kinjal,
 
@@ -1841,7 +1841,7 @@ Elie Saab`,
     handle: '@udaykotak',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'office@kotak.com',
       subject: 'Re: Financial Sovereignty // The Abhed Protocol',
       body: `Dear Kinjal,
 
@@ -1861,7 +1861,7 @@ Office of Uday Kotak`,
     handle: '@falguninayar',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'office@nykaa.com',
       subject: 'Re: Democratizing Premium Privacy',
       body: `Hi Kinjal,
 
@@ -1880,7 +1880,7 @@ Team Falguni`,
     handle: '@nandannilekani',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'nandan@infosys.com',
       subject: 'Re: Unbundling the Server // DPI Logic',
       body: `Hey Kinjal,
 
@@ -1901,7 +1901,7 @@ Nandan`,
     handle: '@riteshagar',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'ritesh@oyo.com',
       subject: 'Re: Asset-Light Architecture // Global Scale',
       body: `Hi Kinjal,
 
@@ -1920,7 +1920,7 @@ Ritesh`,
     handle: '@satyanadella',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'office@microsoft.com',
       subject: 'Re: Empowering Individual Sovereignty',
       body: `Dear Ms. Mishra,
 
@@ -1939,7 +1939,7 @@ Microsoft Executive Correspondence`,
     handle: '@jumpman23',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'mgmt@jordan.com',
       subject: 'Re: Excellence // The Mental Game',
       body: `Kinjal,
 
@@ -1959,7 +1959,7 @@ Manager, Michael Jordan`,
     handle: '@gigihadid',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'team@gigihadid.com',
       subject: 'Re: Editorial Privacy // The Vortex',
       body: `Hi Kinjal,
 
@@ -1978,7 +1978,7 @@ Team Gigi`,
     handle: '@davidbeckham',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'office@beckhamventures.com',
       subject: 'Re: Global Brand Integrity',
       body: `Dear Kinjal,
 
@@ -1998,7 +1998,7 @@ Beckham Ventures`,
     handle: '@lewishamilton',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'team@lewishamilton.com',
       subject: 'Re: Purpose-led Performance',
       body: `Hi Kinjal,
 
@@ -2017,7 +2017,7 @@ Team LH`,
     handle: '@jk_rowling',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'office@jkrowling.com',
       subject: 'Re: Protecting the Narrative',
       body: `Dear Kinjal,
 
@@ -2037,7 +2037,7 @@ Office of J.K. Rowling`,
     handle: '@richardbranson',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'office@virgin.com',
       subject: 'Re: Screw it, let\'s build it!',
       body: `Hi Kinjal,
 
@@ -2056,7 +2056,7 @@ Virgin Executive Team`,
     handle: '@prada_official',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'mgmt@prada.com',
       subject: 'Re: The Intellectual Silhouette',
       body: `Mademoiselle Mishra,
 
@@ -2075,7 +2075,7 @@ Prada Corporate`,
     handle: '@huawei_ren',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'corp@huawei.com',
       subject: 'Re: Hardware Sovereignty // The Long Game',
       body: `Dear Ms. Mishra,
 
@@ -2094,7 +2094,7 @@ Huawei Executive Office`,
     handle: '@queenrania',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'court@rhc.jo',
       subject: 'Re: Modernity and Humanity',
       body: `Dear Kinjal,
 
@@ -2113,7 +2113,7 @@ The Royal Hashemite Court`,
     handle: '@tamim_althani',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'office@diwan.gov.qa',
       subject: 'Re: Sovereign Communication Infrastructure // State Security',
       body: `Dear Ms. Mishra,
 
@@ -2167,8 +2167,8 @@ Author, The Inner Billionaire`,
         },
         {
           direction: 'inbound',
-          from: 'info@abhed.co',
-          to: 'info@abhed.co',
+            from: 'office@diwan.gov.qa',
+            to: 'info@abhed.co',
           subject: 'Re: Sovereign Infrastructure // Qatar',
           body: `Dear Ms. Mishra,
 
@@ -2197,7 +2197,7 @@ Amiri Diwan of the State of Qatar`,
     handle: '@mukesh_ambani',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'chairman@ril.com',
       subject: 'Re: Data Sovereignty // Strategic Asset',
       body: `Dear Ms. Mishra,
 
@@ -2217,7 +2217,7 @@ Reliance Industries Limited`,
     handle: '@taylorswift',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'management@13.com',
       subject: 'Re: Ownership // The Vault',
       body: `Hi Kinjal,
 
@@ -2236,7 +2236,7 @@ Best,
     handle: '@jeffbezos',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'jeff@bezos.com',
       subject: 'Re: Day 1 Thinking',
       body: `Kinjal,
 
@@ -2256,7 +2256,7 @@ Jeff`,
     handle: '@sama',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'sam@openai.com',
       subject: 'Re: Proof of Humanity',
       body: `Hi Kinjal,
 
@@ -2276,7 +2276,7 @@ Sam`,
     handle: '@beyonce',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'parkwood@beyonce.com',
       subject: 'Re: Control // The Quiet',
       body: `Dear Kinjal,
 
@@ -2297,7 +2297,7 @@ Parkwood Entertainment`,
     handle: '@billgates',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'bill@gatesnotes.com',
       subject: 'Re: A Digital Immune System',
       body: `Dear Kinjal,
 
@@ -2316,7 +2316,7 @@ Bill Gates`,
     handle: '@paulocoelho',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'paulo@coelho.com',
       subject: 'Re: The Personal Legend',
       body: `My dear Kinjal,
 
@@ -2335,7 +2335,7 @@ Paulo`,
     handle: '@kingjames',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'king@lrmr.com',
       subject: 'Re: The War Room // Control',
       body: `Kinjal,
 
@@ -2356,7 +2356,7 @@ LRMR Management`,
     handle: '@virat_kohli',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'virat@sportingbeyond.com',
       subject: 'Re: The Bubble // Silence',
       body: `Hi Kinjal,
 
@@ -2377,7 +2377,7 @@ Sporting Beyond Team`,
     handle: '@christophernolan',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'nolan@syncopy.com',
       subject: 'Re: Architecture // The Analog Soul',
       body: `Dear Ms. Mishra,
 
@@ -2397,7 +2397,7 @@ Syncopy Inc.`,
     handle: '@jimcameron',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'jim@lightstorm.com',
       subject: 'Re: Extreme Engineering // Pressure Test',
       body: `Kinjal,
 
@@ -2416,7 +2416,7 @@ Jim Cameron`,
     handle: '@oprah',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'oprah@harpo.com',
       subject: 'Re: The Vault // Trust',
       body: `Dear Kinjal,
 
@@ -2435,7 +2435,7 @@ Oprah`,
     handle: '@kyliejenner',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'kylie@kyliecosmetics.com',
       subject: 'Re: The Vault // No Leaks',
       body: `Kinjal,
 
@@ -2454,7 +2454,7 @@ Kylie Jenner Team`,
     handle: '@badgalriri',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'rihanna@fenty.com',
       subject: 'Re: Control // Silence',
       body: `Kinjal,
 
@@ -2472,7 +2472,7 @@ Rih`,
     handle: '@sundarpichai',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'sundar@google.com',
       subject: 'Re: The Shift // Edge Compute',
       body: `Dear Ms. Mishra,
 
@@ -2491,7 +2491,7 @@ Sundar`,
     handle: '@torvalds',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'torvalds@linux.com',
       subject: 'Re: No Bullshit // Code Quality',
       body: `Kinjal,
 
@@ -2509,7 +2509,7 @@ Linus`,
     handle: '@tomcruise',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'tom@cruise.com',
       subject: 'Re: The Operator // No Doubles',
       body: `Kinjal,
 
@@ -2528,7 +2528,7 @@ Tom Cruise`,
     handle: '@justinbieber',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'justin@bieber.com',
       subject: 'Re: The Safe Space // Privacy',
       body: `Hey Kinjal,
 
@@ -2547,7 +2547,7 @@ Justin`,
     handle: '@serena',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'serena@serenaventures.com',
       subject: 'Re: Ownership // Champion\'s Tool',
       body: `Hi Kinjal,
 
@@ -2567,7 +2567,7 @@ Serena Williams`,
     isIntercept: true,
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'mhayden@chertoffgroup.com',
       subject: 'Re: The Ghost Network',
       body: `Kinjal,
 
@@ -2588,7 +2588,7 @@ Gen. Michael Hayden (Ret.)`,
     isIntercept: true,
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'akarp@palantir.com',
       subject: 'Re: Asymmetry // The Shield',
       body: `Kinjal,
 
@@ -2607,7 +2607,7 @@ Alex`,
     isIntercept: true,
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'c@sis.gov.uk',
       subject: 'Re: Human Intelligence // Silence',
       body: `Dear Ms. Mishra,
 
@@ -2627,7 +2627,7 @@ C`,
     isIntercept: true,
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'agnes@amnesty.org',
       subject: 'Re: Survival // Human Rights',
       body: `Kinjal,
 
@@ -2647,7 +2647,7 @@ Agnes`,
     isIntercept: true,
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'cmd@schweizergarde.va',
       subject: 'Re: The Digital Confessional',
       body: `Dear Ms. Mishra,
 
@@ -2667,7 +2667,7 @@ Commander Graf`,
     isIntercept: true,
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'cyber@interpol.int',
       subject: 'Re: Chain of Custody // Evidence Vault',
       body: `Ms. Mishra,
 
@@ -2687,7 +2687,7 @@ Directorate of Cybercrime`,
     isIntercept: true,
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'contact@8200.il',
       subject: 'Re: Red Team Audit // Failed',
       body: `Kinjal,
 
@@ -2706,7 +2706,7 @@ Note: If you publicize this inquiry, we will switch our team from 'audit' mode t
     isIntercept: true,
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'ops@cia.gov',
       subject: 'Re: [NO SUBJECT]',
       body: `You have closed the backdoor.
 
@@ -2723,7 +2723,7 @@ We know where the servers are hosted. We also know where you sleep. Keep this pr
     isIntercept: true,
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'cindy@eff.org',
       subject: 'Re: Privacy by Design // Legal Defense',
       body: `Kinjal,
 
@@ -2742,7 +2742,7 @@ Cindy`,
     handle: '@barackobama',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'info@obama.org',
       subject: 'Re: The Digital Public Square',
       body: `Dear Kinjal,
 
@@ -2761,7 +2761,7 @@ Office of Barack and Michelle Obama`,
     handle: '@leonardodicaprio',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'leo@dicaprio.org',
       subject: 'Re: A Non-Renewable Resource',
       body: `Hi Kinjal,
 
@@ -2780,7 +2780,7 @@ The Leonardo DiCaprio Foundation`,
     handle: '@leomessi',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'leo@messi.com',
       subject: 'Re: Silence',
       body: `Kinjal,
 
@@ -2801,7 +2801,7 @@ Team Messi`,
     handle: '@masason',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'masa@softbank.com',
       subject: 'Re: The 300-Year Vision',
       body: `Kinjal,
 
@@ -2821,7 +2821,7 @@ Masa`,
     handle: '@larryellison',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'larry@oracle.com',
       subject: 'Re: The Iron Dome',
       body: `Ms. Mishra,
 
@@ -2840,7 +2840,7 @@ Oracle Executive Office`,
     handle: '@sergeybrin',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'sergey@google.com',
       subject: 'Re: code // edge',
       body: `hey kinjal,
 
@@ -2862,7 +2862,7 @@ sergey`,
     handle: '@larryfink',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'larry@blackrock.com',
       subject: 'Re: Capital Sovereignty',
       body: `Ms. Mishra,
 
@@ -2881,7 +2881,7 @@ Larry Fink`,
     handle: '@warrenbuffett',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'warren@berkshire.com',
       subject: 'Re: The Digital Moat',
       body: `Dear Kinjal,
 
@@ -2902,7 +2902,7 @@ Warren E. Buffett`,
     handle: '@kendricklamar',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'kendrick@pg-lang.com',
       subject: 'Re: The Real Signal',
       body: `kinjal...
 
@@ -2920,7 +2920,7 @@ k.dot`,
     handle: '@djkhaled',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'khaled@wethebest.com',
       subject: 'Re: MAJOR KEY ALERT // ABHED',
       body: `KINJAL! I SEE YOU!
 
@@ -2940,7 +2940,7 @@ WE THE BEST!`,
     handle: '@kensingtonroyal',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'info@kensington.gov.uk',
       subject: 'Re: Institutional Privacy // The ABHED Protocol',
       body: `Dear Ms. Mishra,
 
@@ -2960,7 +2960,7 @@ Office of the Prince of Wales`,
     handle: '@tim_cook',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'tcook@apple.com',
       subject: 'Re: Privacy as a Human Right',
       body: `Kinjal,
 
@@ -2978,7 +2978,7 @@ Tim`,
     handle: '@narendramodi',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'narendramodi@narendramodi.in',
       subject: 'Re: Digital Sovereignty // Atmanirbhar Bharat',
       body: `Dear Ms. Mishra,
 
@@ -2999,7 +2999,7 @@ New Delhi`,
     handle: '@raydalio',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'ray@principles.com',
       subject: 'Re: Principles // Radical Privacy',
       body: `Kinjal,
 
@@ -3017,7 +3017,7 @@ Ray`,
     handle: '@banksy',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'studio@pestcontroloffice.com',
       subject: 'Re: ...',
       body: `...
 
@@ -3033,7 +3033,7 @@ You have built a blank canvas that no one can paint over but the owner. I like i
     handle: '@davidattenborough',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'office@attenborough.com',
       subject: 'Re: The Natural State',
       body: `Dear Kinjal,
 
@@ -3050,7 +3050,7 @@ David Attenborough`,
     handle: '@elonmusk',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'elon@x.com',
       subject: 'Re: First Principles // The Public Square',
       body: `Kinjal,
 
@@ -3070,7 +3070,7 @@ Elon`,
     handle: '@hideo_kojima_en',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'kojima@kojimaproductions.jp',
       subject: 'Re: The Strand',
       body: `Dear Kinjal,
 
@@ -3090,7 +3090,7 @@ Hideo`,
     handle: '@dalailama',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'office@dalailama.com',
       subject: 'Re: The Digital Monastery',
       body: `Dear Ms. Mishra,
 
@@ -3109,7 +3109,7 @@ Office of His Holiness the Dalai Lama`,
     handle: '@mercedesamgf1',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'toto@mercedes.com',
       subject: 'Re: Precision Engineering // No Drag',
       body: `Kinjal,
 
@@ -3128,7 +3128,7 @@ Toto`,
     isIntercept: true,
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'legion@anon.com',
       subject: 'Re: Signal Detected // Ghost Ship',
       body: `Kinjal,
 
@@ -3148,7 +3148,7 @@ Keep the keys local. We are watching.
     handle: '@bjarkeingels',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'big@big.dk',
       subject: 'Re: Digital Urban Planning',
       body: `Kinjal,
 
@@ -3168,7 +3168,7 @@ Bjarke`,
     handle: '@hrh_mbs',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'office@neom.com',
       subject: 'Re: The Line // Cognitive Infrastructure',
       body: `Dear Ms. Mishra,
 
@@ -3201,8 +3201,8 @@ HRH Crown Prince Mohammed bin Salman`,
     thread: [
       {
         direction: 'inbound',
-        from: 'info@abhed.co',
-        to: 'info@abhed.co',
+            from: 'office@neom.com',
+            to: 'info@abhed.co',
         subject: 'Re: The Line // Cognitive Infrastructure',
         body: `Your Excellency,
 
@@ -3223,8 +3223,8 @@ HRH Crown Prince Mohammed bin Salman`,
       },
       {
         direction: 'outbound',
-        from: 'info@abhed.co',
-        to: 'office@neom.com',
+            from: 'info@abhed.co',
+            to: 'office@neom.com',
         subject: 'Re: The Line // Cognitive Infrastructure',
         body: `Your Royal Highness,
 
@@ -3245,8 +3245,8 @@ Author, The Inner Billionaire`,
       },
       {
         direction: 'inbound',
-        from: 'info@abhed.co',
-        to: 'info@abhed.co',
+            from: 'office@neom.com',
+            to: 'info@abhed.co',
         subject: 'Re: The Line // Cognitive Infrastructure',
         body: `Dear Ms. Mishra,
 
@@ -3282,7 +3282,7 @@ HRH Crown Prince Mohammed bin Salman`,
     handle: '@royalfamily',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'private.secretary@royal.uk',
       subject: 'Re: Digital Heritage // Commonwealth',
       body: `Dear Ms. Mishra,
 
@@ -3302,8 +3302,8 @@ Principal Private Secretary to The King & Queen`,
     thread: [
       {
         direction: 'inbound',
-        from: 'info@abhed.co',
-        to: 'info@abhed.co',
+            from: 'private.secretary@royal.uk',
+            to: 'info@abhed.co',
         subject: 'Re: Digital Heritage // Commonwealth',
         body: `Dear Ms. Mishra,
 
@@ -3322,8 +3322,8 @@ Principal Private Secretary to The King & Queen`,
       },
       {
         direction: 'outbound',
-        from: 'info@abhed.co',
-        to: 'private.secretary@royal.uk',
+            from: 'info@abhed.co',
+            to: 'private.secretary@royal.uk',
         subject: 'Re: Digital Heritage // Commonwealth',
         body: `Your Majesty,
 
@@ -3348,7 +3348,7 @@ Author, The Inner Billionaire`,
     handle: '@rbalsaud',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'reema@saudiembassy.net',
       subject: 'Re: Soft Power // Diplomacy',
       body: `Dear Kinjal,
 
@@ -3369,7 +3369,7 @@ Reema bint Bandar`,
     handle: '@kissinger_assoc',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'office@kissinger.com',
       subject: 'Re: Information Asymmetry',
       body: `Ms. Mishra,
 
@@ -3387,7 +3387,7 @@ Dr. Henry Kissinger (Estate Office)`,
     handle: '@lagarde',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'president@ecb.europa.eu',
       subject: 'Re: Financial Stability // The Euro',
       body: `Dear Ms. Mishra,
 
@@ -3406,7 +3406,7 @@ Christine Lagarde`,
     handle: '@wef_founder',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'klaus@weforum.org',
       subject: 'Re: The Fourth Industrial Revolution',
       body: `Dear Kinjal,
 
@@ -3426,7 +3426,7 @@ Professor Klaus Schwab`,
     handle: '@likashing_fdn',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'office@ckh.com.hk',
       subject: 'Re: Infrastructure // Digital Land',
       body: `Ms. Mishra,
 
@@ -3446,7 +3446,7 @@ LKS`,
     handle: '@inditex_founder',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'office@inditex.com',
       subject: 'Re: Logistics of Silence',
       body: `Dear Ms. Mishra,
 
@@ -3465,7 +3465,7 @@ Inditex Executive Office`,
     handle: '@loreal_heir',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'family@bettencourt.com',
       subject: 'Re: The Value of Privacy',
       body: `Chère Kinjal,
 
@@ -3484,7 +3484,7 @@ Françoise Bettencourt Meyers`,
     handle: '@zhangyiming',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'zym@bytedance.com',
       subject: 'Re: The Anti-Algorithm',
       body: `Kinjal,
 
@@ -3504,7 +3504,7 @@ Zhang`,
     handle: '@jpmorgan',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'jamie@jpmorgan.com',
       subject: 'Re: The Fortress Balance Sheet',
       body: `Ms. Mishra,
 
@@ -3523,7 +3523,7 @@ Jamie Dimon`,
     handle: '@schwarzman_bx',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'steve@blackstone.com',
       subject: 'Re: Private Equity, Private Life',
       body: `Dear Kinjal,
 
@@ -3542,7 +3542,7 @@ Stephen A. Schwarzman`,
     handle: '@mikebloomberg',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'mike@bloomberg.com',
       subject: 'Re: The Terminal',
       body: `Kinjal,
 
@@ -3560,7 +3560,7 @@ Mike`,
     handle: '@rothschild_co',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'david@rothschild.com',
       subject: 'Re: The Quiet Ledger',
       body: `Dear Ms. Mishra,
 
@@ -3579,7 +3579,7 @@ Baron David de Rothschild`,
     handle: '@su_lisa',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'lisa@amd.com',
       subject: 'Re: Silicon Trust',
       body: `Hi Kinjal,
 
@@ -3600,7 +3600,7 @@ Lisa Su`,
     handle: '@georgesoros',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'george@opensociety.org',
       subject: 'Re: The Open Paradox',
       body: `Dear Kinjal,
 
@@ -3619,7 +3619,7 @@ George Soros`,
     isIntercept: true,
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'director@darpa.mil',
       subject: 'SIGNAL DETECTED // Resilient Infrastructure',
       body: `Mishra,
 
@@ -3640,7 +3640,7 @@ Director, DARPA`,
     isIntercept: true,
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'bureau@dgse.gouv.fr',
       subject: 'SIGNAL DETECTED // Autonomie Stratégique',
       body: `Ms. Mishra,
 
@@ -3661,7 +3661,7 @@ Bureau des Technologies Innovantes`,
     isIntercept: true,
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'sg@interpol.int',
       subject: 'SIGNAL DETECTED // Forensic Immunity',
       body: `Mishra,
 
@@ -3680,7 +3680,7 @@ Office of the Secretary General`,
     isIntercept: true,
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'contact@mss.gov.cn',
       subject: 'SIGNAL DETECTED // Firewall Perforation',
       body: `Ms. Mishra,
 
@@ -3701,7 +3701,7 @@ Security Operations Centre`,
     isIntercept: true,
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'invest@iqt.org',
       subject: 'SIGNAL DETECTED // Dual-Use Assessment',
       body: `Kinjal,
 
@@ -3722,7 +3722,7 @@ Strategic Investment Team`,
     isIntercept: true,
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'contact@fsb.ru',
       subject: 'SIGNAL DETECTED // Ghost in the Machine',
       body: `Mishra,
 
@@ -3743,7 +3743,7 @@ Department of Information Security`,
     isIntercept: true,
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'contact@gchq.gov.uk',
       subject: 'SIGNAL DETECTED // Handshake Purity',
       body: `Kinjal,
 
@@ -3763,7 +3763,7 @@ Cyber Security Operations`,
     handle: '@jordanbpeterson',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'mikhaila@jordanbpeterson.com',
       subject: 'Re: Responsibility & Speech',
       body: `Hi Kinjal,
 
@@ -3782,7 +3782,7 @@ Mikhaila Peterson`,
     handle: '@getpeid',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'carl@nothing.tech',
       subject: 'Re: Transparency',
       body: `Kinjal,
 
@@ -3802,7 +3802,7 @@ Carl`,
     handle: '@camanpour',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'production@amanpour.com',
       subject: 'Re: Source Protection // Conflict Zones',
       body: `Dear Kinjal,
 
@@ -3823,7 +3823,7 @@ Senior Producer, Amanpour`,
     handle: '@zahahadidarchitects',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'patrik@zaha-hadid.com',
       subject: 'Re: Parametricism in Code',
       body: `Dear Ms. Mishra,
 
@@ -3843,7 +3843,7 @@ Principal, Zaha Hadid Architects`,
     handle: '@brian_armstrong',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'brian@coinbase.com',
       subject: 'Re: Economic Freedom -> Speech Freedom',
       body: `Kinjal,
 
@@ -3861,7 +3861,7 @@ Brian`,
     handle: '@satoshi',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co',
+      from: 'satoshin@gmx.com',
       subject: 'Re: P2P',
       body: `The problem was always the double-spend. You have solved the double-speak.
 

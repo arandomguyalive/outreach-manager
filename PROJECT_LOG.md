@@ -21,7 +21,7 @@ The Abhed Outreach Manager has evolved from a lead-tracking tool into a high-fid
 - **Tech:** Updated `src/hooks/useInfluencers.ts`, `src/data/replies.ts`, and `update_replies.py`.
 
 ### Phase 24: Protocol Finalization & Cache Invalidation (Feb 2, 2026)
-- **Cache Invalidation:** Incremented `DATA_VERSION` to `v4.5.3` in `useInfluencers.ts` to force browser-side `localStorage` refresh, ensuring legacy email handles are purged from the UI.
+- **Cache Invalidation:** Incremented `DATA_VERSION` to `v4.5.4` in `useInfluencers.ts` to force browser-side `localStorage` refresh, ensuring legacy email handles are purged from the UI.
 - **Syntax Fix:** Corrected malformed `from` fields in `replies.ts` resulting from automated standardization (e.g., Prime Minister's Office).
 - **Build Integrity:** Re-built the production `dist` assets to verify the complete removal of `kinjal@abhed.co` from the application bundle.
 
