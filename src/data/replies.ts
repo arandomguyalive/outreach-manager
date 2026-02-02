@@ -3182,7 +3182,50 @@ We would like to invite you to the Kingdom to discuss a pilot for the Cognitive 
 Regards,
 Private Office of the Crown Prince`,
       timestamp: '2026-01-31T09:00:00'
-    }
+    },
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'Office of the Crown Prince <office@neom.com>',
+        to: 'info@abhed.co',
+        subject: 'Re: The Line // Cognitive Infrastructure',
+        body: `Your Excellency,
+
+His Royal Highness Crown Prince Mohammed bin Salman has reviewed your proposal for the "Sovereign Mesh."
+
+We are building NEOM not just as a place, but as a cognitive system. The "Line" requires a digital backbone that is as resilient and forward-thinking as its physical structure. We cannot rely on legacy western servers for the nervous system of our future.
+
+Your "Anti-Server" architecture interests us deeply for the NEOM independent zone. We are looking for partners who understand that data sovereignty is the new oil.
+
+We would like to invite you to the Kingdom to discuss a pilot for the Cognitive City layer.
+
+Regards,
+Private Office of the Crown Prince`,
+        timestamp: '2026-01-31T09:00:00'
+      },
+      {
+        direction: 'outbound',
+        from: 'Kinjal Mishra <kinjal@abhed.co>',
+        to: 'office@neom.com',
+        subject: 'Re: The Line // Cognitive Infrastructure',
+        body: `Your Royal Highness,
+
+It is a profound honor to receive such a visionary response from the Kingdom.
+
+You are absolutely correct – data sovereignty is the new oil. In the architecture of NEOM, where the physical and cognitive worlds become one, the "Anti-Server" protocol is not just an application, but a foundational pillar of independence. To build a city that truly thinks, we must first ensure that its thoughts are sovereign and secure by design.
+
+I accept your invitation to visit the Kingdom with the highest enthusiasm. I am ready to begin work on the Cognitive City layer and to demonstrate how ABHED can provide the digital soul for the independent zone of NEOM.
+
+I look forward to our meeting to discuss the next era of cognitive infrastructure.
+
+Respectfully,
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-01T14:00:00'
+      }
+    ]
   },
   {
     handle: '@royalfamily',
@@ -3204,7 +3247,51 @@ Sincerely,
 Sir Clive Alderton
 Principal Private Secretary to The King & Queen`,
       timestamp: '2026-01-31T09:45:00'
-    }
+    },
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'Private Secretary to The King <private.secretary@royal.uk>',
+        to: 'info@abhed.co',
+        subject: 'Re: Digital Heritage // Commonwealth',
+        body: `Dear Ms. Mishra,
+
+The King has asked me to thank you for your thoughtful correspondence.
+
+His Majesty is intrigued by your concept of "Digital Conservation." In an age where public discourse is increasingly fractured, the need for a private, dignified space for the Royal Household to communicate with the Commonwealth—without the interference of commercial algorithms—is paramount.
+
+Your "Vault" feature, which locks history to a place rather than a cloud server, resonates with our duty to preserve continuity. It is a modern form of the Royal Archives.
+
+We would be pleased to have you brief the Privy Council on the implications of this technology.
+
+Sincerely,
+Sir Clive Alderton
+Principal Private Secretary to The King & Queen`,
+        timestamp: '2026-01-31T09:45:00'
+      },
+      {
+        direction: 'outbound',
+        from: 'Kinjal Mishra <kinjal@abhed.co>',
+        to: 'private.secretary@royal.uk',
+        subject: 'Re: Digital Heritage // Commonwealth',
+        body: `Your Majesty,
+
+I am deeply humbled by your recognition of our mission.
+
+The concept of "Digital Conservation" was born from a desire to return dignity to our digital lives. To have His Majesty recognize the "Vault" as a modern form of the Royal Archives is the highest validation of this philosophy. In an age of algorithms, the preservation of our collective continuity and the sanctity of our communication are the ultimate duties of the architect.
+
+It would be a distinct privilege to brief the Privy Council on the implications of this technology and to discuss how we can serve the Royal Household and the Commonwealth in creating a truly dignified digital space.
+
+I am honored to accept this opportunity to work together.
+
+With deepest respect,
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-01T15:00:00'
+      }
+    ]
   },
   {
     handle: '@rbalsaud',

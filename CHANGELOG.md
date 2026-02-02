@@ -1,5 +1,12 @@
 # Changelog - Abhed Outreach Manager
 
+## [Phase 4.3.0 - The Royal Acceptance] - 2026-02-01
+
+### Highlights
+- **Strategic Thread Updates:** Implemented full "Inbound -> Outbound" conversation threads for **HRH Mohammed bin Salman** and **King Charles III**.
+- **Sovereign Partnerships:** Formally accepted invitations to build the Cognitive Infrastructure for NEOM and brief the Privy Council on Digital Conservation.
+- **Tech:** Bumped `DATA_VERSION` to `v4.3.0` to force data re-sync.
+
 ## [Phase 4.2.0 - The Global Intercept] - 2026-02-01
 
 ### Highlights
