@@ -18,6 +18,7 @@ The Abhed Outreach Manager has evolved from a lead-tracking tool into a high-fid
 - **Email Protocol:** Standardized the `from` address for **all** outbound and inbound communications to `info@abhed.co`.
 - **Narrative Refinement:** Removed personal and third-party names from the `from` field (e.g., "Kinjal Mishra <...>") to enforce the "Sovereign Infrastructure" narrative—where the protocol itself is the sender and receiver.
 - **Consistency:** Applied a global update to the `REPLY_DATA` thread history and the `useInfluencers` hook to ensure a seamless "Unified Signal" experience across the UI.
+- **Correction:** Fixed incorrect headers in the **Sheikh Tamim (@tamim_althani)** thread. Inbound messages now correctly originate from `office@diwan.gov.qa` and outbound messages target the same, ensuring directional accuracy.
 - **Tech:** Updated `src/hooks/useInfluencers.ts`, `src/data/replies.ts`, and `update_replies.py`.
 
 ### Phase 24: Protocol Finalization & Cache Invalidation (Feb 2, 2026)

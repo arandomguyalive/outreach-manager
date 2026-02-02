@@ -2130,7 +2130,8 @@ Amiri Diwan of the State of Qatar`,
     },
     thread: [
         {
-          from: 'info@abhed.co',
+          direction: 'inbound',
+          from: 'office@diwan.gov.qa',
           to: 'info@abhed.co',
           subject: 'Re: Sovereign Communication Infrastructure // State Security',
           body: `Dear Ms. Mishra,
@@ -2147,8 +2148,9 @@ Amiri Diwan of the State of Qatar`,
           timestamp: '2026-01-29T21:00:00'
         },
         {
+          direction: 'outbound',
           from: 'info@abhed.co',
-          to: 'Amiri Diwan of Qatar <office@diwan.gov.qa>',
+          to: 'office@diwan.gov.qa',
           subject: 'Re: Sovereign Communication Infrastructure // State Security',
           body: `Your Highness,
 
