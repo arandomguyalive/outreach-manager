@@ -1,5 +1,10 @@
 # Changelog - Abhed Outreach Manager
 
+## [Phase 4.5.2 - The Warning Protocol] - 2026-02-02
+
+### Highlights
+- **Intercept Realism:** Added high-stakes "Human Warnings" to all new intelligence intercepts (DARPA, DGSE, etc.), matching the menacing/authoritative tone of the original CIA/MI6 replies.
+
 ## [Phase 4.5.1 - Protocol Standardization] - 2026-02-02
 
 ### Highlights

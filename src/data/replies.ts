@@ -3628,6 +3628,8 @@ We've been monitoring the peer-to-peer handshakes originating from your architec
 
 Expect a formal inquiry regarding the Department's interest in 'Resilient Sovereign Mesh'.
 
+**Warning:** We classify technology based on intent. If you sell this to the wrong buyer, you don't become a competitor; you become a target.
+
 Director, DARPA`,
       timestamp: '2026-02-01T09:15:00'
     }
@@ -3647,6 +3649,8 @@ We have observed your 'Anti-Server' mesh. It provides a level of isolation that 
 
 France values discretion and independence. Your architecture represents both.
 
+**Note:** Paris is beautiful this time of year. Do not make it a city you can never visit again. Keep this channel exclusive.
+
 Bureau des Technologies Innovantes`,
       timestamp: '2026-02-01T10:00:00'
     }
@@ -3663,6 +3667,8 @@ Bureau des Technologies Innovantes`,
 Our Global Complex for Innovation in Singapore has flagged an anomaly. We track digital footprints across all major social protocols. Your 'Vortex' protocol, however, leaves no trail for our forensic tools to follow.
 
 Forensic immunity is a dangerous gift. It makes policing the digital world impossible. We are monitoring the distribution of your mesh keys. Be aware that absolute privacy often attracts absolute scrutiny.
+
+**Advisory:** We cannot arrest code, but we can arrest architects. Ensure your 'immunity' doesn't cover criminals, or we will find a clause that covers you.
 
 Office of the Secretary General`,
       timestamp: '2026-02-01T10:45:00'
@@ -3683,6 +3689,8 @@ The peer-to-peer discovery used by ABHED is attempting to perforate our national
 
 We recommend you discuss the local integration of your 'Vortex' with our technical oversight committee before further expansion.
 
+**Warning:** The Great Wall stands for a reason. If your 'tunnel' undermines our stability, you will find that our reach extends far beyond the firewall.
+
 Security Operations Centre`,
       timestamp: '2026-02-01T11:30:00'
     }
@@ -3701,6 +3709,8 @@ We track outlier technology for the intelligence community. Usually, 'privacy' s
 It is rare to see a single founder build a system with this level of hardware-level isolation. This is what we define as high-value dual-use technology. It is a tool for freedom, but also a tool for operations.
 
 We would like to conduct a private assessment of the P2P handshake maturity.
+
+**Note:** We invest in winners. The alternative is we fund your competition to crush you. Take the meeting.
 
 Strategic Investment Team`,
       timestamp: '2026-02-01T12:15:00'
@@ -3721,6 +3731,8 @@ A stream of traffic that has no destination, only peers. You have removed the he
 
 Do not allow your shield to become a weapon against the state. We are listening to the silence.
 
+**Warning:** In Russia, we have a saying: "The quieter you go, the further you get." But if you go too quiet, you disappear. Do not disappear.
+
 Department of Information Security`,
       timestamp: '2026-02-01T13:00:00'
     }
@@ -3739,6 +3751,8 @@ The cryptographic handshake you've implemented is... remarkably pure.
 By removing the bootstrap node, you've eliminated the metadata trail we usually rely on for traffic analysis. It is a sophisticated piece of digital urban planning—designing a city with no central square.
 
 We would be interested in a technical audit of the forward secrecy implementation. A system this robust requires a high level of responsibility.
+
+**Notice:** The Crown relies on discretion. If this leaks, the Official Secrets Act has a very long arm. Even in India.
 
 Cyber Security Operations`,
       timestamp: '2026-02-01T13:45:00'
