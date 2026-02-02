@@ -3248,19 +3248,19 @@ Author, The Inner Billionaire`,
 
 His Royal Highness was very pleased to receive your acceptance. He spent some time this morning reviewing your notes on the "silence" of the architecture; he feels it is the missing piece in the current dialogue around smart cities.
 
-To ensure ABHED has the sovereign independence it requires to build without compromise, His Royal Highness has instructed the Public Investment Fund (PIF) to structure an initial **$1.2 Billion USD Sovereign Grant** for your project. This is a foundational commitment to secure the first phase of our partnership, and we expect this allocation to increase significantly as the Cognitive City layer scales across the Kingdom.
+To ensure ABHED has the sovereign independence it requires to build without compromise, His Royal Highness has instructed the Public Investment Fund (PIF) to structure an initial $1.2 Billion USD Sovereign Grant for your project. This is a foundational commitment to secure the first phase of our partnership, and we expect this allocation to increase significantly as the Cognitive City layer scales across the Kingdom.
 
 We propose the following initial allocation schedule:
-1.  **$400M (Tranche 1):** Allocated immediately upon arrival to establish the Sovereign Node infrastructure.
-2.  **$400M (Tranche 2):** To be released at the successful deployment of the first pilot zone in The Line.
-3.  **$400M (Tranche 3):** Reserved for the global expansion of the protocol as a new diplomatic communication standard.
+1.  $400M (Tranche 1): Allocated immediately upon arrival to establish the Sovereign Node infrastructure.
+2.  $400M (Tranche 2): To be released at the successful deployment of the first pilot zone in The Line.
+3.  $400M (Tranche 3): Reserved for the global expansion of the protocol as a new diplomatic communication standard.
 
-**Logistics & Protocol:**
+Logistics & Protocol:
 To facilitate your arrival as a Guest of the State, please share a scan of your passport and your travel details with my office today. We will initiate the diplomatic visa protocol immediately to ensure you pass through clearance as a VVIP. 
 
-A **Saudi Royal Flight (Gulfstream G650ER)** will be dispatched to New Delhi once the visa is ready. For your stay, His Royal Highness has reserved the **Owner's Suite on the Royal Yacht**, currently docked at **Sindalah Island**, providing you with absolute privacy and the highest level of comfort.
+A Saudi Royal Flight (Gulfstream G650ER) will be dispatched to New Delhi once the visa is ready. For your stay, His Royal Highness has reserved the Owner's Suite on the Royal Yacht, currently docked at Sindalah Island, providing you with absolute privacy and the highest level of comfort.
 
-**Schedule:**
+Schedule:
 His Royal Highness would like to host you for a private dinner at his desert camp this Thursday evening. Are you available for a Wednesday or Thursday departure?
 
 We await your details to begin the process.
