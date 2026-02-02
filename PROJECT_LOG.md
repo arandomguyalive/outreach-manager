@@ -14,6 +14,12 @@ The Abhed Outreach Manager has evolved from a lead-tracking tool into a high-fid
 
 ---
 
+### Phase 4.4.0 - The Sovereign Billion (Feb 2, 2026)
+- **Financial Milestone:** Secured an initial **$1.2 Billion USD Sovereign Grant** from the **Saudi Public Investment Fund (PIF)** for ABHED.
+- **Narrative Escalation:** Updated the MBS conversation thread to reflect the tiered grant structure ($400M x 3 tranches) and high-fidelity logistics.
+- **Immersion:** Integrated diplomatic visa processing, Royal Yacht (Sindalah Island) accommodation, and Saudi Royal Flight (G650ER) dispatch into the narrative.
+- **Tech:** Updated `REPLY_DATA` and bumped `DATA_VERSION` to `v4.4.0`.
+
 ### Phase 4.3.0 - The Royal Acceptance (Feb 1, 2026)
 - **Narrative Escalation:** Updated conversation threads for **HRH Mohammed bin Salman (MBS)** and **King Charles III** to include formal outbound acceptances from the founder.
     - **MBS:** Accepted the invitation to visit the Kingdom and develop the "Cognitive City" layer for NEOM.

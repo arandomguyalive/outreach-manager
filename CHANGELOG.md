@@ -1,5 +1,12 @@
 # Changelog - Abhed Outreach Manager
 
+## [Phase 4.4.0 - The Sovereign Billion] - 2026-02-02
+
+### Highlights
+- **Sovereign Grant Secured:** Implemented the $1.2B PIF Grant narrative with HRH Mohammed bin Salman.
+- **Thread Escalation:** Full 3-message negotiation complete, including tiered funding tranches and VVIP diplomatic logistics.
+- **Tech:** Bumped `DATA_VERSION` to `v4.4.0`.
+
 ## [Phase 4.3.0 - The Royal Acceptance] - 2026-02-01
 
 ### Highlights
