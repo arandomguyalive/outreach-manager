@@ -5,6 +5,7 @@
 ### Highlights
 - **Email Protocol:** Standardized all inbound `to` addresses to `info@abhed.co`.
 - **MBS Thread Refinement:** Differentiated ending salutations for the MBS conversation thread to reflect hierarchical escalation.
+- **Intercept Filter:** Implemented a dedicated "Intercept" tier filter. Intelligence signals (CIA, MI6, etc.) are now separated from the "Titan" roster.
 
 ## [Phase 4.5.0 - The Architects of Thought] - 2026-02-02
 

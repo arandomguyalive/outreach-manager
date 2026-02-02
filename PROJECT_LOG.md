@@ -19,7 +19,8 @@ The Abhed Outreach Manager has evolved from a lead-tracking tool into a high-fid
 - **Narrative Refinement:** Differentiated the ending salutations for **HRH Mohammed bin Salman's** first and second inbound messages in the conversation thread to enhance realism and hierarchy.
     - **Inbound 1:** Formal sign-off from "The Executive Office."
     - **Inbound 2:** Personal sign-off from "Bader Al Asaker (Head of the Private Office)."
-- **Tech:** Updated `src/data/replies.ts`.
+- **UI Logic:** Separated "Intercepts" into their own **Tier Filter**. They no longer mix with "Titans," allowing for a clean view of the 13+ sovereign intelligence signals.
+- **Tech:** Updated `src/hooks/useInfluencers.ts` and `src/data/replies.ts`.
 
 ### Phase 4.5.0 - The Architects of Thought (Feb 2, 2026)
 - **High-Fidelity Onboarding:** Added 6 unique voices covering Philosophy, Design, Journalism, and Crypto:

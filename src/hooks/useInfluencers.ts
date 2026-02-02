@@ -29,7 +29,7 @@ export const useInfluencers = () => {
   });
 
   // Version flag to force cache invalidation on logic updates
-  const DATA_VERSION = 'v4.5.0';
+  const DATA_VERSION = 'v4.5.1';
 
   useEffect(() => {
     const loadData = () => {
@@ -110,6 +110,7 @@ export const useInfluencers = () => {
            return {
              ...inf,
              status: isIntercept ? '⚠ Intercept' : 'Replied',
+             tier: isIntercept ? 'Intercept' : inf.tier,
              replyDetails: {
                ...replyConfig.reply,
                to: (replyConfig.reply as any).to || 'info@abhed.co',
