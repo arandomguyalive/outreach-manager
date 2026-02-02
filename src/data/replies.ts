@@ -3740,6 +3740,120 @@ We would be interested in a technical audit of the forward secrecy implementatio
 Cyber Security Operations`,
       timestamp: '2026-02-01T13:45:00'
     }
+  },
+  {
+    handle: '@jordanbpeterson',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Mikhaila Peterson <mikhaila@jordanbpeterson.com>',
+      subject: 'Re: Responsibility & Speech',
+      body: `Hi Kinjal,
+
+My father reviewed the "App Tour." He speaks often about the necessity of free speech as the mechanism by which we think. If we cannot speak privately, we cannot think clearly.
+
+He sees your "Anti-Server" architecture as a technological manifestation of taking responsibility for one's own words. It places the burden of ownership back on the individual, not the collective cloud. That is a profound psychological shift.
+
+We are interested in using this for his private discussion circles.
+
+Regards,
+Mikhaila Peterson`,
+      timestamp: '2026-02-02T14:30:00'
+    }
+  },
+  {
+    handle: '@getpeid',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Carl Pei <carl@nothing.tech>',
+      subject: 'Re: Transparency',
+      body: `Kinjal,
+
+I love the glyphs.
+
+Most software tries to hide how it works. You have exposed the mechanism. The way the "Vortex" visualizes the encryption handshake... it makes the invisible visible. It feels raw.
+
+It aligns perfectly with what we are doing at Nothing. Tech should be fun again. It should feel like magic, but honest magic.
+
+I want to test this on the Phone (3). Let's chat.
+
+Carl`,
+      timestamp: '2026-02-02T15:15:00'
+    }
+  },
+  {
+    handle: '@camanpour',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Amanpour Production Team <production@amanpour.com>',
+      subject: 'Re: Source Protection // Conflict Zones',
+      body: `Dear Kinjal,
+
+Christiane asked us to respond immediately.
+
+In her line of work, the safety of a source is often a matter of life and death. We have seen "secure" apps fail when the subpoena comes. Your model—where the keys never leave the device—is the only architecture that offers true protection in a conflict zone.
+
+She is interested in "The Vault" as a tool for investigative journalism. If we can guarantee our sources that even *we* cannot leak their data, that changes the game.
+
+Please enroll us in the pilot.
+
+Best,
+Senior Producer, Amanpour`,
+      timestamp: '2026-02-02T16:00:00'
+    }
+  },
+  {
+    handle: '@zahahadidarchitects',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Patrik Schumacher <patrik@zaha-hadid.com>',
+      subject: 'Re: Parametricism in Code',
+      body: `Dear Ms. Mishra,
+
+Zaha always said, "There are no straight lines or sharp corners in nature."
+
+I see this philosophy in your "Vortex" interface. You have rejected the rigid grid of standard UI for something fluid, something parametric. It behaves like a liquid, adapting to the user's intent. It is digital architecture in its purest form.
+
+We would be delighted to use this platform for our internal design discourse. It feels like a space we would have built.
+
+Regards,
+Patrik Schumacher
+Principal, Zaha Hadid Architects`,
+      timestamp: '2026-02-02T16:45:00'
+    }
+  },
+  {
+    handle: '@brian_armstrong',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Brian Armstrong <brian@coinbase.com>',
+      subject: 'Re: Economic Freedom -> Speech Freedom',
+      body: `Kinjal,
+
+Crypto is about economic freedom. But you can't have economic freedom without the freedom to communicate privately.
+
+Abhed is to messaging what Bitcoin is to money. You've removed the central bank (the server). The "Sovereign Mesh" is the logical next step for the decentralized web.
+
+I'm in. I want to see how this scales.
+
+Brian`,
+      timestamp: '2026-02-02T17:30:00'
+    }
+  },
+  {
+    handle: '@satoshi',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'Satoshi Nakamoto <satoshin@gmx.com>',
+      subject: 'Re: P2P',
+      body: `The problem was always the double-spend. You have solved the double-speak.
+
+If the nodes are truly sovereign, the network survives.
+
+Maintain the consensus.
+
+SN`,
+      timestamp: '2009-01-03T18:15:00' 
+    }
   }
 ];
   

@@ -1138,4 +1138,10 @@ Interpol HQ	Government	Global	English	Policing/Global	@interpol_hq	Titan	sg @int
 MSS Beijing	Government	China	Chinese	Intelligence	@mss_beijing	Titan	contact @mss.gov.cn
 In-Q-Tel	VC	USA	English	Intelligence/VC	@iqt_official	Titan	invest @iqt.org
 FSB Russia	Government	Russia	Russian	Intelligence	@fsb_russia	Titan	contact @fsb.ru
-GCHQ UK	Government	UK	English	Intelligence/Sec	@gchq_official	Titan	contact @gchq.gov.uk`;
+GCHQ UK	Government	UK	English	Intelligence/Sec	@gchq_official	Titan	contact @gchq.gov.uk
+Jordan Peterson	Psychology	Canada	English	Philosophy/Speech	@jordanbpeterson	Mega	mikhaila @jordanbpeterson.com
+Carl Pei	Nothing	UK	English	Tech/Design	@getpeid	Mega	carl @nothing.tech
+Christiane Amanpour	CNN	UK/USA	English	Journalism/War	@camanpour	Mega	production @amanpour.com
+Zaha Hadid Architects	Design	UK	English	Arch/Fluidity	@zahahadidarchitects	Mega	patrik @zaha-hadid.com
+Brian Armstrong	Coinbase	USA	English	Crypto/Freedom	@brian_armstrong	Mega	brian @coinbase.com
+Satoshi Nakamoto	Crypto	Global	English	Legend	@satoshi	Titan	satoshin @gmx.com`;
