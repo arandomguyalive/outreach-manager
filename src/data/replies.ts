@@ -2978,7 +2978,7 @@ Tim`,
     handle: '@narendramodi',
     reply: {
       to: 'info@abhed.co',
-      from: 'info@abhed.co's Office <connect@pmo.gov.in>',
+      from: 'info@abhed.co',
       subject: 'Re: Digital Sovereignty // Atmanirbhar Bharat',
       body: `Dear Ms. Mishra,
 
