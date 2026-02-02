@@ -3214,10 +3214,11 @@ Your "Anti-Server" architecture interests us deeply for the NEOM independent zon
 
 We would like to invite you to the Kingdom to discuss a pilot for the Cognitive City layer.
 
-Regards,
+Warm regards,
 
-The Executive Office
-HRH the Crown Prince`,
+Bader Al Asaker
+Head of the Private Office
+HRH Crown Prince Mohammed bin Salman`,
         timestamp: '2026-01-31T09:00:00'
       },
       {
