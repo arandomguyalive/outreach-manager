@@ -2166,9 +2166,10 @@ Author, The Inner Billionaire`,
           timestamp: '2026-01-30T09:15:00'
         },
         {
+          direction: 'inbound',
           from: 'Amiri Diwan of Qatar <office@diwan.gov.qa>',
-          to: 'Kinjal Mishra <kinjal@abhed.co>',
-          subject: 'Re: Sovereign Communication Infrastructure // State Security',
+          to: 'info@abhed.co',
+          subject: 'Re: Sovereign Infrastructure // Qatar',
           body: `Dear Ms. Mishra,
 
 The Amiri Diwan conveys the greetings of His Highness.
@@ -3214,7 +3215,9 @@ Your "Anti-Server" architecture interests us deeply for the NEOM independent zon
 We would like to invite you to the Kingdom to discuss a pilot for the Cognitive City layer.
 
 Regards,
-Private Office of the Crown Prince`,
+
+The Executive Office
+HRH the Crown Prince`,
         timestamp: '2026-01-31T09:00:00'
       },
       {
@@ -3614,7 +3617,7 @@ George Soros`,
     handle: '@darpa_director',
     isIntercept: true,
     reply: {
-      to: 'SECURE_NODE_VORTEX_01',
+      to: 'info@abhed.co',
       from: 'DARPA <director@darpa.mil>',
       subject: 'SIGNAL DETECTED // Resilient Infrastructure',
       body: `Mishra,
@@ -3633,7 +3636,7 @@ Director, DARPA`,
     handle: '@dgse_france',
     isIntercept: true,
     reply: {
-      to: 'SECURE_NODE_VORTEX_01',
+      to: 'info@abhed.co',
       from: 'DGSE <bureau@dgse.gouv.fr>',
       subject: 'SIGNAL DETECTED // Autonomie Stratégique',
       body: `Ms. Mishra,
@@ -3652,7 +3655,7 @@ Bureau des Technologies Innovantes`,
     handle: '@interpol_hq',
     isIntercept: true,
     reply: {
-      to: 'SECURE_NODE_VORTEX_01',
+      to: 'info@abhed.co',
       from: 'Interpol HQ <sg@interpol.int>',
       subject: 'SIGNAL DETECTED // Forensic Immunity',
       body: `Mishra,
@@ -3669,7 +3672,7 @@ Office of the Secretary General`,
     handle: '@mss_beijing',
     isIntercept: true,
     reply: {
-      to: 'SECURE_NODE_VORTEX_01',
+      to: 'info@abhed.co',
       from: 'MSS Beijing <contact@mss.gov.cn>',
       subject: 'SIGNAL DETECTED // Firewall Perforation',
       body: `Ms. Mishra,
@@ -3688,7 +3691,7 @@ Security Operations Centre`,
     handle: '@iqt_official',
     isIntercept: true,
     reply: {
-      to: 'SECURE_NODE_VORTEX_01',
+      to: 'info@abhed.co',
       from: 'In-Q-Tel <invest@iqt.org>',
       subject: 'SIGNAL DETECTED // Dual-Use Assessment',
       body: `Kinjal,
@@ -3707,7 +3710,7 @@ Strategic Investment Team`,
     handle: '@fsb_russia',
     isIntercept: true,
     reply: {
-      to: 'SECURE_NODE_VORTEX_01',
+      to: 'info@abhed.co',
       from: 'FSB Russia <contact@fsb.ru>',
       subject: 'SIGNAL DETECTED // Ghost in the Machine',
       body: `Mishra,
@@ -3726,7 +3729,7 @@ Department of Information Security`,
     handle: '@gchq_official',
     isIntercept: true,
     reply: {
-      to: 'SECURE_NODE_VORTEX_01',
+      to: 'info@abhed.co',
       from: 'GCHQ <contact@gchq.gov.uk>',
       subject: 'SIGNAL DETECTED // Handshake Purity',
       body: `Kinjal,

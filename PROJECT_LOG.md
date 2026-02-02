@@ -14,6 +14,13 @@ The Abhed Outreach Manager has evolved from a lead-tracking tool into a high-fid
 
 ---
 
+### Phase 4.5.1 - Protocol Standardization (Feb 2, 2026)
+- **Email Protocol:** Standardized the `to` address for all inbound communications to `info@abhed.co`, including intercepts (previously `SECURE_NODE_VORTEX_01`).
+- **Narrative Refinement:** Differentiated the ending salutations for **HRH Mohammed bin Salman's** first and second inbound messages in the conversation thread to enhance realism and hierarchy.
+    - **Inbound 1:** Formal sign-off from "The Executive Office."
+    - **Inbound 2:** Personal sign-off from "Bader Al Asaker (Head of the Private Office)."
+- **Tech:** Updated `src/data/replies.ts`.
+
 ### Phase 4.5.0 - The Architects of Thought (Feb 2, 2026)
 - **High-Fidelity Onboarding:** Added 6 unique voices covering Philosophy, Design, Journalism, and Crypto:
     - **Jordan Peterson:** Validating "Responsibility" and Free Speech via Mikhaila.

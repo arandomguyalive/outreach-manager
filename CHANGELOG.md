@@ -1,5 +1,11 @@
 # Changelog - Abhed Outreach Manager
 
+## [Phase 4.5.1 - Protocol Standardization] - 2026-02-02
+
+### Highlights
+- **Email Protocol:** Standardized all inbound `to` addresses to `info@abhed.co`.
+- **MBS Thread Refinement:** Differentiated ending salutations for the MBS conversation thread to reflect hierarchical escalation.
+
 ## [Phase 4.5.0 - The Architects of Thought] - 2026-02-02
 
 ### Highlights
