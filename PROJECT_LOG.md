@@ -45,6 +45,13 @@ The Abhed Outreach Manager has evolved from a lead-tracking tool into a high-fid
 
 ---
 
+### Phase 4.7.7 - SRK Protocol Refinement (Feb 3, 2026)
+- **Narrative Adjustment:** Revised the outbound message to **Shah Rukh Khan** to be more direct and heartfelt, addressing him as "Our loving Shah Rukh Khan."
+- **Consistency:** Maintained the **Sovereign Tier** recommendation for his production team.
+- **Tech:** Updated `replies.ts` with the exact requested text and bumped `DATA_VERSION` to `v4.7.7`.
+
+---
+
 ### Phase 4.7.6 - Kohli Protocol Revision (Feb 3, 2026)
 - **Narrative Refinement:** Revised the outbound message to **Virat Kohli** to be more direct and personal, acknowledging his love for the "Anti-server" fortress.
 - **Commercial Protocol:** Reaffirmed the **Sovereign Tier** recommendation for him and Anushka, framing it as "best in class service for the world's no.1."

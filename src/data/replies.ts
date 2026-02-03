@@ -1245,11 +1245,11 @@ Pooja Dadlani`,
         from: 'info@abhed.co',
         to: 'srk@redchillies.com',
         subject: 'Re: The New India // Shah Rukh Khan',
-        body: `Dear Pooja,
+        body: `Our loving Shah Rukh Khan,
 
-Please tell Shah Rukh sir that I accepted his invitation to 'Mannat' with a heart full of gratitude. It is a pleasure to sit and discuss my vision with The SRK.
+I accepted your invitation to 'Mannat' with a heart full of gratitude. It is a pleasure to sit and discuss my vision with The SRK.
 
-We understand your requirements to keep your work private, hence we recommend our Sovereign Tier for your core production team.
+We understand your requirements to keep your work private, hence we recommend our sovereign tier for your core production team. 
 
 Let's meet up for further proceedings.
 
