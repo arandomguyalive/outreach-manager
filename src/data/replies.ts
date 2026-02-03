@@ -927,6 +927,26 @@ Boz`,
     }
   },
   {
+    handle: '@netflix',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'ted.sarandos@netflix.com',
+      subject: 'Re: The Vortex / New Medium',
+      body: `Kinjal,
+
+I see a lot of pitch decks. Most are just "TikTok but different."
+
+This isn't that. The Vortex feels less like a feed and more like a cinema. You're not fighting for attention; you're demanding immersion. That is a very dangerous (and profitable) distinction.
+
+If this scales, you're not just disrupting social; you're disrupting the screen itself.
+
+Keep it pure.
+
+Ted`,
+      timestamp: '2026-01-26T19:20:00'
+    }
+  },
+  {
     handle: '@ijustine',
     reply: {
       to: 'info@abhed.co',
