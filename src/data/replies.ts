@@ -1639,7 +1639,52 @@ We will be in touch to set this up.
 Regards,
 Team Kylian Mbappé`,
       timestamp: '2026-01-28T16:00:00'
-    }
+    },
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'kylian@psg.com',
+        to: 'info@abhed.co',
+        subject: 'Re: Zero Lag',
+        body: `Kinjal,
+
+Kylian reviewed the demo. He needs speed.
+
+On the pitch, he moves faster than they can think. He needs his communication to be the same. Zero lag. Zero leaks. Zero nonsense.
+
+He wants his inner circle to be on this. If the "Vortex" is as fast as you say, and if it keeps the press out of his life, we are in. He wants to control the narrative by controlling the channel.
+
+We will be in touch to set this up.
+
+Regards,
+Team Kylian Mbappé`,
+        timestamp: '2026-01-28T16:00:00'
+      },
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'kylian@psg.com',
+        subject: 'Re: Zero Lag',
+        body: `Dear Team,
+
+We stripped the engine down to the metal.
+
+Kylian understands that lag kills momentum. That is why the Sovereign Tier is non-negotiable for his needs. It bypasses the public mesh entirely, offering a direct, peer-to-peer lane that prioritizes his traffic and gives him absolute control over the narrative before it ever touches the cloud.
+
+Speed is just the absence of friction. We have removed the friction.
+
+The investment for this tier is 11,118 USD per account.
+
+Confirm the roster size for his inner circle. I will authorize the high-priority setup as soon as we receive the numbers.
+
+Welcome to the speed of thought.
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-03T12:00:00'
+      }
+    ]
   },
   {
     handle: '@rogerfederer',
@@ -1681,7 +1726,51 @@ Best,
 Ricardo
 Manager, CR7 Team`,
       timestamp: '2026-01-28T17:30:00'
-    }
+    },
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'cr7@alnassr.com',
+        to: 'info@abhed.co',
+        subject: 'Re: The Best',
+        body: `Kinjal,
+
+Cristiano saw the pitch. He knows what it takes to be Number 1.
+
+The discipline. The focus. The refusal to compromise. He sees it in this code. It is elite. No distractions. Just the goal.
+
+The world is noisy. He needs a place where he can focus. This app is for winners.
+
+We will handle the details of the account setup.
+
+Best,
+Ricardo
+Manager, CR7 Team`,
+        timestamp: '2026-01-28T17:30:00'
+      },
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'cr7@alnassr.com',
+        subject: 'Re: The Best',
+        body: `Ricardo,
+
+Being Number 1 isn't just about skill; it is about isolation.
+
+I designed ABHED to be a digital fortress for exactly this reason. Most platforms are built to distract you; we built this to protect the "Zone."
+
+Given his requirement for absolute focus, the Sovereign Tier is the only architecture that fits. It creates a hard perimeter around his data, ensuring that the noise of the world never breaches his inner circle. It is total discipline in code form.
+
+The reservation for this tier is 11,118 USD per account.
+
+Send me the headcount for his team. Once I have the confirmation, I will authorize the keys for his secure node.
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-03T12:00:00'
+      }
+    ]
   },
   {
     handle: '@dualipa',
@@ -2012,7 +2101,49 @@ Regards,
 Executive Office
 Beckham Ventures`,
       timestamp: '2026-01-29T15:30:00'
-    }
+    },
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'office@beckhamventures.com',
+        to: 'info@abhed.co',
+        subject: 'Re: Global Brand Integrity',
+        body: `Dear Kinjal,
+
+David reviewed the Abhed App Tour. He was struck by the "Clean Sheet" approach you've taken to privacy.
+
+As a global brand, our biggest risk is the fragmentation of private information. Your "Geo-Fenced" logic offers a fascinating way to drop exclusive "Moments" for his partners and inner circle that cannot be leaked or screenshotted. It matches the premium standard we set for everything we do.
+
+We would like to set up a private test for the ventures team.
+
+Regards,
+Executive Office
+Beckham Ventures`,
+        timestamp: '2026-01-29T15:30:00'
+      },
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'office@beckhamventures.com',
+        subject: 'Re: Global Brand Integrity',
+        body: `Dear Executive Office,
+
+The "Clean Sheet" is a powerful concept. In the digital age, privacy is the ultimate luxury asset.
+
+To protect the integrity of the Beckham brand, the Sovereign Tier is the essential choice. It unlocks our advanced Geo-Fencing protocols, allowing David to curate exclusive moments that are cryptographically locked to a specific location. This ensures his digital footprint remains as curated as his public image, with zero risk of leaks.
+
+The reservation fee for this level of discretion is 11,118 USD per account.
+
+I await your confirmation on the number of accounts required for the pilot. I will authorize the secure environment configuration once we have the details.
+
+Let's keep the sheet clean.
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-03T12:00:00'
+      }
+    ]
   },
   {
     handle: '@lewishamilton',
@@ -2861,7 +2992,52 @@ We will arrange the account.
 Vamos.
 Team Messi`,
       timestamp: '2026-01-30T10:45:00'
-    }
+    },
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'leo@messi.com',
+        to: 'info@abhed.co',
+        subject: 'Re: Silence',
+        body: `Kinjal,
+
+Leo has seen the demo.
+
+He does not speak much. He prefers to let the game speak. The world is too loud for him. He needs a place where the noise cannot enter.
+
+He likes the "Vortex." It is simple. It is quiet. It reminds him of the focus before a penalty. If this app can give him the silence he needs to communicate with his family without the press listening, he is with you.
+
+We will arrange the account.
+
+Vamos.
+Team Messi`,
+        timestamp: '2026-01-30T10:45:00'
+      },
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'leo@messi.com',
+        subject: 'Re: Silence',
+        body: `To Team Messi,
+
+I read Leo's note about the noise. It resonated with me.
+
+ABHED isn't just an app; it is a quiet room. For someone who values his peace as much as he does, I strongly recommend the Sovereign Tier. This level ensures that his conversations with his family are physically locked to his device, creating a digital sanctuary that no one—not even our engineers—can enter.
+
+It is the bubble he is looking for.
+
+The fee to reserve this privacy is 11,118 USD per account.
+
+Please let me know how many keys you need for the family. I will authorize the initialization of his sanctuary immediately upon your confirmation.
+
+Vamos.
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-03T12:00:00'
+      }
+    ]
   },
   {
     handle: '@masason',
