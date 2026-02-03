@@ -1145,4 +1145,18 @@ Christiane Amanpour	CNN	UK/USA	English	Journalism/War	@camanpour	Mega	production
 Zaha Hadid Architects	Design	UK	English	Arch/Fluidity	@zahahadidarchitects	Mega	patrik @zaha-hadid.com
 Brian Armstrong	Coinbase	USA	English	Crypto/Freedom	@brian_armstrong	Mega	brian @coinbase.com
 Satoshi Nakamoto	Crypto	Global	English	Legend	@satoshi	Titan	satoshin @gmx.com
-Ted Sarandos	Twitter	USA	English	Culture/Biz	@netflix	Titan	ted.sarandos @netflix.com`;
+Ted Sarandos	Twitter	USA	English	Culture/Biz	@netflix	Titan	ted.sarandos @netflix.com
+Tiger Woods	Sports	USA	English	Golf/Focus	@TigerWoods	Titan	mark @etwcorp.com
+Usain Bolt	Sports	Jamaica	English	Track/Speed	@usainbolt	Mega	management @usainbolt.com
+David Goggins	Sports	USA	English	Endurance/Hard	@davidgoggins	Mega	team @davidgoggins.com
+Conor McGregor	Sports	Ireland	English	MMA/Proper	@TheNotoriousMMA	Mega	audie @paradigmsports.com
+Steven Spielberg	Film	USA	English	Director/Wonder	@Amblin	Titan	office @amblinpartners.com
+Robert Downey Jr	Film	USA	English	Actor/Iron	@RobertDowneyJr	Mega	team @teamdowney.com
+Quentin Tarantino	Film	USA	English	Director/Analog	@Tarantino_Ops	Mega	production @tarantino.info
+Margot Robbie	Film	Australia	English	Producer/Star	@MargotRobbie	Mega	development @luckychap.com
+Nassim Nicholas Taleb	Philosophy	Lebanon	English	Risk/Antifragile	@nntaleb	Titan	nntaleb @gmail.com
+Yuval Noah Harari	History	Israel	English	Sapiens/Future	@harari_yuval	Titan	office @sapienship.co
+Paul Graham	Tech	USA	English	VC/Essayist	@paulg	Titan	pg @ycombinator.com
+Marc Andreessen	Tech	USA	English	VC/Builder	@pmarca	Titan	pmarca @a16z.com
+Anna Wintour	Fashion	USA	English	Vogue/Icon	@voguemagazine	Titan	anna.wintour @condenast.com
+Yvon Chouinard	Biz	USA	English	Nature/Ethic	@patagonia	Mega	charley @patagonia.com`;

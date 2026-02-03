@@ -3894,6 +3894,274 @@ Maintain the consensus.
 SN`,
       timestamp: '2009-01-03T18:15:00' 
     }
+  },
+  {
+    handle: '@TigerWoods',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'mark@etwcorp.com',
+      subject: 'Re: Focus & The Digital Fortress',
+      body: `Kinjal,
+
+Tiger protects his privacy like he protects a lead on Sunday. He has seen the pitch.
+
+The concept of a "Digital Fortress"—a space where the noise simply cannot enter—resonates with him deeply. He treats his mental space as sacred ground.
+
+If this "Vortex" is truly impenetrable, he wants in.
+
+Regards,
+Mark Steinberg
+Excel Sports Management`,
+      timestamp: '2026-02-03T09:00:00'
+    }
+  },
+  {
+    handle: '@usainbolt',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'management@usainbolt.com',
+      subject: 'Re: Zero Latency // Speed',
+      body: `Hi Team Abhed,
+
+We have reviewed the latency specs for the P2P handshake. 
+
+Zero-lag? That is the only speed Usain respects. He loves the idea of a "direct line" with no middleman slowing it down. 
+
+The "Flow State" of the UI matches his philosophy. Fast, fluid, no friction.
+
+Let's run it.
+
+UB Management`,
+      timestamp: '2026-02-03T09:30:00'
+    }
+  },
+  {
+    handle: '@davidgoggins',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'team@davidgoggins.com',
+      subject: 'Re: STAY HARD',
+      body: `Mishra,
+
+Most apps are soft. They are designed to distract you, to make you comfortable.
+
+This "Vortex" looks like it demands focus. It doesn't pamper the user with algorithmic candy. It forces you to choose who you listen to.
+
+David respects that. Build the hard thing.
+
+Stay hard.
+
+Team Goggins`,
+      timestamp: '2026-02-03T10:00:00'
+    }
+  },
+  {
+    handle: '@TheNotoriousMMA',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'audie@paradigmsports.com',
+      subject: 'Re: Proper Control',
+      body: `Kinjal,
+
+The Double Champ saw the video. He wants to know if this is *proper* encryption.
+
+None of that cloud nonsense where they own your data. Conor owns his whiskey, he owns his stout, and he wants to own his words.
+
+If this is truly sovereign, we are interested. We don't do things by halves.
+
+Audie Attar
+CEO, Paradigm Sports`,
+      timestamp: '2026-02-03T10:30:00'
+    }
+  },
+  {
+    handle: '@Amblin',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'office@amblinpartners.com',
+      subject: 'Re: A New Frame',
+      body: `Dear Ms. Mishra,
+
+Mr. Spielberg was struck by the visual language of your "Vortex."
+
+He remarked that it feels less like a social feed and more like a frame. You have brought a sense of wonder back to the screen. The way the content "floats" without the rigid constraints of a timeline... it is cinematic.
+
+He is interested in how this medium could be used for storytelling that doesn't follow a linear path.
+
+Warmly,
+The Office of Steven Spielberg
+Amblin Partners`,
+      timestamp: '2026-02-03T11:00:00'
+    }
+  },
+  {
+    handle: '@RobertDowneyJr',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'team@teamdowney.com',
+      subject: 'Re: The HUD',
+      body: `Kinjal,
+
+Robert loves the HUD interface. He says it "feels like the suit."
+
+The idea that the hardware itself is the key—that the security is baked into the silicon and not the cloud—is exactly where tech needs to go. It empowers the user. It's smart, it's slick, and it's secure.
+
+This is the future we should have had 10 years ago.
+
+Team Downey`,
+      timestamp: '2026-02-03T11:45:00'
+    }
+  },
+  {
+    handle: '@Tarantino_Ops',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'production@tarantino.info',
+      subject: 'Re: Texture and Grain',
+      body: `Kinjal,
+
+Quentin usually hates digital. He says it feels cheap, sterile, disposable.
+
+But this... this "Vortex" has grain. It has texture. The way the messages degrade and self-destruct? That's cinema. That's life. It's not permanent. It's a performance.
+
+He appreciates that you are treating data with the same tactile soul as 35mm film.
+
+New Beverly Cinema Production Office`,
+      timestamp: '2026-02-03T12:15:00'
+    }
+  },
+  {
+    handle: '@MargotRobbie',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'development@luckychap.com',
+      subject: 'Re: Creative Sovereignty',
+      body: `Hi Kinjal,
+
+We built LuckyChap to tell our own stories, on our own terms.
+
+Margot loves the "Sovereign" angle of Abhed. Creators need a platform where they own the distribution, not just the content. If the server owns the audience, the creator is just a tenant.
+
+We want to be owners.
+
+Let's discuss how we can curate a channel.
+
+LuckyChap Entertainment`,
+      timestamp: '2026-02-03T12:45:00'
+    }
+  },
+  {
+    handle: '@nntaleb',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'nntaleb@gmail.com',
+      subject: 'Re: Antifragility',
+      body: `Kinjal,
+
+I have read the architecture note. You have built an antifragile system.
+
+Standard social networks are fragile; they rely on the benevolence of the server. When the server goes down (or is censored), the network dies.
+
+Your mesh network gets stronger when the center is attacked. It thrives on volatility. This is the only robust architecture for the 21st century.
+
+NNT`,
+      timestamp: '2026-02-03T13:30:00'
+    }
+  },
+  {
+    handle: '@harari_yuval',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'office@sapienship.co',
+      subject: 'Re: Hacking Humans',
+      body: `Dear Kinjal,
+
+We are entering the era of "Hacking Humans." Privacy is no longer a luxury; it is the only way to preserve free will.
+
+If an algorithm knows you better than you know yourself, you are not free. Yuval believes that your "Vault" concept—keeping the data away from the algorithm—might be the sanctuary we need.
+
+It is a digital monastery for the mind.
+
+Sapienship Team`,
+      timestamp: '2026-02-03T14:15:00'
+    }
+  },
+  {
+    handle: '@paulg',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'pg@ycombinator.com',
+      subject: 'Re: The Outlier',
+      body: `Kinjal,
+
+I see a lot of "social apps". Most are just features.
+
+This is a protocol disguised as an app. You're building for the outliers—the ones who care about the plumbing. That's where the alpha is.
+
+It reminds me of the early days of the web. Messy, dangerous, and yours.
+
+pg`,
+      timestamp: '2026-02-03T15:00:00'
+    }
+  },
+  {
+    handle: '@pmarca',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'pmarca@a16z.com',
+      subject: 'Re: It is time to build',
+      body: `Kinjal,
+
+Software ate the world. Now the world is eating the user.
+
+We need a defense. We need a fortress. Abhed is the first architecture I've seen that actually hands the keys back to the castle owner.
+
+This is the hard path. But it's the only path that matters.
+
+It is time to build.
+
+pmarca`,
+      timestamp: '2026-02-03T15:45:00'
+    }
+  },
+  {
+    handle: '@voguemagazine',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'anna.wintour@condenast.com',
+      subject: 'Re: The Blacklist // Silence',
+      body: `Dear Ms. Mishra,
+
+In a world of noise, silence is the ultimate luxury.
+
+I am intrigued by the exclusivity of "The Blacklist." It feels like the front row—curated, private, and inaccessible to the masses.
+
+We are interested in what a "Vogue" channel would look like in the Vortex. It must be impeccable.
+
+Anna`,
+      timestamp: '2026-02-03T16:30:00'
+    }
+  },
+  {
+    handle: '@patagonia',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'charley@patagonia.com',
+      subject: 'Re: The Cleanest Energy',
+      body: `Kinjal,
+
+Yvon reviewed the deck.
+
+The cleanest energy is the energy you don't use. The fact that you don't run massive server farms? That you use the device's own power?
+
+That is the most radical environmental statement a tech company can make. It's responsible innovation.
+
+We're with you.
+
+Charley
+Patagonia Works`,
+      timestamp: '2026-02-03T17:00:00'
+    }
   }
 ];
   
