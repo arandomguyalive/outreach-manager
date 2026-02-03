@@ -45,6 +45,14 @@ The Abhed Outreach Manager has evolved from a lead-tracking tool into a high-fid
 
 ---
 
+### Phase 4.7.4 - Kohli Protocol Sync (Feb 3, 2026)
+- **Synchronization:** Manually synced the outbound response for **Virat Kohli** to the codebase.
+- **Context:** The reply was originally drafted on Feb 2 via the local UI modal but was not persisted to the source.
+- **Narrative:** Confirmed the "Digital Bubble" protocol for Virat and Anushka, ensuring absolute isolation from the public mesh.
+- **Tech:** Updated `replies.ts` with the missing thread and bumped `DATA_VERSION` to `v4.7.4`.
+
+---
+
 ### Phase 4.7.3 - Soccer Titan Engagement (Feb 3, 2026)
 - **Narrative Escalation:** Initiated formal outbound negotiations with **Cristiano Ronaldo, Leo Messi, Kylian Mbappé, and David Beckham**.
 - **Commercial Protocol:**

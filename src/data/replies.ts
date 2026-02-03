@@ -2524,7 +2524,52 @@ We want to set up his private account immediately.
 Regards,
 Sporting Beyond Team`,
       timestamp: '2026-01-30T11:45:00'
-    }
+    },
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'virat@sportingbeyond.com',
+        to: 'info@abhed.co',
+        subject: 'Re: The Bubble // Silence',
+        body: `Hi Kinjal,
+
+Virat watched the video.
+
+In India, he cannot breathe without a camera pointing at him. The noise is deafening. He told us, "This is the first time a digital product actually respects my need for silence."
+
+He needs a space that is just for him and Anushka. No noise. No trackers. Just them. Your 'Anti-Server' logic is the only thing he trusts.
+
+We want to set up his private account immediately.
+
+Regards,
+Sporting Beyond Team`,
+        timestamp: '2026-01-30T11:45:00'
+      },
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'virat@sportingbeyond.com',
+        subject: 'Re: The Bubble // Silence',
+        body: `Dear Sporting Beyond Team,
+
+"Just them."
+
+That is the entire philosophy of ABHED. The world demands access to Virat 24/7. We are offering the opposite: a digital space where the world does not exist.
+
+For Virat and Anushka, the Sovereign Tier is the only appropriate architecture. It allows them to create a "Digital Bubble" that is physically isolated on their devices. No server logs, no cloud backups, no metadata. It is as private as a conversation in their own living room.
+
+The reservation fee for this absolute privacy is 11,118 USD per account.
+
+I will authorize the creation of their private keys once we have your confirmation on the number of accounts required.
+
+Regards,
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-02T14:30:00'
+      }
+    ]
   },
   {
     handle: '@christophernolan',
