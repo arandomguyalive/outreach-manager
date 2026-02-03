@@ -2587,24 +2587,18 @@ Sporting Beyond Team`,
         from: 'info@abhed.co',
         to: 'virat@sportingbeyond.com',
         subject: 'Re: The Bubble // Silence',
-        body: `Dear Sporting Beyond Team,
+        body: `Dear Virat,
 
-"Just them."
+I am pleased to read your love for our 'Anti-server' digital fortress ABHED. We understand what silence is to you & Anushka.
 
-That is the entire philosophy of ABHED. The world demands access to Virat 24/7. We are offering the opposite: a digital space where the world does not exist.
+To set-up your private account I would suggest Sovereign Tier to both of you as the world’s no.1 deserves nothing less than best in class service.
 
-For Virat and Anushka, the Sovereign Tier is the only appropriate architecture. It allows them to create a "Digital Bubble" that is physically isolated on their devices. No server logs, no cloud backups, no metadata. It is as private as a conversation in their own living room.
-
-The reservation fee for this absolute privacy is 11,118 USD per account.
-
-I will authorize the creation of their private keys once we have your confirmation on the number of accounts required.
-
-Regards,
+To discuss further on your account set-up as soon as possible we would connect with your team.
 
 Kinjal Mishra
 System Architect, ABHED
 Author, The Inner Billionaire`,
-        timestamp: '2026-02-02T14:30:00'
+        timestamp: '2026-02-03T15:30:00'
       }
     ]
   },

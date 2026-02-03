@@ -45,6 +45,13 @@ The Abhed Outreach Manager has evolved from a lead-tracking tool into a high-fid
 
 ---
 
+### Phase 4.7.6 - Kohli Protocol Revision (Feb 3, 2026)
+- **Narrative Refinement:** Revised the outbound message to **Virat Kohli** to be more direct and personal, acknowledging his love for the "Anti-server" fortress.
+- **Commercial Protocol:** Reaffirmed the **Sovereign Tier** recommendation for him and Anushka, framing it as "best in class service for the world's no.1."
+- **Tech:** Updated `replies.ts` with the revised text and bumped `DATA_VERSION` to `v4.7.6`.
+
+---
+
 ### Phase 4.7.5 - The Mannat Protocol (Feb 3, 2026)
 - **Narrative Escalation:** Accepted the invitation to **Mannat** to meet **Shah Rukh Khan**.
 - **Commercial Protocol:** Recommended the **Sovereign Tier** for Red Chillies Entertainment's core production team to ensure absolute leak prevention for their scripts and assets.
