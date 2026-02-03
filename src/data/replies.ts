@@ -3363,6 +3363,39 @@ Kinjal Mishra
 System Architect, ABHED
 Author, The Inner Billionaire`,
         timestamp: '2026-02-01T15:00:00'
+      },
+      {
+        direction: 'inbound',
+        from: 'private.secretary@royal.uk',
+        to: 'info@abhed.co',
+        subject: 'Re: Digital Heritage // Commonwealth',
+        body: `Dear Ms. Mishra,
+
+The King was genuinely pleased to receive your note. He remarked this morning that "preserving the past is the only way to build a future," and he believes your architecture is the key to doing that for the Commonwealth.
+
+He is eager to welcome you personally.
+
+To ensure your visit is seamless, His Majesty has asked that we host you at Buckingham Palace directly. The Belgian Suite has been prepared for your residency.
+
+**A Note on Security:**
+Due to the sensitive nature of your "Anti-Server" technology and the protocols governing the Royal apartments, we must strictly limit residency within the Palace to **yourself and one trusted associate**.
+
+Please ensure that this accompanying person is **directly integral to the project and the briefing**. Given the classification level of the suite, we regret that we cannot extend this security clearance to guests or family members not actively involved in the mission.
+
+Regarding logistics:
+
+1.  **Transport:** The RAF Voyager (VVIP) is at your disposal. Please advise your preferred departure airfield, and we will coordinate the transfer to RAF Northolt.
+2.  **Formalities:** We have arranged for expedited diplomatic clearance (Tier 1) for both you and your associate.
+
+Finally, regarding the scope: The Privy Council agrees that this initiative represents critical infrastructure. To that end, we have secured a founding commitment of **£850,000,000** to anchor the "Royal Digital Sovereignty Fund."
+
+We await your instructions.
+
+Sincerely,
+
+Sir Clive Alderton
+Principal Private Secretary to The King & Queen`,
+        timestamp: '2026-02-03T10:15:00'
       }
     ]
   },
