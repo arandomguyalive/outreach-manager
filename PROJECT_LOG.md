@@ -34,6 +34,15 @@ The Abhed Outreach Manager has evolved from a lead-tracking tool into a high-fid
   - **Harari:** Validates the "Vault" as a sanctuary against "Hacking Humans."
 - **Tech:** Updated `raw_leads.ts`, `replies.ts`, and bumped `DATA_VERSION` to `v4.6.0`.
 
+### Phase 4.6.1 - The Hollywood Sovereign (Feb 3, 2026)
+- **Titan Onboarding:** Added **Johnny Depp, Scarlett Johansson, Anne Hathaway, and Dakota Johnson** to the roster.
+- **Narrative:**
+  - **Johnny Depp:** Validates the "Pirate Radio" vibe and user ownership of the conversation ("Artist owns the masters").
+  - **Scarlett Johansson:** Validates "Consent-First" architecture against AI scraping and studio overreach.
+  - **Anne Hathaway:** Validates the app as a "Quiet Room" / Digital Sanctuary.
+  - **Dakota Johnson:** Validates the "Handmade/Indie" aesthetic ("Polaroid" feel).
+- **Tech:** Updated `raw_leads.ts` and `replies.ts`. Bumped `DATA_VERSION` to `v4.6.1`.
+
 ### Phase 4.5.3 - The Unified Signal (Feb 2, 2026)
 - **Email Protocol:** Standardized the `from` address for **all** outbound and inbound communications to `info@abhed.co`.
 - **Narrative Refinement:** Removed personal and third-party names from the `from` field (e.g., "Kinjal Mishra <...>") to enforce the "Sovereign Infrastructure" narrative—where the protocol itself is the sender and receiver.

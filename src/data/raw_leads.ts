@@ -1159,4 +1159,8 @@ Yuval Noah Harari	History	Israel	English	Sapiens/Future	@harari_yuval	Titan	offi
 Paul Graham	Tech	USA	English	VC/Essayist	@paulg	Titan	pg @ycombinator.com
 Marc Andreessen	Tech	USA	English	VC/Builder	@pmarca	Titan	pmarca @a16z.com
 Anna Wintour	Fashion	USA	English	Vogue/Icon	@voguemagazine	Titan	anna.wintour @condenast.com
-Yvon Chouinard	Biz	USA	English	Nature/Ethic	@patagonia	Mega	charley @patagonia.com`;
+Yvon Chouinard	Biz	USA	English	Nature/Ethic	@patagonia	Mega	charley @patagonia.com
+Johnny Depp	Film	USA	English	Actor/Rebel	@johnnydepp	Mega	production @infinitum-nihil.com
+Scarlett Johansson	Film	USA	English	Actor/Voice	@scarlettjohansson	Mega	pr @thesefiles.com
+Anne Hathaway	Film	USA	English	Actor/Icon	@annehathaway	Mega	team @slate-pr.com
+Dakota Johnson	Film	USA	English	Actor/Indie	@dakotajohnson	Mega	tea @teatime.pictures`;

@@ -4162,6 +4162,87 @@ Charley
 Patagonia Works`,
       timestamp: '2026-02-03T17:00:00'
     }
+  },
+  {
+    handle: '@johnnydepp',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'production@infinitum-nihil.com',
+      subject: 'Re: The Rebel Signal',
+      body: `Ms. Mishra,
+
+Johnny saw the manifesto. He digs the "Pirate Radio" vibe.
+
+He has always believed that the artist should own the master tapes. You are saying the user should own the conversation. It is the same fight.
+
+The "Vortex" feels like a place where the truth doesn't get edited out by some suit in a boardroom. It feels raw.
+
+Keep fighting the good fight.
+
+Infinitum Nihil`,
+      timestamp: '2026-02-03T17:30:00'
+    }
+  },
+  {
+    handle: '@scarlettjohansson',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'pr@thesefiles.com',
+      subject: 'Re: Voice & Ownership',
+      body: `Kinjal,
+
+Scarlett has spent her career fighting for ownership of her image and her voice.
+
+She sees Abhed as the technical answer to that legal battle. If the encryption keys are on the device, no AI can scrape it, and no studio can own it.
+
+You are building the first "Consent-First" platform. That is powerful.
+
+She is interested in the "Vault" for storing unreleased material.
+
+The Team`,
+      timestamp: '2026-02-03T18:00:00'
+    }
+  },
+  {
+    handle: '@annehathaway',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'team@slate-pr.com',
+      subject: 'Re: The Quiet Room',
+      body: `Dear Kinjal,
+
+Anne loves the elegance of the design.
+
+She compares the "Vortex" to a "Quiet Room"—a place where you can speak without the echo chamber of the internet shouting back.
+
+The fact that it is invite-only adds a layer of safety that is missing from every other app. It feels curated, dignified, and human.
+
+We would love to see a demo of the "Private Circles" feature.
+
+Best,
+Slate PR`,
+      timestamp: '2026-02-03T18:30:00'
+    }
+  },
+  {
+    handle: '@dakotajohnson',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'tea@teatime.pictures',
+      subject: 'Re: Indie Spirit',
+      body: `Hi Kinjal,
+
+We started TeaTime to make things that feel handmade.
+
+Dakota says your app feels "handmade" in a world of factory-produced software. The imperfections, the grain, the way the messages fade... it feels like a Polaroid.
+
+It's nostalgic and futuristic at the same time. We love the indie spirit of it.
+
+Let's drink some tea and talk about the future.
+
+TeaTime Pictures`,
+      timestamp: '2026-02-03T19:00:00'
+    }
   }
 ];
   
