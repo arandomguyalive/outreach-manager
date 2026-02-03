@@ -4276,6 +4276,171 @@ Let's drink some tea and talk about the future.
 TeaTime Pictures`,
       timestamp: '2026-02-03T19:00:00'
     }
+  },
+  {
+    handle: '@planb_entertainment',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'office@planb-ent.com',
+      subject: 'Re: Structure and Craft',
+      body: `Kinjal,
+
+Brad is obsessed with architecture. He looks at code the same way he looks at a building foundation.
+
+He reviewed your "Anti-Server" whitepaper. He says it has "integrity." It isn't trying to be flashy; it's trying to be structurally sound. The way you handle the data locally—that's good craftsmanship.
+
+We build movies that last. You're building a network that lasts.
+
+Plan B`,
+      timestamp: '2026-02-03T19:30:00'
+    }
+  },
+  {
+    handle: '@angelinajolie',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'office@jolie-pitt.org',
+      subject: 'Re: Secure Channels // Field Ops',
+      body: `Dear Ms. Mishra,
+
+In my humanitarian work, the ability to communicate without a digital footprint is often a matter of safety for vulnerable populations.
+
+A centralized server is a target. A decentralized mesh is a shield. Your "Vortex" could be a vital tool for field operatives who need to transmit data without alerting state actors.
+
+I am interested in the humanitarian applications of your "Ghost Mode."
+
+Angelina`,
+      timestamp: '2026-02-03T20:00:00'
+    }
+  },
+  {
+    handle: '@cillianmurphy',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'agent@loucoulson.co.uk',
+      subject: 'Re: Silence',
+      body: `Kinjal,
+
+Cillian doesn't do "social media." He hates the noise.
+
+But he likes this. He likes that there are no likes, no follower counts, no performative nonsense. It feels like a conversation in a closed room.
+
+It is quiet. That is a rare quality in technology.
+
+LC Agency`,
+      timestamp: '2026-02-03T20:30:00'
+    }
+  },
+  {
+    handle: '@denzelwashington',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'representation@wmeagency.com',
+      subject: 'Re: The Truth',
+      body: `Ms. Mishra,
+
+Denzel says: "If you don't read the news, you're uninformed. If you do read it, you're misinformed."
+
+The only truth is the one you own. He respects that you are building a platform where the user owns the truth, not the algorithm.
+
+It's about time someone cleaned up the signal.
+
+WME`,
+      timestamp: '2026-02-03T21:00:00'
+    }
+  },
+  {
+    handle: '@eminem',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'marshall@shadyrecords.com',
+      subject: 'Re: The Booth',
+      body: `Kinjal,
+
+Marshall treats the recording booth like a vault. What happens in there stays in there until he decides otherwise.
+
+He digs the "Vortex" concept. It's like a digital booth. No leaks. No wires. Just the raw take.
+
+If the encryption is as tight as you say, Shady is in.
+
+Paul Rosenberg
+Shady Records`,
+      timestamp: '2026-02-03T21:30:00'
+    }
+  },
+  {
+    handle: '@michaelphelps',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'foundation@michaelphelps.com',
+      subject: 'Re: The Lane',
+      body: `Kinjal,
+
+When Michael is in the pool, he can't hear the crowd. He is in his own lane.
+
+Social media puts the crowd in your pocket. It destroys your focus. Michael sees Abhed as "Noise Cancelling Headphones" for the internet.
+
+It allows you to focus on your own race. That is critical for mental health.
+
+MP Foundation`,
+      timestamp: '2026-02-03T22:00:00'
+    }
+  },
+  {
+    handle: '@rafaelnadal',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'info@rafanadalacademy.com',
+      subject: 'Re: Suffering & Privacy',
+      body: `Hola Kinjal,
+
+Rafa works in silence. The trophy is public, but the suffering to get there is private.
+
+He dislikes how apps today want to broadcast everything. Some things should remain on the clay. Your "Anti-Server" philosophy respects the privacy of the work.
+
+Vamos.
+
+Team Rafa`,
+      timestamp: '2026-02-03T22:30:00'
+    }
+  },
+  {
+    handle: '@shaq',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'business@shaq.com',
+      subject: 'Re: BIG BUSINESS',
+      body: `KINJAL!
+
+The Diesel loves this!
+
+I own 50 brands because I like to control the asset. You're telling me I can own the data too? That's the ultimate asset.
+
+Data is the new oil, and you're giving everyone their own oil rig. That's smart business.
+
+Let's dunk on 'em.
+
+Shaq`,
+      timestamp: '2026-02-03T23:00:00'
+    }
+  },
+  {
+    handle: '@stephenking',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'office@stephenking.com',
+      subject: 'Re: The Ghost in the Machine',
+      body: `Kinjal,
+
+I write about ghosts. But the scariest thing is a server that never forgets.
+
+Your app reminds me of a "Ghost Story"—it appears, it speaks, and then it vanishes without a trace. That is how human conversation used to be before we started recording everything.
+
+You are bringing the ghosts back. I like that.
+
+Steve`,
+      timestamp: '2026-02-03T23:30:00'
+    }
   }
 ];
   

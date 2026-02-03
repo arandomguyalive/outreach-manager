@@ -1163,4 +1163,13 @@ Yvon Chouinard	Biz	USA	English	Nature/Ethic	@patagonia	Mega	charley @patagonia.c
 Johnny Depp	Film	USA	English	Actor/Rebel	@johnnydepp	Mega	production @infinitum-nihil.com
 Scarlett Johansson	Film	USA	English	Actor/Voice	@scarlettjohansson	Mega	pr @thesefiles.com
 Anne Hathaway	Film	USA	English	Actor/Icon	@annehathaway	Mega	team @slate-pr.com
-Dakota Johnson	Film	USA	English	Actor/Indie	@dakotajohnson	Mega	tea @teatime.pictures`;
+Dakota Johnson	Film	USA	English	Actor/Indie	@dakotajohnson	Mega	tea @teatime.pictures
+Brad Pitt	Film	USA	English	Actor/Craft	@planb_entertainment	Titan	office @planb-ent.com
+Angelina Jolie	Film	USA	English	Actor/Humanitarian	@angelinajolie	Titan	office @jolie-pitt.org
+Cillian Murphy	Film	Ireland	English	Actor/Quiet	@cillianmurphy	Mega	agent @loucoulson.co.uk
+Denzel Washington	Film	USA	English	Actor/Legend	@denzelwashington	Titan	representation @wmeagency.com
+Eminem	Music	USA	English	Rap/Vault	@eminem	Titan	marshall @shadyrecords.com
+Michael Phelps	Sports	USA	English	Olympian/Focus	@michaelphelps	Mega	foundation @michaelphelps.com
+Rafael Nadal	Sports	Spain	English	Tennis/Grind	@rafaelnadal	Titan	info @rafanadalacademy.com
+Shaquille ONeal	Sports	USA	English	Biz/Dominance	@shaq	Mega	business @shaq.com
+Stephen King	Books	USA	English	Horror/Story	@stephenking	Titan	office @stephenking.com`;
