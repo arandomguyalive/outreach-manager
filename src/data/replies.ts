@@ -2662,7 +2662,51 @@ We have a donor ready to grant $10M to make this the standard for global human r
 In solidarity,
 Agnes`,
       timestamp: '2026-01-30T14:15:00'
-    }
+    },
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'agnes@amnesty.org',
+        to: 'info@abhed.co',
+        subject: 'Re: Survival // Human Rights',
+        body: `Kinjal,
+
+This is not about valuation; it is about survival.
+
+I have teams in zones where a phone check means execution. Your 'Geo-Fenced' encryption could save lives by ensuring data physically cannot exist outside safe zones.
+
+We have a donor ready to grant $10M to make this the standard for global human rights defenders. We must deploy this immediately.
+
+In solidarity,
+Agnes`,
+        timestamp: '2026-01-30T14:15:00'
+      },
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'agnes@amnesty.org',
+        subject: 'Re: Survival // Human Rights',
+        body: `Dear Agnes,
+
+We built this for survival. However, a shield that depends on the benevolence of others is not a shield at all. For ABHED to remain independent from state and corporate pressure, it must be built on a sovereign financial foundation.
+
+To prioritize the safety of your defenders, we require a foundational endowment of $12,000,000. This capital will establish and maintain the "Abhed Human Rights Node," ensuring the network remains financially autonomous.
+
+To begin the architectural planning, please provide:
+
+1. Deployment Zones: The priority coordinates where "Geo-Fenced" protection is required for field operations.
+2. Volume: The total number of defenders requiring secure units in the first phase.
+
+Independence has a cost. We are ready to move once the endowment is committed.
+
+Let’s get them safe.
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-03T11:30:00'
+      }
+    ]
   },
   {
     handle: '@swiss_guard',
@@ -3493,7 +3537,49 @@ He likes the silence of your design. It is functional, beautiful, and discreet. 
 Regards,
 Inditex Executive Office`,
       timestamp: '2026-01-31T14:15:00'
-    }
+    },
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'office@inditex.com',
+        to: 'info@abhed.co',
+        subject: 'Re: Logistics of Silence',
+        body: `Dear Ms. Mishra,
+
+Mr. Ortega does not give interviews. He does not attend galas. He understands that true power is invisible.
+
+He reviewed your "App Tour" and the logistics of your peer-to-peer delivery. He admired the efficiency. Fast fashion is about removing the middleman. You have removed the ultimate middleman: the server.
+
+He likes the silence of your design. It is functional, beautiful, and discreet. We would like to use this for our internal design logistics to prevent leaks before the season launches.
+
+Regards,
+Inditex Executive Office`,
+        timestamp: '2026-01-31T14:15:00'
+      },
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'office@inditex.com',
+        subject: 'Re: Logistics of Silence',
+        body: `Dear Team,
+
+Mr. Ortega is correct—true power is invisible. We have built ABHED to ensure your trade secrets remain so.
+
+We are open to deploying a Dedicated Sovereign Mesh for Inditex’s internal logistics, but we do not offer trials or standard vendor vetting. This is a foundational infrastructure project. To provide a formal proposal, we require your core specifications:
+
+1. Scope: The total number of internal seats (designers and executives) requiring access to the mesh.
+2. Calibration: The primary geographic coordinates of your ateliers and headquarters for our "Vault" zone calibration.
+
+Please note that a dedicated deployment of this nature starts with a foundational commitment of €45,000,000. This ensures your network is physically and cryptographically severed from all public clouds.
+
+We look forward to your specifications.
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-03T11:45:00'
+      }
+    ]
   },
   {
     handle: '@loreal_heir',
