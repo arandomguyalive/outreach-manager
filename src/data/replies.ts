@@ -2997,27 +2997,6 @@ Tim`,
     }
   },
   {
-    handle: '@narendramodi',
-    reply: {
-      to: 'info@abhed.co',
-      from: 'narendramodi@narendramodi.in',
-      subject: 'Re: Digital Sovereignty // Atmanirbhar Bharat',
-      body: `Dear Ms. Mishra,
-
-The Prime Minister has reviewed your note on 'Data Sovereignty.'
-
-The concept of a 'Vault in the Sky' that keeps Indian data within Indian jurisdiction—without servers—is exactly the Atmanirbhar vision we champion. This is not just an app; it is digital infrastructure for a self-reliant India.
-
-The PMO requests a briefing on the strategic utility of this protocol.
-
-Jai Hind.
-
-Office of the Prime Minister
-New Delhi`,
-      timestamp: '2026-01-30T16:30:00'
-    }
-  },
-  {
     handle: '@raydalio',
     reply: {
       to: 'info@abhed.co',

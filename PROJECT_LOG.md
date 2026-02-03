@@ -43,6 +43,10 @@ The Abhed Outreach Manager has evolved from a lead-tracking tool into a high-fid
 - **Financial Milestone:** Secured a **£850,000,000 (~$1.1 Billion USD)** commitment from the Privy Council to establish the "Royal Digital Sovereignty Fund."
 - **Tech:** Updated `replies.ts` and bumped `DATA_VERSION` to `v4.6.2`.
 
+### Phase 4.7.1 - Protocol Refinement (Feb 3, 2026)
+- **Removal:** Removed Narendra Modi's reply from the active validation roster.
+- **Cache Invalidation:** Bumped `DATA_VERSION` to `v4.7.1` to ensure local storage refresh.
+
 ### Phase 4.7.0 - The Global Icon Squad (Feb 3, 2026)
 - **Titan Onboarding:** Onboarded **9 New Cultural Icons** to the roster.
 - **Narrative Hooks:**
