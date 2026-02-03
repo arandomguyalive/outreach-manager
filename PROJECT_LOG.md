@@ -45,6 +45,17 @@ The Abhed Outreach Manager has evolved from a lead-tracking tool into a high-fid
 
 ---
 
+### Phase 4.8.1 - The Sovereign Command (Feb 3, 2026)
+- **Narrative Escalation:** Finalized the $3.5 Billion USD (AED 12.8 Billion) phased sovereign mandate with the **Government of Dubai**.
+- **The Alabbar Connection:** Integrated the Mohamed Alabbar thread into the Royal narrative, with Alabbar briefing the Palace on the technical necessity of the ABHED Protocol for the Burj Khalifa.
+- **Strategic Deployment:** 
+    - **Amount:** $3.5 Billion across 4 phases (Palm Jumeirah, Burj Khalifa/Downtown, Dubai Creek, Al Maktoum Airport).
+    - **Dependency:** The Palace explicitly validated ABHED as the "Missing Keystone" for Dubai's 2030 digital sovereignty.
+- **Logistics:** Royal Flight cleared for immediate departure; emergency dinner at Zabeel Palace pending arrival.
+- **Tech:** Updated `replies.ts` and bumped `DATA_VERSION` to `v4.8.1`.
+
+---
+
 ### Phase 4.8.0 - The Arteixo Protocol (Feb 3, 2026)
 - **Partnership Secured:** Finalized the €45,000,000 foundational commitment with **Inditex (Amancio Ortega)**.
 - **Narrative:** Implemented the "Arteixo Protocol"—a strictly silent, zero-trust Sovereign Mesh deployment for Inditex's core design ateliers.

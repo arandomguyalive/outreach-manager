@@ -1362,6 +1362,38 @@ Regards,
 Protocol Department
 Government of Dubai`,
             timestamp: '2026-01-31T10:00:00'
+        },
+        {
+            direction: 'inbound',
+            from: 'faz3@dubai.gov.ae',
+            to: 'info@abhed.co',
+            subject: 'Re: Future of Dubai // The Palm Expansion',
+            body: `Dear Ms. Mishra,
+
+Since our last correspondence regarding the Zabeel Palace dinner, the conversation here has moved very quickly.
+
+Mr. Mohamed Alabbar met with His Highness Sheikh Hamdan this afternoon to discuss your notes on the Burj Khalifa. He was direct: he told His Highness that the ABHED Protocol is the only architecture capable of securing the digital perimeter of our prime assets.
+
+This briefing reached His Highness Sheikh Mohammed bin Rashid Al Maktoum. He has personally intervened. It is his wish that we do not stop at the Museum. He wants the entire city secured.
+
+We are effectively entrusting Dubai's digital sovereignty to your code. Without the strict, geo-fenced encryption of your protocol, our 2030 Smart City vision remains vulnerable. We need your architecture to close that gap.
+
+To support this mandate, a sovereign allocation of $3,500,000,000 USD (AED 12.8 Billion) has been authorized for four immediate phases:
+
+1. Phase I (The Coastline): Palm Jumeirah & Bluewaters (Sovereign Geo-Fence).
+2. Phase II (The Core): Burj Khalifa & Downtown (Integrated with Emaar's infrastructure).
+3. Phase III (The Future): Dubai Creek Harbour.
+4. Phase IV (The Gateway): Al Maktoum International Airport (Sovereign Mesh).
+
+We are ready to move. The Royal Flight at Al Maktoum International has been cleared for immediate departure at your discretion.
+
+Please let us know when you can fly. We want to finalize the arrival protocols before your dinner with His Highness.
+
+Regards,
+
+Protocol Department
+Government of Dubai`,
+            timestamp: '2026-02-03T16:00:00'
         }
     ]
   },
