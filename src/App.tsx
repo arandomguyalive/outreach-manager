@@ -93,9 +93,12 @@ function App() {
             />
           </div>
 
-          <LiveCampaignBoard onAction={(type) => {
-            if (type === 'sent') incrementDispatched();
-          }} />
+          <LiveCampaignBoard 
+            leads={influencers}
+            onAction={(type) => {
+              if (type === 'sent') incrementDispatched();
+            }} 
+          />
         </header>
 
         <main>

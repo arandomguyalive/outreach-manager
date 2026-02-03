@@ -165,11 +165,12 @@ export const useInfluencers = () => {
     const baseDispatched = influencers.reduce((acc, curr) => acc + curr.history.filter(h => h.type === 'Email Sent').length, 0);
     const baseOpened = influencers.filter(i => ['Opened', 'Viewed', 'Replied'].includes(i.status)).length;
     
-    // Target total is 1018. Calculate remainder.
-    const ghostLeads = 1018 - influencers.length;
+    // Dynamic Total Calculation
+    const totalLeads = RAW_LEADS_DATA.trim().split('\n').length;
+    const ghostLeads = Math.max(0, totalLeads - influencers.length);
 
     return {
-      total: 1018,
+      total: totalLeads,
       uniqueSent: influencers.filter(i => ['Sent', 'Delivered', 'Opened', 'Viewed', 'Replied'].includes(i.status)).length + ghostLeads,
       totalEmailsDispatched: baseDispatched + liveDispatchedOffset,
       opened: baseOpened + liveOpenedOffset,

@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Terminal, Zap, CheckCircle2, AlertCircle, Clock, Loader2, XCircle } from 'lucide-react';
 import { motion } from 'framer-motion';
+import type { Influencer } from '../types';
 
 const MOCK_ACTIONS = [
   "Dispatching automated follow-up #2...",
@@ -26,18 +27,20 @@ const MOCK_ERROR_ACTIONS = [
   "Blocked by spam filter (Content-Type)"
 ];
 
-const NAMES = ["Sc0ut", "Niharika", "Bhuvan", "Ashish", "Fukra Insaan", "Triggered Insaan", "Ranveer", "Flying Beast", "PhysicsWallah", "Khan Sir", "Sandeep", "Elvish"];
-
 interface LiveCampaignBoardProps {
   onAction?: (type: 'sent') => void;
+  leads: Influencer[];
 }
 
-export const LiveCampaignBoard: React.FC<LiveCampaignBoardProps> = ({ onAction }) => {
+export const LiveCampaignBoard: React.FC<LiveCampaignBoardProps> = ({ onAction, leads }) => {
   const [logs, setLogs] = useState<{ id: string; text: string; type: 'info' | 'success' | 'warning' | 'error' | 'wait' }[]>([]);
   const [progress, setProgress] = useState(0);
   const scrollRef = useRef<HTMLDivElement>(null);
 
   const [isPaused, setIsPaused] = useState(false);
+
+  // Filter valid targets (Not Replied, Not Intercept)
+  const validTargets = leads.filter(l => l.status !== 'Replied' && l.status !== '⚠ Intercept');
 
   useEffect(() => {
     let timeoutId: number;
@@ -56,7 +59,13 @@ export const LiveCampaignBoard: React.FC<LiveCampaignBoardProps> = ({ onAction }
         const randomAction = MOCK_ACTIONS[Math.floor(Math.random() * MOCK_ACTIONS.length)];
         const randomWait = MOCK_WAIT_ACTIONS[Math.floor(Math.random() * MOCK_WAIT_ACTIONS.length)];
         const randomError = MOCK_ERROR_ACTIONS[Math.floor(Math.random() * MOCK_ERROR_ACTIONS.length)];
-        const randomName = NAMES[Math.floor(Math.random() * NAMES.length)];
+        
+        // Pick a random real lead
+        const target = validTargets.length > 0 
+          ? validTargets[Math.floor(Math.random() * validTargets.length)]
+          : { handle: '@unknown', name: 'Unknown' }; // Fallback
+
+        const randomName = target.handle.replace('@', '');
         
         const rand = Math.random();
         let type: 'info' | 'success' | 'warning' | 'error' | 'wait' = 'info';
@@ -108,7 +117,7 @@ export const LiveCampaignBoard: React.FC<LiveCampaignBoardProps> = ({ onAction }
     runLoop();
 
     return () => clearTimeout(timeoutId);
-  }, [isPaused, onAction]);
+  }, [isPaused, onAction, validTargets]);
 
   return (
     <div className="glass-panel rounded-xl p-6 border border-white/10 mb-8 relative overflow-hidden">
