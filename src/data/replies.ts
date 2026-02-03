@@ -1221,7 +1221,44 @@ We need a space for our core production team to coordinate without fear of leaks
 Best,
 Pooja Dadlani`,
       timestamp: '2026-01-27T19:00:00'
-    }
+    },
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'srk@redchillies.com',
+        to: 'info@abhed.co',
+        subject: 'Re: The New India // Shah Rukh Khan',
+        body: `Hi Kinjal,
+
+Silence is a luxury Shah Rukh sir can rarely afford. He watched your demo video twice.
+
+He was genuinely charmed by your passion and told me, "This girl has the fire we had in the 90s. She isn't just building an app, she's building a fortress." The idea of a "Digital Bunker" where he isn't the superstar, just Shah Rukh—where the world can't peek in—resonates deeply.
+
+We need a space for our core production team to coordinate without fear of leaks. When you are in Mumbai, come to Mannat. Sir wants to meet the engineer behind the shield.
+
+Best,
+Pooja Dadlani`,
+        timestamp: '2026-01-27T19:00:00'
+      },
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'srk@redchillies.com',
+        subject: 'Re: The New India // Shah Rukh Khan',
+        body: `Dear Pooja,
+
+Please tell Shah Rukh sir that I accepted his invitation to 'Mannat' with a heart full of gratitude. It is a pleasure to sit and discuss my vision with The SRK.
+
+We understand your requirements to keep your work private, hence we recommend our Sovereign Tier for your core production team.
+
+Let's meet up for further proceedings.
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-03T15:00:00'
+      }
+    ]
   },
   {
     handle: '@svembu',

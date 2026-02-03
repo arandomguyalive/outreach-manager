@@ -45,6 +45,13 @@ The Abhed Outreach Manager has evolved from a lead-tracking tool into a high-fid
 
 ---
 
+### Phase 4.7.5 - The Mannat Protocol (Feb 3, 2026)
+- **Narrative Escalation:** Accepted the invitation to **Mannat** to meet **Shah Rukh Khan**.
+- **Commercial Protocol:** Recommended the **Sovereign Tier** for Red Chillies Entertainment's core production team to ensure absolute leak prevention for their scripts and assets.
+- **Tech:** Updated `replies.ts` with the SRK conversation thread and bumped `DATA_VERSION` to `v4.7.5`.
+
+---
+
 ### Phase 4.7.4 - Kohli Protocol Sync (Feb 3, 2026)
 - **Synchronization:** Manually synced the outbound response for **Virat Kohli** to the codebase.
 - **Context:** The reply was originally drafted on Feb 2 via the local UI modal but was not persisted to the source.
