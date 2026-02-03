@@ -1317,6 +1317,7 @@ Your vision for a "Geo-Fenced" digital layer aligns perfectly with His Highness'
 His Highness welcomes you to Dubai. Consider this city your second home and your global launchpad. We have instructions to facilitate your setup here immediately.
 
 Regards,
+
 Protocol Department
 Government of Dubai`,
             timestamp: '2026-01-27T20:30:00'
@@ -1390,7 +1391,6 @@ We are ready to move. The Royal Flight at Al Maktoum International has been clea
 Please let us know when you can fly. We want to finalize the arrival protocols before your dinner with His Highness.
 
 Regards,
-
 
 Protocol Department
 Government of Dubai`,
