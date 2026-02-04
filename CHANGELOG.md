@@ -6,6 +6,7 @@
 - **Valuation Accuracy:** Refined the statistics logic to strictly count **Replied Creators** (228), excluding **⚠ Intercept** signals from the financial valuation and "Replied" tally.
 - **Strict Filtering:** Intercepted signals (intelligence agencies) now only appear when specifically filtered in the main UI, ensuring the Valuation Dashboard remains focused on commercial creator interest.
 - **Updated Valuation:** Total valuation updated to **₹45,60,000** (45.6% of Goal).
+- **Build Integrity:** Fixed a TypeScript regression (TS18048) in `useInfluencers.ts` where accessing `reply.timestamp` was unsafe for threaded replies.
 
 ## [Phase 4.8.1 - The Sovereign Command] - 2026-02-03
 

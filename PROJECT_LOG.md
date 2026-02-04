@@ -52,6 +52,7 @@ The Abhed Outreach Manager has evolved from a lead-tracking tool into a high-fid
 - **Updated Stats (Creators Only):**
     - **Total Validated Interest:** **228** Replied Creators.
     - **Interest Valuation:** **₹45,60,000** (45.6% of ₹1 Crore Goal).
+- **Build Integrity:** Fixed a TypeScript regression in `useInfluencers.ts` where accessing `reply.timestamp` was unsafe for entities that only have a `thread` (e.g., Sheikh Tahnoon).
 - **Tech:** Updated `useInfluencers.ts`, `App.tsx`, and `RepliedDashboard.tsx`.
 
 ---
