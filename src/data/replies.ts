@@ -4887,11 +4887,12 @@ Kering`,
   },
   {
     handle: '@tahnoon_zayed',
-    reply: {
-      to: 'info@abhed.co',
-      from: 'private.office@nsa.gov.ae',
-      subject: 'Re: Federal Security Audit // Sovereign Comms',
-      body: `Dear Ms. Mishra,
+    thread: [
+      {
+        to: 'info@abhed.co',
+        from: 'private.office@nsa.gov.ae',
+        subject: 'Federal Security Audit // Sovereign Comms',
+        body: `Dear Ms. Mishra,
 
 His Highness Sheikh Tahnoon bin Zayed Al Nahyan has reviewed the ABHED proposal and the technical tour of the Vortex architecture.
 
@@ -4904,8 +4905,30 @@ With deepest respect,
 The Private Office of H.H. Sheikh Tahnoon bin Zayed Al Nahyan
 Deputy Ruler of Abu Dhabi
 National Security Advisor, United Arab Emirates`,
-      timestamp: '2026-02-04T08:30:00'
-    }
+        timestamp: '2026-02-04T08:30:00',
+        direction: 'inbound'
+      },
+      {
+        from: 'info@abhed.co',
+        to: 'private.office@nsa.gov.ae',
+        subject: 'Re: Federal Security Audit // Sovereign Comms',
+        body: `Your Highness,
+
+I am deeply moved by your words and the seriousness with which your office has reviewed our work. To have the 'Fortress' framework recognized by the National Security Council is a profound validation of the years we've spent in silence building this.
+
+Regarding the Federal Command: ABHED is not a product to be sold, but a protocol to be integrated. My sincere wish is to help your team architect a "Ghost Node" instance that lives entirely within your own borders—ensuring that the UAE’s most sensitive communications never touch a foreign server.
+
+We would love to visit Abu Dhabi to sit with your engineers and explore how we can make this 'Keystone' a reality for your national infrastructure. It would be a privilege to demonstrate the protocol in person.
+
+With deepest respect and gratitude,
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-04T12:45:00',
+        direction: 'outbound'
+      }
+    ]
   }
 ];
   
