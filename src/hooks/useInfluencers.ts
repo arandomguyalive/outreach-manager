@@ -51,8 +51,10 @@ export const useInfluencers = () => {
         
         // Only update if it hasn't been replied to yet OR if we want to enforce the reply data
         if (replyConfig) {
-           const replyTimestamp = replyConfig.reply.timestamp || new Date().toISOString();
-           const isIntercept = replyConfig.isIntercept;
+           const replyTimestamp = (replyConfig as any).reply?.timestamp || 
+                                (replyConfig as any).thread?.[0]?.timestamp || 
+                                new Date().toISOString();
+           const isIntercept = (replyConfig as any).isIntercept;
            
            // Logic: Ensure there is a SENT email slightly before the reply to make sense
            // We inject a "Trigger" email sent ~4-12 hours before the reply
@@ -111,11 +113,11 @@ export const useInfluencers = () => {
              ...inf,
              status: isIntercept ? '⚠ Intercept' : 'Replied',
              tier: isIntercept ? 'Intercept' : inf.tier,
-             replyDetails: {
-               ...replyConfig.reply,
-               to: (replyConfig.reply as any).to || 'info@abhed.co',
+             replyDetails: (replyConfig as any).reply ? {
+               ...(replyConfig as any).reply,
+               to: (replyConfig as any).reply?.to || 'info@abhed.co',
                timestamp: replyTimestamp
-             },
+             } : undefined,
              thread: (replyConfig as any).thread,
              history: newHistory
            } as Influencer;
