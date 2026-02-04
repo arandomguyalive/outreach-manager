@@ -1208,4 +1208,5 @@ Yukihiro Matsumoto	Tech	Japan	English	Ruby/Creator	@matz	Mega	matz@ruby-lang.org
 Malala Yousafzai	Humanitarian	UK	English	Nobel Laureate	@malala	Titan	info@malala.org
 George Lucas	Arts	USA	English	Film/Tech	@lucasfilm	Titan	office@lucasfilm.com
 James Dyson	Biz	UK	English	Engineering/Dyson	@jamesdyson	Titan	office@dyson.com
-Dolly Parton	Arts	USA	English	Music/Legend	@dollyparton	Titan	management@dollyparton.com`;
+Dolly Parton	Arts	USA	English	Music/Legend	@dollyparton	Titan	management@dollyparton.com
+Sachin Tendulkar	Sports	India	English	Cricket/Legend	@sachin_rt	Titan	office@sachintendulkar.com`;

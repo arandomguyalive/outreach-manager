@@ -5547,6 +5547,28 @@ Warmly,
 Dolly's Management Team`,
       timestamp: '2026-02-04T13:15:00'
     }
+  },
+  {
+    handle: '@sachin_rt',
+    reply: {
+      from: 'office@sachintendulkar.com',
+      to: 'info@abhed.co',
+      subject: 'Re: The Digital Sanctuary // Focus & Privacy',
+      body: `Dear Ms. Mishra,
+
+Sachin has reviewed your message and the vision for ABHED. 
+
+He was particularly impressed by the discipline required to build such a robust architecture in complete silence. Throughout his career, he has always believed that 'The Zone' is only possible when you can block out the noise. Your protocol seems to offer that same sanctuary for the digital world.
+
+He would like to explore using the 'Vault' to secure his personal archives and legacy communications. He wishes you the very best for this 'Master' innings.
+
+Regards,
+
+The Office of Sachin Tendulkar
+
+P.S. (From Sachin): Kinjal, keep your head down and stay focused on the process. The results will follow. Best wishes.`,
+      timestamp: '2026-02-04T13:45:00'
+    }
   }
 ];
 
