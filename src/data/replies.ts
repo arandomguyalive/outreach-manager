@@ -4897,7 +4897,7 @@ His Highness Sheikh Tahnoon bin Zayed Al Nahyan has reviewed the ABHED proposal 
 
 We are very interested in the sovereign logic of your protocol and the 'Fortress' framework you have built. We would like to explore how we can work together to leverage your technology to make our national infrastructure even more resilient and great.
 
-Our office will reach out for a formal discussion soon.
+We await your thoughts on how a sovereign instance could be architected for the Federal Command.
 
 With deepest respect,
 
