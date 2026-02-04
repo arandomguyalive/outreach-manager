@@ -1175,5 +1175,30 @@ Shaquille ONeal	Sports	USA	English	Biz/Dominance	@shaq	Mega	business @shaq.com
 Stephen King	Books	USA	English	Horror/Story	@stephenking	Titan	office @stephenking.com
 Adrian Newey	F1	UK	English	Tech/Aero	@adrian_newey	Titan	office @redbullracing.com
 Rick Owens	Fashion	USA	English	Fashion/Brutalist	@rickowensonline	Titan	press @rickowens.eu
-Francois-Henri Pinault	Biz	France	English	Luxury/Kering	@kering_official	Titan	chairman @kering.com
-Sheikh Tahnoon bin Zayed	Government	UAE	English	National Security	@tahnoon_zayed	Titan	private.office @nsa.gov.ae`;
+Francois-Henri Pinault	Biz	France	English	Luxury/Kering	@kering_official	Titan	chairman@kering.com
+Sheikh Tahnoon bin Zayed	Government	UAE	English	National Security	@tahnoon_zayed	Titan	private.office@nsa.gov.ae
+Ilya Sutskever	Tech	USA	English	AI/SSI	@ilya_sutskever	Titan	ilya@ssi.inc
+Andrej Karpathy	Tech	USA	English	AI/Pioneer	@karpathy	Titan	andrej@karpathy.ai
+Palmer Luckey	Defense	USA	English	Anduril/Oculus	@palmerluckey	Titan	palmer@anduril.com
+Alexandr Wang	Tech	USA	English	Scale AI	@alexandr_wang	Titan	office@scale.com
+Amjad Masad	Tech	USA	English	Replit	@amjad	Mega	amjad@replit.com
+Nayib Bukele	Government	El Salvador	English	President	@nayibbukele	Titan	presidencia@presidencia.gob.sv
+Lee Hsien Loong	Government	Singapore	English	PMO	@leehsienloong	Titan	pmo_hq@pmo.gov.sg
+Paul Kagame	Government	Rwanda	English	President	@paulkagame	Titan	office@presidency.gov.rw
+Javier Milei	Government	Argentina	English	President	@jmilei	Titan	privada@presidencia.gob.ar
+Gwynne Shotwell	Space	USA	English	SpaceX	@gwynneshotwell	Titan	gwynne@spacex.com
+Pharrell Williams	Arts	USA	English	LV/Music	@pharrell	Titan	office@pharrellwilliams.com
+Wes Anderson	Arts	USA	English	Film/Aesthetic	@wesanderson	Mega	production@americanempirical.com
+Hedi Slimane	Fashion	France	English	Celine/Design	@hedislimane	Titan	office@celine.com
+Marc Newson	Design	Australia	English	Industrial	@marcnewson	Mega	studio@marc-newson.com
+Yvon Chouinard	Nature	USA	English	Patagonia	@chouinard_yvon	Mega	charley@patagonia.com
+S.S. Rajamouli	Film	India	English	Director	@ssrajamouli	Titan	office@rajamouli.com
+Timothée Chalamet	Film	USA	English	Actor	@tchalamet	Mega	team@tchalamet.com
+Tom Hardy	Film	UK	English	Actor	@tomhardy	Mega	office@hardy-son-baker.com
+Benedict Cumberbatch	Film	UK	English	Actor	@cumberbatch	Mega	team@sunny-march.com
+Mrunal Thakur	Film	India	English	Actor	@mrunalthakur	Mega	management@mrunalthakur.com
+Neri Oxman	Science	USA	English	Design/Ecology	@nerioxman	Mega	studio@oxman.com
+David Sinclair	Science	USA	English	Longevity	@davidsinclair	Mega	office@davidsinclair.com
+Brian Greene	Science	USA	English	Physics	@briangreene	Mega	office@worldsciencefestival.com
+Sadhguru	Spirit	India	English	Isha	@sadhguru	Titan	contact@isha.foundation
+Michio Kaku	Science	USA	English	Physics	@michiokaku	Titan	office@mkaku.org`;
