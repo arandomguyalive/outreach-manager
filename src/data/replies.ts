@@ -2335,87 +2335,86 @@ The Royal Hashemite Court`,
     reply: {
       to: 'info@abhed.co',
       from: 'office@diwan.gov.qa',
-      subject: 'Re: Sovereign Grant // Qatar Vision 2030',
-      body: `Your Excellency,
+      subject: 'Re: Sovereign Communication Infrastructure // State Security',
+      body: `Dear Ms. Mishra,
 
-His Highness the Amir has studied the capabilities of the ABHED protocol.
+His Highness Sheikh Tamim bin Hamad Al Thani has taken note of your presentation regarding the ABHED protocol and its "Anti-Server" architecture.
 
-In our role as a mediator for global dialogue, the integrity of the channel is paramount. We cannot rely on platforms that can be subpoenaed by foreign powers. He sees ABHED as a potential Sovereign Diplomatic Channel.
+As a nation that sits at the crossroads of global media and diplomacy, Qatar understands that the control of information flow is a pillar of national sovereignty. Your implementation of a decentralized, peer-to-peer handshake represents a sophisticated shift away from vulnerable centralized nodes. It provides a level of technical guarantee for privacy that is essential for high-level state and financial coordination.
 
-Your concept of "Geo-Fenced Encryption" offers a unique solution for our diplomatic zones. The ability to create a "Digital Fortress" that is physically tethered to the Amiri Diwan is of strategic interest to the State.
+His Highness is interested in the strategic potential of "Geo-Fenced Encryption" for securing sensitive diplomatic zones. We wish to schedule a formal technical audit with our security department to explore a partnership.
 
-We wish to invite you to Doha to discuss a Sovereign Technology Grant. We are prepared to fund the development of a dedicated node for our national infrastructure.
-
-Regards,
-
-The Amiri Diwan
-State of Qatar`,
-      timestamp: '2026-01-29T14:00:00'
+Sincerely,
+Director of Information Security
+Amiri Diwan of the State of Qatar`,
+      timestamp: '2026-01-29T21:00:00',
     },
     thread: [
         {
-            direction: 'inbound',
-            from: 'office@diwan.gov.qa',
-            to: 'info@abhed.co',
-            subject: 'Re: Sovereign Grant // Qatar Vision 2030',
-            body: `Your Excellency,
+          direction: 'inbound',
+          from: 'office@diwan.gov.qa',
+          to: 'info@abhed.co',
+          subject: 'Re: Sovereign Communication Infrastructure // State Security',
+          body: `Dear Ms. Mishra,
 
-His Highness the Amir has studied the capabilities of the ABHED protocol.
+His Highness Sheikh Tamim bin Hamad Al Thani has taken note of your presentation regarding the ABHED protocol and its "Anti-Server" architecture.
 
-In our role as a mediator for global dialogue, the integrity of the channel is paramount. We cannot rely on platforms that can be subpoenaed by foreign powers. He sees ABHED as a potential Sovereign Diplomatic Channel.
+As a nation that sits at the crossroads of global media and diplomacy, Qatar understands that the control of information flow is a pillar of national sovereignty. Your implementation of a decentralized, peer-to-peer handshake represents a sophisticated shift away from vulnerable centralized nodes. It provides a level of technical guarantee for privacy that is essential for high-level state and financial coordination.
 
-Your concept of "Geo-Fenced Encryption" offers a unique solution for our diplomatic zones. The ability to create a "Digital Fortress" that is physically tethered to the Amiri Diwan is of strategic interest to the State.
+His Highness is interested in the strategic potential of "Geo-Fenced Encryption" for securing sensitive diplomatic zones. We wish to schedule a formal technical audit with our security department to explore a partnership.
 
-We wish to invite you to Doha to discuss a Sovereign Technology Grant. We are prepared to fund the development of a dedicated node for our national infrastructure.
-
-Regards,
-
-The Amiri Diwan
-State of Qatar`,
-            timestamp: '2026-01-29T14:00:00'
+Sincerely,
+Director of Information Security
+Amiri Diwan of the State of Qatar`,
+          timestamp: '2026-01-29T21:00:00'
         },
         {
-            direction: 'outbound',
-            from: 'info@abhed.co',
-            to: 'office@diwan.gov.qa',
-            subject: 'Re: Sovereign Grant // Qatar Vision 2030',
-            body: `To the Amiri Diwan,
+          direction: 'outbound',
+          from: 'info@abhed.co',
+          to: 'office@diwan.gov.qa',
+          subject: 'Re: Sovereign Communication Infrastructure // State Security',
+          body: `Your Highness,
 
-I am humbled by His Highness's vision.
+I am humbled by your message. For a sovereign leader to recognize that Anti-Server architecture is the key to national security is the highest form of validation we could hope for. You are right – if the data leaves the walls, the sovereignty is lost.
 
-Building a Sovereign Diplomatic Channel is the ultimate test of our architecture. If we can secure the conversations that broker peace, we have proven that privacy is indeed a pillar of stability.
+We build ABHED to be a fortress. Integrating our "Geo-fenced Encryption" into the diplomatic zones of the Amiri Diwan would be the ultimate test for its purpose. We are prepared to prove that our code can protect the silence of the state.
 
-I accept the challenge to build this "Fortress" for the State of Qatar. I am ready to present the technical roadmap for a sovereign node that ensures your data never leaves your soil.
+I would be honored to fly to Doha to meet with your Director of Information Security. I want to personally ensure that our protocols meet the exacting standards required for your diplomatic communications.
 
-I look forward to visiting Doha.
+With High Regards,
 
 Kinjal Mishra
 System Architect, ABHED
 Author, The Inner Billionaire`,
-            timestamp: '2026-01-31T09:00:00'
+          timestamp: '2026-01-30T09:15:00'
         },
         {
-            direction: 'inbound',
+          direction: 'inbound',
             from: 'office@diwan.gov.qa',
             to: 'info@abhed.co',
-            subject: 'Re: Sovereign Grant // Qatar Vision 2030',
-            body: `Dear Ms. Mishra,
+          subject: 'Re: Sovereign Infrastructure // Qatar',
+          body: `Dear Ms. Mishra,
 
-His Highness is pleased with your acceptance.
+The Amiri Diwan conveys the greetings of His Highness.
 
-He has authorized a Sovereign Technology Grant of QAR 2,915,000,000 (approx $800M USD) to facilitate the development of this infrastructure. This is not an investment; it is a mandate to secure the future of our diplomatic communications.
+Your commitment to the sovereign security of our State is noted with high appreciation. His Highness has formally decreed that you be received in Doha as a Guest of the State. To facilitate the global expansion of your vision and secure our national interests, a Sovereign Grant of QAR 2,915,000,000 (Two Billion Nine Hundred Fifteen Million Qatari Riyals) has been authorized for immediate allocation to ABHED.
 
-A Qatar Executive Gulfstream G650ER has been dispatched to transport you. You will be received as a Guest of the State at the Royal Suite, Raffles Doha.
+This endowment signifies our trust in your architecture as the bedrock of our future digital sovereignty.
 
-We look forward to the dawn of this new digital alliance.
+Regarding your visit, a Qatar Executive Gulfstream G650ER has been placed at your exclusive disposal for the journey to Doha. Upon arrival, you will be received with full State Honors at the Royal Pavilion (VIP Terminal) and hosted at the Royal Suite of Raffles Doha as a personal guest of His Highness.
 
-Regards,
+Your entry is sanctioned under a Sovereign Decree. Your A-1 Diplomatic Visa will be pre-approved by the Ministry of Interior; upon sharing your passport details and preferred date of arrival, we shall forward the final clearance to State Security for your seamless VVIP reception. You will bypass all standard channels.
 
-The Amiri Diwan
-State of Qatar`,
-            timestamp: '2026-01-31T15:00:00'
+His Highness looks forward to receiving you at the Amiri Diwan to discuss the convergence of your technology with the strategic destiny of the State of Qatar.
+
+We await your word to clear the Royal flight path.
+
+With respect,
+Director of Information Security
+Amiri Diwan of the State of Qatar`,
+          timestamp: '2026-01-31T14:30:00'
         }
-    ]
+      ]
   },
   {
     handle: '@mukesh_ambani',
