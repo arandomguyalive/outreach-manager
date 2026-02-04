@@ -1201,4 +1201,11 @@ Neri Oxman	Science	USA	English	Design/Ecology	@nerioxman	Mega	studio@oxman.com
 David Sinclair	Science	USA	English	Longevity	@davidsinclair	Mega	office@davidsinclair.com
 Brian Greene	Science	USA	English	Physics	@briangreene	Mega	office@worldsciencefestival.com
 Sadhguru	Spirit	India	English	Isha	@sadhguru	Titan	contact@isha.foundation
-Michio Kaku	Science	USA	English	Physics	@michiokaku	Titan	office@mkaku.org`;
+Michio Kaku	Science	USA	English	Physics	@michiokaku	Titan	office@mkaku.org
+Rick Rubin	Arts	USA	English	Producer/Author	@rickrubin	Titan	rick@rubin.com
+Sam Harris	Science	USA	English	Philosophy/Neuro	@samharris	Mega	office@samharris.org
+Yukihiro Matsumoto	Tech	Japan	English	Ruby/Creator	@matz	Mega	matz@ruby-lang.org
+Malala Yousafzai	Humanitarian	UK	English	Nobel Laureate	@malala	Titan	info@malala.org
+George Lucas	Arts	USA	English	Film/Tech	@lucasfilm	Titan	office@lucasfilm.com
+James Dyson	Biz	UK	English	Engineering/Dyson	@jamesdyson	Titan	office@dyson.com
+Dolly Parton	Arts	USA	English	Music/Legend	@dollyparton	Titan	management@dollyparton.com`;
