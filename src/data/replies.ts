@@ -4818,6 +4818,72 @@ You are bringing the ghosts back. I like that.
 Steve`,
       timestamp: '2026-02-03T23:30:00'
     }
+  },
+  {
+    handle: '@adrian_newey',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'office@redbullracing.com',
+      subject: 'Re: Aerodynamics of Code // Latency',
+      body: `Dear Ms. Mishra,
+
+Mr. Newey reviewed the technical documentation regarding your peer-to-peer handshake protocol.
+
+He remarked that you have effectively removed the "dirty air" (metadata) from the communication stream. In Formula 1, we spend millions to shave milliseconds off a lap. Your architecture achieves a similar "Zero Drag" efficiency by eliminating the server relay entirely. It flows like a wing.
+
+He is interested in the Blacklist tier for his technical office. We need a channel where design iterations can be discussed without the friction of traditional encrypted apps.
+
+Regards,
+
+Technical Office of Adrian Newey
+Red Bull Racing`,
+      timestamp: '2026-02-04T09:30:00'
+    }
+  },
+  {
+    handle: '@rickowensonline',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'press@rickowens.eu',
+      subject: 'Re: Brutalism // The Void',
+      body: `Kinjal,
+
+Rick and Michèle saw the interface.
+
+They said: "Finally, someone understands that darkness is a material."
+
+Most apps are made of candy and light. You have built a Brutalist cathedral in the cloud. It feels heavy, like concrete, but it moves like smoke. The "Vortex" is not a feature; it is an atmosphere.
+
+We need the Vault for the atelier. We need a place that feels like the void.
+
+Proceed with the enrollment.
+
+Studio Rick Owens`,
+      timestamp: '2026-02-04T10:15:00'
+    }
+  },
+  {
+    handle: '@kering_official',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'chairman@kering.com',
+      subject: 'Re: Sovereign Archives // Kering Protocol',
+      body: `Dear Ms. Mishra,
+
+Monsieur Pinault has followed the developments with Inditex and LVMH closely.
+
+While our competitors focus on "Desire" and "Speed," our priority at Kering is Heritage. We possess archives for Gucci, Balenciaga, and Saint Laurent that are priceless. We cannot risk these assets on public cloud infrastructure.
+
+The concept of a "Sovereign Archive"—a digital vault that exists only within our physical headquarters—is of immense strategic value to us. We require a "Kering Protocol" similar to what you have deployed in Arteixo.
+
+Silence is the ultimate luxury. We are ready to acquire it.
+
+Regards,
+
+Office of the Chairman and CEO
+Kering`,
+      timestamp: '2026-02-04T11:00:00'
+    }
   }
 ];
   
