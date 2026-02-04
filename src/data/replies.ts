@@ -5388,7 +5388,7 @@ We are interested in how ABHED can secure our internal archives and communicatio
 
 Pranam,
 
-Iha Foundation`,
+Isha Foundation`,
       timestamp: '2026-02-04T23:40:00'
     }
   },
