@@ -1175,4 +1175,5 @@ Shaquille ONeal	Sports	USA	English	Biz/Dominance	@shaq	Mega	business @shaq.com
 Stephen King	Books	USA	English	Horror/Story	@stephenking	Titan	office @stephenking.com
 Adrian Newey	F1	UK	English	Tech/Aero	@adrian_newey	Titan	office @redbullracing.com
 Rick Owens	Fashion	USA	English	Fashion/Brutalist	@rickowensonline	Titan	press @rickowens.eu
-Francois-Henri Pinault	Biz	France	English	Luxury/Kering	@kering_official	Titan	chairman @kering.com`;
+Francois-Henri Pinault	Biz	France	English	Luxury/Kering	@kering_official	Titan	chairman @kering.com
+Sheikh Tahnoon bin Zayed	Government	UAE	English	National Security	@tahnoon_zayed	Titan	private.office @nsa.gov.ae`;
