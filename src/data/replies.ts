@@ -4899,10 +4899,11 @@ We are very interested in the sovereign logic of your protocol and the 'Fortress
 
 Our office will reach out for a formal discussion soon.
 
-Regards,
+With deepest respect,
 
 The Private Office of H.H. Sheikh Tahnoon bin Zayed Al Nahyan
-National Security Advisor, UAE`,
+Deputy Ruler of Abu Dhabi
+National Security Advisor, United Arab Emirates`,
       timestamp: '2026-02-04T12:00:00'
     }
   }
