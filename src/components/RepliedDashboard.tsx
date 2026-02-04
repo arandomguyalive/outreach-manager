@@ -48,7 +48,7 @@ export const RepliedDashboard: React.FC<RepliedDashboardProps> = ({ influencers,
               Interest Valuation Tracker
             </h2>
             <p className="text-gray-400 text-sm mt-1">
-              Valuating replied creators as potential initial backers/promoters.
+              Valuating high-interest signals and replies as potential initial backers/partners.
             </p>
           </div>
           <button 
@@ -100,7 +100,7 @@ export const RepliedDashboard: React.FC<RepliedDashboardProps> = ({ influencers,
                 <Users className="w-6 h-6 text-km18-pink" />
               </div>
               <div>
-                <p className="text-gray-400 text-xs uppercase">Interested Creators</p>
+                <p className="text-gray-400 text-xs uppercase">Validated Interest</p>
                 <p className="text-2xl font-bold text-white">{influencers.length}</p>
               </div>
             </div>
@@ -109,7 +109,7 @@ export const RepliedDashboard: React.FC<RepliedDashboardProps> = ({ influencers,
                 <IndianRupee className="w-6 h-6 text-green-500" />
               </div>
               <div>
-                <p className="text-gray-400 text-xs uppercase">Value Per Creator</p>
+                <p className="text-gray-400 text-xs uppercase">Value Per Unit</p>
                 <p className="text-2xl font-bold text-white">₹20,000</p>
               </div>
             </div>
@@ -121,7 +121,7 @@ export const RepliedDashboard: React.FC<RepliedDashboardProps> = ({ influencers,
           <div className="flex items-center justify-between mb-4">
             <h3 className="text-lg font-bold text-white flex items-center gap-2">
               <CheckCircle className="w-5 h-5 text-km18-cyan" />
-              Replied Creators
+              Interested Titans & Signals
             </h3>
             <span className="text-xs text-gray-500 uppercase">
               Showing {influencers.length} items

@@ -130,7 +130,7 @@ function App() {
       <AnimatePresence>
         {showRepliedDashboard && (
           <RepliedDashboard 
-            influencers={influencers.filter(i => i.status === 'Replied')} 
+            influencers={influencers.filter(i => i.status === 'Replied' || i.status === '⚠ Intercept')} 
             onClose={() => setShowRepliedDashboard(false)}
             onReplyClick={setReplyingToInfluencer}
             onSelectInfluencer={(inf) => {

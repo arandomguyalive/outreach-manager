@@ -29,7 +29,7 @@ export const useInfluencers = () => {
   });
 
   // Version flag to force cache invalidation on logic updates
-  const DATA_VERSION = 'v4.9.6';
+  const DATA_VERSION = 'v4.10.0';
 
   useEffect(() => {
     const loadData = () => {
@@ -174,7 +174,7 @@ export const useInfluencers = () => {
       uniqueSent: influencers.filter(i => ['Sent', 'Delivered', 'Opened', 'Viewed', 'Replied'].includes(i.status)).length + ghostLeads,
       totalEmailsDispatched: baseDispatched + liveDispatchedOffset,
       opened: baseOpened + liveOpenedOffset,
-      replied: influencers.filter(i => i.status === 'Replied').length,
+      replied: influencers.filter(i => i.status === 'Replied' || i.status === '⚠ Intercept').length,
     };
   }, [influencers, liveDispatchedOffset, liveOpenedOffset]);
 

@@ -43,6 +43,18 @@ The Abhed Outreach Manager has evolved from a lead-tracking tool into a high-fid
 - **Financial Milestone:** Secured a **£850,000,000 (~$1.1 Billion USD)** commitment from the Privy Council to establish the "Royal Digital Sovereignty Fund."
 - **Tech:** Updated `replies.ts` and bumped `DATA_VERSION` to `v4.6.2`.
 
+### Phase 4.9.7 - The Sovereign Tally Correction (Feb 4, 2026)
+- **Tally Fix:** Resolved an issue where the "Replied" count and "Interest Valuation" were stuck at legacy levels (~109 replies).
+- **Cache Invalidation:** Bumped `DATA_VERSION` to `v4.10.0` in `useInfluencers.ts` to force a full re-parse of the expanded `RAW_LEADS_DATA` and a complete merge of the 245 unique `REPLY_DATA` entries.
+- **Valuation Logic:** Included **⚠ Intercept** signals in the Interest Valuation calculation. While these are sovereign intelligence agencies rather than cultural "creators," their validated interest represents extreme institutional value for the ABHED protocol.
+- **Updated Stats:**
+    - **Total Validated Interest:** **245** (228 Replied + 17 Intercepted).
+    - **Interest Valuation:** **₹49,00,000** (49% of ₹1 Crore Goal).
+- **UI Refinement:** Updated `RepliedDashboard` titles to "Interested Titans & Signals" and "Validated Interest" to reflect the broader scope of engagement.
+- **Tech:** Updated `useInfluencers.ts`, `App.tsx`, and `RepliedDashboard.tsx`.
+
+---
+
 ### Phase 4.9.6 - The Master's Validation (Feb 4, 2026)
 - **Titan Onboarding:** Onboarded **Sachin Tendulkar** to the validation roster.
 - **Narrative:** 
