@@ -3,8 +3,9 @@
 ## [Phase 4.9.7 - The Sovereign Tally Correction] - 2026-02-04
 ### Highlights
 - **Cache Invalidation:** Bumped `DATA_VERSION` to `v4.10.0` to force a full re-parse of the 1200+ lead database and 245-entry reply roster.
-- **Valuation Accuracy:** Updated the statistics and dashboard logic to include **⚠ Intercept** signals, bringing the total validated interest to **245** and valuation to **₹49,00,000**.
-- **UI Refinement:** Renamed dashboard sections to "Interested Titans & Signals" and "Validated Interest" for broader scope.
+- **Valuation Accuracy:** Refined the statistics logic to strictly count **Replied Creators** (228), excluding **⚠ Intercept** signals from the financial valuation and "Replied" tally.
+- **Strict Filtering:** Intercepted signals (intelligence agencies) now only appear when specifically filtered in the main UI, ensuring the Valuation Dashboard remains focused on commercial creator interest.
+- **Updated Valuation:** Total valuation updated to **₹45,60,000** (45.6% of Goal).
 
 ## [Phase 4.8.1 - The Sovereign Command] - 2026-02-03
 

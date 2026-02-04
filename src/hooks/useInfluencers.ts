@@ -174,7 +174,7 @@ export const useInfluencers = () => {
       uniqueSent: influencers.filter(i => ['Sent', 'Delivered', 'Opened', 'Viewed', 'Replied'].includes(i.status)).length + ghostLeads,
       totalEmailsDispatched: baseDispatched + liveDispatchedOffset,
       opened: baseOpened + liveOpenedOffset,
-      replied: influencers.filter(i => i.status === 'Replied' || i.status === '⚠ Intercept').length,
+      replied: influencers.filter(i => i.status === 'Replied').length,
     };
   }, [influencers, liveDispatchedOffset, liveOpenedOffset]);
 

@@ -45,12 +45,13 @@ The Abhed Outreach Manager has evolved from a lead-tracking tool into a high-fid
 
 ### Phase 4.9.7 - The Sovereign Tally Correction (Feb 4, 2026)
 - **Tally Fix:** Resolved an issue where the "Replied" count and "Interest Valuation" were stuck at legacy levels (~109 replies).
-- **Cache Invalidation:** Bumped `DATA_VERSION` to `v4.10.0` in `useInfluencers.ts` to force a full re-parse of the expanded `RAW_LEADS_DATA` and a complete merge of the 245 unique `REPLY_DATA` entries.
-- **Valuation Logic:** Included **⚠ Intercept** signals in the Interest Valuation calculation. While these are sovereign intelligence agencies rather than cultural "creators," their validated interest represents extreme institutional value for the ABHED protocol.
-- **Updated Stats:**
-    - **Total Validated Interest:** **245** (228 Replied + 17 Intercepted).
-    - **Interest Valuation:** **₹49,00,000** (49% of ₹1 Crore Goal).
-- **UI Refinement:** Updated `RepliedDashboard` titles to "Interested Titans & Signals" and "Validated Interest" to reflect the broader scope of engagement.
+- **Cache Invalidation:** Bumped `DATA_VERSION` to `v4.10.0` in `useInfluencers.ts` to force a full re-parse of the 1200+ lead database and 245 unique replies.
+- **Protocol Separation:** Strictly separated **⚠ Intercept** signals from the **Replied** tally. 
+    - **Valuation:** Intercepts (CIA, MI6, etc.) are now excluded from the ₹20,000 per-creator valuation, as they represent institutional interest rather than commercial promoter value.
+    - **Visibility:** Intercepts only appear when specifically filtered in the main feed; they no longer populate the "Replied" stats card or the Valuation Dashboard.
+- **Updated Stats (Creators Only):**
+    - **Total Validated Interest:** **228** Replied Creators.
+    - **Interest Valuation:** **₹45,60,000** (45.6% of ₹1 Crore Goal).
 - **Tech:** Updated `useInfluencers.ts`, `App.tsx`, and `RepliedDashboard.tsx`.
 
 ---
