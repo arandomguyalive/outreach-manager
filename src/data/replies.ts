@@ -1257,6 +1257,14 @@ Kinjal Mishra
 System Architect, ABHED
 Author, The Inner Billionaire`,
         timestamp: '2026-02-03T15:00:00'
+      },
+      {
+        direction: 'inbound',
+        from: 'srk@redchillies.com',
+        to: 'info@abhed.co',
+        subject: 'Re: The New India // Shah Rukh Khan',
+        body: `Ms. Mishra, Pooja here. Sir has given the green light for the Sovereign Tier for our 12 production leads at Red Chillies. He wants the upcoming scripts moved into the 'Fortress' as soon as possible. Could you send over the formal quote for these 12 slots and the banking details for the transfer? Also, please let us know when you might be free to drop by Mannat—Sir wants to walk through the coordination with you personally.`,
+        timestamp: '2026-02-05T09:00:00'
       }
     ]
   },
@@ -1753,6 +1761,14 @@ Kinjal Mishra
 System Architect, ABHED
 Author, The Inner Billionaire`,
         timestamp: '2026-02-03T12:00:00'
+      },
+      {
+        direction: 'inbound',
+        from: 'kylian@psg.com',
+        to: 'info@abhed.co',
+        subject: 'Re: Zero Lag',
+        body: `Kinjal, Team Mbappé here. We’re moving ahead with the 15 Sovereign slots for Kylian’s inner circle. The $166,770 is approved on our side. Please send the secure payment details so we can get the nodes activated tonight. Kylian is asking for the setup timeline—let us know when you have a moment for a final call.`,
+        timestamp: '2026-02-05T15:45:00'
       }
     ]
   },
@@ -1839,6 +1855,14 @@ Kinjal Mishra
 System Architect, ABHED
 Author, The Inner Billionaire`,
         timestamp: '2026-02-03T12:00:00'
+      },
+      {
+        direction: 'inbound',
+        from: 'cr7@alnassr.com',
+        to: 'info@abhed.co',
+        subject: 'Re: The Best',
+        body: `Ricardo here. Cristiano is ready to move. We’ll be enrolling 25 people across the brand and family office under the Sovereign Tier. We have the $277,950 ready for the initial setup—send the bank link. He wants a personal walkthrough of the new features, so give us your available slots for a meeting. Siii! Let’s get to work.`,
+        timestamp: '2026-02-05T17:30:00'
       }
     ]
   },
@@ -2212,6 +2236,14 @@ Kinjal Mishra
 System Architect, ABHED
 Author, The Inner Billionaire`,
         timestamp: '2026-02-03T12:00:00'
+      },
+      {
+        direction: 'inbound',
+        from: 'office@beckhamventures.com',
+        to: 'info@abhed.co',
+        subject: 'Re: Global Brand Integrity',
+        body: `Dear Ms. Mishra, the Executive Office has approved the enrollment of 10 Sovereign Tier accounts. We are prepared to initiate the $111,180 total based on the figures you provided. Could you please send over the formal invoice and payment protocols? Mr. Beckham's team would also like to coordinate a briefing—please let us know your availability this week.`,
+        timestamp: '2026-02-05T13:30:00'
       }
     ]
   },
@@ -2632,6 +2664,14 @@ Kinjal Mishra
 System Architect, ABHED
 Author, The Inner Billionaire`,
         timestamp: '2026-02-03T15:30:00'
+      },
+      {
+        direction: 'inbound',
+        from: 'virat@sportingbeyond.com',
+        to: 'info@abhed.co',
+        subject: 'Re: The Bubble // Silence',
+        body: `Kinjal, Sporting Beyond team here. Both Virat and Anushka are looking to establish that 'Digital Bubble' you described before the next tour begins. What would be the total cost for these two Sovereign accounts, and where should we send the funds? We’d also like to check your schedule for a quick session to get everything synced on their devices.`,
+        timestamp: '2026-02-05T10:15:00'
       }
     ]
   },
@@ -3145,6 +3185,14 @@ Kinjal Mishra
 System Architect, ABHED
 Author, The Inner Billionaire`,
         timestamp: '2026-02-03T12:00:00'
+      },
+      {
+        direction: 'inbound',
+        from: 'leo@messi.com',
+        to: 'info@abhed.co',
+        subject: 'Re: Silence',
+        body: `To Kinjal, Team Messi here. Leo is ready to move forward with the 8 initial Sovereign accounts for the family and security detail. We have the $11,118 per-account reservation fee noted. Please send the wire instructions for the $88,944 so we can settle the account immediately. When are you available for a technical walkthrough with our staff?`,
+        timestamp: '2026-02-05T11:45:00'
       }
     ]
   },
