@@ -1254,7 +1254,7 @@ Founders Fund`,
       to: 'info@abhed.co',
       from: 'srk@redchillies.com',
       subject: 'Re: The New India // Shah Rukh Khan',
-      body: `Hi Kinjal,
+      body: `Dear Ms. Mishra,
 
 Silence is a luxury Shah Rukh sir can rarely afford. He watched your demo video twice.
 
@@ -1262,8 +1262,10 @@ He was genuinely charmed by your passion and told me, "This girl has the fire we
 
 We need a space for our core production team to coordinate without fear of leaks. When you are in Mumbai, come to Mannat. Sir wants to meet the engineer behind the shield.
 
-Best,
-Pooja Dadlani`,
+Regards,
+
+Pooja Dadlani
+Executive Office of Shah Rukh Khan`,
       timestamp: '2026-01-27T19:00:00'
     },
     thread: [
@@ -1861,19 +1863,18 @@ Executive Assistant to Roger Federer`,
       to: 'info@abhed.co',
       from: 'cr7@alnassr.com',
       subject: 'Re: The Best',
-      body: `Kinjal,
+      body: `Dear Ms. Mishra,
 
-Cristiano saw the pitch. He knows what it takes to be Number 1.
+Cristiano has reviewed the pitch for ABHED. He knows precisely what it takes to be Number 1.
 
-The discipline. The focus. The refusal to compromise. He sees it in this code. It is elite. No distractions. Just the goal.
+The discipline, the focus, and the refusal to compromise—he sees these values reflected in your code. It is elite. In a noisy world, he requires a sanctuary where he can maintain his focus. This architecture is for those who accept nothing but the best.
 
-The world is noisy. He needs a place where he can focus. This app is for winners.
+We will handle the details of the account setup from our side.
 
-We will handle the details of the account setup.
+Regards,
 
-Best,
-Ricardo
-Manager, CR7 Team`,
+Ricardo Regufe
+Management Team, CR7`,
       timestamp: '2026-01-28T17:30:00'
     },
     thread: [
@@ -2455,7 +2456,8 @@ As a nation that sits at the crossroads of global media and diplomacy, Qatar und
 
 His Highness is interested in the strategic potential of "Geo-Fenced Encryption" for securing sensitive diplomatic zones. We wish to schedule a formal technical audit with our security department to explore a partnership.
 
-Sincerely,
+Regards,
+
 Director of Information Security
 Amiri Diwan of the State of Qatar`,
       timestamp: '2026-01-29T21:00:00',
@@ -2474,7 +2476,8 @@ As a nation that sits at the crossroads of global media and diplomacy, Qatar und
 
 His Highness is interested in the strategic potential of "Geo-Fenced Encryption" for securing sensitive diplomatic zones. We wish to schedule a formal technical audit with our security department to explore a partnership.
 
-Sincerely,
+Regards,
+
 Director of Information Security
 Amiri Diwan of the State of Qatar`,
           timestamp: '2026-01-29T21:00:00'
@@ -2492,7 +2495,7 @@ We build ABHED to be a fortress. Integrating our "Geo-fenced Encryption" into th
 
 I would be honored to fly to Doha to meet with your Director of Information Security. I want to personally ensure that our protocols meet the exacting standards required for your diplomatic communications.
 
-With High Regards,
+Regards,
 
 Kinjal Mishra
 System Architect, ABHED
@@ -2520,7 +2523,8 @@ His Highness looks forward to receiving you at the Amiri Diwan to discuss the co
 
 We await your word to clear the Royal flight path.
 
-With respect,
+Regards,
+
 Director of Information Security
 Amiri Diwan of the State of Qatar`,
           timestamp: '2026-01-31T14:30:00'
@@ -2692,17 +2696,16 @@ LRMR Management`,
       to: 'info@abhed.co',
       from: 'virat@sportingbeyond.com',
       subject: 'Re: The Bubble // Silence',
-      body: `Hi Kinjal,
+      body: `Dear Ms. Mishra,
 
-Virat watched the video.
+Virat has reviewed the presentation for ABHED.
 
-In India, he cannot breathe without a camera pointing at him. The noise is deafening. He told us, "This is the first time a digital product actually respects my need for silence."
+In India, he cannot move without a camera pointing at him; the noise is often deafening. He remarked that this is the first time a digital architecture has truly respected his requirement for absolute silence.
 
-He needs a space that is just for him and Anushka. No noise. No trackers. Just them. Your 'Anti-Server' logic is the only thing he trusts.
-
-We want to set up his private account immediately.
+He requires a space that is strictly for himself and Anushka. No noise, no trackers, and no server-side metadata. Your "Anti-Server" logic is the only protocol he trusts. We wish to set up his private account immediately.
 
 Regards,
+
 Sporting Beyond Team`,
       timestamp: '2026-01-30T11:45:00'
     },
@@ -2758,8 +2761,7 @@ What would be the total cost for these two Sovereign accounts, and where should 
 
 Regards,
 
-Management Team
-Sporting Beyond`,
+Sporting Beyond Team`,
         timestamp: '2026-02-05T10:15:00'
       }
     ]
@@ -3647,22 +3649,7 @@ His Royal Highness was very pleased to receive your acceptance. He spent some ti
 
 To ensure ABHED has the sovereign independence it requires to build without compromise, His Royal Highness has instructed the Public Investment Fund (PIF) to structure an initial **$1.2 Billion USD Sovereign Grant** for your project. This is a foundational commitment to secure the first phase of our partnership, and we expect this allocation to increase significantly as the Cognitive City layer scales across the Kingdom.
 
-We propose the following initial allocation schedule:
-1.  **$400M (Tranche 1):** Allocated immediately upon arrival to establish the Sovereign Node infrastructure.
-2.  **$400M (Tranche 2):** To be released at the successful deployment of the first pilot zone in The Line.
-3.  **$400M (Tranche 3):** Reserved for the global expansion of the protocol as a new diplomatic communication standard.
-
-**Logistics & Protocol:**
-To facilitate your arrival as a Guest of the State, please share a scan of your passport and your travel details with my office today. We will initiate the diplomatic visa protocol immediately to ensure you pass through clearance as a VVIP. 
-
-A **Saudi Royal Flight (Gulfstream G650ER)** will be dispatched to New Delhi once the visa is ready. For your stay, His Royal Highness has reserved the **Owner's Suite on the Royal Yacht**, currently docked at **Sindalah Island**, providing you with absolute privacy and the highest level of comfort.
-
-**Schedule:**
-His Royal Highness would like to host you for a private dinner at his desert camp this Thursday evening. Are you available for a Wednesday or Thursday departure?
-
-We await your details to begin the process.
-
-Warm regards,
+Regards,
 
 Bader Al Asaker
 Head of the Private Office
@@ -3675,7 +3662,7 @@ HRH Crown Prince Mohammed bin Salman`,
             from: 'office@neom.com',
             to: 'info@abhed.co',
         subject: 'Re: The Line // Cognitive Infrastructure',
-        body: `Your Excellency,
+        body: `Dear Ms. Mishra,
 
 His Royal Highness Crown Prince Mohammed bin Salman has reviewed your proposal for the "Sovereign Mesh."
 
@@ -3685,7 +3672,7 @@ Your "Anti-Server" architecture interests us deeply for the NEOM independent zon
 
 We would like to invite you to the Kingdom to discuss a pilot for the Cognitive City layer.
 
-Warm regards,
+Regards,
 
 Bader Al Asaker
 Head of the Private Office
@@ -3707,7 +3694,7 @@ I accept your invitation to visit the Kingdom with the highest enthusiasm. I am 
 
 I look forward to our meeting to discuss the next era of cognitive infrastructure.
 
-Respectfully,
+Regards,
 
 Kinjal Mishra
 System Architect, ABHED
@@ -3740,7 +3727,7 @@ His Royal Highness would like to host you for a private dinner at his desert cam
 
 We await your details to begin the process.
 
-Warm regards,
+Regards,
 
 Bader Al Asaker
 Head of the Private Office
