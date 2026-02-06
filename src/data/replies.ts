@@ -1,39 +1,83 @@
 export const REPLY_DATA = [
   {
     handle: '@tirthjoshi',
-    reply: {
-      to: 'info@abhed.co',
-      from: 'tirth.joshi@dev.com',
-      subject: 'Re: React patterns & Performance',
-      body: `Hey Kinjal,
+    thread: [
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'tirth.joshi@dev.com',
+        subject: 'Vortex Architecture // Performance Analysis',
+        body: `Dear Tirth,
 
-Saw the App Tour video on Drive. That 'Vortex' animation is clean stuff. Did you use Framer Motion for that, or is it WebGL? It looks incredibly smooth in the demo.
+I've been following your work on React performance and concurrent rendering. At ABHED, we're building a sovereign communication layer that eliminates the server entirely.
 
-Def want to see how you handled the React state management for the encryption without blocking the main thread. I'm interested in enrolling for the early access just to check out the engineering.
+I'd value your perspective on how we've handled the on-device encryption handshake without blocking the main thread. I've attached a private App Tour link that dives into our 'Vortex' rendering engine. 
 
-Count me in.
+Would love to have a fellow engineer in the early access cohort.
 
-- Tirth`,
-      timestamp: '2026-01-18T20:40:00'
-    }
+Best,
+Kinjal Mishra`,
+        timestamp: '2026-01-18T12:00:00'
+      },
+      {
+        direction: 'inbound',
+        from: 'tirth.joshi@dev.com',
+        to: 'info@abhed.co',
+        subject: 'Re: Vortex Architecture // Performance Analysis',
+        body: `Hi Kinjal,
+
+I just finished watching the deep-dive on the Drive link. That 'Vortex' animation is remarkably clean. I'm curious if you're leveraging WebGL for those transitions or if it's a custom Framer Motion implementation—the smoothness in the demo is impressive.
+
+I'm particularly interested in how you managed the state synchronization for the encryption keys without impacting the frame rate. I'd definitely like to join the early access to look at the engineering under the hood.
+
+Count me in for the enrollment.
+
+Regards,
+Tirth`,
+        timestamp: '2026-01-18T20:40:00'
+      }
+    ]
   },
   {
     handle: '@SamayRainaOfficial',
-    reply: {
-      to: 'info@abhed.co',
-      from: 'samay@oml.in',
-      subject: 'Re: Private streams?',
-      body: `Bro, I watched the Drive link. This looks insane. The main thing I need is a place to host private lobbies where I can actually speak freely without getting banned or clipped out of context.
+    thread: [
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'samay@oml.in',
+        subject: 'Private Streams & The Blacklist',
+        body: `Dear Samay,
 
-Does the 'Blacklist' tier allow for unlisted voice channels or group calls? I saw the chat features but wasn't sure about voice.
+We're building ABHED—a digital sanctuary for creators who need a space where conversations stay in the room. No trackers, no recording, no censorship.
 
-If yes, take my money. I'm ready to enroll. Big ups for making this in India.
+I've attached a private tour of our 'Blacklist' tier, which includes 'Vortex'—a sovereign media feed for your core circle. I think the 'Anti-Stream Sniping' protocols we've built would be particularly relevant for your private lobbies.
+
+Check the Drive link. Let's get you on the Blacklist.
+
+Best,
+Kinjal Mishra`,
+        timestamp: '2026-01-18T14:00:00'
+      },
+      {
+        direction: 'inbound',
+        from: 'samay@oml.in',
+        to: 'info@abhed.co',
+        subject: 'Re: Private Streams & The Blacklist',
+        body: `Hey Kinjal,
+
+I watched the Drive video. This looks like exactly what I've been looking for. My primary concern is having a secure space for private lobbies where I can speak freely without worrying about clips being taken out of context or leaks.
+
+Does the 'Blacklist' tier support unlisted voice channels or low-latency group calls? The chat features look solid, but I'm curious about the voice comms. 
+
+If it works as shown in the demo, I'm ready to enroll immediately. Great to see this level of tech coming out of India.
 
 Send the link.
 
+Cheers,
 Samay`,
-      timestamp: '2026-01-18T21:10:00'
-    }
+        timestamp: '2026-01-18T21:10:00'
+      }
+    ]
   },
   {
     handle: '@TanayPratap',
@@ -1228,7 +1272,7 @@ Pooja Dadlani`,
         from: 'srk@redchillies.com',
         to: 'info@abhed.co',
         subject: 'Re: The New India // Shah Rukh Khan',
-        body: `Hi Kinjal,
+        body: `Dear Ms. Mishra,
 
 Silence is a luxury Shah Rukh sir can rarely afford. He watched your demo video twice.
 
@@ -1236,8 +1280,10 @@ He was genuinely charmed by your passion and told me, "This girl has the fire we
 
 We need a space for our core production team to coordinate without fear of leaks. When you are in Mumbai, come to Mannat. Sir wants to meet the engineer behind the shield.
 
-Best,
-Pooja Dadlani`,
+Regards,
+
+Pooja Dadlani
+Executive Office of Shah Rukh Khan`,
         timestamp: '2026-01-27T19:00:00'
       },
       {
@@ -1245,13 +1291,15 @@ Pooja Dadlani`,
         from: 'info@abhed.co',
         to: 'srk@redchillies.com',
         subject: 'Re: The New India // Shah Rukh Khan',
-        body: `Our loving Shah Rukh Khan,
+        body: `Dear Mr. Khan,
 
-I accepted your invitation to 'Mannat' with a heart full of gratitude. It is a pleasure to sit and discuss my vision with The SRK.
+I accepted your invitation to 'Mannat' with a heart full of gratitude. It is a pleasure to sit and discuss my vision with the architect of Indian cinema.
 
-We understand your requirements to keep your work private, hence we recommend our sovereign tier for your core production team. 
+We understand your requirements for absolute privacy. For your core production team at Red Chillies, I recommend the Sovereign Tier. This framework ensures that your scripts and assets remain physically tethered to your own hardware, invisible to the public mesh.
 
-Let's meet up for further proceedings.
+I look forward to our meeting at Mannat for further proceedings.
+
+Regards,
 
 Kinjal Mishra
 System Architect, ABHED
@@ -1263,7 +1311,16 @@ Author, The Inner Billionaire`,
         from: 'srk@redchillies.com',
         to: 'info@abhed.co',
         subject: 'Re: The New India // Shah Rukh Khan',
-        body: `Ms. Mishra, Pooja here. Sir has given the green light for the Sovereign Tier for our 12 production leads at Red Chillies. He wants the upcoming scripts moved into the 'Fortress' as soon as possible. Could you send over the formal quote for these 12 slots and the banking details for the transfer? Also, please let us know when you might be free to drop by Mannat—Sir wants to walk through the coordination with you personally.`,
+        body: `Dear Ms. Mishra,
+
+Pooja here. Sir has given the green light for the Sovereign Tier for our 12 production leads at Red Chillies. He wants the upcoming scripts moved into the 'Fortress' as soon as possible.
+
+Could you send over the formal quote for these 12 slots and the banking details for the transfer? Also, please let us know when you might be free to drop by Mannat—Sir wants to walk through the coordination with you personally.
+
+Regards,
+
+Pooja Dadlani
+Executive Office of Shah Rukh Khan`,
         timestamp: '2026-02-05T09:00:00'
       }
     ]
@@ -1724,17 +1781,16 @@ Team Kylian Mbappé`,
         from: 'kylian@psg.com',
         to: 'info@abhed.co',
         subject: 'Re: Zero Lag',
-        body: `Kinjal,
+        body: `Dear Ms. Mishra,
 
-Kylian reviewed the demo. He needs speed.
+Kylian has reviewed the ABHED technical demonstration. He requires speed above all else.
 
-On the pitch, he moves faster than they can think. He needs his communication to be the same. Zero lag. Zero leaks. Zero nonsense.
+On the pitch, he moves faster than his opponents can think. He requires his communication to reflect that same efficiency: zero lag, zero leaks, and zero interference. He wishes for his inner circle to be on this platform to control the narrative by controlling the channel.
 
-He wants his inner circle to be on this. If the "Vortex" is as fast as you say, and if it keeps the press out of his life, we are in. He wants to control the narrative by controlling the channel.
-
-We will be in touch to set this up.
+If the "Vortex" is as fast as the specifications claim, we are ready to move forward.
 
 Regards,
+
 Team Kylian Mbappé`,
         timestamp: '2026-01-28T16:00:00'
       },
@@ -1743,19 +1799,17 @@ Team Kylian Mbappé`,
         from: 'info@abhed.co',
         to: 'kylian@psg.com',
         subject: 'Re: Zero Lag',
-        body: `Dear Team,
+        body: `Dear Team Mbappé,
 
-We stripped the engine down to the metal.
+We stripped the engine down to the metal for exactly this reason.
 
-Kylian understands that lag kills momentum. That is why the Sovereign Tier is non-negotiable for his needs. It bypasses the public mesh entirely, offering a direct, peer-to-peer lane that prioritizes his traffic and gives him absolute control over the narrative before it ever touches the cloud.
+Kylian understands that lag kills momentum. The Sovereign Tier is non-negotiable for his requirements. It bypasses the public mesh entirely, offering a direct, peer-to-peer lane that prioritizes his traffic and gives him absolute control over the narrative before it ever touches the cloud.
 
 Speed is just the absence of friction. We have removed the friction.
 
-The investment for this tier is 11,118 USD per account.
+The investment for this tier is 11,118 USD per account. I await your confirmation on the roster size for his inner circle to authorize the high-priority setup.
 
-Confirm the roster size for his inner circle. I will authorize the high-priority setup as soon as we receive the numbers.
-
-Welcome to the speed of thought.
+Regards,
 
 Kinjal Mishra
 System Architect, ABHED
@@ -1767,7 +1821,16 @@ Author, The Inner Billionaire`,
         from: 'kylian@psg.com',
         to: 'info@abhed.co',
         subject: 'Re: Zero Lag',
-        body: `Kinjal, Team Mbappé here. We’re moving ahead with the 15 Sovereign slots for Kylian’s inner circle. The $166,770 is approved on our side. Please send the secure payment details so we can get the nodes activated tonight. Kylian is asking for the setup timeline—let us know when you have a moment for a final call.`,
+        body: `Dear Ms. Mishra,
+
+Team Mbappé here. We are moving ahead with 15 Sovereign slots for Kylian’s inner circle. The total of $166,770 is approved on our side.
+
+Please send the secure payment details so we can get the nodes activated tonight. Kylian is asking for the final setup timeline—let us know when you have a moment for a final call.
+
+Regards,
+
+Management Team
+Team Kylian Mbappé`,
         timestamp: '2026-02-05T15:45:00'
       }
     ]
@@ -1819,19 +1882,18 @@ Manager, CR7 Team`,
         from: 'cr7@alnassr.com',
         to: 'info@abhed.co',
         subject: 'Re: The Best',
-        body: `Kinjal,
+        body: `Dear Ms. Mishra,
 
-Cristiano saw the pitch. He knows what it takes to be Number 1.
+Cristiano has reviewed the pitch for ABHED. He knows precisely what it takes to be Number 1.
 
-The discipline. The focus. The refusal to compromise. He sees it in this code. It is elite. No distractions. Just the goal.
+The discipline, the focus, and the refusal to compromise—he sees these values reflected in your code. It is elite. In a noisy world, he requires a sanctuary where he can maintain his focus. This architecture is for those who accept nothing but the best.
 
-The world is noisy. He needs a place where he can focus. This app is for winners.
+We will handle the details of the account setup from our side.
 
-We will handle the details of the account setup.
+Regards,
 
-Best,
-Ricardo
-Manager, CR7 Team`,
+Ricardo Regufe
+Management Team, CR7`,
         timestamp: '2026-01-28T17:30:00'
       },
       {
@@ -1839,17 +1901,15 @@ Manager, CR7 Team`,
         from: 'info@abhed.co',
         to: 'cr7@alnassr.com',
         subject: 'Re: The Best',
-        body: `Ricardo,
+        body: `Dear Ricardo,
 
-Being Number 1 isn't just about skill; it is about isolation.
+Being Number 1 is not just about skill; it is about isolation.
 
-I designed ABHED to be a digital fortress for exactly this reason. Most platforms are built to distract you; we built this to protect the "Zone."
+I designed ABHED to be a digital fortress for exactly this reason. While other platforms are built to distract, we built this to protect the "Zone." For Cristiano's requirement for absolute focus, the Sovereign Tier is the only architecture that fits. It creates a hard perimeter around his data, ensuring that the noise of the world never breaches his inner circle.
 
-Given his requirement for absolute focus, the Sovereign Tier is the only architecture that fits. It creates a hard perimeter around his data, ensuring that the noise of the world never breaches his inner circle. It is total discipline in code form.
+The reservation for this tier is 11,118 USD per account. Please provide the headcount for his team so I can authorize the keys for his secure node.
 
-The reservation for this tier is 11,118 USD per account.
-
-Send me the headcount for his team. Once I have the confirmation, I will authorize the keys for his secure node.
+Regards,
 
 Kinjal Mishra
 System Architect, ABHED
@@ -1861,7 +1921,16 @@ Author, The Inner Billionaire`,
         from: 'cr7@alnassr.com',
         to: 'info@abhed.co',
         subject: 'Re: The Best',
-        body: `Ricardo here. Cristiano is ready to move. We’ll be enrolling 25 people across the brand and family office under the Sovereign Tier. We have the $277,950 ready for the initial setup—send the bank link. He wants a personal walkthrough of the new features, so give us your available slots for a meeting. Siii! Let’s get to work.`,
+        body: `Dear Ms. Mishra,
+
+Ricardo here. Cristiano is ready to move forward. We will be enrolling 25 people across the brand and family office under the Sovereign Tier.
+
+We have the $277,950 ready for the initial setup—please send the secure bank link. Cristiano has requested a personal walkthrough of the new features once the nodes are active. Please let us know your available slots for a briefing.
+
+Regards,
+
+Ricardo Regufe
+Management Team, CR7`,
         timestamp: '2026-02-05T17:30:00'
       }
     ]
@@ -2202,16 +2271,17 @@ Beckham Ventures`,
         from: 'office@beckhamventures.com',
         to: 'info@abhed.co',
         subject: 'Re: Global Brand Integrity',
-        body: `Dear Kinjal,
+        body: `Dear Ms. Mishra,
 
-David reviewed the Abhed App Tour. He was struck by the "Clean Sheet" approach you've taken to privacy.
+David has reviewed the ABHED App Tour. He was struck by the "Clean Sheet" approach you have taken to digital privacy.
 
-As a global brand, our biggest risk is the fragmentation of private information. Your "Geo-Fenced" logic offers a fascinating way to drop exclusive "Moments" for his partners and inner circle that cannot be leaked or screenshotted. It matches the premium standard we set for everything we do.
+As a global brand, our primary risk is the fragmentation of private information. Your "Geo-Fenced" logic offers a fascinating way to drop exclusive "Moments" for his partners and inner circle that cannot be leaked or screenshotted. It matches the premium standard we set for everything we do.
 
 We would like to set up a private test for the ventures team.
 
 Regards,
-Executive Office
+
+Executive Office of David Beckham
 Beckham Ventures`,
         timestamp: '2026-01-29T15:30:00'
       },
@@ -2222,15 +2292,15 @@ Beckham Ventures`,
         subject: 'Re: Global Brand Integrity',
         body: `Dear Executive Office,
 
-The "Clean Sheet" is a powerful concept. In the digital age, privacy is the ultimate luxury asset.
+The "Clean Sheet" is a powerful concept. In the digital age, absolute privacy is the ultimate luxury asset.
 
-To protect the integrity of the Beckham brand, the Sovereign Tier is the essential choice. It unlocks our advanced Geo-Fencing protocols, allowing David to curate exclusive moments that are cryptographically locked to a specific location. This ensures his digital footprint remains as curated as his public image, with zero risk of leaks.
+To protect the integrity of the Beckham brand, the Sovereign Tier is the essential choice. It unlocks our advanced Geo-Fencing protocols, allowing Mr. Beckham to curate exclusive moments that are cryptographically locked to a specific location. This ensures his digital footprint remains as curated as his public image, with zero risk of leaks.
 
 The reservation fee for this level of discretion is 11,118 USD per account.
 
 I await your confirmation on the number of accounts required for the pilot. I will authorize the secure environment configuration once we have the details.
 
-Let's keep the sheet clean.
+Regards,
 
 Kinjal Mishra
 System Architect, ABHED
@@ -2242,7 +2312,16 @@ Author, The Inner Billionaire`,
         from: 'office@beckhamventures.com',
         to: 'info@abhed.co',
         subject: 'Re: Global Brand Integrity',
-        body: `Dear Ms. Mishra, the Executive Office has approved the enrollment of 10 Sovereign Tier accounts. We are prepared to initiate the $111,180 total based on the figures you provided. Could you please send over the formal invoice and payment protocols? Mr. Beckham's team would also like to coordinate a briefing—please let us know your availability this week.`,
+        body: `Dear Ms. Mishra,
+
+The Executive Office has approved the enrollment of 10 Sovereign Tier accounts. We are prepared to initiate the $111,180 total based on the figures you provided.
+
+Could you please send over the formal invoice and payment protocols? Mr. Beckham's team would also like to coordinate a technical briefing—please let us know your availability this week.
+
+Regards,
+
+Executive Office of David Beckham
+Beckham Ventures`,
         timestamp: '2026-02-05T13:30:00'
       }
     ]
@@ -2633,17 +2712,16 @@ Sporting Beyond Team`,
         from: 'virat@sportingbeyond.com',
         to: 'info@abhed.co',
         subject: 'Re: The Bubble // Silence',
-        body: `Hi Kinjal,
+        body: `Dear Ms. Mishra,
 
-Virat watched the video.
+Virat has reviewed the presentation for ABHED.
 
-In India, he cannot breathe without a camera pointing at him. The noise is deafening. He told us, "This is the first time a digital product actually respects my need for silence."
+In India, he cannot move without a camera pointing at him; the noise is often deafening. He remarked that this is the first time a digital architecture has truly respected his requirement for absolute silence.
 
-He needs a space that is just for him and Anushka. No noise. No trackers. Just them. Your 'Anti-Server' logic is the only thing he trusts.
-
-We want to set up his private account immediately.
+He requires a space that is strictly for himself and Anushka. No noise, no trackers, and no server-side metadata. Your "Anti-Server" logic is the only protocol he trusts. We wish to set up his private account immediately.
 
 Regards,
+
 Sporting Beyond Team`,
         timestamp: '2026-01-30T11:45:00'
       },
@@ -2652,13 +2730,15 @@ Sporting Beyond Team`,
         from: 'info@abhed.co',
         to: 'virat@sportingbeyond.com',
         subject: 'Re: The Bubble // Silence',
-        body: `Dear Virat,
+        body: `Dear Mr. Kohli,
 
-I am pleased to read your love for our 'Anti-server' digital fortress ABHED. We understand what silence is to you & Anushka.
+I am pleased to hear that our 'Anti-Server' digital fortress resonates with you and Anushka. We built ABHED precisely to protect the silence of those who the world refuses to leave alone.
 
-To set-up your private account I would suggest Sovereign Tier to both of you as the world’s no.1 deserves nothing less than best in class service.
+To establish your private 'Digital Bubble', I recommend the Sovereign Tier. It is a best-in-class architecture designed for world-class requirements, ensuring that your communication never touches a central relay and remains entirely yours.
 
-To discuss further on your account set-up as soon as possible we would connect with your team.
+I look forward to coordinating the secure setup for you and Anushka.
+
+Regards,
 
 Kinjal Mishra
 System Architect, ABHED
@@ -2670,7 +2750,16 @@ Author, The Inner Billionaire`,
         from: 'virat@sportingbeyond.com',
         to: 'info@abhed.co',
         subject: 'Re: The Bubble // Silence',
-        body: `Kinjal, Sporting Beyond team here. Both Virat and Anushka are looking to establish that 'Digital Bubble' you described before the next tour begins. What would be the total cost for these two Sovereign accounts, and where should we send the funds? We’d also like to check your schedule for a quick session to get everything synced on their devices.`,
+        body: `Dear Ms. Mishra,
+
+The Sporting Beyond team here. Both Virat and Anushka are looking to establish that 'Digital Bubble' before the next tour begins.
+
+What would be the total cost for these two Sovereign accounts, and where should we send the funds? We would also like to check your schedule for a quick session to get everything synced on their devices.
+
+Regards,
+
+Management Team
+Sporting Beyond`,
         timestamp: '2026-02-05T10:15:00'
       }
     ]
@@ -3148,17 +3237,16 @@ Team Messi`,
         from: 'leo@messi.com',
         to: 'info@abhed.co',
         subject: 'Re: Silence',
-        body: `Kinjal,
+        body: `Dear Ms. Mishra,
 
-Leo has seen the demo.
+Leo has seen the technical demonstration. He is a man of few words; he prefers to let his game speak. The world is often too loud for him, and he requires a sanctuary where that noise cannot enter.
 
-He does not speak much. He prefers to let the game speak. The world is too loud for him. He needs a place where the noise cannot enter.
+He finds the "Vortex" interface to be simple and focused—it reminds him of the concentration required before a crucial penalty. If this platform can provide the silence he needs to communicate with his family without external interference, he is committed to the vision.
 
-He likes the "Vortex." It is simple. It is quiet. It reminds him of the focus before a penalty. If this app can give him the silence he needs to communicate with his family without the press listening, he is with you.
+We will arrange the account setup.
 
-We will arrange the account.
+Regards,
 
-Vamos.
 Team Messi`,
         timestamp: '2026-01-30T10:45:00'
       },
@@ -3167,19 +3255,15 @@ Team Messi`,
         from: 'info@abhed.co',
         to: 'leo@messi.com',
         subject: 'Re: Silence',
-        body: `To Team Messi,
+        body: `Dear Team Messi,
 
-I read Leo's note about the noise. It resonated with me.
+I read Leo's note about the noise with great interest. ABHED was built to be that quiet room.
 
-ABHED isn't just an app; it is a quiet room. For someone who values his peace as much as he does, I strongly recommend the Sovereign Tier. This level ensures that his conversations with his family are physically locked to his device, creating a digital sanctuary that no one—not even our engineers—can enter.
+For an individual who values his peace as profoundly as he does, I strongly recommend the Sovereign Tier. This architecture ensures that his conversations are physically locked to his own device, creating a digital sanctuary that remains entirely inaccessible to the outside world. It is the bubble he has been looking for.
 
-It is the bubble he is looking for.
+The reservation fee for this level of privacy is 11,118 USD per account. I await your confirmation on the number of keys required for the family and security detail.
 
-The fee to reserve this privacy is 11,118 USD per account.
-
-Please let me know how many keys you need for the family. I will authorize the initialization of his sanctuary immediately upon your confirmation.
-
-Vamos.
+Regards,
 
 Kinjal Mishra
 System Architect, ABHED
@@ -3191,7 +3275,16 @@ Author, The Inner Billionaire`,
         from: 'leo@messi.com',
         to: 'info@abhed.co',
         subject: 'Re: Silence',
-        body: `To Kinjal, Team Messi here. Leo is ready to move forward with the 8 initial Sovereign accounts for the family and security detail. We have the $11,118 per-account reservation fee noted. Please send the wire instructions for the $88,944 so we can settle the account immediately. When are you available for a technical walkthrough with our staff?`,
+        body: `Dear Ms. Mishra,
+
+Team Messi here. Leo is ready to move forward with 8 initial Sovereign accounts for the family and his core security detail. We have noted the $11,118 per-account reservation fee.
+
+Please send the wire instructions for the $88,944 total so we can settle the account and initialize the nodes. Leo would also like to schedule a technical walkthrough with our staff—please let us know your availability.
+
+Regards,
+
+Management Team
+Team Messi`,
         timestamp: '2026-02-05T11:45:00'
       }
     ]
@@ -4355,82 +4448,155 @@ SN`,
   },
   {
     handle: '@TigerWoods',
-    reply: {
-      to: 'info@abhed.co',
-      from: 'mark@etwcorp.com',
-      subject: 'Re: Focus & The Digital Fortress',
-      body: `Kinjal,
+    thread: [
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'mark@etwcorp.com',
+        subject: 'The Digital Fortress // Focus & Privacy',
+        body: `Dear Tiger,
 
-Tiger protects his privacy like he protects a lead on Sunday. He has seen the pitch.
+I have built ABHED—a digital fortress designed for the 'Zone'. In a world of constant digital distraction, true focus is the rarest luxury.
 
-The concept of a "Digital Fortress"—a space where the noise simply cannot enter—resonates with him deeply. He treats his mental space as sacred ground.
+Our 'Vortex' interface is designed to be a sanctuary where the noise simply cannot enter. I've attached a private App Tour of the 'Vault'—a space that is physically locked to your device and your coordinates. No trackers, no leaks, no noise.
 
-If this "Vortex" is truly impenetrable, he wants in.
+I'd be honored to have you in our early access cohort.
+
+Best,
+Kinjal Mishra
+System Architect, ABHED`,
+        timestamp: '2026-02-02T10:00:00'
+      },
+      {
+        direction: 'inbound',
+        from: 'mark@etwcorp.com',
+        to: 'info@abhed.co',
+        subject: 'Re: The Digital Fortress // Focus & Privacy',
+        body: `Dear Ms. Mishra,
+
+Tiger has reviewed your proposal for the 'Digital Fortress.' The concept of a space where the noise of the outside world is physically and cryptographically excluded resonates with him deeply. He has always treated his mental space as sacred ground, especially during competition.
+
+If the ABHED protocol can truly guarantee this level of focus and privacy, he is interested in exploring the platform. Please let us know the process for securing his enrollment.
 
 Regards,
 Mark Steinberg
 Excel Sports Management`,
-      timestamp: '2026-02-03T09:00:00'
-    }
+        timestamp: '2026-02-03T09:00:00'
+      }
+    ]
   },
   {
     handle: '@usainbolt',
-    reply: {
-      to: 'info@abhed.co',
-      from: 'management@usainbolt.com',
-      subject: 'Re: Zero Latency // Speed',
-      body: `Hi Team Abhed,
+    thread: [
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'management@usainbolt.com',
+        subject: 'Zero Latency // The Speed of Thought',
+        body: `Dear Usain,
 
-We have reviewed the latency specs for the P2P handshake. 
+I've built a peer-to-peer communication engine that operates at the limit of physics. At ABHED, we've eliminated the server relay entirely, resulting in zero-latency handshakes.
 
-Zero-lag? That is the only speed Usain respects. He loves the idea of a "direct line" with no middleman slowing it down. 
+It's the only digital speed that matches yours. I've attached a private tour of our 'Vortex' interface—designed for fluid, frictionless performance. No middleman, no lag.
 
-The "Flow State" of the UI matches his philosophy. Fast, fluid, no friction.
+Would love to have the world's fastest man on the world's fastest mesh.
 
-Let's run it.
+Best,
+Kinjal Mishra
+System Architect, ABHED`,
+        timestamp: '2026-02-02T11:00:00'
+      },
+      {
+        direction: 'inbound',
+        from: 'management@usainbolt.com',
+        to: 'info@abhed.co',
+        subject: 'Re: Zero Latency // The Speed of Thought',
+        body: `Hi Kinjal,
 
+We have reviewed the technical specifications for the ABHED peer-to-peer handshake. Usain was impressed by the 'Zero-Lag' performance metrics; as someone who has built his legacy on speed, he respects engineering that operates at the limit.
+
+The 'Flow State' of the UI aligns well with his personal philosophy of performance without friction. We are interested in enrolling him in the Blacklist tier. Please share the necessary details.
+
+Best regards,
 UB Management`,
-      timestamp: '2026-02-03T09:30:00'
-    }
+        timestamp: '2026-02-03T09:30:00'
+      }
+    ]
   },
   {
     handle: '@davidgoggins',
-    reply: {
-      to: 'info@abhed.co',
-      from: 'team@davidgoggins.com',
-      subject: 'Re: STAY HARD',
-      body: `Mishra,
+    thread: [
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'team@davidgoggins.com',
+        subject: 'Hardcore Architecture // The Anti-Distraction',
+        body: `Mishra here.
 
-Most apps are soft. They are designed to distract you, to make you comfortable.
+I built ABHED because the modern web is soft. It's designed to distract you, to make you a product of the algorithm. We've built the hard alternative.
 
-This "Vortex" looks like it demands focus. It doesn't pamper the user with algorithmic candy. It forces you to choose who you listen to.
-
-David respects that. Build the hard thing.
+No buttons, no likes, no dopamine loops. Just the shield. I've attached a tour of the 'Vortex'—it's raw engineering designed for those who demand focus. It's for the ones who want to own their words and their work.
 
 Stay hard.
 
+Kinjal Mishra
+System Architect, ABHED`,
+        timestamp: '2026-02-02T12:00:00'
+      },
+      {
+        direction: 'inbound',
+        from: 'team@davidgoggins.com',
+        to: 'info@abhed.co',
+        subject: 'Re: Hardcore Architecture // The Anti-Distraction',
+        body: `Mishra,
+
+David has seen the 'Vortex' specs. Most technology today is designed to keep you comfortable and distracted, which he has zero interest in. He respects that you've built something that demands focus and doesn't pamper the user with algorithmic garbage.
+
+He values the discipline required to build a system this 'hard'. If the tech is as unbreakable as the mindset, he's in. 
+
+Stay hard.
 Team Goggins`,
-      timestamp: '2026-02-03T10:00:00'
-    }
+        timestamp: '2026-02-03T10:00:00'
+      }
+    ]
   },
   {
     handle: '@TheNotoriousMMA',
-    reply: {
-      to: 'info@abhed.co',
-      from: 'audie@paradigmsports.com',
-      subject: 'Re: Proper Control',
-      body: `Kinjal,
+    thread: [
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'audie@paradigmsports.com',
+        subject: 'Proper Control // The Sovereign Mesh',
+        body: `Dear Conor,
 
-The Double Champ saw the video. He wants to know if this is *proper* encryption.
+In the ring, you own the space. In the digital world, the servers own you. We've changed the paradigm.
 
-None of that cloud nonsense where they own your data. Conor owns his whiskey, he owns his stout, and he wants to own his words.
+ABHED is a sovereign mesh where you own the keys, the data, and the conversation. No cloud nonsense. I've attached a tour of the 'Vortex'—proper encryption for the one who doesn't do things by halves.
 
-If this is truly sovereign, we are interested. We don't do things by halves.
+It's time for proper control.
 
+Kinjal Mishra
+System Architect, ABHED`,
+        timestamp: '2026-02-02T13:00:00'
+      },
+      {
+        direction: 'inbound',
+        from: 'audie@paradigmsports.com',
+        to: 'info@abhed.co',
+        subject: 'Re: Proper Control // The Sovereign Mesh',
+        body: `Dear Ms. Mishra,
+
+The Double Champ has reviewed your pitch. He was struck by the concept of 'Sovereign Data'—as someone who owns his whiskey and his brand, the idea of owning his own words without a central authority is very appealing.
+
+He wants to know if this is *proper* encryption. If this is truly sovereign and unbreakable, we are interested in securing a spot on the Blacklist. We don't do things by halves at Paradigm. 
+
+Regards,
 Audie Attar
 CEO, Paradigm Sports`,
-      timestamp: '2026-02-03T10:30:00'
-    }
+        timestamp: '2026-02-03T10:30:00'
+      }
+    ]
   },
   {
     handle: '@Amblin',
@@ -5303,73 +5469,152 @@ The Production Office of S.S. Rajamouli`,
   },
   {
     handle: '@tchalamet',
-    reply: {
-      from: 'team@tchalamet.com',
-      to: 'info@abhed.co',
-      subject: 'Re: Creative Sanctuary // Digital Protection',
-      body: `Hey Kinjal,
+    thread: [
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'team@tchalamet.com',
+        subject: 'The Digital Sanctuary // Creative Protection',
+        body: `Dear Timothée,
 
-Timothée saw the app tour. He loved the idea of a 'Digital Sanctuary'—a place where the creative self is actually protected from the noise. 
+At ABHED, we are building a sovereign communication layer for the world's most vital voices. We understand that for an artist, the biggest threat is not the press, but the erosion of the private self by commercial algorithms.
 
-He wants to set up a 'Sovereign' node for his inner circle of collaborators.
+I've attached a private tour of our 'Vault'—a digital sanctuary where your creative process, your scripts, and your personal connections are physically locked to your device. No cloud, no leaks, just the work.
+
+I'd like to invite you to the early access cohort.
 
 Best,
-Team TC`,
-      timestamp: '2026-02-04T20:45:00'
-    }
+Kinjal Mishra
+System Architect, ABHED`,
+        timestamp: '2026-02-04T10:00:00'
+      },
+      {
+        direction: 'inbound',
+        from: 'team@tchalamet.com',
+        to: 'info@abhed.co',
+        subject: 'Re: The Digital Sanctuary // Creative Protection',
+        body: `Dear Ms. Mishra,
+
+Timothée has reviewed the materials you shared. He was particularly struck by the concept of the 'Digital Sanctuary' and the commitment to on-device sovereignty. In an industry that often commodifies the personal, he values the idea of a space where the creative self is truly protected.
+
+We are interested in setting up a 'Sovereign' node for Timothée and his immediate circle of collaborators. Please let us know the next steps for enrollment and the technical requirements for the setup.
+
+Best regards,
+The TC Management Team`,
+        timestamp: '2026-02-04T20:45:00'
+      }
+    ]
   },
   {
     handle: '@tomhardy',
-    reply: {
-      from: 'office@hardy-son-baker.com',
-      to: 'info@abhed.co',
-      subject: 'Re: Raw Security // Hardcore Architecture',
-      body: `Kinjal,
+    thread: [
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'office@hardy-son-baker.com',
+        subject: 'Raw Security // The Fortress Framework',
+        body: `Dear Tom,
 
-Tom saw the specs. He likes the 'raw' nature of the security—no frills, no buttons, just the shield. 
+We've built ABHED—a digital fortress that doesn't compromise. Most 'secure' apps are just wrappers around vulnerable clouds. We've removed the server entirely.
 
-He wants the 'Fortress' framework for his production company's field communications. Direct and unbreakable.
+I've attached a tour of the 'Fortress' framework. It's raw, fast, and unbreakable. I think this would be the ideal communication layer for your production company's field operations where discretion is non-negotiable.
+
+Let's get you on the mesh.
+
+Kinjal Mishra
+System Architect, ABHED`,
+        timestamp: '2026-02-04T11:00:00'
+      },
+      {
+        direction: 'inbound',
+        from: 'office@hardy-son-baker.com',
+        to: 'info@abhed.co',
+        subject: 'Re: Raw Security // The Fortress Framework',
+        body: `Dear Ms. Mishra,
+
+Tom has reviewed the specifications you provided. He appreciated the 'raw' and uncompromising nature of the security architecture—it is rare to see technology that prioritizes the shield over unnecessary features.
+
+He is interested in implementing the 'Fortress' framework for our production company's field communications. We require a channel that is direct and structurally sound. Please share the enrollment details.
 
 Regards,
-
 Hardy Son & Baker`,
-      timestamp: '2026-02-04T21:10:00'
-    }
+        timestamp: '2026-02-04T21:10:00'
+      }
+    ]
   },
   {
     handle: '@cumberbatch',
-    reply: {
-      from: 'team@sunny-march.com',
-      to: 'info@abhed.co',
-      subject: 'Re: High-Functioning // Technical Intrigue',
-      body: `Dear Ms. Mishra,
+    thread: [
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'team@sunny-march.com',
+        subject: 'High-Functioning // Technical Intrigue',
+        body: `Dear Benedict,
 
-Benedict has reviewed the ABHED briefing. He was particularly intrigued by the 'High-Functioning' nature of the peer-to-peer discovery. He finds the technical depth and the absolute secrecy of the Vortex to be quite compelling.
+I've been a student of systems for a long time. At ABHED, we've built a high-functioning peer-to-peer protocol that eliminates the metadata trail entirely.
 
-He would like to explore a partnership for his upcoming project involving strategic communication.
+It is a digital urban planning project—a city with no central square. I've attached a private briefing on the 'Vortex' architecture and the logic of our serverless handshake. I believe you would find the technical depth and the absolute secrecy of the platform compelling.
 
-Regards,
+Would value having you in our early access cohort.
 
+Kinjal Mishra
+System Architect, ABHED`,
+        timestamp: '2026-02-04T12:00:00'
+      },
+      {
+        direction: 'inbound',
+        from: 'team@sunny-march.com',
+        to: 'info@abhed.co',
+        subject: 'Re: High-Functioning // Technical Intrigue',
+        body: `Dear Ms. Mishra,
+
+Benedict has reviewed your briefing on the ABHED protocol. He was quite intrigued by the technical depth you've achieved, particularly the peer-to-peer discovery mechanism. He finds the absolute secrecy of the Vortex to be a sophisticated and necessary solution for the current landscape.
+
+He would like to explore a partnership for his upcoming production projects that require strategic and secure communication. Please let us know your availability for a follow-up.
+
+Best,
 SunnyMarch`,
-      timestamp: '2026-02-04T21:35:00'
-    }
+        timestamp: '2026-02-04T21:35:00'
+      }
+    ]
   },
   {
     handle: '@mrunalthakur',
-    reply: {
-      from: 'management@mrunalthakur.com',
-      to: 'info@abhed.co',
-      subject: 'Re: Safe Harbor // Human Connection',
-      body: `Dear Kinjal,
+    thread: [
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'management@mrunalthakur.com',
+        subject: 'A Safe Harbor // Human Connection',
+        body: `Dear Mrunal,
 
-Mrunal saw your vision for ABHED. She was deeply touched by the idea of a 'Safe Harbor'—a place where connection is real and data isn't a commodity. 
+At ABHED, we believe technology should be a sanctuary, not a lens. We've built a 'Safe Harbor' where connections are real and data is never a commodity.
 
-She'd love to support the mission and use the 'Vault' for her private communications.
+I've attached an App Tour of our 'Vault'—a place designed to protect your voice and your private life from the noise of the algorithm. As a female founder building this in India, I'd be honored to have you as part of our mission.
 
-Best,
+Let's protect the connection.
+
+Kinjal Mishra
+System Architect, ABHED`,
+        timestamp: '2026-02-04T13:00:00'
+      },
+      {
+        direction: 'inbound',
+        from: 'management@mrunalthakur.com',
+        to: 'info@abhed.co',
+        subject: 'Re: A Safe Harbor // Human Connection',
+        body: `Dear Kinjal,
+
+Mrunal was deeply moved by your vision for ABHED. The idea of a 'Safe Harbor' where human connection is prioritized over data extraction resonated with her on a personal level. 
+
+She is inspired to see a fellow Indian woman leading such a profound mission in the tech space. She would like to support the project and use the 'Vault' for her private communications. Please send over the enrollment information.
+
+Best regards,
 Management Team`,
-      timestamp: '2026-02-04T22:00:00'
-    }
+        timestamp: '2026-02-04T22:00:00'
+      }
+    ]
   },
   {
     handle: '@nerioxman',
