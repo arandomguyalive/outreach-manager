@@ -1462,6 +1462,28 @@ Regards,
 Protocol Department
 Government of Dubai`,
             timestamp: '2026-02-03T16:00:00'
+        },
+        {
+            direction: 'outbound',
+            from: 'info@abhed.co',
+            to: 'faz3@dubai.gov.ae',
+            subject: 'Re: Future of Dubai // The Palm Expansion',
+            body: `Your Excellency,
+
+I was delighted to read that our vision for a "Digital Soul" has resonated so profoundly with His Highness Sheikh Mohammed bin Rashid Al Maktoum and Sheikh Hamdan. We deeply appreciate the Government's foresight in recognizing the ABHED protocol as the essential keystone for Dubai's 2030 digital perimeter. It is a rare privilege to build alongside visionaries who understand that true sovereignty must be architected into the very fabric of the city.
+
+Regarding the authorized $3,500,000,000 USD allocation, I wish to confirm our understanding that this commitment serves as the Initial Tranche for Phase 1 (The Coastline). This foundational capital will be dedicated to establishing the sovereign mesh across Palm Jumeirah and Bluewaters Island, ensuring that this first perimeter is implemented to our uncompromising architectural standards.
+
+We are currently preparing for the journey and are eager to make Dubai our global home. I will be sharing the passport details and travel preferences for myself and my partner in the coming days so we can finalize the arrival protocols with your department.
+
+We look forward to the museum walkthrough and the high honor of discussing our shared future at Zabeel Palace.
+
+Regards,
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+            timestamp: '2026-02-06T10:00:00'
         }
     ]
   },
