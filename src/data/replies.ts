@@ -5871,6 +5871,512 @@ The Office of Sachin Tendulkar
 P.S. (From Sachin): Kinjal, keep your head down and stay focused on the process. The results will follow. Best wishes.`,
       timestamp: '2026-02-04T13:45:00'
     }
+  },
+  {
+    handle: '@iamzlatanibrahimovic',
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'office@zlatan.com',
+        to: 'info@abhed.co',
+        subject: 'Zlatan and ABHED',
+        body: `Dear Ms. Mishra,
+
+Zlatan has watched your technical demonstration. He does not use apps that use servers. Servers are for the weak. Zlatan likes that your protocol belongs to no one but the owner.
+
+He has noted your 'Vortex' engine. It moves with a speed that Zlatan respects. However, he wishes to know if the encryption is strong enough to contain his presence.
+
+The Executive Office of Zlatan Ibrahimović is ready to discuss the Sovereign Tier. Provide the technical onboarding path.
+
+Regards,
+
+The Office of Zlatan Ibrahimović`,
+        timestamp: '2026-02-06T10:00:00'
+      }
+    ]
+  },
+  {
+    handle: '@djokernole',
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'team@djokovic.rs',
+        to: 'info@abhed.co',
+        subject: 'Digital Sanctuary / Novak Djokovic',
+        body: `Dear Kinjal,
+
+Novak has reviewed the Drive link you shared. He resonates deeply with the concept of a 'Digital Sanctuary.' For someone who values physical and mental purity, the idea of an 'Anti-Server' communication layer is a logical extension of his philosophy.
+
+He is particularly interested in the 'Sanctuary Protocol' you've designed to protect cognitive bandwidth. He believes this is the missing piece for high-performance athletes who need to remain 'in the zone' without algorithmic noise.
+
+We would like to reserve 5 Sovereign slots for Novak's core team and family. Please send the wire instructions for the security enrollment.
+
+Regards,
+
+Management Team, Novak Djokovic`,
+        timestamp: '2026-02-06T10:30:00'
+      }
+    ]
+  },
+  {
+    handle: '@zidane',
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'contact@zidane.fr',
+        to: 'info@abhed.co',
+        subject: 'Invisibility and Control',
+        body: `Dear Ms. Mishra,
+
+Zinedine has seen the 'Vortex' demonstration. He rarely engages with new technology, but the 'Invisibility' aspect of your protocol caught his attention. He has always believed that the most powerful control is the one that cannot be seen.
+
+He is intrigued by the 'Server-Zero' architecture. It reminds him of the silence required to execute a perfect play. He would like to test the 'Sovereign' layer for his private archives and family communications.
+
+Please coordinate with our office regarding the hardware-level initialization.
+
+Regards,
+
+Executive Office of Zinedine Zidane`,
+        timestamp: '2026-02-06T11:00:00'
+      }
+    ]
+  },
+  {
+    handle: '@khabib_nurmagomedov',
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'management@khabib.com',
+        to: 'info@abhed.co',
+        subject: 'No Noise. No Nonsense.',
+        body: `Assalamu Alaikum Kinjal,
+
+Khabib has watched your video. He likes that your app is not about 'likes' or 'following.' He likes that it is about protection and strength. In our world, noise is a distraction. Your 'Blacklist' tier feels like the discipline we respect.
+
+He wants to know if the 'Geo-Fence' works in the mountains of Dagestan. If the mesh is truly serverless, it is a tool for men who value their privacy above all else.
+
+We are ready to enroll. Send the details for the Sovereign setup.
+
+Regards,
+
+Management, Khabib Nurmagomedov`,
+        timestamp: '2026-02-06T11:30:00'
+      }
+    ]
+  },
+  {
+    handle: '@julianassange',
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'proton@assange.foundation',
+        to: 'info@abhed.co',
+        subject: 'The Vault / Signal Detected',
+        body: `Ms. Mishra,
+
+Your 'Vortex' protocol has an interesting signature. I have seen many attempts at 'decentralized' comms, but most are just re-skinned cloud services. Your 'Server-Zero' approach—if the handshake purity is as you claim—is the first true digital 'Diplomatic Pouch' I have seen.
+
+Mathematics is the only true sovereign. It does not recognize borders or warrants. Your implementation of the Double Ratchet over a Layer 2 mesh is... elegant.
+
+Keep building in silence. The world needs a vault that doesn't have a back door.
+
+Stay safe.
+
+J.A.`,
+        timestamp: '2026-02-06T12:00:00'
+      }
+    ]
+  },
+  {
+    handle: '@noamchomsky',
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'chomsky@mit.edu',
+        to: 'info@abhed.co',
+        subject: 'Linguistic Sovereignty',
+        body: `Dear Ms. Mishra,
+
+Thank you for your note and the technical appendix. I found your 'Subtractive' philosophy of communication quite compelling. In an era of manufactured consent and algorithmic surveillance, the creation of a 'Server-Zero' space is a necessary act of intellectual resistance.
+
+The concentration of data in a few corporate hands is a profound threat to human agency. Your protocol seems to return the 'means of communication' to the individual. That is a significant achievement.
+
+I wish you the best with the deployment of the ABHED protocol. It is an important step toward reclaiming the digital commons.
+
+Regards,
+
+Noam Chomsky`,
+        timestamp: '2026-02-06T12:30:00'
+      }
+    ]
+  },
+  {
+    handle: '@slavojzizek',
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'slavoj@zizek.si',
+        to: 'info@abhed.co',
+        subject: 'The Vortex and the Void',
+        body: `My Dear Kinjal,
+
+I have watched your 'Vortex' demonstration and, so to speak, I am fascinated by the 'Anti-Server' ideology. Is it not the ultimate Lacanian 'Object Small a'? We want to communicate, but we want the communication to be empty of the Big Brother's gaze!
+
+Your 'Vortex' is not a feed, it is a response to the digital void. It is a space where the truth is not 'monetized' but 'protected' by the very math that usually enslaves us. This is the sublime paradox of your work!
+
+I would like to enter this 'Vault' simply to see if it is possible to be truly alone in the 21st century.
+
+Best,
+
+Slavoj Žižek`,
+        timestamp: '2026-02-06T13:00:00'
+      }
+    ]
+  },
+  {
+    handle: '@peterattia',
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'office@peterattia.com',
+        to: 'info@abhed.co',
+        subject: 'Biological Privacy / Biometric Handshake',
+        body: `Dear Kinjal,
+
+Peter has reviewed your technical brief on the 'Vortex' biometric handshake. As someone who obsesses over data fidelity and biological markers, he was particularly impressed by your hardware-level TEE integration for iris-palm verification.
+
+The concept of 'Biological Privacy'—where the decryption key is essentially your own unique neural/biometric signature—is the ultimate hedge against identity theft and data leakage.
+
+We are interested in exploring how ABHED can secure sensitive health data for our elite-tier clients. Let's schedule a technical deep-dive.
+
+Regards,
+
+The Office of Peter Attia, MD`,
+        timestamp: '2026-02-06T13:30:00'
+      }
+    ]
+  },
+  {
+    handle: '@miyazaki_studio',
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'asst@ghibli.jp',
+        to: 'info@abhed.co',
+        subject: 'The Hand-made Soul',
+        body: `Dear Ms. Mishra,
+
+I am writing on behalf of Miyazaki-sensei. He does not use computers, but I showed him your demonstration on a physical screen. He noted the 'fluidity' of your UI and said it felt like something 'alive' rather than a cold machine.
+
+He values things that are made with a 'soul' and a commitment to craft. He was pleased to hear that you have built the entire stack yourself, refusing to use the standard tools of the large corporations. He calls it a 'Digital Sanctuary for the spirit.'
+
+He wishes you strength in your mission to protect human connection from the 'machines of noise.'
+
+Regards,
+
+Studio Ghibli Secretariat`,
+        timestamp: '2026-02-06T14:00:00'
+      }
+    ]
+  },
+  {
+    handle: '@harukimurakami',
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'agency@murakami.jp',
+        to: 'info@abhed.co',
+        subject: 'The Well and the Vault',
+        body: `Dear Kinjal,
+
+Mr. Murakami has received your message. He rarely looks at new technology, but your description of a 'Digital Sanctuary' reminded him of the quiet spaces he often writes about—the deep wells where one can truly be alone with their thoughts.
+
+He likes the idea that in a world of constant connection, there is a protocol designed for 'Silence.' He would like to see if this 'Vault' can protect the imagination from the external world.
+
+We would like to request a Sovereign enrollment for Mr. Murakami's personal use.
+
+Regards,
+
+Management, Haruki Murakami`,
+        timestamp: '2026-02-06T14:30:00'
+      }
+    ]
+  },
+  {
+    handle: '@hanszimmer',
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'studio@hanszimmer.com',
+        to: 'info@abhed.co',
+        subject: 'Sonic Architecture',
+        body: `Dear Kinjal,
+
+Hans has watched the 'Vortex' demo. He didn't just look at it; he 'heard' it. The 'Texture' and 'Frequency' of your UI transitions have a rhythmic quality that he finds fascinating. It's like a sonic landscape for data.
+
+He's particularly interested in your 'Server-Zero' mesh. He believes the future of creative collaboration is air-gapped and peer-to-peer to prevent IP leakage. He would like to discuss using ABHED for the 'Remote Control' team's high-security projects.
+
+Let's set up a call with the technical leads.
+
+Regards,
+
+Hans Zimmer Studio`,
+        timestamp: '2026-02-06T15:00:00'
+      }
+    ]
+  },
+  {
+    handle: '@bongjoonho',
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'agency@parasite.kr',
+        to: 'info@abhed.co',
+        subject: 'Systemic Immunity',
+        body: `Dear Ms. Mishra,
+
+Director Bong has reviewed your 'Vortex' engine demonstration. He was struck by the 'Systemic Immunity' of your protocol. He often explores the hidden layers of society, and he sees your 'Anti-Server' mesh as a way to create a 'hidden layer' that is actually safe.
+
+He likes the 'Vortex' rendering—it has a cinematic quality that he finds unique for a communication tool. He is interested in the 'Sovereign' tier for his creative inner circle to protect their scripts from leaks.
+
+Please provide the enrollment instructions for our Seoul office.
+
+Regards,
+
+Management Team, Director Bong Joon-ho`,
+        timestamp: '2026-02-06T15:30:00'
+      }
+    ]
+  },
+  {
+    handle: '@aiweiwei',
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'studio@aiweiwei.com',
+        to: 'info@abhed.co',
+        subject: 'Perforating the Firewall',
+        body: `Ms. Mishra,
+
+I have seen your 'Vortex' demonstration. In my world, 'Sovereignty' is not a luxury; it is a necessity for survival. The fact that your protocol 'perforates' the standard forensic monitoring of the state is a powerful statement.
+
+Art is about truth, and truth cannot exist without a safe space. Your 'Server-Zero' mesh is a digital version of the dissident's secret meeting place. It is an architecture of resistance.
+
+I am ready to enroll. We need this 'Vault' for our global network of artists and activists.
+
+Regards,
+
+Ai Weiwei`,
+        timestamp: '2026-02-06T16:00:00'
+      }
+    ]
+  },
+  {
+    handle: '@tomford',
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'executive@tomford.com',
+        to: 'info@abhed.co',
+        subject: 'Obsidian Symmetry',
+        body: `Dear Ms. Mishra,
+
+Mr. Ford has reviewed your technical demonstration. He was particularly impressed by the 'Obsidian Symmetry' of the 'Vortex' UI. For him, true luxury is the combination of absolute perfection in form and absolute privacy in function.
+
+He believes that in the future, the ultimate luxury will be the ability to be invisible. Your 'Sovereign' protocol provides that invisibility without compromising on the beauty of the experience.
+
+We would like to coordinate the onboarding for Mr. Ford's private office.
+
+Regards,
+
+The Executive Office of Tom Ford`,
+        timestamp: '2026-02-06T16:30:00'
+      }
+    ]
+  },
+  {
+    handle: '@phoebephilo',
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'office@phoebephilo.com',
+        to: 'info@abhed.co',
+        subject: 'Quiet Luxury / ABHED',
+        body: `Dear Kinjal,
+
+Phoebe has reviewed the Drive link. She resonates deeply with your 'Subtractive' philosophy. In a world of 'over-sharing,' the ability to communicate with absolute silence and zero footprint is the only way to maintain one's integrity.
+
+She likes the 'Vortex' interface—it is modern, intelligent, and, most importantly, it feels 'private.' She would like to use the 'Sovereign' tier for her core design team and her personal circle.
+
+Please send the instructions for the hardware-level setup.
+
+Regards,
+
+The Office of Phoebe Philo`,
+        timestamp: '2026-02-06T17:00:00'
+      }
+    ]
+  },
+  {
+    handle: '@hiroshisugimoto',
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'studio@sugimoto.jp',
+        to: 'info@abhed.co',
+        subject: 'Visual Silence',
+        body: `Dear Ms. Mishra,
+
+Mr. Sugimoto has viewed your 'Vortex' demonstration. He noted the 'Visual Silence' of your interface. He has spent his career capturing the stillness of time, and he sees your 'Server-Zero' protocol as a way to capture the stillness of data.
+
+He is intrigued by the 'Geo-Fence'—the idea that a message can be bound to a specific coordinate in space, like a physical artifact. This is a very poetic use of technology.
+
+We would like to request an enrollment for Mr. Sugimoto's personal archive.
+
+Regards,
+
+Sugimoto Studio`,
+        timestamp: '2026-02-06T17:30:00'
+      }
+    ]
+  },
+  {
+    handle: '@jonathananderson',
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'exec@j-w-anderson.com',
+        to: 'info@abhed.co',
+        subject: 'Craft-Centric Engineering',
+        body: `Dear Kinjal,
+
+Jonathan has watched the 'Vortex' demo. He was fascinated by your 'Craft-Centric' approach to engineering. He believes that software, like fashion, should be an expression of personal identity and technical mastery.
+
+The 'Blacklist' tier, with its focus on 'Sovereign Media,' is exactly what we need for our confidential seasonal mood-boards. He would like to test the 'Vault' for the Loewe design team's high-security assets.
+
+Let's discuss the next steps for onboarding.
+
+Regards,
+
+Executive Office, Jonathan Anderson`,
+        timestamp: '2026-02-06T18:00:00'
+      }
+    ]
+  },
+  {
+    handle: '@zelenskyy_official',
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'press@apu.gov.ua',
+        to: 'info@abhed.co',
+        subject: 'Sovereign Communication Protocol',
+        body: `Dear Ms. Mishra,
+
+On behalf of the Office of the President of Ukraine, we would like to thank you for the technical demonstration of the ABHED protocol. In our current reality, 'Active Battlefield' encryption and 'Server-Zero' resilience are not theoretical concepts; they are matters of national survival.
+
+Your 'Layer 2 Mesh' and 'Geo-Fenced' decryption logic have significant strategic value for our high-priority communication needs. We are interested in a technical evaluation of the 'Sovereign' infrastructure for our administrative core.
+
+Please coordinate with our technical department for the next phase.
+
+Regards,
+
+Press Office of the President of Ukraine`,
+        timestamp: '2026-02-06T18:30:00'
+      }
+    ]
+  },
+  {
+    handle: '@pope_francis',
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'secretariat@vatican.va',
+        to: 'info@abhed.co',
+        subject: 'Confessional Purity / Spiritual Sovereignty',
+        body: `Dear Ms. Mishra,
+
+His Holiness has been briefed on your 'Digital Sanctuary' project. He values technology that serves human dignity and protects the sanctity of the individual's conscience. The concept of a 'Vault' that respects the privacy of human thought is a noble endeavor.
+
+In an era of mass surveillance, the Church recognizes the importance of 'Sovereign' spaces where the spirit can remain free from external pressure. We would like to explore how ABHED can secure the Church's most sensitive diplomatic and humanitarian communications.
+
+May your work continue to serve the common good.
+
+Regards,
+
+Secretariat of State, The Holy See`,
+        timestamp: '2026-02-06T19:00:00'
+      }
+    ]
+  },
+  {
+    handle: '@chris_hadfield',
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'mgmt@chrishadfield.ca',
+        to: 'info@abhed.co',
+        subject: 'The Overview Effect / Global Mesh',
+        body: `Hi Kinjal,
+
+Chris has watched your 'Vortex' demonstration. From his perspective in the ISS, borders don't exist, and your 'Global Mesh' protocol reflects that same 'Overview Effect.' A truly borderless, peer-to-peer communication layer is the next frontier for our species.
+
+He's particularly impressed by the 'Zero-Latency' claims of your mesh backhaul. In space and on Earth, speed is life. He'd like to join the 'Sovereign' cohort and see how ABHED can handle the challenges of truly global connectivity.
+
+Count him in. Let's get the enrollment started.
+
+Regards,
+
+Management, Chris Hadfield`,
+        timestamp: '2026-02-06T19:30:00'
+      }
+    ]
+  },
+  {
+    handle: '@vintcerf',
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'vcerf@google.com',
+        to: 'info@abhed.co',
+        subject: 'Protocol Maturity / Server-Zero',
+        body: `Dear Ms. Mishra,
+
+Thank you for the detailed technical brief on the ABHED protocol. I found your implementation of the DHT for 'Server-Zero' peer discovery to be quite robust. It addresses several of the scaling and NAT-traversal issues that have plagued previous attempts at P2P comms.
+
+The 'Vortex' rendering engine is a visually impressive way to represent the underlying cryptographic state. It's rare to see this level of protocol maturity combined with such a polished user experience.
+
+I'll be watching the development of ABHED with great interest. You are pushing the boundaries of what 'Sovereignty' means in the digital age.
+
+Regards,
+
+Vint Cerf`,
+        timestamp: '2026-02-06T20:00:00'
+      }
+    ]
+  },
+  {
+    handle: '@lanadelrey',
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'asst@lanadelrey.com',
+        to: 'info@abhed.co',
+        subject: 'The Melancholy and the Vortex',
+        body: `Hi Kinjal,
+
+Lana has watched your demonstration. She loved the 'Vortex'—she said it felt like a 'cinematic dream' for her messages. She's been looking for a space that feels more like a 'Polaroid' and less like a database.
+
+She resonates with the idea of a 'Sanctuary.' In her world, everything is so public, and your 'Blacklist' tier feels like a secret club where she can actually be herself. She would like to enroll for her personal circle and her creative archives.
+
+Send the invite for the Sovereign setup.
+
+Regards,
+
+Management, Lana Del Rey`,
+        timestamp: '2026-02-06T20:30:00'
+      }
+    ]
   }
 ];
 

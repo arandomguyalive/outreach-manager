@@ -1209,4 +1209,26 @@ Malala Yousafzai	Humanitarian	UK	English	Nobel Laureate	@malala	Titan	info@malal
 George Lucas	Arts	USA	English	Film/Tech	@lucasfilm	Titan	office@lucasfilm.com
 James Dyson	Biz	UK	English	Engineering/Dyson	@jamesdyson	Titan	office@dyson.com
 Dolly Parton	Arts	USA	English	Music/Legend	@dollyparton	Titan	management@dollyparton.com
-Sachin Tendulkar	Sports	India	English	Cricket/Legend	@sachin_rt	Titan	office@sachintendulkar.com`;
+Sachin Tendulkar	Sports	India	English	Cricket/Legend	@sachin_rt	Titan	office@sachintendulkar.com
+Zlatan Ibrahimović	Sports	Sweden	English	Football/Legend	@iamzlatanibrahimovic	Titan	office@zlatan.com
+Novak Djokovic	Sports	Serbia	English	Tennis/Legend	@djokernole	Titan	team@djokovic.rs
+Zinedine Zidane	Sports	France	English	Football/Legend	@zidane	Titan	contact@zidane.fr
+Khabib Nurmagomedov	Sports	Russia	English	MMA/Legend	@khabib_nurmagomedov	Titan	management@khabib.com
+Julian Assange	Geopolitics	Australia	English	Privacy/Legend	@julianassange	Titan	proton@assange.foundation
+Noam Chomsky	Linguistics	USA	English	Philosophy/Legend	@noamchomsky	Titan	chomsky@mit.edu
+Slavoj Žižek	Philosophy	Slovenia	English	Philosophy/Legend	@slavojzizek	Titan	slavoj@zizek.si
+Dr. Peter Attia	Health	USA	English	Longevity/Pro	@peterattia	Titan	office@peterattia.com
+Hayao Miyazaki	Arts	Japan	Japanese	Anime/Legend	@miyazaki_studio	Titan	asst@ghibli.jp
+Haruki Murakami	Arts	Japan	Japanese	Author/Legend	@harukimurakami	Titan	agency@murakami.jp
+Hans Zimmer	Arts	Germany	English	Music/Legend	@hanszimmer	Titan	studio@hanszimmer.com
+Bong Joon-ho	Arts	South Korea	Korean	Director/Legend	@bongjoonho	Titan	agency@parasite.kr
+Ai Weiwei	Arts	China	English	Art/Dissident	@aiweiwei	Titan	studio@aiweiwei.com
+Tom Ford	Arts	USA	English	Fashion/Legend	@tomford	Titan	executive@tomford.com
+Phoebe Philo	Arts	UK	English	Fashion/Legend	@phoebephilo	Titan	office@phoebephilo.com
+Hiroshi Sugimoto	Arts	Japan	English	Art/Legend	@hiroshisugimoto	Titan	studio@sugimoto.jp
+Jonathan Anderson	Arts	UK	English	Fashion/Legend	@jonathananderson	Titan	exec@j-w-anderson.com
+Volodymyr Zelenskyy	Geopolitics	Ukraine	English	Statecraft/Legend	@zelenskyy_official	Titan	press@apu.gov.ua
+Pope Francis	Religion	Vatican City	English	Spiritual/Legend	@pope_francis	Titan	secretariat@vatican.va
+Chris Hadfield	Science	Canada	English	Astronaut/Legend	@chris_hadfield	Titan	mgmt@chrishadfield.ca
+Vint Cerf	Tech	USA	English	Internet/Legend	@vintcerf	Titan	vcerf@google.com
+Lana Del Rey	Arts	USA	English	Music/Legend	@lanadelrey	Titan	asst@lanadelrey.com`;
