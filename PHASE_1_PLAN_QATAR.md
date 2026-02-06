@@ -12,40 +12,54 @@ Following the decree from **His Highness Sheikh Tamim bin Hamad Al Thani**, this
 
 ---
 
-## 2. Strategic Foundation: The QAR 2.9B Sovereign Grant
-The initial allocation of **QAR 2,915,000,000** will be utilized to anchor the following infrastructure:
-*   **Central Command Cluster:** Deployment of a liquid-cooled, hardware-hardened Ghost Node cluster at Raffles Doha.
-*   **Diwan Mesh Layer:** Establishing a dedicated Layer 2 backhaul within the Amiri Diwan walls, physically severed from the public internet.
-*   **VVIP Sovereign Units:** Hardware-level initialization of the first 100 secure nodes for His Highness and the Senior Cabinet.
+## 2. Infrastructure & Transport Layer: The Ghost Node Grid
+To achieve zero-leakage communication within the Diwan, we will bypass all commercial telecommunications infrastructure.
+
+*   **Secure RF Blanketing:** Utilization of a dedicated **Private 5G / mmWave** slice combined with **Wi-Fi 7 (802.11be)** mesh fabric for indoor-to-outdoor seamless handovers.
+*   **Ghost Node Clusters:** Deployment of 150 hardware-hardened **Edge Compute Nodes (ECNs)**. These units are equipped with **Hardware Security Modules (HSMs)** and are designed for "Volatile Persistence"—holding encrypted data only in RAM.
+*   **Quantum-Resistant Backhaul:** ECNs will be integrated with the State's private fiber network using **Quantum Key Distribution (QKD)** ready optics, ensuring the backbone remains secure against future compute threats.
 
 ---
 
-## 3. Technical Objectives: Forensic Immunity & Geo-Fencing
-Phase I focuses on proving the protocol's "Diplomatic Pouch" capability:
-*   **RF Signature Binding:** Decryption keys will be cryptographically bound to the unique RF environment of the Diwan, preventing data extraction outside the safe zone.
-*   **Metadata Scrubbing:** Implementation of the **Zero-Metadata Wrapper** for all cross-border diplomatic traffic, ensuring origin/destination anonymity.
-*   **Local Handshake Verification:** Finalizing the iris-palm biometric handshake logic, executed strictly within the device's **TEE (Trusted Execution Environment)**.
+## 3. Cryptographic Geo-Parameters: The Diplomatic Pouch
+The "Diplomatic Pouch" is a protocol-level enforcement of the Vienna Convention, applied to digital packets.
+
+*   **RF Signature Binding:** Decryption keys are derived using the unique **Signal Intelligence (SIGINT)** signature of the Diwan. This includes multi-path interference patterns and local RF noise levels that are impossible to replicate outside the perimeter.
+*   **The Zero-Metadata Wrapper:** All traffic is encapsulated in a cryptographic shroud that scrubs TTL, packet size, and timing patterns, preventing state-level adversaries from performing traffic analysis.
+*   **Biometric-TEE Handshake:** Authentication requires a dual-factor biometric verification (Iris/Palm) processed exclusively within the device’s **Trusted Execution Environment (TEE)**. The private keys never leave the hardware's secure enclave.
 
 ---
 
-## 4. Immediate Implementation Roadmap (10 Weeks)
+## 4. The 10-Week Implementation Roadmap
 
-### Block 1: Audit & Calibration (Weeks 1-3)
-*   **Action:** Technical walkthrough of the Diwan perimeters with State Security to map signal density and identify potential SIGINT leakage points.
-*   **Objective:** Zero-Dead-Zone calibration for the Sovereign Mesh.
+### Block 1: RF Mapping & SIGINT Audit (Weeks 1-2)
+*   **Action:** Technical walkthrough of the Diwan perimeters using Software Defined Radios (SDR) to map signal density.
+*   **Objective:** Identify and neutralize potential SIGINT leakage points and calibrate the "Safe Zone" boundaries.
 
-### Block 2: Infrastructure Hardening (Weeks 4-7)
-*   **Action:** Deployment of the **Keystone** units and integration with private government fiber.
-*   **Objective:** Establishing the first air-gapped node network.
+### Block 2: Keystone Node Deployment (Weeks 3-5)
+*   **Action:** Installation of the **Primary Keystone Cluster** at Raffles Doha and the Diwan's utility hubs.
+*   **Objective:** Establishing the first air-gapped Layer 2 mesh backhaul and integrating with private government fiber.
 
-### Block 3: Verification & Handover (Weeks 8-10)
-*   **Action:** Stress-testing the handshake under simulated state-level jamming. Onboarding of the primary VVIP users.
+### Block 3: Metadata Scrubbing & DHT Tuning (Weeks 6-8)
+*   **Action:** Configuration of the **Distributed Hash Table (DHT)** for decentralized peer discovery within the mesh.
+*   **Objective:** Optimization for <150ms handshake latency under high-load diplomatic scenarios.
+
+### Block 4: VVIP Onboarding & Stress Testing (Weeks 9-10)
+*   **Action:** Hardware-level initialization of the first 100 Sovereign Units for His Highness and the Senior Cabinet.
+*   **Objective:** Validating the handshake under simulated state-level jamming.
 *   **Status:** **DIPLOMATIC FORTRESS ACTIVE.**
 
 ---
 
-## 5. Personnel & Security Mandate
-The ABHED Duo (Kinjal & Roy) maintains exclusive control over the core cryptographic primitives. Physical installation and Layer 1 support will be facilitated by the Amiri Guard’s technical department under direct supervision.
+## 5. Personnel & Operational Mandate
+
+### The Core Duo (Kinjal Mishra & Roy)
+The ABHED internal core is a closed-loop system. Kinjal and Roy operate as a unified team, maintaining exclusive control over the cryptographic primitives:
+*   **Protocol Logic:** C++/Rust implementation of the mesh networking and metadata scrubbing layers.
+*   **Encryption Gating:** Implementation of the RF Signature Binding and TEE-level handshake.
+
+### State Logistics (Amiri Guard)
+The Amiri Guard’s technical department will facilitate **Layer 1** logistics: physical installation of ECNs, fiber routing, and RF spectrum licensing. The Duo remains the sole custodians of the decryption logic and system keys.
 
 ---
 
