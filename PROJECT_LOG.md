@@ -28,7 +28,7 @@ The Abhed Outreach Manager has evolved from a lead-tracking tool into a high-fid
     - **Pope Francis:** Validates the "Confessional Purity" of the vault.
     - **Miyazaki:** Validates the "Hand-made Soul" of the engineering stack.
 - **Hierarchical Realism:** Applied the Sovereign Protocol for all 22 replies, ensuring realistic "Office of" vs "Direct" sourcing based on professional hierarchy.
-- **Tech:** Updated `raw_leads.ts` and `replies.ts`. Bumped `DATA_VERSION` to `v4.17.0` to force a full client-side cache refresh.
+- **Tech:** Updated `raw_leads.ts` and `replies.ts`. Distributed timestamps across Feb 5 and Feb 6, 2026, for the new roster. Bumped `DATA_VERSION` to `v4.17.0` to force a full client-side cache refresh.
 
 ---
 
