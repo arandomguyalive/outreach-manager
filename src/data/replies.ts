@@ -3283,11 +3283,13 @@ Cindy`,
 
   {
     handle: '@barackobama',
-    reply: {
-      to: 'info@abhed.co',
-      from: 'info@obama.org',
-      subject: 'Re: The Digital Public Square',
-      body: `Dear Kinjal,
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'info@obama.org',
+        to: 'info@abhed.co',
+        subject: 'Re: The Digital Public Square',
+        body: `Dear Kinjal,
 
 President Obama has reviewed the materials regarding the ABHED protocol.
 
@@ -3297,8 +3299,29 @@ He is impressed by your commitment to building "Civic Code"—technology that se
 
 Sincerely,
 Office of Barack and Michelle Obama`,
-      timestamp: '2026-01-30T09:15:00'
-    }
+        timestamp: '2026-01-30T09:15:00'
+      },
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'info@obama.org',
+        subject: 'Re: The Digital Public Square // Civic Code',
+        body: `Dear Office of the President,
+
+It is an honor to receive President Obama’s validation of ABHED as "Civic Code." We share the belief that for democracy to function, there must be private, un-indexed spaces where citizens can speak without the pressure of commercial or state surveillance.
+
+While we are fixing the Public Square through open dialogue, we must also architect the Private Square through secure code. ABHED provides the technical safeguard for the civil liberties that are increasingly under threat in the digital age.
+
+I would be delighted to include our "Anti-Server" architecture in your briefing on future-proof digital rights. I look forward to contributing to this vital conversation.
+
+Regards,
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-09T11:25:00'
+      }
+    ]
   },
   {
     handle: '@leonardodicaprio',
@@ -5378,11 +5401,13 @@ Amjad`,
   },
   {
     handle: '@nayibbukele',
-    reply: {
-      from: 'presidencia@presidencia.gob.sv',
-      to: 'info@abhed.co',
-      subject: 'Re: The Mesh Nation // Sovereign Infrastructure',
-      body: `Dear Ms. Mishra,
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'presidencia@presidencia.gob.sv',
+        to: 'info@abhed.co',
+        subject: 'Re: The Mesh Nation // Sovereign Infrastructure',
+        body: `Dear Ms. Mishra,
 
 His Highness (Wait, no... President) Nayib Bukele has reviewed the 'Sovereign Mesh' proposal. 
 
@@ -5394,16 +5419,39 @@ Regards,
 
 Secretariat of the Presidency
 Republic of El Salvador`,
-      timestamp: '2026-02-04T16:20:00'
-    }
+        timestamp: '2026-02-04T16:20:00'
+      },
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'presidencia@presidencia.gob.sv',
+        subject: 'Re: The Mesh Nation // Sovereign Infrastructure',
+        body: `Dear Mr. President,
+
+It is an honor to receive your validation. You are correct—a nation that relies on foreign servers is merely a tenant in someone else's digital house. ABHED is designed to be the "Sovereign Border" for the digital age, returning the means of communication to the individual and the state.
+
+We are eager to explore how ABHED can serve as the national communication layer for El Salvador’s 2030 digital mandate. By implementing a "Server-Zero" architecture, you can ensure that your citizens’ data never leaves your jurisdiction, minting a new kind of digital citizenship.
+
+I look forward to discussing the implementation of the "Mesh Nation" backbone with your team.
+
+Regards,
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-09T11:05:00'
+      }
+    ]
   },
   {
     handle: '@leehsienloong',
-    reply: {
-      from: 'pmo_hq@pmo.gov.sg',
-      to: 'info@abhed.co',
-      subject: 'Re: Critical National Utility // Smart Nation 2.0',
-      body: `Ms. Mishra,
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'pmo_hq@pmo.gov.sg',
+        to: 'info@abhed.co',
+        subject: 'Re: Critical National Utility // Smart Nation 2.0',
+        body: `Ms. Mishra,
 
 The Prime Minister’s Office acknowledges receipt of the ABHED protocol overview.
 
@@ -5415,16 +5463,39 @@ Regards,
 
 Private Secretary to the Prime Minister
 Singapore`,
-      timestamp: '2026-02-04T16:45:00'
-    }
+        timestamp: '2026-02-04T16:45:00'
+      },
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'pmo_hq@pmo.gov.sg',
+        subject: 'Re: Critical National Utility // Smart Nation 2.0',
+        body: `Dear Private Secretary,
+
+I acknowledge receipt of your briefing request. In Singapore, you have correctly identified that privacy is a critical national utility. As you transition to Smart Nation 2.0, the "Ghost Node" architecture of ABHED offers a sophisticated solution for securing your infrastructure against external interference while maintaining the technical velocity you are known for.
+
+I accept your invitation for a formal briefing with the Smart Nation and Digital Government Group (SNDGG). I am eager to demonstrate how our peer-to-peer handshake and "Zero-Trust Trust" infrastructure can integrate into your strategic roadmap for digital sovereignty.
+
+Please coordinate the scheduling for our briefing through the standard diplomatic channels.
+
+Regards,
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-09T11:20:00'
+      }
+    ]
   },
   {
     handle: '@paulkagame',
-    reply: {
-      from: 'office@presidency.gov.rw',
-      to: 'info@abhed.co',
-      subject: 'Re: Infrastructure Leapfrog // African Union',
-      body: `Dear Ms. Mishra,
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'office@presidency.gov.rw',
+        to: 'info@abhed.co',
+        subject: 'Re: Infrastructure Leapfrog // African Union',
+        body: `Dear Ms. Mishra,
 
 President Paul Kagame has seen the potential of the ABHED protocol to leapfrog traditional, expensive internet infrastructure. 
 
@@ -5434,16 +5505,39 @@ Regards,
 
 The President’s Office
 Kigali, Rwanda`,
-      timestamp: '2026-02-04T17:05:00'
-    }
+        timestamp: '2026-02-04T17:05:00'
+      },
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'office@presidency.gov.rw',
+        subject: 'Re: Infrastructure Leapfrog // African Union',
+        body: `Dear Mr. President,
+
+I am pleased to receive your interest in the ABHED protocol. Africa has the unique opportunity to bypass the legacy of centralized, extractive data models and leapfrog directly into Digital Sovereignty. By starting with a "Server-Zero" architecture, Rwanda can lead the continent in building infrastructure that respects the dignity of its citizens from Day 1.
+
+We are prepared to initiate the pilot deployment for the Rwandan administrative core. Our "Sovereign Node" framework will ensure that your internal communications are air-gapped and entirely within your control, providing a robust foundation for your digital growth.
+
+I look forward to coordinating the next steps with your office in Kigali.
+
+Regards,
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-09T11:15:00'
+      }
+    ]
   },
   {
     handle: '@jmilei',
-    reply: {
-      from: 'privada@presidencia.gob.ar',
-      to: 'info@abhed.co',
-      subject: 'Re: Digital Freedom // Anarcho-Capitalist Network',
-      body: `¡Libertad, carajo!
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'privada@presidencia.gob.ar',
+        to: 'info@abhed.co',
+        subject: 'Re: Digital Freedom // Anarcho-Capitalist Network',
+        body: `¡Libertad, carajo!
 
 President Javier Milei has reviewed the 'Serverless' protocol. A network with no central authority is the ultimate expression of individual freedom. 
 
@@ -5453,8 +5547,29 @@ Afuera with the servers!
 
 Office of the President
 Argentine Republic`,
-      timestamp: '2026-02-04T17:30:00'
-    }
+        timestamp: '2026-02-04T17:30:00'
+      },
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'privada@presidencia.gob.ar',
+        subject: 'Re: Digital Freedom // Anarcho-Capitalist Network',
+        body: `Dear Mr. President,
+
+The individual is the ultimate sovereign. I read your response with great alignment; ABHED was built on the principle that freedom requires the total removal of central authority. By eliminating the server, we eliminate the "Permission Layer" that the state and global monopolies use to index and control human thought.
+
+We are ready to demonstrate how ABHED can liberate the citizens of the Argentine Republic from digital surveillance. Our "Anti-Server" protocol is the technical manifestation of "¡Libertad, carajo!"—where the code itself prevents the overreach of any central power.
+
+Afuera with the servers. Let’s build the network of the free.
+
+Regards,
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-09T11:10:00'
+      }
+    ]
   },
   {
     handle: '@gwynneshotwell',
@@ -6409,6 +6524,26 @@ Regards,
 
 Press Office of the President of Ukraine`,
         timestamp: '2026-02-06T15:15:00'
+      },
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'press@apu.gov.ua',
+        subject: 'Re: Sovereign Communication Protocol // Strategic Resilience',
+        body: `Dear Office of the President,
+
+I acknowledge your interest in the ABHED protocol. In a theater where infrastructure is a primary target, "Server-Zero" resilience is indeed a requirement for national survival, not a luxury. We designed the "Fortress" framework specifically for environments where the central node cannot be trusted or does not exist.
+
+We are prepared to facilitate a technical evaluation for your administrative core. Our protocol ensures that sensitive strategic data remains physically bound to the device and the specific geographic coordinates of your choosing, providing a "Digital Pouch" that is immune to standard signal interception.
+
+I look forward to coordinating the secure briefing with your technical department to assist in your mission for national sovereignty.
+
+Regards,
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-09T11:00:00'
       }
     ]
   },
