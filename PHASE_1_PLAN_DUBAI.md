@@ -74,4 +74,87 @@ This plan moves ABHED from a digital application to a **Sovereign Physical Layer
 **"History is written by the victors. The future is built by the architects."**
 
 ---
+
+## 7. Technical Schematics & Architecture Diagrams
+
+### 7.1. Coastline Mesh Topology (Palm Jumeirah / Bluewaters)
+
+```mermaid
+graph LR
+    subgraph "Anchor Cluster (Atlantis The Royal)"
+        AC[KMS Anchor Root] --- DF1[Dark Fiber Backbone]
+    end
+
+    subgraph "Coastline Sovereign Mesh"
+        DF1 --- ECN1[ECN Frond 01]
+        DF1 --- ECN2[ECN Frond 02]
+        DF1 --- ECN3[ECN Bluewaters]
+        
+        ECN1 --- ECN4[ECN Frond 03]
+        ECN2 --- ECN5[ECN Frond 04]
+        ECN3 --- ECN6[ECN Marina Gate]
+        
+        ECN4 --- ECN5
+        ECN5 --- ECN6
+    end
+
+    subgraph "Client Tier (Sovereign Unit)"
+        SU[Resident Device] -.-> |PoL Multi-Lateration| ECN1
+        SU -.-> |PoL Multi-Lateration| ECN2
+        SU -.-> |PoL Multi-Lateration| ECN4
+    end
+
+    style AC fill:#000,stroke:#EB7955,stroke-width:4px,color:#fff
+    style DF1 stroke:#EB7955,stroke-width:2px
+    style ECN1 fill:#1a1a1a,stroke:#00D4E5,color:#fff
+    style ECN2 fill:#1a1a1a,stroke:#00D4E5,color:#fff
+    style SU fill:#FF53B2,stroke:#fff,color:#fff
+```
+
+### 7.2. Hardware Schematic: Edge Compute Node (Unit C-1)
+
+```text
+[ EDGE COMPUTE NODE C-1: COASTLINE SPEC ]
+__________________________________________________________
+|                                                        |
+|   [ Wi-Fi 7 ARRAY ] <---- MIMO Phased Array Antenna    |
+|        |                                               |
+|   [ HSM MODULE ] <---- Geo-Parameter Salt Generator    |
+|        |                                               |
+|   [ VOLATILE L3 CACHE ] <---- 128GB RAM (Asynchronous) |
+|        |               (Kernel-Purge Trigger Ready)    |
+|        |                                               |
+|   [ TEE PROCESSOR ] <---- Multi-Lateration Engine      |
+|        |                                               |
+|   [ DARK FIBER I/O ] <---- 100Gbps Backbone Link       |
+|________________________________________________________|
+          |                      |
+    [ DEWA GRID ]          [ FROND UTILITY ]
+      Main Power             Mounting Bracket
+```
+
+### 7.3. Cryptographic Gating: Proof of Location (PoL)
+
+```mermaid
+sequenceDiagram
+    participant SU as Sovereign Unit
+    participant ECN as Local ECN Cluster
+    participant KMS as KMS Anchor Root
+
+    SU->>ECN: Connection Request (ID Token)
+    ECN->>ECN: SIGINT Multi-Lateration (ToA/RSSI)
+    alt Location Verified
+        ECN->>KMS: Request Geo-Parameter Salt
+        KMS->>ECN: Signed Dynamic Salt (Vector-Bound)
+        ECN->>SU: Geo-Salt Challenge
+        SU->>SU: LBK Derivation (Device + Session + Salt)
+        SU-->>ECN: Handshake Verified
+        Note over SU,ECN: TEE Plaintext Gating Unlocked
+    else Location Failed
+        ECN->>SU: Signal Disruption Notice
+        SU->>SU: Kernel Purge (Ephemeral Cache)
+    end
+```
+
+---
 *End of Document*

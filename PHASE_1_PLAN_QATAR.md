@@ -69,4 +69,78 @@ Phase I transitions Qatar’s most sensitive communications from a policy-based 
 **"Silence is the bedrock of sovereignty. ABHED is the shield."**
 
 ---
+
+## 7. Technical Schematics & Architecture Diagrams
+
+### 7.1. Diplomatic Fortress Topology (Amiri Diwan)
+
+```mermaid
+graph TD
+    subgraph "Quantum Core (Amiri Diwan Hub)"
+        QC[Keystone Primary Root] --- QKD[QKD Optics Layer]
+    end
+
+    subgraph "Ghost Node Grid (State Fiber)"
+        QKD --- ECN1[Ghost Node - Diwan A]
+        QKD --- ECN2[Ghost Node - Diwan B]
+        QKD --- ECN3[Ghost Node - Raffles]
+        
+        ECN1 --- ECN4[Ghost Node - Perimeter 1]
+        ECN2 --- ECN5[Ghost Node - Perimeter 2]
+        ECN3 --- ECN6[Ghost Node - Diplomatic Club]
+    end
+
+    subgraph "Vienna Convention Layer (Digital Pouch)"
+        SU[VVIP Sovereign Unit] -.-> |SIGINT Bound Handshake| ECN1
+        SU -.-> |Zero-Metadata Wrapper| ECN4
+    end
+
+    style QC fill:#000,stroke:#6B0098,stroke-width:4px,color:#fff
+    style QKD stroke:#6B0098,stroke-width:2px,stroke-dasharray: 5 5
+    style ECN1 fill:#1a1a1a,stroke:#00D4E5,color:#fff
+    style ECN3 fill:#1a1a1a,stroke:#00D4E5,color:#fff
+```
+
+### 7.2. Hardware Schematic: Keystone Ghost Node (Unit Q-1)
+
+```text
+[ KEYSTONE GHOST NODE Q-1: DIPLOMATIC SPEC ]
+__________________________________________________________
+|                                                        |
+|   [ mmWave ARRAY ] <---- SIGINT Calibration Module     |
+|        |                                               |
+|   [ HSM CORE ] <---- State Root Key (Air-Gapped)       |
+|        |                                               |
+|   [ RAM DRIVE ] <---- Zero-Persistence Storage         |
+|        |             (RAM Wiping on Interrupt)         |
+|        |                                               |
+|   [ METADATA SCRUBBER ] <---- Packet Jitter Engine     |
+|        |                                               |
+|   [ QKD TRANSCEIVER ] <---- Quantum Fiber Backbone     |
+|________________________________________________________|
+          |                      |
+    [ AMIRI GUARD ]        [ CRYOGENIC UNIT ]
+      Power Backup           Thermal Stability
+```
+
+### 7.3. Sovereign Handshake: The Diplomatic Pouch Protocol
+
+```mermaid
+sequenceDiagram
+    participant SU as Sovereign Unit (VVIP)
+    participant ECN as Keystone Ghost Node
+    participant QC as Keystone Primary Root
+
+    SU->>ECN: Inbound Signal (SIGINT Encrypted)
+    ECN->>ECN: Verify RF Signature (Multi-Path Validation)
+    ECN->>QC: Auth Request (Quantum Backhaul)
+    QC->>ECN: Token Authorization
+    ECN->>SU: Biometric Challenge (Iris/Palm)
+    SU->>SU: Local TEE Processing
+    SU->>ECN: Proof of Identity
+    ECN->>SU: Open Diplomatic Pouch (L2 Mesh Tunnel)
+    Note over SU,ECN: Metadata Shrouding Active
+```
+
+---
 *End of Document*
