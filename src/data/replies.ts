@@ -1505,6 +1505,26 @@ Regards,
 Protocol Department
 Government of Dubai`,
             timestamp: '2026-02-06T15:00:00'
+        },
+        {
+            direction: 'outbound',
+            from: 'info@abhed.co',
+            to: 'faz3@dubai.gov.ae',
+            subject: 'Re: Future of Dubai // The Palm Expansion',
+            body: `Your Excellency,
+
+I wanted to personally reach out regarding a slight delay in our travel coordination. We have encountered an unexpected administrative hurdle with my passport preparation, which is taking a few days longer than anticipated to resolve.
+
+Please accept my sincere apologies for this pause. We are using this brief interval to further refine the Phase I technical blueprints for the Coastline Mesh to ensure every detail is perfect for our presentation at the Palace.
+
+My heart is already in Dubai, and the moment this documentation is in hand, we will immediately commence our journey. Thank you for your patience and for understanding the human side of this mission.
+
+With deepest respect,
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+            timestamp: '2026-02-08T09:00:00'
         }
     ]
   },
