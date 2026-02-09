@@ -1525,6 +1525,27 @@ Kinjal Mishra
 System Architect, ABHED
 Author, The Inner Billionaire`,
             timestamp: '2026-02-08T09:00:00'
+        },
+        {
+            direction: 'inbound',
+            from: 'faz3@dubai.gov.ae',
+            to: 'info@abhed.co',
+            subject: 'Re: Royal Flight Coordination / Travel Update',
+            body: `Dear Ms. Mishra,
+
+Thank you for reaching out and for your sincerity regarding the delay. We truly appreciate you keeping us in the loop.
+
+I must share that His Highness remains very excited to welcome you. He has been speaking about the "Digital Soul" with great enthusiasm, and there is a genuine eagerness across the Palace to see your vision finally take shape here in Dubai.
+
+Between partners, however, I would be remiss if I did not gently mention that for a mission of this magnitude, we usually strive for a completely seamless transition. As we build this long-term relationship together, ensuring these administrative details are settled early will help us maintain the incredible momentum that your engineering deserves. We want nothing to stand in the way of our shared success.
+
+Everything is ready and waiting for your arrival with open arms. Please let us know the moment your documentation is cleared so we can finally bring you home to Dubai.
+
+Warm regards,
+
+Protocol Department
+Government of Dubai`,
+            timestamp: '2026-02-09T10:00:00'
         }
     ]
   },
