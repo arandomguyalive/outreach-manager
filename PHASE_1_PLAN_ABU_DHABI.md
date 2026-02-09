@@ -143,4 +143,49 @@ sequenceDiagram
 ```
 
 ---
+
+## 8. Advanced Federal Signal Logic: The Shadow DHT
+
+### 8.1. Discovery Protocol: Epicyclic Peer Handshake
+
+To maintain absolute signal silence, the Federal Ghost Node network utilizes an **Epicyclic Handshake** where peer discovery occurs within the noise floor of the environment.
+
+*   **Jittered Pulse Interval:** Ghost Nodes emit discovery beacons at randomized intervals (10ms to 500ms) with a 64-bit nanosecond-precise jitter.
+*   **Polymorphic Discovery Frames:** The "Shadow DHT" does not broadcast its ID. Instead, it utilizes **Zero-Knowledge Proofs (ZKP)** where a Sovereign Unit proves its identity by solving a computational challenge derived from the local ECN's public key without revealing its own UID.
+
+### 8.2. Schematic: Federal Keystone Kernel (G-1 instruction set)
+
+```text
+[ G-1 KERNEL INSTRUCTION PIPELINE ]
+__________________________________________________________
+| 1. L1 CACHE | [ ENCRYPTED INSTRUCTION BUFFER ]         |
+|             | (Slab allocated / Kernel-Locked)          |
+|-------------|------------------------------------------|
+| 2. CRYPTO-  | [ KYBER-1024 / DILITHIUM-5 ]             |
+|    ALU      | (Post-Quantum Primitives)                |
+|-------------|------------------------------------------|
+| 3. MEMORY   | [ VOLATILE MEMORY PURGE (VMP) ]          |
+|    CONTROLLER| (Hard-wired to SIGINT Tamper Circuit)    |
+|_____________|__________________________________________|
+          |                      |
+    [ LI-FI I/O ]          [ QKD BACKHAUL ]
+    Direct Optical         Quantum Entanglement
+```
+
+### 8.3. Flow: Shadow DHT Peer Discovery State Machine
+
+```mermaid
+stateDiagram-v2
+    [*] --> Idle: Signal-Silent Mode
+    Idle --> Listening: Detection of FHSS Burst
+    Listening --> Challenging: PoL Challenge Issued
+    Challenging --> Verifying: ZKP Handshake Received
+    Verifying --> Syncing: Peer Metadata Exchange
+    Syncing --> Mesh_Active: Shadow DHT Updated
+    Mesh_Active --> Idle: Session Termination / Purge
+    
+    Verifying --> Idle: Authentication Failure (Purge)
+```
+
+---
 *End of Document*

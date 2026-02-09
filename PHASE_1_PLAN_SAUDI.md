@@ -151,4 +151,56 @@ sequenceDiagram
 ```
 
 ---
+
+## 8. Advanced Cognitive Logic: The Linear Mesh Handover
+
+### 8.1. Linear Topology Routing (LTR)
+
+To maintain sub-10ms latency across 170km of **The Line**, the protocol utilizes a predictive linear handover.
+
+*   **Anticipatory Peer Discovery:** ECNs predict the movement of Citizen Pioneers along the linear modules and pre-cache the **Ephemeral Handshake** at the next sequential node.
+*   **E-Band Directional Polarization:** Backhaul links utilize dual-polarization (Vertical/Horizontal) to double the effective throughput and provide hardware-level redundancy against desert sandstorms.
+
+### 8.2. Schematic: S-1 AI NPU (Sanctuary Engine)
+
+```text
+[ S-1: COGNITIVE SANCTUARY NPU ]
+__________________________________________________________
+|                                                        |
+|   [ NEURAL BUFFER ] <---- Biometric Neural Signature   |
+|        |                                               |
+|   [ INFERENCE CORE ] <---- Sanctuary Logic (Local)     |
+|        |             (Zero-Cloud Dependency)           |
+|        |                                               |
+|   [ ATTENTION GATE ] <---- Metadata Scrubbing Engine   |
+|        |                                               |
+|   [ LTR ROUTER ] <---- Directional RF Interface        |
+|________________________________________________________|
+          |                      |
+    [ KINETIC GRID ]       [ TEE PERSISTENCE ]
+```
+
+### 8.3. Flow: The Line - Linear Mesh Handover State Machine
+
+```mermaid
+graph LR
+    subgraph "Module N"
+        N[ECN Node N]
+    end
+
+    subgraph "Handover Boundary"
+        N --> |Pre-Cache Handshake| N1[ECN Node N+1]
+        CP[Citizen Pioneer] --> |Linear Vector| N1
+    end
+
+    subgraph "Module N+1"
+        N1 --> |SID Validation| SR[Sindalah Root]
+        SR --> |Auth Token| N1
+        N1 --> |Initialize Tunnel| CP
+    end
+
+    style N1 fill:#006096,stroke:#fff,color:#fff
+```
+
+---
 *End of Document*

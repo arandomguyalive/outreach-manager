@@ -143,4 +143,55 @@ sequenceDiagram
 ```
 
 ---
+
+## 8. Advanced Quantum Logic: The Sovereign Backhaul
+
+### 8.1. Quantum Key Distribution (QKD) Integration
+
+The "Diplomatic Fortress" utilizes **BB84 Protocol** for national-scale key distribution over private fiber.
+
+*   **Quantum Entanglement Gating:** Decryption keys for the "Diplomatic Pouch" are split into two halves: one generated locally within the device TEE, and the second delivered via the QKD backhaul. Decryption is impossible unless both "halves" are combined in real-time.
+*   **Eavesdrop Detection:** Any attempt to observe the quantum backbone results in an immediate collapse of the wave function, triggering a **Sovereign Lockout** across the Diwan mesh.
+
+### 8.2. Schematic: Q-1 Metadata Shrouding Engine
+
+```text
+[ Q-1: METADATA SHROUDING MODULE ]
+__________________________________________________________
+| 1. PACKET JITTER | Nanosecond Randomization of Path    |
+|------------------|-------------------------------------|
+| 2. SIZE PADDING  | Fixed-Length Encapsulation          |
+|                  | (Zero-Knowledge Size Leakage)       |
+|------------------|-------------------------------------|
+| 3. TRAFFIC CHAOS | Injection of "Ghost Traffic" to     |
+|                  | mask VVIP activity spikes           |
+|__________________|_____________________________________|
+          |                      |
+    [ QKD OPTICS ]         [ SIGINT BINDING ]
+```
+
+### 8.3. Flow: Zero-Metadata Wrapper Architecture
+
+```mermaid
+graph LR
+    subgraph "Inbound Packet"
+        P[Original Data] --> E[Double Ratchet Encryption]
+    end
+
+    subgraph "Shrouding Layer"
+        E --> J[Jitter Injection]
+        J --> Pad[Constant-Size Padding]
+        Pad --> Sig[SIGINT Signature Binding]
+    end
+
+    subgraph "Mesh Transport"
+        Sig --> M1[Ghost Node Alpha]
+        M1 --> M2[Ghost Node Beta]
+        M2 --> SU[Sovereign Unit]
+    end
+
+    style Sig fill:#6B0098,stroke:#fff,color:#fff
+```
+
+---
 *End of Document*

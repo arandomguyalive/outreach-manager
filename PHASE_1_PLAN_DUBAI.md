@@ -157,4 +157,57 @@ sequenceDiagram
 ```
 
 ---
+
+## 8. Advanced Rendering Logic: The Vortex Pipeline
+
+### 8.1. Cryptographic State-to-Pixel Mapping (CSPM)
+
+The "Vortex" interface is not a visual overlay; it is a real-time visualization of the device's cryptographic state.
+
+*   **Pixel-Level Encryption:** Every UI element in the Vortex is rendered using a **Custom Metal/Vulkan Shader** that derives its vertex position and color intensity from the hash of the current peer-to-peer session key.
+*   **Haptic Handshake Sync:** The 120Hz haptic feedback is synchronized with the **Double Ratchet** key rotation. Each "beat" felt by the user corresponds to a successful key-step, providing a tactile proof of security.
+
+### 8.2. Schematic: ECN C-1 Multi-Lateration Circuit
+
+```text
+[ ECN C-1: SIGNAL GEOMETRY MODULE ]
+__________________________________________________________
+|                                                        |
+|   [ SDR ARRAY 01 ] --(RSSI)--> [ SIGNAL ANALYZER ]     |
+|   [ SDR ARRAY 02 ] --(ToA) --> [ TIME SYNC (PTP) ]     |
+|   [ SDR ARRAY 03 ] --(AoA) --> [ PHASED ARRAY CTL ]    |
+|        |                               |               |
+|   [ LBK KERNEL ] <--------------------|               |
+|        |                                               |
+|   [ GEO-SALT GEN ] <---- (Valid for 50ms / 5 Meters)   |
+|________________________________________________________|
+          |                      |
+    [ DARK FIBER ]         [ TEE GATING ]
+```
+
+### 8.3. Flow: PoL (Proof of Location) Verification Flow
+
+```mermaid
+graph TD
+    subgraph "Spatial Analysis"
+        S1[SDR Sensor 01] --> MA[Multi-Lateration Engine]
+        S2[SDR Sensor 02] --> MA
+        S3[SDR Sensor 03] --> MA
+    end
+
+    subgraph "Hardware Gating"
+        MA --> |Spatial Coordinates| TEE[Device Trusted Enclave]
+        TEE --> |Challenge| GS[Geo-Salt Generator]
+        GS --> |Signed Salt| TEE
+    end
+
+    subgraph "Decryption"
+        TEE --> |Compute LBK| DC[Decryption Circuit]
+        DC --> |Plaintext| VOR[Vortex Render Pipeline]
+    end
+
+    style VOR fill:#FF53B2,stroke:#fff,color:#fff
+```
+
+---
 *End of Document*
