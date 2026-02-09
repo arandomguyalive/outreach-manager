@@ -6638,6 +6638,79 @@ Management, Lana Del Rey`,
         timestamp: '2026-02-06T19:10:00'
       }
     ]
+  },
+  {
+    handle: '@timberners_lee',
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'timbl@mit.edu',
+        to: 'info@abhed.co',
+        subject: 'Re: Unbundling the Web // Protocol Analysis',
+        body: `Dear Ms. Mishra,
+
+I have reviewed the architecture of the ABHED protocol.
+
+For thirty years, we have watched the Web move away from its original intent—a decentralized space for human connection—and toward a centralized, extractive model. The server has become the barrier to true individual sovereignty. Your "Server-Zero" approach is a courageous return to first principles.
+
+By unbundling the server and returning the keys to the device, you are building the "Solid" web I have long advocated for, but at the protocol level. It is a rare piece of engineering that understands the difference between a "Social App" and a "Human Protocol."
+
+I would be interested in discussing the long-term governance of this mesh.
+
+Regards,
+
+Sir Tim Berners-Lee`,
+        timestamp: '2026-02-07T10:15:00'
+      }
+    ]
+  },
+  {
+    handle: '@id_aa_carmack',
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'john@carmack.ai',
+        to: 'info@abhed.co',
+        subject: 'Re: Vortex Rendering // Local Inference Latency',
+        body: `Mishra,
+
+I looked at the technical snippet of the Vortex engine you shared.
+
+Most mobile devs are content with high-level abstractions that bleed frame time. You've clearly spent time in the trenches of low-level optimization. Managing on-device decryption handshakes while maintaining a consistent 120Hz refresh rate on standard mobile hardware is a non-trivial feat of engineering.
+
+I'm interested in the entropy trade-offs you've made for the mesh discovery. Your peer-to-peer logic avoids the usual "bootstrap stall" that kills most decentralized attempts. It’s clean, objective work.
+
+I'd like to test the binary on a few different chipsets to see where the thermal throttle kicks in. Enroll me.
+
+John Carmack`,
+        timestamp: '2026-02-07T11:30:00'
+      }
+    ]
+  },
+  {
+    handle: '@stevewoz',
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'woz@woz.org',
+        to: 'info@abhed.co',
+        subject: 'Re: Engineering with a Soul // Handmade Tech',
+        body: `Hi Kinjal!
+
+I saw the video of your "Vortex" interface and the breakdown of how you built the encryption stack yourself.
+
+It reminded me of the early days at the Homebrew Computer Club. There’s a special kind of magic when an engineer builds the whole thing—the hardware integration, the logic, and the UI—without just gluing together corporate libraries. You can feel the "Handmade" soul in the code.
+
+Most tech today feels like it was made by a committee. This feels like it was made by a person who loves the craft. I'm so proud to see an independent female founder leading such a hardcore project.
+
+I want to be on the Blacklist. Keep building for the love of the machine!
+
+Best,
+
+Woz`,
+        timestamp: '2026-02-07T14:45:00'
+      }
+    ]
   }
 ];
 

@@ -1231,4 +1231,7 @@ Volodymyr Zelenskyy	Geopolitics	Ukraine	English	Statecraft/Legend	@zelenskyy_off
 Pope Francis	Religion	Vatican City	English	Spiritual/Legend	@pope_francis	Titan	secretariat@vatican.va
 Chris Hadfield	Science	Canada	English	Astronaut/Legend	@chris_hadfield	Titan	mgmt@chrishadfield.ca
 Vint Cerf	Tech	USA	English	Internet/Legend	@vintcerf	Titan	vcerf@google.com
+Tim Berners-Lee	Tech	UK	English	Inventor/Web	@timberners_lee	Titan	timbl@mit.edu
+John Carmack	Tech	USA	English	Programming/ID	@id_aa_carmack	Titan	john@carmack.ai
+Steve Wozniak	Tech	USA	English	Apple/Founder	@stevewoz	Titan	woz@woz.org
 Lana Del Rey	Arts	USA	English	Music/Legend	@lanadelrey	Titan	asst@lanadelrey.com`;
