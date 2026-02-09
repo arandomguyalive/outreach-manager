@@ -1877,6 +1877,27 @@ Regards,
 Management Team
 Team Kylian Mbappé`,
         timestamp: '2026-02-05T15:45:00'
+      },
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'kylian@psg.com',
+        subject: 'Re: Zero Lag // Secure Node Activation',
+        body: `Dear Management Team,
+
+The setup for Kylian’s 15 Sovereign slots is ready for activation. To eliminate any delay in the node initialization tonight, we recommend settling the $166,770 via our secure BTC channel.
+
+BTC Address: 
+bc1ply04hhsa7f3mex328eam0vawwpymstjdd8vs4u2t9mc3lzky2dgq5xderp
+
+As an alternative, please share your PayPal address so I can dispatch the formal invoice for payment. I am available for the final call to confirm the setup timeline as soon as the funds are secured.
+
+Regards,
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-09T10:10:00'
       }
     ]
   },
@@ -1976,6 +1997,27 @@ Regards,
 Ricardo Regufe
 Management Team, CR7`,
         timestamp: '2026-02-05T17:30:00'
+      },
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'cr7@alnassr.com',
+        subject: 'Re: The Best // Sovereign Node Activation',
+        body: `Dear Ricardo,
+
+It is a pleasure to see Cristiano’s commitment to the "Zone." The enrollment of 25 Sovereign accounts for the brand and family office is authorized.
+
+To secure the initial $277,950 setup, you may use our direct Bitcoin (BTC) settlement address: 
+bc1ply04hhsa7f3mex328eam0vawwpymstjdd8vs4u2t9mc3lzky2dgq5xderp
+
+Should the team prefer a structured invoice, please provide your PayPal details. I will send the documentation over for immediate processing. I have cleared my schedule for the requested personal walkthrough once the nodes are active.
+
+Regards,
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-09T10:05:00'
       }
     ]
   },
@@ -2367,6 +2409,27 @@ Regards,
 Executive Office of David Beckham
 Beckham Ventures`,
         timestamp: '2026-02-05T13:30:00'
+      },
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'office@beckhamventures.com',
+        subject: 'Re: Global Brand Integrity // Sovereign Protocol',
+        body: `Dear Executive Office,
+
+I acknowledge the enrollment of 10 Sovereign Tier accounts for Mr. Beckham’s ventures team. We are prepared to proceed with the initialization of the $111,180 commitment.
+
+For immediate settlement, we accept Bitcoin (BTC) at the following secure address: 
+bc1ply04hhsa7f3mex328eam0vawwpymstjdd8vs4u2t9mc3lzky2dgq5xderp
+
+Alternatively, please provide the PayPal address for your office, and I will send the formal invoice and payment protocols as requested. I look forward to coordinating the technical briefing with the team this week.
+
+Regards,
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-09T10:15:00'
       }
     ]
   },
@@ -3331,6 +3394,27 @@ Regards,
 Management Team
 Team Messi`,
         timestamp: '2026-02-05T11:45:00'
+      },
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'leo@messi.com',
+        subject: 'Re: Silence // Technical Initialization',
+        body: `Dear Management Team,
+
+I have received your confirmation for the 8 Sovereign accounts. To maintain the "Server-Zero" integrity of the initial handshake, we are processing the $88,944 reservation via our secure settlement layers.
+
+You may settle the amount via our primary Bitcoin (BTC) protocol at the following address: 
+bc1ply04hhsa7f3mex328eam0vawwpymstjdd8vs4u2t9mc3lzky2dgq5xderp
+
+Alternatively, if you prefer a traditional settlement, please share your preferred PayPal address. I will immediately issue a formal invoice to your office to finalize the enrollment. Once the transaction is verified, I will provide the scheduling for Leo’s technical walkthrough.
+
+Regards,
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-09T10:00:00'
       }
     ]
   },
@@ -5936,6 +6020,27 @@ Regards,
 
 Management Team, Novak Djokovic`,
         timestamp: '2026-02-05T10:45:00'
+      },
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'team@djokovic.rs',
+        subject: 'Re: Digital Sanctuary // Security Enrollment',
+        body: `Dear Management Team,
+
+It is an honor to welcome Novak to the ABHED mesh. The reservation for the 5 Sovereign slots for his core team and family is now locked.
+
+To settle the security enrollment fee via our sovereign channel, please use the following Bitcoin (BTC) address: 
+bc1ply04hhsa7f3mex328eam0vawwpymstjdd8vs4u2t9mc3lzky2dgq5xderp
+
+Should you require a traditional billing method, please share your PayPal address. I will issue a formal invoice to settle the account. We look forward to establishing this sanctuary for Novak’s team.
+
+Regards,
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-09T10:20:00'
       }
     ]
   },
