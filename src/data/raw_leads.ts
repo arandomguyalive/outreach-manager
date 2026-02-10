@@ -1234,7 +1234,8 @@ Vint Cerf	Tech	USA	English	Internet/Legend	@vintcerf	Titan	vcerf@google.com
 Tim Berners-Lee	Tech	UK	English	Inventor/Web	@timberners_lee	Titan	timbl@mit.edu
 John Carmack	Tech	USA	English	Programming/ID	@id_aa_carmack	Titan	john@carmack.ai
 Steve Wozniak	Tech	USA	English	Apple/Founder	@stevewoz	Titan	woz@woz.org
-Lana Del Rey	Arts	USA	English	Music/Legend	@lanadelrey	Titan	asst@lanadelrey.com`;Yann LeCun	Twitter	USA	English	AI/Science	 @ylecun	Titan	yann@lecun.org
+Lana Del Rey	Arts	USA	English	Music/Legend	@lanadelrey	Titan	asst@lanadelrey.com
+Yann LeCun	Twitter	USA	English	AI/Science	 @ylecun	Titan	yann@lecun.org
 Andrew Ng	Twitter	USA	English	AI/Ed	 @AndrewYNg	Titan	andrew@deeplearning.ai
 Fei-Fei Li	Twitter	USA	English	AI/Science	 @drfeifei	Titan	feifeili@stanford.edu
 Dario Amodei	Twitter	USA	English	AI/Safety	 @darioamodei	Titan	dario@anthropic.com
@@ -1262,4 +1263,4 @@ The Primeagen	Twitch/YouTube	USA	English	Tech/Dev	 @ThePrimeagen	Mega	prime@prim
 Theo - t3.gg	YouTube	USA	English	Tech/Prod	 @t3dotgg	Mega	theo@t3.gg
 Lee Robinson	Twitter	USA	English	Tech/Prod	 @leeerob	Mega	lee@vercel.com
 Jeff Geerling	YouTube	USA	English	Hard/Decent	 @geerlingguy	Mega	jeff@geerling.com
-Gamers Nexus	YouTube	USA	English	Hard/Invest	 @GamersNexus	Mega	steve@gamersnexus.net
+Gamers Nexus	YouTube	USA	English	Hard/Invest	 @GamersNexus	Mega	steve@gamersnexus.net`;
