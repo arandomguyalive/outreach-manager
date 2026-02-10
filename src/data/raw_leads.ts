@@ -1234,4 +1234,32 @@ Vint Cerf	Tech	USA	English	Internet/Legend	@vintcerf	Titan	vcerf@google.com
 Tim Berners-Lee	Tech	UK	English	Inventor/Web	@timberners_lee	Titan	timbl@mit.edu
 John Carmack	Tech	USA	English	Programming/ID	@id_aa_carmack	Titan	john@carmack.ai
 Steve Wozniak	Tech	USA	English	Apple/Founder	@stevewoz	Titan	woz@woz.org
-Lana Del Rey	Arts	USA	English	Music/Legend	@lanadelrey	Titan	asst@lanadelrey.com`;
+Lana Del Rey	Arts	USA	English	Music/Legend	@lanadelrey	Titan	asst@lanadelrey.com`;Yann LeCun	Twitter	USA	English	AI/Science	 @ylecun	Titan	yann@lecun.org
+Andrew Ng	Twitter	USA	English	AI/Ed	 @AndrewYNg	Titan	andrew@deeplearning.ai
+Fei-Fei Li	Twitter	USA	English	AI/Science	 @drfeifei	Titan	feifeili@stanford.edu
+Dario Amodei	Twitter	USA	English	AI/Safety	 @darioamodei	Titan	dario@anthropic.com
+Mustafa Suleyman	Twitter	USA/UK	English	AI/Gov	 @mustafasuleyman	Titan	mustafa@microsoft.com
+Aidan Gomez	Twitter	Canada	English	AI/Infra	 @aidangomez	Titan	aidan@cohere.com
+Jan Leike	Twitter	USA	English	AI/Safety	 @janleike	Titan	jan@anthropic.com
+Patrick Collison	Twitter	Ireland/USA	English	Tech/Infra	 @patrickc	Titan	patrick@stripe.com
+Tobias Lütke	Twitter	Canada	English	Tech/Biz	 @tobi	Titan	tobi@shopify.com
+Guillermo Rauch	Twitter	Argentina/USA	English	Tech/Web	 @rauchg	Titan	guillermo@vercel.com
+Thomas Dohmke	Twitter	Germany/USA	English	Tech/Dev	 @ashtom	Titan	thomas@github.com
+Brian Chesky	Twitter	USA	English	Tech/Design	 @bchesky	Titan	brian@airbnb.com
+Nikesh Arora	Twitter	USA	English	Tech/Sec	 @nikesharora	Titan	nikesh@paloaltonetworks.com
+Jim Simons	Twitter	USA	English	Finance/Math	 @jimsimons	Titan	jim@simons.org
+Ken Griffin	Twitter	USA	English	Finance/Market	 @kengriffin	Titan	ken@citadel.com
+Cathie Wood	Twitter	USA	English	Finance/Innov	 @CathieDWood	Titan	cathie@ark-invest.com
+Chamath Palihapitiya	Twitter	USA	English	Finance/VC	 @chamath	Titan	chamath@socialcapital.com
+David Sacks	Twitter	USA	English	Finance/VC	 @DavidSacks	Titan	david@craftventures.com
+David Friedberg	Twitter	USA	English	Finance/Sci	 @dfriedberg	Titan	david@productionboard.com
+Veritasium	YouTube	Canada/USA	English	Sci/Edu	 @veritasium	Mega	derek@veritasium.com
+Mark Rober	YouTube	USA	English	Eng/Edu	 @MarkRober	Mega	mark@markrober.com
+3Blue1Brown	YouTube	USA	English	Math/Edu	 @3blue1brown	Mega	grant@3blue1brown.com
+Sabine Hossenfelder	YouTube	Germany	English	Sci/Crit	 @skdh	Mega	sabine@hossenfelder.de
+Destin Sandlin	YouTube	USA	English	Eng/Edu	 @smartereveryday	Mega	destin@smartereveryday.com
+The Primeagen	Twitch/YouTube	USA	English	Tech/Dev	 @ThePrimeagen	Mega	prime@primeagen.com
+Theo - t3.gg	YouTube	USA	English	Tech/Prod	 @t3dotgg	Mega	theo@t3.gg
+Lee Robinson	Twitter	USA	English	Tech/Prod	 @leeerob	Mega	lee@vercel.com
+Jeff Geerling	YouTube	USA	English	Hard/Decent	 @geerlingguy	Mega	jeff@geerling.com
+Gamers Nexus	YouTube	USA	English	Hard/Invest	 @GamersNexus	Mega	steve@gamersnexus.net

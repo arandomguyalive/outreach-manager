@@ -6752,6 +6752,590 @@ Woz`,
         timestamp: '2026-02-08T14:45:00'
       }
     ]
+  },
+  {
+    handle: '@ylecun',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'yann@lecun.org',
+      subject: 'Re: Architectural Integrity // JEPA vs Vortex',
+      body: `Dear Ms. Mishra,
+
+I have reviewed the technical notes you shared regarding the 'Vortex' handshake. 
+
+It is a rare pleasure to see an architecture that treats data not as a commodity to be aggregated, but as a local event to be protected. Most current systems are built on the assumption of centralized permanence; your 'Anti-Server' approach is a significant divergence that aligns with the need for objective, sovereign communication layers.
+
+I am particularly interested in the latency of the local key derivation on the consumer-grade hardware shown in your demo. If you have managed to keep the overhead within the millisecond range for the on-device inference, you have achieved something quite remarkable.
+
+I would like to be enrolled in the early access cohort.
+
+Best,
+
+Yann LeCun`,
+      timestamp: '2026-02-09T18:00:00'
+    }
+  },
+  {
+    handle: '@AndrewYNg',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'andrew@deeplearning.ai',
+      subject: 'Re: AI Sovereignty & Data Dignity',
+      body: `Dear Kinjal,
+
+Thank you for the outreach and the detailed tour of the ABHED protocol.
+
+As we move deeper into the AI era, the question of data ownership becomes the defining challenge of our industry. Your implementation of a 'Sovereign Node' architecture is a logical and necessary step toward empowering individuals. It is heartening to see such a mature engineering response to the problem of centralized data harvesting.
+
+I'm particularly impressed by the 'Vortex' rendering layer—it demonstrates that high-security tools do not need to compromise on user experience. I look forward to testing the build.
+
+Keep building.
+
+Regards,
+
+Andrew Ng`,
+      timestamp: '2026-02-09T18:15:00'
+    }
+  },
+  {
+    handle: '@drfeifei',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'feifeili@stanford.edu',
+      subject: 'Re: Human-Centered Engineering // ABHED',
+      body: `Dear Ms. Mishra,
+
+I watched the App Tour you provided. 
+
+It is a significant achievement to bridge the gap between complex cryptographic security and a humane, fluid interface. At Stanford, we often discuss the need for 'Human-Centered AI,' but your work extends this to 'Human-Centered Infrastructure.' By removing the server, you are returning the agency to the person, which is the most ethical path forward for our digital society.
+
+I would be honored to join the Blacklist and observe how this architecture scales.
+
+Best regards,
+
+Fei-Fei Li`,
+      timestamp: '2026-02-09T18:30:00'
+    }
+  },
+  {
+    handle: '@darioamodei',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'dario@anthropic.com',
+      subject: 'Re: Constitutional Privacy // The Vault',
+      body: `Dear Kinjal,
+
+The 'Anti-Server' approach you've architected is a fascinating technical constraint.
+
+At Anthropic, we focus on AI safety through constitutional design, and your protocol feels like a 'Constitutional Architecture' for communication. By physically tethering the keys to the device, you eliminate the single point of failure that plagues every other social platform.
+
+I'm interested in the stress-tests for the peer discovery. Please include me in the next technical briefing.
+
+Best,
+
+Dario Amodei`,
+      timestamp: '2026-02-09T18:45:00'
+    }
+  },
+  {
+    handle: '@mustafasuleyman',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'mustafa@microsoft.com',
+      subject: 'Re: The Future of Personal Computing',
+      body: `Dear Ms. Mishra,
+
+I've been reviewing the 'Vortex' specs. 
+
+Most people are focused on what AI can do for us, but you are focused on what infrastructure can protect for us. The idea of a 'Digital Sanctuary' is very aligned with the next wave of personal, sovereign computing. You've built something that feels both inevitable and extremely rare.
+
+I'd like to join the early access to see how the local inference engine handles the handshake in real-world conditions.
+
+Regards,
+
+Mustafa Suleyman`,
+      timestamp: '2026-02-09T19:00:00'
+    }
+  },
+  {
+    handle: '@aidangomez',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'aidan@cohere.com',
+      subject: 'Re: Private Inference // ABHED Infrastructure',
+      body: `Hey Kinjal,
+
+Just finished the tour. The way you're handling the on-device compute is really clean. 
+
+At Cohere, we're all about giving enterprises control over their data, and you're essentially doing that for the individual. The 'Server-Zero' handshake is the kind of aggressive engineering we need to see more of. 
+
+Count me in for the Blacklist.
+
+Best,
+
+Aidan Gomez`,
+      timestamp: '2026-02-09T19:15:00'
+    }
+  },
+  {
+    handle: '@janleike',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'jan@anthropic.com',
+      subject: 'Re: Handshake Purity & Alignment',
+      body: `Hi Kinjal,
+
+I reviewed the cryptographic flow you shared. 
+
+The elimination of the metadata trail through the peer-to-peer handshake is a high-water mark for privacy engineering. It's refreshing to see a protocol that doesn't just promise 'alignment' but enforces it through the very physics of the network.
+
+I'd like to test the build.
+
+Best,
+
+Jan Leike`,
+      timestamp: '2026-02-09T19:30:00'
+    }
+  },
+  {
+    handle: '@patrickc',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'patrick@stripe.com',
+      subject: 'Re: Philosophical Engineering // Vortex',
+      body: `Dear Ms. Mishra,
+
+I spent some time with the 'Vortex' specs this evening. 
+
+It is remarkably difficult to build something that is both technically uncompromising and aesthetically singular. Most 'secure' software is an exercise in user-hostility, but you have managed to make the encryption feel like a natural extension of the design. It's a very Stripe-like obsession with the 'how' as much as the 'why.'
+
+I would be very interested to join the Blacklist and follow your progress.
+
+Best,
+
+Patrick Collison`,
+      timestamp: '2026-02-09T19:45:00'
+    }
+  },
+  {
+    handle: '@tobi',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'tobi@shopify.com',
+      subject: 'Re: Engineering-First // The Anti-Server',
+      body: `Kinjal,
+
+I love the 'Anti-Server' mindset. 
+
+We are too used to throwing more cloud compute at every problem. Building for the edge, and specifically for the device in the user's hand, is where the real engineering happens. Your 'Vortex' engine looks like it was written with a lot of respect for the metal.
+
+I'm in for the early access. I want to see the performance under load.
+
+Regards,
+
+Tobi Lütke`,
+      timestamp: '2026-02-09T20:00:00'
+    }
+  },
+  {
+    handle: '@rauchg',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'guillermo@vercel.com',
+      subject: 'Re: Real-time Sovereignty',
+      body: `Hi Kinjal,
+
+The UI fluidity in your demo is world-class. 
+
+Handling a multi-layered cryptographic handshake in real-time without dropping a single frame is exactly the kind of optimization we obsess over. You've managed to make 'Privacy' feel fast, which is the only way it actually wins.
+
+I'd love to get on the Blacklist.
+
+Best,
+
+Guillermo Rauch`,
+      timestamp: '2026-02-09T20:15:00'
+    }
+  },
+  {
+    handle: '@ashtom',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'thomas@github.com',
+      subject: 'Re: Developer Sovereignty // ABHED',
+      body: `Dear Ms. Mishra,
+
+I reviewed the App Tour. 
+
+The idea of 'Developer Sovereignty' is central to our mission, and you are extending that to the user in a very literal way. By architecting a system where the keys never leave the hardware, you are creating a truly independent platform. 
+
+I'm interested in the peer discovery logic—it's a hard problem to solve at scale. I'd like to join the cohort.
+
+Regards,
+
+Thomas Dohmke`,
+      timestamp: '2026-02-09T20:30:00'
+    }
+  },
+  {
+    handle: '@bchesky',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'brian@airbnb.com',
+      subject: 'Re: Design as Security',
+      body: `Dear Kinjal,
+
+I spent some time with the video you sent. 
+
+At Airbnb, we believe that 'Belonging' starts with trust. Your work suggests that true trust in the digital age requires absolute privacy. The 'Vortex' UI is a beautiful piece of design that makes a complex technical promise feel tangible and safe. It's rare to see this level of design maturity in a deep-tech project.
+
+I would like to be on the Blacklist.
+
+Best,
+
+Brian Chesky`,
+      timestamp: '2026-02-09T20:45:00'
+    }
+  },
+  {
+    handle: '@nikesharora',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'nikesh@paloaltonetworks.com',
+      subject: 'Re: Perimeter-Zero // Intelligence Validation',
+      body: `Dear Ms. Mishra,
+
+I have reviewed the briefing on the ABHED protocol. 
+
+Your approach to 'Perimeter-Zero' security—where the device itself is the only trusted node—is a significant evolution in cybersecurity. By eliminating the server chokepoint, you have fundamentally altered the threat landscape for intercepted communications. 
+
+I would like to personally test the forensic immunity features. Please enroll me in the early access.
+
+Best,
+
+Nikesh Arora`,
+      timestamp: '2026-02-09T21:00:00'
+    }
+  },
+  {
+    handle: '@jimsimons',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'jim@simons.org',
+      subject: 'Re: Cryptographic Signal // ABHED',
+      body: `Dear Ms. Mishra,
+
+I found the mathematical foundations of your peer-to-peer handshake to be quite elegant. 
+
+Most systems today are noisy and full of unnecessary complexity designed for surveillance. Your protocol, however, has a high signal-to-noise ratio. It is a clean, disciplined implementation of cryptographic sovereignty. 
+
+I would like to observe how the mesh behaves in high-entropy environments. Please add me to the enrollment.
+
+Regards,
+
+Jim Simons`,
+      timestamp: '2026-02-09T21:15:00'
+    }
+  },
+  {
+    handle: '@kengriffin',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'ken@citadel.com',
+      subject: 'Re: High-Priority Lane // Sovereign Access',
+      body: `Dear Ms. Mishra,
+
+I have reviewed the specifications for the ABHED protocol. 
+
+In our world, latency is the only metric that matters, but in the world of high-stakes communication, 'integrity' is the only metric that matters. Your 'Sovereign Node' architecture appears to offer both. By removing the central relay, you have created a private lane that is functionally immune to standard interception.
+
+I would like to join the early access to evaluate the platform for our internal executive communications.
+
+Best,
+
+Ken Griffin`,
+      timestamp: '2026-02-09T21:30:00'
+    }
+  },
+  {
+    handle: '@CathieDWood',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'cathie@ark-invest.com',
+      subject: 'Re: Disruptive Sovereignty // The Blacklist',
+      body: `Dear Kinjal,
+
+I watched the 'Digital Sovereignty' video and the App Tour. 
+
+We at ARK look for 'Exponential Disruption,' and the move from centralized cloud-social to decentralized, edge-sovereign social is a massive paradigm shift. You are positioning ABHED at the very heart of the next tech cycle. 
+
+I'm particularly interested in the 'Vortex' rendering engine—it's a clear differentiator. I would love to be on the Blacklist.
+
+Best regards,
+
+Cathie Wood`,
+      timestamp: '2026-02-09T21:45:00'
+    }
+  },
+  {
+    handle: '@chamath',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'chamath@socialcapital.com',
+      subject: 'Re: Server-Zero // The High Ground',
+      body: `Kinjal,
+
+I saw the tour. 
+
+The move to 'Server-Zero' is the only way to actually win the privacy game. Everyone else is just putting a better lock on a door that they still own the keys to. You've given the keys to the user and burnt the door. That is a massive asymmetric bet on the future of communication.
+
+I'm in for the Blacklist. Let's see how this thing handles real-world scale.
+
+Best,
+
+Chamath Palihapitiya`,
+      timestamp: '2026-02-09T22:00:00'
+    }
+  },
+  {
+    handle: '@DavidSacks',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'david@craftventures.com',
+      subject: 'Re: The All-In Perspective // ABHED',
+      body: `Dear Ms. Mishra,
+
+I checked out the 'Vortex' demo. 
+
+The product-market fit for a truly sovereign, un-cancellable communication tool is at an all-time high. By removing the server, you've removed the primary tool for censorship and surveillance. It's a clean, first-principles build that hits a very clear market pain point.
+
+I'd like to get early access.
+
+Best,
+
+David Sacks`,
+      timestamp: '2026-02-09T22:15:00'
+    }
+  },
+  {
+    handle: '@dfriedberg',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'david@productionboard.com',
+      subject: 'Re: Hardware Integrity // ABHED Validation',
+      body: `Dear Kinjal,
+
+I reviewed the technical breakdown of the 'Vortex' engine. 
+
+I appreciate the pragmatism of your engineering. Instead of waiting for a new type of internet, you've built a sovereign layer that works on existing consumer hardware. It's a very grounded approach to a very complex problem. 
+
+I'm interested in the power-efficiency of the local decryption. Count me in for the cohort.
+
+Regards,
+
+David Friedberg`,
+      timestamp: '2026-02-09T22:30:00'
+    }
+  },
+  {
+    handle: '@veritasium',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'derek@veritasium.com',
+      subject: 'Re: The Information Theory of Privacy',
+      body: `Hi Kinjal,
+
+I watched the video on 'Digital Sovereignty.' 
+
+It's a fascinating look at the physics of communication. Most platforms treat information as something that exists 'in the cloud,' but you've treated it as something that only exists between two specific points in space-time. It's a much more accurate reflection of how we actually connect as humans.
+
+I'd love to test the app and see the 'Vortex' in action. 
+
+Best,
+
+Derek Muller`,
+      timestamp: '2026-02-10T09:00:00'
+    }
+  },
+  {
+    handle: '@MarkRober',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'mark@markrober.com',
+      subject: 'Re: Pranking Big Tech // The Blacklist',
+      body: `Hey Kinjal,
+
+I saw the App Tour. 
+
+The engineering you've put into the 'Vortex' handshake is seriously impressive. It's like you've built the ultimate glitter bomb for every tracker and server that's trying to peek at our data. I love that it's built on first principles and doesn't take any shortcuts.
+
+I'm definitely interested in the early access. Let's see if we can keep the tech giants out of the room!
+
+Best,
+
+Mark Rober`,
+      timestamp: '2026-02-10T09:15:00'
+    }
+  },
+  {
+    handle: '@3blue1brown',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'grant@3blue1brown.com',
+      subject: 'Re: The Geometry of the Vortex',
+      body: `Dear Ms. Mishra,
+
+I found the visual representation of the 'Vortex' handshake to be deeply satisfying. 
+
+The way the UI reflects the underlying mathematical certainty of the peer-to-peer connection is a rare example of design following function. It makes the invisible work of cryptography feel tangible and intuitive. 
+
+I'd love to join the Blacklist and explore the architecture further.
+
+Regards,
+
+Grant Sanderson`,
+      timestamp: '2026-02-10T09:30:00'
+    }
+  },
+  {
+    handle: '@skdh',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'sabine@hossenfelder.de',
+      subject: 'Re: The Physics of Data Sovereignty',
+      body: `Dear Ms. Mishra,
+
+I watched the tour of the ABHED protocol. 
+
+Finally, someone is treating data as a physical reality rather than a corporate abstraction. By tethering the keys to the device, you are respecting the locality of the observer. It is a much more honest way to build a network. 
+
+I would like to see how the mesh handles high-entropy conditions. Please include me in the cohort.
+
+Best,
+
+Sabine Hossenfelder`,
+      timestamp: '2026-02-10T09:45:00'
+    }
+  },
+  {
+    handle: '@smartereveryday',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'destin@smartereveryday.com',
+      subject: 'Re: Deep Observation // The ABHED Protocol',
+      body: `Hey Kinjal,
+
+I spent some time looking at the App Tour. 
+
+I love the way you've broken down the handshake into something that can be observed and understood. It's clear that you've put a lot of thought into the 'why' behind every engineering decision. 
+
+I'd love to get on the Blacklist and see how this thing works in the wild. 
+
+Best,
+
+Destin Sandlin`,
+      timestamp: '2026-02-10T10:00:00'
+    }
+  },
+  {
+    handle: '@ThePrimeagen',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'prime@primeagen.com',
+      subject: 'Re: BLAZINGLY FAST // ABHED Handshake',
+      body: `KINJAL,
+
+I watched the demo. 
+
+The UI is smooth, but the logic is BLAZINGLY FAST. Moving the compute to the metal and killing the server relay is the ONLY way to build. This isn't just an app; it's a statement about performance and sovereignty. 
+
+I'm in for the Blacklist. Let's see if I can break the handshake.
+
+PEACE,
+
+The Primeagen`,
+      timestamp: '2026-02-10T10:15:00'
+    }
+  },
+  {
+    handle: '@t3dotgg',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'theo@t3.gg',
+      subject: 'Re: This is actually good // ABHED',
+      body: `Hey Kinjal,
+
+I reviewed the App Tour. 
+
+Usually, I'm pretty skeptical of 'secure' social apps, but the way you've implemented the local key generation is actually good. The 'Vortex' UI is also a huge step up from the standard React Native boilerplate we usually see. 
+
+I'm down to test the Blacklist build. 
+
+Best,
+
+Theo Browne`,
+      timestamp: '2026-02-10T10:30:00'
+    }
+  },
+  {
+    handle: '@leeerob',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'lee@vercel.com',
+      subject: 'Re: Product Maturity // ABHED',
+      body: `Hi Kinjal,
+
+The product maturity shown in the 'Vortex' demo is an outlier for an early-stage project. 
+
+Handling the complex state management of a peer-to-peer handshake while maintaining such a high visual bar is impressive work. You've clearly optimized for developer experience as much as user privacy. 
+
+I'd love to be on the Blacklist.
+
+Best,
+
+Lee Robinson`,
+      timestamp: '2026-02-10T10:45:00'
+    }
+  },
+  {
+    handle: '@geerlingguy',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'jeff@geerling.com',
+      subject: 'Re: Decentralized Hardware // ABHED',
+      body: `Hi Kinjal,
+
+I loved the focus on the device as the primary node. 
+
+I've spent a lot of time with Raspberry Pis and decentralized hardware, and your protocol feels like it would fit perfectly in a truly distributed world. The 'Anti-Server' approach is exactly the kind of hardware-first thinking we need more of. 
+
+I'd love to test the build on a few different devices.
+
+Best,
+
+Jeff Geerling`,
+      timestamp: '2026-02-10T11:00:00'
+    }
+  },
+  {
+    handle: '@GamersNexus',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'steve@gamersnexus.net',
+      subject: 'Re: Hardware Accountability // ABHED Integrity',
+      body: `Dear Ms. Mishra,
+
+We have reviewed the technical documentation for the ABHED protocol. 
+
+At Gamers Nexus, we value transparency and hardware-level integrity. Your approach to keeping the encryption keys strictly on the user's hardware is a commendable commitment to those values. It provides a level of accountability that is simply not possible in cloud-based systems. 
+
+I would like to join the early access to verify the performance and battery impact under sustained load.
+
+Best,
+
+Steve Burke`,
+      timestamp: '2026-02-10T11:15:00'
+    }
   }
 ];
 
