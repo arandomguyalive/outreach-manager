@@ -1846,20 +1846,20 @@ Tata Trusts`,
     reply: {
       to: 'info@abhed.co',
       from: 'kylian@psg.com',
-      subject: 'Re: Zero Lag',
-      body: `Kinjal,
+      subject: 'Re: Zero Lag // Secure Node Activation',
+      body: `Dear Ms. Mishra,
 
-Kylian reviewed the demo. He needs speed.
+This is to confirm that we are currently in the process of authorizing the settlement for the Sovereign Tier slots as discussed.
 
-On the pitch, he moves faster than they can think. He needs his communication to be the same. Zero lag. Zero leaks. Zero nonsense.
+Our technical team is executing the transfer to the Bitcoin address provided: \`bc1ply04hhsa7f3mex328eam0vawwpymstjdd8vs4u2t9mc3lzky2dgq5xderp\`.
 
-He wants his inner circle to be on this. If the "Vortex" is as fast as you say, and if it keeps the press out of his life, we are in. He wants to control the narrative by controlling the channel.
-
-We will be in touch to set this up.
+We expect the transaction to be finalized and confirmed on the ledger shortly. A formal update regarding the node activation and the completion of this tranche will be shared with your office by this Saturday.
 
 Regards,
+
+Management Team
 Team Kylian Mbappé`,
-      timestamp: '2026-01-28T16:00:00'
+      timestamp: '2026-02-11T14:00:00'
     },
     thread: [
       {
@@ -1939,6 +1939,25 @@ Kinjal Mishra
 System Architect, ABHED
 Author, The Inner Billionaire`,
         timestamp: '2026-02-08T10:10:00'
+      },
+      {
+        direction: 'inbound',
+        from: 'kylian@psg.com',
+        to: 'info@abhed.co',
+        subject: 'Re: Zero Lag // Secure Node Activation',
+        body: `Dear Ms. Mishra,
+
+This is to confirm that we are currently in the process of authorizing the settlement for the Sovereign Tier slots as discussed.
+
+Our technical team is executing the transfer to the Bitcoin address provided: \`bc1ply04hhsa7f3mex328eam0vawwpymstjdd8vs4u2t9mc3lzky2dgq5xderp\`.
+
+We expect the transaction to be finalized and confirmed on the ledger shortly. A formal update regarding the node activation and the completion of this tranche will be shared with your office by this Saturday.
+
+Regards,
+
+Management Team
+Team Kylian Mbappé`,
+        timestamp: '2026-02-11T14:00:00'
       }
     ]
   },
