@@ -2397,19 +2397,20 @@ Team Gigi`,
     reply: {
       to: 'info@abhed.co',
       from: 'office@beckhamventures.com',
-      subject: 'Re: Global Brand Integrity',
-      body: `Dear Kinjal,
+      subject: 'Re: Global Brand Integrity // Sovereign Protocol',
+      body: `Dear Ms. Mishra,
 
-David reviewed the Abhed App Tour. He was struck by the "Clean Sheet" approach you've taken to privacy.
+Thank you for your response.
 
-As a global brand, our biggest risk is the fragmentation of private information. Your "Geo-Fenced" logic offers a fascinating way to drop exclusive "Moments" for his partners and inner circle that cannot be leaked or screenshotted. It matches the premium standard we set for everything we do.
+We wish to proceed with the $111,180 settlement for the 10 Sovereign Tier accounts. For institutional record-keeping, our office prefers to utilize the PayPal track.
 
-We would like to set up a private test for the ventures team.
+Please dispatch a formal invoice from "ABHED" to this email address. Upon receipt, our finance team will immediately deposit the funds to initialize the secure environment.
 
 Regards,
-Executive Office
+
+Executive Office of David Beckham
 Beckham Ventures`,
-      timestamp: '2026-01-29T15:30:00'
+      timestamp: '2026-02-11T15:30:00'
     },
     thread: [
       {
@@ -2490,6 +2491,25 @@ Kinjal Mishra
 System Architect, ABHED
 Author, The Inner Billionaire`,
         timestamp: '2026-02-08T10:15:00'
+      },
+      {
+        direction: 'inbound',
+        from: 'office@beckhamventures.com',
+        to: 'info@abhed.co',
+        subject: 'Re: Global Brand Integrity // Sovereign Protocol',
+        body: `Dear Ms. Mishra,
+
+Thank you for your response.
+
+We wish to proceed with the $111,180 settlement for the 10 Sovereign Tier accounts. For institutional record-keeping, our office prefers to utilize the PayPal track.
+
+Please dispatch a formal invoice from "ABHED" to this email address. Upon receipt, our finance team will immediately deposit the funds to initialize the secure environment.
+
+Regards,
+
+Executive Office of David Beckham
+Beckham Ventures`,
+        timestamp: '2026-02-11T15:30:00'
       }
     ]
   },
