@@ -2404,7 +2404,7 @@ Thank you for your response.
 
 We wish to proceed with the $111,180 settlement for the 10 Sovereign Tier accounts. For institutional record-keeping, our office prefers to utilize the PayPal track.
 
-Please dispatch a formal invoice from "ABHED" to this email address. Upon receipt, our finance team will immediately deposit the funds to initialize the secure environment.
+Please dispatch a formal invoice from "Sovereign Duo" to this email address. Upon receipt, our finance team will immediately deposit the funds to initialize the secure environment.
 
 Regards,
 
@@ -2503,7 +2503,7 @@ Thank you for your response.
 
 We wish to proceed with the $111,180 settlement for the 10 Sovereign Tier accounts. For institutional record-keeping, our office prefers to utilize the PayPal track.
 
-Please dispatch a formal invoice from "ABHED" to this email address. Upon receipt, our finance team will immediately deposit the funds to initialize the secure environment.
+Please dispatch a formal invoice from "Sovereign Duo" to this email address. Upon receipt, our finance team will immediately deposit the funds to initialize the secure environment.
 
 Regards,
 
