@@ -251,7 +251,7 @@ Millie (IG Coach)	Instagram	USA	English	Pro/Business	 @itsmodernmillie	Mid	hello
 Rahul Bhatnagar	Instagram	India	English	Pro/Business	 @rahulbhatnagar	Mid	rahul @rahulbhatnagar.com
 Deepak Kanakaraju	Twitter	India	English	Pro/Business	 @DigitalDeepak	Mid	deepak @pixeltrack.com
 Avi Arya	Instagram	India	English	Pro/Business	 @askaviarya	Mid	avi @internetmoguls.com
-Ishan Sharma (Biz)	Twitter	India	English	Pro/Business	 @ishansharma	Mid	ishan @markitup.in
+Ishan Sharma (Biz)	Twitter	India	English	Pro/Business	 @Ishansharma7390	Mid	ishan @markitup.in
 Vedant Lamba	LinkedIn	India	English	Pro/Business	 @vedantlamba	Mid	vedant @mainstreet.com
 Scenes (Varun)	Twitter	India	English	Pro/Business	 @VarunMayya	Mid	varun @avaland.io
 OpeninApp	Instagram	India	Hindi/Eng	Pro/Business	 @openinapp	Mid	partners @openinapp.com
@@ -440,13 +440,13 @@ Yatinder Singh	YouTube	India	Hindi	Fitness/Health	 @YatinderSingh		yatinder @bod
 Badshah	Instagram	India	Hindi	Music/Arts/Pop Culture	 @badboyshah	Mega	mgmt @badshah.com
 Divine	Instagram	India	Hindi	Music/Arts/Pop Culture	 @vivianakadivine	Mega	mgmt @gullygang.com
 Armaan Malik	Twitter	India	English	Music/Arts/Pop Culture	 @ArmaanMalik22	Mega	armaan @armaanmalik.com
-Yashraj Mukhate	Instagram	India	Hindi	Music/Arts/Pop Culture	 @yashrajmukhate	Mega	yashraj @oml.in
+Yashraj Mukhate	Instagram	India	Hindi	Music/Viral	 @yashrajmukhate	Mega	yashraj @oml.in
 Raftaar	Instagram	India	Hindi	Music/Arts/Pop Culture	 @raftaarmusic	Mega	raftaar @akaprojects.com
 Emiway Bantai	YouTube	India	Hindi	Music/Arts/Pop Culture	 @EmiwayBantai		emiway @bantai.com
 Shirley Setia	YouTube	New Zealand/India	Hindi/Eng	Music/Arts/Pop Culture	 @ShirleySetia		shirley @shirleysetia.com
 Vidya Vox	YouTube	USA/India	English	Music/Arts/Pop Culture	 @VidyaVox		vidya @vidyavox.com
 King	Instagram	India	Hindi	Music/Arts/Pop Culture	 @ifeelking	Macro	king @bluprint.com
-Prateek Kuhad	Instagram	India	English	Music/Arts/Pop Culture	 @prateekkuhad	Macro	mgmt @prateekkuhad.com
+Prateekkuhad	Instagram	India	English	Music/Arts/Pop Culture	 @prateekkuhad	Macro	mgmt @prateekkuhad.com
 Jonita Gandhi	Instagram	India	English	Music/Arts/Pop Culture	 @jonitamusic	Macro	jonita @monk-e.in
 Lisa Mishra	Instagram	India	English	Music/Arts/Pop Culture	 @lisamishramusic	Macro	lisa @monk-e.in
 Ritviz	Instagram	India	Hindi	Music/Arts/Pop Culture	 @vizdumb	Macro	mgmt @ritviz.com
@@ -606,7 +606,7 @@ Ishaan Arora	LinkedIn	India	English	Career/Professional	 @ishaanarora	Micro	isha
 Sanat Agrawal	LinkedIn	India	English	Career/Professional	 @sanatagrawal	Micro	sanat @linkedin.com
 Job Vacancy Result	Telegram	India	English	Career/Job Portal	 @jobvacancyresult	Macro	admin @jvr.com
 Off Campus Jobs	Telegram	India	English	Career/Job Portal	 @offcampusjobs	Macro	admin @ocj.com
-Dhairya Gangwani	LinkedIn	India	English	Career/Professional	 @dhairyagangwani	Mid	dhairya @career.com
+Dhairya Gangwani	LinkedIn	India	English	Career/Professional	 @dhairyagangwani	Mid	dhairyagangwani @career.com
 Nidhi Nagori	YouTube	India	Hindi	Career/Professional	 @NidhiNagori		nidhi @nidhinagori.com
 Sampark Sackena	LinkedIn	India	English	Career/Professional	 @samparksackena	Mid	sampark @linkedin.com
 Adda247	YouTube	India	Hindi	Education/Exam Prep	 @Adda247		support @adda247.com
@@ -722,7 +722,7 @@ Mamta Singh	Instagram	India	Hindi	Art/Creative/DIY	 @mamtasingh_art	Micro	mamta 
 Paint Bar	Instagram	India	English	Art/Creative/DIY	 @paintbar_bangalore	Micro	paintbar @bangalore.com
 Mithila Palkar	Instagram	India	English	Beauty/Fashion/Lifestyle	 @mipalkarofficial	Mega	mithila @monk-e.in
 Ankush Bahuguna (Makeup)	Instagram	India	Hindi	Beauty/Fashion/Lifestyle	 @ankushbahuguna	Macro	ankush @monk-e.in
-Shantanu Dhope	Instagram	India	Hindi	Beauty/Fashion/Lifestyle	 @shantanudhope	Mid	shantanu @makeup.com
+Shantanu Dhope	Instagram	India	Hindi	Beauty/Fashion/Lifestyle	 @shantanudhope	Mid	shantanudhope @makeup.com
 Plixxo	Instagram	India	English	Business/Agency/Community	 @plixxo	Macro	contact @plixxo.com
 5-Minute Crafts	YouTube	Global	English	Education/Learning/Hacks	 @5MinuteCrafts		brands @thesoul-publishing.com
 Sikana Hindi	YouTube	India	Hindi	Education/Learning/Hacks	 @SikanaHindi		contact @sikana.tv
@@ -1032,7 +1032,7 @@ Huda Kattan	Instagram	UAE	English	Beauty/Biz	@hudabeauty	Mega	huda @hudabeauty.c
 Mohamed Alabbar	LinkedIn	UAE	English	Biz/RealEstate	@mohamed_alabbar	Mega	malabbar @emaar.com
 Jony Ive	Apple	USA	English	Design/Tech	@lovefrom_jony	Mega	jony @lovefrom.com
 Evan Spiegel	Snapchat	USA	English	Tech/Founder	@evanspiegel	Mega	evan @snap.com
-Jensen Huang	NVIDIA	USA	English	Tech/Hardware	@nvidia_ensen	Mega	jensen @nvidia.com
+Jensen Huang	NVIDIA	USA	English	Tech/Hardware	@nvidia_jensen	Mega	jensen @nvidia.com
 Demis Hassabis	DeepMind	UK	English	Tech/AI	@demishassabis	Mega	demis @deepmind.com
 Changpeng Zhao	Binance	UAE	English	Crypto/Tech	@cz_binance	Mega	cz @binance.com
 Narayana Murthy	Infosys	India	English	Tech/Founder	@infosys_nm	Mega	nm @infosys.com
@@ -1045,6 +1045,7 @@ Cristiano Ronaldo	Instagram	Portugal	English	Sports	@cristiano	Mega	cr7 @alnassr
 Dua Lipa	Instagram	UK	English	Music	@dualipa	Mega	dua @dualipa.com
 Shakira	Instagram	Colombia	English	Music	@shakira	Mega	shakira @shakira.com
 Drake	Instagram	Canada	English	Music	@champagnepapi	Mega	aubrey @ovo.com
+Keanu Reeves	Instagram	Canada	English	Actor	@arch_keanu	Mega	keanu @archmoto.com
 Keanu Reeves	Instagram	Canada	English	Actor	@arch_keanu	Mega	keanu @archmoto.com
 Magnus Carlsen	Chess	Norway	English	Strategy	@magnuscarlsen	Mega	magnus @chess.com
 Tim Ferriss	Podcast	USA	English	Productivity	@tferriss	Mega	tim @fourhour.com
@@ -1293,4 +1294,15 @@ Grant Cardone	Real Estate	USA	English	Sales/10X	@grantcardone	Mega	grant@cardone
 Alex Hormozi	Business	USA	English	Acquisition	@alexhormozi	Mega	alex@acquisition.com
 Iman Gadzhi	Business	UK	English	Lifestyle/Agency	@imangadzhi	Mega	iman@gadzhi.com
 Sunny Lenarduzzi	YouTube	Canada	English	Authority/Brand	@sunnylenarduzzi	Mega	sunny@authority.com
-Zakir Khan	Comedy	India	Hindi	Poet/Icon	@zakirkhan	Mega	zakir@sakht.in`;
+Zakir Khan	Comedy	India	Hindi	Poet/Icon	@zakirkhan	Mega	zakir@sakht.in
+Shradha Jain	Instagram	India	English	Entertainment	@aiyyoshraddha	Mega	shraddha@aiyyoshraddha.com
+Amit Bhadana	YouTube	India	Hindi	Entertainment	@amitbhadana	Mega	amit@bhadana.in
+Deepika Padukone	Celebrity	India	English	Entertainment	@deepikapadukone	Mega	deepika@padukone.com
+Jesse Powell	Crypto	USA	English	Tech/Crypto	@jessepowell	Mega	jesse@kraken.com
+Kunal Kamra	Comedy	India	Hindi	Entertainment/Comedy	@kunalkamra	Mega	kunal@kamra.in
+Neeraj Chopra	Sports	India	Hindi/Eng	Sports/Fitness	@neerajchopra	Mega	neeraj@jsw.in
+Ninja	Gaming	USA	English	Gaming	@ninja	Mega	tyler@ninja.gg
+Rishabh Pant	Sports	India	Hindi/Eng	Sports/Fitness	@rishabhpant	Mega	rishabh@jsw.in
+Michael Saylor	Crypto	USA	English	Tech/Crypto	@saylor	Mega	saylor@microstrategy.com
+Winklevoss Twins	Crypto	USA	English	Tech/Crypto	@winklevoss	Mega	cameron@gemini.com
+Yuvaa	Media	India	English	Media/Content	@yuvaa	Mega	nikhil@yuvaa.co.in`;

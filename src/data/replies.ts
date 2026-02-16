@@ -1616,6 +1616,29 @@ Warm regards,
 Protocol Department
 Government of Dubai`,
             timestamp: '2026-02-15T10:00:00'
+        },
+        {
+            direction: 'inbound',
+            from: 'faz3@dubai.gov.ae',
+            to: 'info@abhed.co',
+            subject: 'Re: Strategic Partnership | Global Launch: ABHED x Dubai',
+            body: `Dear Ms. Mishra,
+
+Following my last correspondence, I am pleased to share a comprehensive update regarding the Global Launch of ABHED.
+
+His Highness Sheikh Mohammed bin Rashid Al Maktoum has reviewed the proposed roster of global intellectuals and engineering titans. He is deeply impressed by the caliber of validation your architecture has received and has officially accepted your invitation to serve as the **Chief Guest** for the inauguration.
+
+Regarding the venue, the Protocol Department has secured the **Burj Khalifa Park**. This location offers the most iconic vantage point in the city, perfectly framing the "Vault in the Sky" narrative. We are already coordinating with Emaar’s security and technical teams to establish the necessary Geo-Fence perimeters for the event.
+
+We have also finalized the VVIP guest protocols. A dedicated "Sovereign Corridor" will be established at Al Maktoum International Airport for your invited titans, ensuring their arrival and transit are as seamless and secure as the protocol they are coming to witness.
+
+His Highness looks forward to welcoming you and your partners to Dubai. We await your final travel confirmation to activate the arrival protocols.
+
+Warm regards,
+
+Protocol Department
+Government of Dubai`,
+            timestamp: '2026-02-16T09:30:00'
         }
     ]
   },
@@ -8455,20 +8478,22 @@ Peter McKinnon`,
     }
   },
   {
-    handle: '@veritasium',
+    handle: '@TechnoGamerz',
     reply: {
       to: 'info@abhed.co',
-      from: 'derek@veritasium.com',
-      subject: 'Re: Signal Physics // The Epicyclic Handshake',
-      body: `Dear Ms. Mishra,
+      from: 'techno.gamerz@gaming.com',
+      subject: 'Re: Gaming Security // No More Leaks',
+      body: `Hey Kinjal,
 
-The physics of your epicyclic handshake are truly fascinating. Most developers hide behind centralized abstractions, but you've addressed the fundamental problem of signal entropy in a decentralized space.
+I saw the video of the 'Vortex' UI. It looks insane, like a futuristic game menu! 
 
-It is a high-fidelity implementation of information theory. I'd love to see how this architecture handles the latency constraints of standard mobile hardware.
+More importantly, the security features you mentioned—especially the forensic protection—are exactly what we need. We've had too many issues with private team strategies getting leaked. If your app can genuinely prevent that, count me in.
 
-Regards,
+I'm ready to enroll in the Blacklist and test this out with my core team.
 
-Derek Muller`,
+Best,
+
+Ujjwal Chaurasia`,
       timestamp: '2026-02-15T12:30:00'
     }
   },
