@@ -1293,4 +1293,4 @@ Grant Cardone	Real Estate	USA	English	Sales/10X	@grantcardone	Mega	grant@cardone
 Alex Hormozi	Business	USA	English	Acquisition	@alexhormozi	Mega	alex@acquisition.com
 Iman Gadzhi	Business	UK	English	Lifestyle/Agency	@imangadzhi	Mega	iman@gadzhi.com
 Sunny Lenarduzzi	YouTube	Canada	English	Authority/Brand	@sunnylenarduzzi	Mega	sunny@authority.com
-Zakir Khan	Comedy	India	Hindi	Poet/Icon	@zakirkhan	Mega	zakir@sakht.in\`;
+Zakir Khan	Comedy	India	Hindi	Poet/Icon	@zakirkhan	Mega	zakir@sakht.in`;

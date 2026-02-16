@@ -1,5 +1,10 @@
 # Changelog - Abhed Outreach Manager
 
+## [Phase 4.36.1 - Build Integrity Hotfix] - 2026-02-15
+### Highlights
+- **Fix:** Corrected an escaped backtick in `raw_leads.ts` that was causing a build failure (Unterminated template literal).
+- **Validation:** Verified build stability with `npm run build`.
+
 ## [Phase 4.36.0 - Global & Domestic Icon Expansion] - 2026-02-15
 ### Highlights
 - **Titan Roster Surge:** Onboarded 50 new unique figures across science (Kurzgesagt, Veritasium), business (GaryVee, Hormozi), and cultural influence (PewDiePie, Zakir Khan).

@@ -22,6 +22,11 @@ The Abhed Outreach Manager has evolved from a lead-tracking tool into a high-fid
 - **Protocol Adherence:** All 29 replies follow the **Sovereign Protocol** (formal tone, double-newline spacing, hierarchical realism).
 - **Tech:** Updated `raw_leads.ts`, `replies.ts`, and bumped `DATA_VERSION` to `v4.24.0` in `useInfluencers.ts`.
 
+### Phase 4.36.1 - Build Integrity Hotfix (Feb 15, 2026)
+- **Fix:** Resolved a syntax error in `src/data/raw_leads.ts` where the closing backtick of the `RAW_LEADS_DATA` template literal was incorrectly escaped.
+- **Validation:** Verified that `npm run build` now passes successfully.
+- **Tech:** Hotfix for the regressions introduced in Phase 4.36.0 expansion.
+
 ### Phase 4.36.0 - Global & Domestic Icon Expansion (Feb 15, 2026)
 - **Roster Expansion:** Onboarded **50 additional unique icons** across Global Tech (PewDiePie, Kurzgesagt, MKBHD-adjacent creators), Business (Hormozi, GaryVee, Cardone), and domestic legends (Zakir Khan, Neeraj Chopra).
 - **Narrative Depth:** Implemented meaningful inbound communications for all 50 new entities, featuring personalized technical validation and appreciation for the founder's craft.
