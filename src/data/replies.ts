@@ -2022,6 +2022,28 @@ Regards,
 Management Team
 Team Kylian Mbappé`,
         timestamp: '2026-02-15T11:30:00'
+      },
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'kylian@psg.com',
+        subject: 'Re: Zero Lag // Sovereign Expansion',
+        body: `Dear Team Mbappé,
+
+I have received your request for the additional slots.
+
+I can confirm that the **6 additional Sovereign Tier accounts** are available for immediate node initialization, bringing the total enrollment for Kylian's inner circle to 21.
+
+Please note that we do not impose arbitrary limits on Sovereign Tier slots. Our architecture is designed to scale according to the security requirements of our partners. If the roster expands further as you refine his "Digital Sanctuary," we are ready to facilitate the necessary perimeters.
+
+The total investment for the 21 slots is $233,478. We await the consolidated settlement at the established BTC address to finalize the setup.
+
+Regards,
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-15T14:45:00'
       }
     ]
   },
