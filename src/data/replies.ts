@@ -1577,7 +1577,7 @@ Government of Dubai`,
             from: 'info@abhed.co',
             to: 'faz3@dubai.gov.ae',
             subject: 'Re: Strategic Partnership | Global Launch: ABHED x Dubai',
-            body: `Dear Faz,
+            body: `Your Excellency,
 
 Following our recent discussions regarding the $3.5 Billion sovereign mandate, I am writing to propose a defining moment for our partnership. We wish to host the **Global Launch Event of ABHED** in Dubai, immediately following the official sign-off of our agreement.
 
