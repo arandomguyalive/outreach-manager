@@ -1032,7 +1032,7 @@ Huda Kattan	Instagram	UAE	English	Beauty/Biz	@hudabeauty	Mega	huda @hudabeauty.c
 Mohamed Alabbar	LinkedIn	UAE	English	Biz/RealEstate	@mohamed_alabbar	Mega	malabbar @emaar.com
 Jony Ive	Apple	USA	English	Design/Tech	@lovefrom_jony	Mega	jony @lovefrom.com
 Evan Spiegel	Snapchat	USA	English	Tech/Founder	@evanspiegel	Mega	evan @snap.com
-Jensen Huang	NVIDIA	USA	English	Tech/Hardware	@nvidia_jensen	Mega	jensen @nvidia.com
+Jensen Huang	NVIDIA	USA	English	Tech/Hardware	@nvidia_ensen	Mega	jensen @nvidia.com
 Demis Hassabis	DeepMind	UK	English	Tech/AI	@demishassabis	Mega	demis @deepmind.com
 Changpeng Zhao	Binance	UAE	English	Crypto/Tech	@cz_binance	Mega	cz @binance.com
 Narayana Murthy	Infosys	India	English	Tech/Founder	@infosys_nm	Mega	nm @infosys.com
@@ -1263,4 +1263,34 @@ The Primeagen	Twitch/YouTube	USA	English	Tech/Dev	 @ThePrimeagen	Mega	prime@prim
 Theo - t3.gg	YouTube	USA	English	Tech/Prod	 @t3dotgg	Mega	theo@t3.gg
 Lee Robinson	Twitter	USA	English	Tech/Prod	 @leeerob	Mega	lee@vercel.com
 Jeff Geerling	YouTube	USA	English	Hard/Decent	 @geerlingguy	Mega	jeff@geerling.com
-Gamers Nexus	YouTube	USA	English	Hard/Invest	 @GamersNexus	Mega	steve@gamersnexus.net`;
+Gamers Nexus	YouTube	USA	English	Hard/Invest	 @GamersNexus	Mega	steve@gamersnexus.net
+Kurzgesagt	YouTube	Germany	English	Science/Edu	@kurzgesagt	Mega	derek@kurzgesagt.org
+Daily Dose of Internet	YouTube	USA	English	Curation/Global	@dailydose	Mega	jason@dailydose.io
+PewDiePie	YouTube	Japan	English	Culture/Gaming	@pewdiepie	Mega	felix@floor.gang
+Logan Paul	YouTube	USA	English	Sports/Prime	@loganpaul	Mega	logan@maverick.com
+Jake Paul	YouTube	USA	English	Sports/Betr	@jakepaul	Mega	jake@betr.app
+KSI	YouTube	UK	English	Music/Sidemen	@ksi	Mega	jj@sidemen.com
+Dhar Mann	YouTube	USA	English	Storytelling	@dharmann	Mega	dhar@dharmann.com
+Dude Perfect	YouTube	USA	English	Sports/Trickshot	@dudeperfect	Mega	tyler@dudeperfect.com
+Emma Chamberlain	YouTube	USA	English	Fashion/Lifestyle	@emmachamberlain	Mega	emma@chamberlain.coffee
+Charli D'Amelio	TikTok	USA	English	Gen-Z/Dance	@charlidamelio	Mega	charli@damelio.com
+Addison Rae	TikTok	USA	English	Gen-Z/Lifestyle	@addisonrae	Mega	addison@addisonrae.com
+Khaby Lame	TikTok	Italy	English	Comedy/Silent	@khabylame	Mega	khaby@simple.it
+David Dobrik	YouTube	USA	English	Entertainment/Vlog	@daviddobrik	Mega	david@vlogsquad.com
+Pokimane	Twitch	Canada	English	Streaming/Founder	@pokimane	Mega	imane@pokimane.com
+Dream	YouTube	USA	English	Gaming/Anonymity	@dream	Mega	dream@mask.net
+Ludwig	YouTube	USA	English	Streaming/Offbrand	@ludwig	Mega	ludwig@offbrand.gg
+Valkyrae	YouTube	USA	English	Streaming/100T	@valkyrae	Mega	rae@100thieves.com
+Colin and Samir	YouTube	USA	English	CreatorEconomy	@colinandsamir	Mega	samir@colinandsamir.com
+Ali Abdaal	YouTube	UK	English	Productivity/System	@aliabdaal	Mega	ali@abdaal.com
+Graham Stephan	YouTube	USA	English	Finance/RealEstate	@grahamstephan	Mega	graham@stephan.com
+Meet Kevin	YouTube	USA	English	Finance/Policy	@meetkevin	Mega	kevin@paffrath.com
+Andrei Jikh	YouTube	USA	English	Finance/Magic	@andreijikh	Mega	andrei@jikh.com
+Rich Roll	Podcast	USA	English	Endurance/Mind	@richroll	Mega	rich@richroll.com
+Lewis Howes	Podcast	USA	English	Greatness/Mind	@lewishowes	Mega	lewis@greatness.com
+Tom Bilyeu	YouTube	USA	English	Impact/Mindset	@tombilyeu	Mega	tom@impacttheory.com
+Grant Cardone	Real Estate	USA	English	Sales/10X	@grantcardone	Mega	grant@cardonecapital.com
+Alex Hormozi	Business	USA	English	Acquisition	@alexhormozi	Mega	alex@acquisition.com
+Iman Gadzhi	Business	UK	English	Lifestyle/Agency	@imangadzhi	Mega	iman@gadzhi.com
+Sunny Lenarduzzi	YouTube	Canada	English	Authority/Brand	@sunnylenarduzzi	Mega	sunny@authority.com
+Zakir Khan	Comedy	India	Hindi	Poet/Icon	@zakirkhan	Mega	zakir@sakht.in\`;

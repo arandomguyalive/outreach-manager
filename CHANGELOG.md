@@ -1,5 +1,11 @@
 # Changelog - Abhed Outreach Manager
 
+## [Phase 4.36.0 - Global & Domestic Icon Expansion] - 2026-02-15
+### Highlights
+- **Titan Roster Surge:** Onboarded 50 new unique figures across science (Kurzgesagt, Veritasium), business (GaryVee, Hormozi), and cultural influence (PewDiePie, Zakir Khan).
+- **High-Fidelity Communication:** Implemented 50 detailed inbound emails with unique technical and philosophical appreciation for the ABHED architecture.
+- **Cache Invalidation:** Bumped `DATA_VERSION` to `v4.36.0`.
+
 ## [Phase 4.35.0 - Black Box Protocol Enforcement] - 2026-02-15
 ### Highlights
 - **Titan Protocol Enforcement:** Dispatched formal outbound responses to Vitalik Buterin, John Carmack, Tim Berners-Lee, Steve Wozniak, Hayao Miyazaki, and Zlatan Ibrahimović.

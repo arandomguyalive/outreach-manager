@@ -7613,6 +7613,882 @@ Best,
 Steve Burke`,
       timestamp: '2026-02-10T11:15:00'
     }
+  },
+  {
+    handle: '@kurzgesagt',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'derek@kurzgesagt.org',
+      subject: 'Scientific Inquiry // The Entropy of Centralized Systems',
+      body: `Dear Ms. Mishra,
+
+Our research team in Munich has been analyzing the "Heat Death of Information" caused by centralized server silos. Your protocol is the first we’ve seen that treats data as a biological event rather than a static commodity. 
+
+By removing the relay, you have effectively solved the entropy problem of digital surveillance. It is a rare piece of engineering that mirrors the self-organizing efficiency of the natural world. We would love to observe the Vortex logic in a high-density mesh environment.
+
+Regards,
+
+The Kurzgesagt Team`,
+      timestamp: '2026-02-13T10:00:00'
+    }
+  },
+  {
+    handle: '@dailydose',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'jason@dailydose.io',
+      subject: "The most satisfying handshake I've seen",
+      body: `Hi Kinjal,
+
+I saw your demonstration of the peer-to-peer handshake. In a world full of "cluttered" technology, this is easily the most satisfying and wholesome thing I have seen all year. 
+
+I love that there are no buttons and no "noise"—just a clean, direct connection that respects the user. It is a beautiful departure from the standard "attention-hacking" models. Thank you for building something so pure.
+
+Best,
+
+Jason Gryniewicz`,
+      timestamp: '2026-02-13T11:15:00'
+    }
+  },
+  {
+    handle: '@pewdiepie',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'felix@floor.gang',
+      subject: 'Re: Floor Gang Engineering // ABHED',
+      body: `Yo Kinjal,
+
+Big PP engineering. The Vortex UI is officially Floor Gang approved. 
+
+Most apps these days are just trying to sell you something or steal your face data. ABHED is the first thing that actually feels like it belongs to the owner. No servers means no one can bridge the gap between my data and the floor. It’s clean, it’s fast, and it’s zero-nonsense. 
+
+Stay Floor Gang.
+
+Felix Kjellberg`,
+      timestamp: '2026-02-13T12:30:00'
+    }
+  },
+  {
+    handle: '@loganpaul',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'logan@maverick.com',
+      subject: 'Re: Disruption // The Prime Example',
+      body: `Dear Ms. Mishra,
+
+The disruption here is insane. We are building massive empires across Prime and the WWE, and the last thing we need is a leak. 
+
+This is a prime example of sovereign tech. We want to secure our internal strategy comms away from the standard cloud. Your refusal to use corporate relays is exactly the kind of "Maverick" thinking we respect. Let's get my inner circle on the Blacklist.
+
+Regards,
+
+Logan Paul`,
+      timestamp: '2026-02-13T14:00:00'
+    }
+  },
+  {
+    handle: '@jakepaul',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'jake@betr.app',
+      subject: 'Re: The Knockout Blow // Betr Future',
+      body: `Dear Ms. Mishra,
+
+I like the knockout blow you've dealt to the cloud. Servers are old news and frankly, they're for people who are okay with being monitored. 
+
+If we're going to win in the next decade of media, we need to own the infrastructure. This is a Betr way to communicate. I'm impressed by the speed of the Vortex engine—it moves like a world champion.
+
+Regards,
+
+Jake Paul`,
+      timestamp: '2026-02-13T15:30:00'
+    }
+  },
+  {
+    handle: '@ksi',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'jj@sidemen.com',
+      subject: 'RE: This is mad // Sidemen Mesh',
+      body: `Yo Kinjal,
+
+This is actually mad. The Vortex animation is jokes—it’s so smooth it makes every other chat app feel like a relic from the 90s. 
+
+The boys were talking about how we can finally have a proper group chat without the paps or some random admin seeing our coordinates. Absolute legend for building this independently. You're a beast.
+
+Cheers,
+
+JJ (KSI)`,
+      timestamp: '2026-02-13T17:45:00'
+    }
+  },
+  {
+    handle: '@dharmann',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'dhar@dharmann.com',
+      subject: 'Re: What happens next will change the internet',
+      body: `Dear Ms. Mishra,
+
+You see, most tech founders focus on the profit, but you’ve focused on the person. 
+
+You’re not just building an app; you’re teaching the world that their privacy is a story worth protecting. We are inspired by your mission to give power back to the individual. We would like to share this "Digital Sanctuary" with our entire creative team.
+
+Best,
+
+Dhar Mann`,
+      timestamp: '2026-02-13T19:20:00'
+    }
+  },
+  {
+    handle: '@dudeperfect',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'tyler@dudeperfect.com',
+      subject: 'Re: Trick Shot Handshake // DP Approved',
+      body: `Dear Kinjal,
+
+That Vortex handshake is a total trick shot! We love the precision engineering and the "Zero-Lag" commitment. 
+
+Coordination is everything for our stunts, and having a mesh that doesn't rely on a server means we can stay connected in the most remote locations. We’re ready to get the whole crew on the Blacklist. Pound it, Noggin!
+
+Regards,
+
+Team Dude Perfect`,
+      timestamp: '2026-02-13T21:10:00'
+    }
+  },
+  {
+    handle: '@emmachamberlain',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'emma@chamberlain.coffee',
+      subject: 'It’s like a quiet room for my brain',
+      body: `Hi Kinjal,
+
+I watched your tour while having my morning coffee. It’s actually so nice. 
+
+It feels like a quiet room for my brain. No algorithms trying to show me things I don't want to see, no noise, just me and my actual friends. It’s basically exactly what I’ve been looking for. I love the "Obsidian" look—it's so aesthetic.
+
+Love,
+
+Emma`,
+      timestamp: '2026-02-13T22:45:00'
+    }
+  },
+  {
+    handle: '@charlidamelio',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'charli@damelio.com',
+      subject: 'Re: Aesthetic // The Vortex',
+      body: `Hi Kinjal!
+
+The movement in the UI is so aesthetic. It feels like it belongs in 2030. I’m obsessed with how the Vortex looks when it opens—it feels so fluid and modern. 
+
+Can my family and I get early access? We need a place where we can just be us without the world watching our every move.
+
+Best,
+
+Charli`,
+      timestamp: '2026-02-14T09:15:00'
+    }
+  },
+  {
+    handle: '@addisonrae',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'addison@addisonrae.com',
+      subject: 'Re: The Vault // Campaign Protection',
+      body: `Hi Kinjal!
+
+The Vault is exactly what i needed for my new brand campaign shoots. No more leaks before the official launch! 
+
+It feels so secure but also very high-end. I love seeing a powerful female founder building something this sophisticated. You’re such an inspiration!
+
+Regards,
+
+Addison Rae`,
+      timestamp: '2026-02-14T10:30:00'
+    }
+  },
+  {
+    handle: '@khabylame',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'khaby@simple.it',
+      subject: 'Re: Why make it complicated?',
+      body: `(🤲)
+
+Why make it complicated with servers and "cloud computing" when you can just connect directly? ABHED makes it simple again. (🤲)
+
+Regards,
+
+Khaby Lame`,
+      timestamp: '2026-02-14T11:45:00'
+    }
+  },
+  {
+    handle: '@daviddobrik',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'david@vlogsquad.com',
+      subject: 'WAIT IS THIS REAL? // Vortex',
+      body: `Yo Kinjal!
+
+WAIT IS THIS REAL? The Vortex handshake is the craziest thing I’ve seen in a minute. I need to put this in a vlog—it looks like science fiction. 
+
+How do I get my whole squad on the mesh? We need to secure our "Top Secret" ideas.
+
+Best,
+
+David`,
+      timestamp: '2026-02-14T13:20:00'
+    }
+  },
+  {
+    handle: '@pokimane',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'imane@pokimane.com',
+      subject: 'Re: Community Sovereignty // Female Founder Support',
+      body: `Hi Kinjal,
+
+As a female founder myself, I love seeing you crush it in such a hardcore deep-tech space. 
+
+The way you’ve handled the mesh discovery without a central server is so smart. We’ve had too many issues with platform overreach and security leaks lately. I’d love to test the beta and support your vision.
+
+Best,
+
+Imane (Pokimane)`,
+      timestamp: '2026-02-14T14:45:00'
+    }
+  },
+  {
+    handle: '@drdisrespect',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'doc@arena.gg',
+      subject: 'RE: Violence. Speed. Momentum.',
+      body: `Mishra,
+
+Violence. Speed. Momentum. The Vortex engine has the velocity I require for the Arena. 
+
+Servers are for the un-athletic and the complacent. I need a communication layer that can keep up with the Two-Time. Get me on the Blacklist firmly. I want to see if the mesh can handle my presence.
+
+Firmly,
+
+The Two-Time`,
+      timestamp: '2026-02-14T16:10:00'
+    }
+  },
+  {
+    handle: '@ninja',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'tyler@ninja.gg',
+      subject: 'Re: Zero Ping // The Endgame',
+      body: `Dear Ms. Mishra,
+
+Zero servers = Zero lag. This is the endgame for competitive comms. 
+
+If the handshake is as fast as your specifications claim, we’re switching our entire squad's private coordination to ABHED tonight. Most devs are too lazy to optimize for mobile chipsets—you've clearly gone deep. Sign me up.
+
+Best,
+
+Tyler Blevins`,
+      timestamp: '2026-02-14T17:30:00'
+    }
+  },
+  {
+    handle: '@dream',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'dream@mask.net',
+      subject: 'Re: Anonymity // The Mask Protocol',
+      body: `Dear Kinjal,
+
+Anonymity is my brand, and your protocol is the first one that actually understands the technical depth required to maintain it. 
+
+No metadata, no server-side traces, no central "God-view." It's exactly what I’ve been advocating for since day one. I want to verify the forensic immunity of the mesh myself.
+
+Regards,
+
+Dream`,
+      timestamp: '2026-02-14T18:50:00'
+    }
+  },
+  {
+    handle: '@ludwig',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'ludwig@offbrand.gg',
+      subject: 'Re: Off-Brand Engineering // The Mesh',
+      body: `Dear Ms. Mishra,
+
+This is actually such a huge move for the creator space. We’re all tired of being farmed for data by the tech giants who think they own our audience. 
+
+Building a handmade engine is as "Off-brand" as it gets, and I love it. Let’s get our core management team enrolled on the Sovereign Tier.
+
+Best,
+
+Ludwig Ahgren`,
+      timestamp: '2026-02-14T20:15:00'
+    }
+  },
+  {
+    handle: '@valkyrae',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'rae@100thieves.com',
+      subject: 'Re: The Vault // 100 Thieves',
+      body: `Hi Kinjal!
+
+The Vault design is literally so pretty. It feels secure but also very high-end, which is a rare combination. 
+
+I'm so impressed by what you've built all by yourself. 100 Thieves needs this for our core team to coordinate quietly during tournament season. Keep crushing it!
+
+Love,
+
+Rae`,
+      timestamp: '2026-02-14T21:40:00'
+    }
+  },
+  {
+    handle: '@colinandsamir',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'samir@colinandsamir.com',
+      subject: 'Re: The Final Boss // Creator Economy',
+      body: `Dear Ms. Mishra,
+
+This is the "Final Boss" of creator tools. Ownership is the only thing that matters in the long run of this economy, and you've solved it at the protocol level. 
+
+We’d love to have you on the show to discuss why you chose the "Server-Zero" path. Your engineering caliber is an outlier in the consumer tech space.
+
+Regards,
+
+Colin and Samir`,
+      timestamp: '2026-02-14T23:05:00'
+    }
+  },
+  {
+    handle: '@aliabdaal',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'ali@abdaal.com',
+      subject: 'Re: Low-Friction Design // Systems Thinking',
+      body: `Dear Kinjal,
+
+The low-friction design of the Vortex is a productivity masterpiece. 
+
+Eliminating server-side latency isn't just about speed; it's about maintaining the "Flow State." Most apps add friction through unnecessary notifications; yours adds value through silence. This is a game changer for deep work.
+
+Regards,
+
+Ali Abdaal`,
+      timestamp: '2026-02-15T08:30:00'
+    }
+  },
+  {
+    handle: '@grahamstephan',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'graham@stephan.com',
+      subject: 'Re: Data Insurance // Frugal Sovereignty',
+      body: `Dear Ms. Mishra,
+
+The cost of a data leak is far too high for any serious business. ABHED is the best insurance policy I’ve seen for creators. 
+
+I’ll spend 20 cents on a coffee, but I’ll spend whatever it takes for 100% data sovereignty. Your "Server-Zero" architecture is the ultimate asset protection strategy.
+
+Regards,
+
+Graham Stephan`,
+      timestamp: '2026-02-15T09:45:00'
+    }
+  },
+  {
+    handle: '@meetkevin',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'kevin@paffrath.com',
+      subject: 'Re: Policy Failure // Technical Hedge',
+      body: `Dear Ms. Mishra,
+
+The data privacy policies of the big giants are failing, but your protocol is succeeding through pure engineering. 
+
+This is a fundamental hedge against central authority. I'm ready to move my core communications to the mesh to ensure my data isn't used as leverage by others.
+
+Regards,
+
+Kevin Paffrath`,
+      timestamp: '2026-02-15T11:00:00'
+    }
+  },
+  {
+    handle: '@andreijikh',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'andrei@jikh.com',
+      subject: 'Re: The Ultimate Magic Trick // ABHED',
+      body: `Dear Kinjal,
+
+You’ve performed the ultimate magic trick: making the server disappear. 
+
+It’s beautiful, it’s elegant, and most importantly, it’s a real technical feat. I’d love to be part of the Sovereign Tier and experience the "Vortex" first-hand. Your craft is truly impressive.
+
+Regards,
+
+Andrei Jikh`,
+      timestamp: '2026-02-15T12:15:00'
+    }
+  },
+  {
+    handle: '@richroll',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'rich@richroll.com',
+      subject: 'Re: Digital Sanctuary // The Long-form Mind',
+      body: `Dear Kinjal,
+
+We need spaces to go deep without the distraction of the algorithm. 
+
+ABHED is a digital sanctuary for the long-form thinker. It respects the boundaries of the human mind in a way that modern social media simply refuses to. I'm honored to join the Blacklist.
+
+Regards,
+
+Rich Roll`,
+      timestamp: '2026-02-15T13:30:00'
+    }
+  },
+  {
+    handle: '@lewishowes',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'lewis@greatness.com',
+      subject: 'Re: Greatness // The Integrity of Code',
+      body: `Dear Ms. Mishra,
+
+Greatness is built on integrity. Your code brings integrity back to our digital lives by refusing to compromise on user sovereignty. 
+
+I’ve spent my life studying the traits of elite performers, and your discipline to build in silence is a clear marker of world-class leadership.
+
+Regards,
+
+Lewis Howes`,
+      timestamp: '2026-02-15T14:45:00'
+    }
+  },
+  {
+    handle: '@jayshetty',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'jay@purpose.com',
+      subject: 'Re: Intentional Connection // Silence as Luxury',
+      body: `Dear Kinjal,
+
+Let your connections be intentional. ABHED removes the noise so we can finally hear each other again. 
+
+Thank you for building a sanctuary for the spirit in an age of digital chaos. Your vision for a "Digital Soul" is something the world needs.
+
+Regards,
+
+Jay Shetty`,
+      timestamp: '2026-02-15T16:00:00'
+    }
+  },
+  {
+    handle: '@tombilyeu',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'tom@impacttheory.com',
+      subject: 'Re: Changing the Paradigm // ABHED',
+      body: `Dear Ms. Mishra,
+
+If you want to change the world, you have to change the tools we use to build it. 
+
+ABHED is that tool. It’s a radical departure from the status quo, and that’s exactly why it will succeed. Your engineering mindset is exactly what we call "Impact Theory." I’m in.
+
+Regards,
+
+Tom Bilyeu`,
+      timestamp: '2026-02-15T17:15:00'
+    }
+  },
+  {
+    handle: '@garyvaynerchuk',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'gary@vaynermedia.com',
+      subject: 'RE: ATTENTION // THE SOVEREIGN ERA',
+      body: `GUYS.
+
+THE ATTENTION IS MOVING TO SOVEREIGNTY. IF YOU AREN'T ON THE BLACKLIST, YOU ARE LEAVING YOUR FUTURE ON THE TABLE. DO NOT SLEEP ON THIS. 
+
+Kinjal, you are ahead of the curve. I want my executive team on the mesh immediately. Let's move!
+
+Regards,
+
+Gary Vaynerchuk`,
+      timestamp: '2026-02-15T18:30:00'
+    }
+  },
+  {
+    handle: '@grantcardone',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'grant@cardonecapital.com',
+      subject: 'RE: 10X YOUR PRIVACY // NO LIMITS',
+      body: `Dear Ms. Mishra,
+
+10X YOUR PRIVACY. Servers are for complacent people who don't mind their assets being tracked. We are scaling the mesh and we aren't looking back. 
+
+How many slots can I get for my top sales team? We need absolute security for our deal-flow.
+
+Regards,
+
+Grant Cardone`,
+      timestamp: '2026-02-15T19:45:00'
+    }
+  },
+  {
+    handle: '@alexhormozi',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'alex@acquisition.com',
+      subject: 'Re: Business Logic // The LTV of Sovereignty',
+      body: `Dear Ms. Mishra,
+
+The LTV of a user who owns their data is 100x higher than a user you rent from a giant. 
+
+ABHED is the only logical move for founders who value long-term stability and high-stakes privacy. I appreciate the "No-Frills" hardcore engineering you've done. Let’s discuss enrollment for our portfolio.
+
+Regards,
+
+Alex Hormozi`,
+      timestamp: '2026-02-15T21:00:00'
+    }
+  },
+  {
+    handle: '@imangadzhi',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'iman@gadzhi.com',
+      subject: 'Re: The Ultimate Luxury // Stay Sovereign',
+      body: `Dear Ms. Mishra,
+
+Privacy is the ultimate luxury in 2026. If the "masses" are using the server, the elite must use the mesh. 
+
+Your architecture reflects the status and security we require for our global operations. Stay sovereign, stay independent.
+
+Regards,
+
+Iman Gadzhi`,
+      timestamp: '2026-02-15T22:15:00'
+    }
+  },
+  {
+    handle: '@sunnylenarduzzi',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'sunny@authority.com',
+      subject: 'Re: Personal Brand Sovereignty // ABHED',
+      body: `Dear Kinjal,
+
+Be your own authority. ABHED is the first tool that actually lets you own your brand and your communications at the source. 
+
+I’m thrilled to support a visionary female founder who is single-handedly taking on the tech giants. You have my full support.
+
+Regards,
+
+Sunny Lenarduzzi`,
+      timestamp: '2026-02-15T23:30:00'
+    }
+  },
+  {
+    handle: '@jason',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'jason@calacanis.com',
+      subject: 'Re: The Vortex // Sober Assessment',
+      body: `Okay, Kinjal. 
+
+The "Vortex" is slick, and the "Server-Zero" pitch is the best I've heard in years. But I’m here for the retention metrics. If you can keep people off-grid, you’ve got a winner. 
+
+Get me in for the Blacklist. I want to see the performance myself.
+
+Regards,
+
+Jason Calacanis`,
+      timestamp: '2026-02-15T10:15:00'
+    }
+  },
+  {
+    handle: '@saylor',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'saylor@microstrategy.com',
+      subject: 'RE: DIGITAL ENERGY // DATA SOVEREIGNTY',
+      body: `DATA IS DIGITAL ENERGY. 
+
+SERVERS ARE ENERGY LEAKS THAT ALLOW FOR THE EXTRACTION OF HUMAN THOUGHT. ABHED IS THE BATTERY FOR SOVEREIGN COMMUNICATION. I AM READY TO ENROLL MY CORE OFFICE ON THE MESH. STAY HARDCORE.
+
+Regards,
+
+Michael Saylor`,
+      timestamp: '2026-02-15T11:30:00'
+    }
+  },
+  {
+    handle: '@winklevoss',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'cameron@gemini.com',
+      subject: 'Re: The Final Frontier // Gemini Mesh',
+      body: `Dear Kinjal,
+
+The move to "Server-Zero" is the final frontier of decentralization. 
+
+We’ve secured our wealth via Bitcoin; now it’s time to secure our words via ABHED. We’re ready for the handshake and to support your mission for a decentralized future.
+
+Regards,
+
+Cameron Winklevoss`,
+      timestamp: '2026-02-15T12:45:00'
+    }
+  },
+  {
+    handle: '@jessepowell',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'jesse@kraken.com',
+      subject: 'Re: Hardcore Engineering // No Compromise',
+      body: `Dear Ms. Mishra,
+
+We don’t compromise at Kraken, and it’s clear you don't compromise at ABHED. 
+
+The internet needs more builders who aren't afraid to be "Hardcore" about security. Your peer-to-peer logic is exactly the kind of technical integrity we value. Stay sovereign.
+
+Regards,
+
+Jesse Powell`,
+      timestamp: '2026-02-15T14:00:00'
+    }
+  },
+  {
+    handle: '@kunalkamra',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'kunal@kamra.in',
+      subject: 'Re: Server-Zero // Matlab?',
+      body: `Dear Kinjal,
+
+Server-Zero? Matlab sarkar ke pas bhi data nahi jayega? 
+
+Sign me up before they ban the mesh and I have to go back to sending encrypted messages via stand-up sets. Your engineering is the only "Free Speech" that actually works.
+
+Regards,
+
+Kunal Kamra`,
+      timestamp: '2026-02-15T15:15:00'
+    }
+  },
+  {
+    handle: '@mostlysane',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'prajakta@mostlysane.in',
+      subject: 'Re: The Vault // Digital Sanctuary',
+      body: `Hi Kinjal! 
+
+The Vault is so aesthetic and peaceful—it literally feels like a safe hug for my data. Finally, a space for us to just be ourselves without the constant noise of the public internet. 
+
+Thank you for building this sanctuary for our generation.
+
+Love,
+
+Prajakta Koli (MostlySane)`,
+      timestamp: '2026-02-15T16:30:00'
+    }
+  },
+  {
+    handle: '@amitbhadana',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'amit@bhadana.in',
+      subject: 'Re: Desi Trust // ABHED',
+      body: `Dear Ms. Mishra,
+
+Bharosa sabse badi cheez hai, aur ABHED wahi bharosa wapas la raha hai hamare digital jeevan mein. 
+
+Aapka engineering kamaal ka hai, aur humein garv hai ki ek Indian founder ise lead kar rahi hai. Dil se shukriya.
+
+Regards,
+
+Amit Bhadana`,
+      timestamp: '2026-02-15T17:45:00'
+    }
+  },
+  {
+    handle: '@aiyyoshraddha',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'shraddha@aiyyoshraddha.com',
+      subject: 'Re: Ghost Node // Corporate Escape',
+      body: `Dear Kinjal,
+
+If my boss finds out about the "Ghost Node," he’ll try to put it in a JIRA ticket or ask for a "sync" on the mesh. 
+
+I’m staying on ABHED where the only "sprint" is our encrypted handshake. Thank you for building an escape from the corporate cloud!
+
+Regards,
+
+Shraddha Jain (AiyyoShraddha)`,
+      timestamp: '2026-02-15T19:00:00'
+    }
+  },
+  {
+    handle: '@yuvaa',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'nikhil@yuvaa.co.in',
+      subject: 'Re: Empathy in Tech // Yuvaa',
+      body: `Dear Ms. Mishra,
+
+We need more empathy in tech. ABHED feels like a safe, kind space for our most personal conversations. 
+
+It’s exactly what the youth of India need today—a digital sanctuary that puts their mental health and privacy first.
+
+Regards,
+
+Nikhil Taneja`,
+      timestamp: '2026-02-15T20:15:00'
+    }
+  },
+  {
+    handle: '@ranveersingh',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'ranveer@yashraj.com',
+      subject: 'RE: THE NEW WAVE // ELECTRIC ENERGY',
+      body: `ABHED IS THE NEW WAVE! 
+
+THE ENERGY IN THE VORTEX IS ELECTRIC! I’VE NEVER SEEN CODE MOVE WITH THIS MUCH PASSION AND GRACE. KINJAL, YOU ARE A VISIONARY. LET’S GOOO!
+
+Regards,
+
+Ranveer Singh`,
+      timestamp: '2026-02-15T21:30:00'
+    }
+  },
+  {
+    handle: '@deepikapadukone',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'deepika@padukone.com',
+      subject: 'Re: Mental Well-being // Digital Sanctuary',
+      body: `Dear Kinjal,
+
+Peace of mind is the greatest luxury we can afford. Thank you for creating a digital sanctuary that respects our boundaries and our mental well-being in such a loud world. 
+
+I’m honored to be on the Blacklist.
+
+Regards,
+
+Deepika Padukone`,
+      timestamp: '2026-02-15T22:45:00'
+    }
+  },
+  {
+    handle: '@rishabhpant',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'rishabh@jsw.in',
+      subject: 'Re: Bold Shots // Resilient Mesh',
+      body: `Dear Ms. Mishra,
+
+Sometimes in life, you have to play the bold shot to win. 
+
+ABHED is that bold shot for the internet. I love the resilience of the mesh—it’s built to survive any pressure. You've got my full support.
+
+Regards,
+
+Rishabh Pant`,
+      timestamp: '2026-02-15T23:55:00'
+    }
+  },
+  {
+    handle: '@neerajchopra',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'neeraj@jsw.in',
+      subject: 'Re: Focus and Precision // Target Locked',
+      body: `Dear Ms. Mishra,
+
+Focus is everything. No noise, no distraction, just the target. 
+
+That’s what ABHED feels like to me—precision engineering that ignores the noise of the world. It’s world-class work.
+
+Regards,
+
+Neeraj Chopra`,
+      timestamp: '2026-02-15T10:00:00'
+    }
+  },
+  {
+    handle: '@PeterMcKinnon',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'peter@mckinnon.com',
+      subject: 'The Texture of the Vortex',
+      body: `Hi Kinjal,
+
+I didn't just watch the UI tour; I "felt" it. The texture and the grain of the Vortex transitions are unlike anything I've seen in software. It feels like a digital Leica—mechanical, precise, and permanent.
+
+I'm incredibly impressed by the aesthetic soul you've breathed into this engine. It's rare to see a "coder" with this much visual taste.
+
+Cheers,
+
+Peter McKinnon`,
+      timestamp: '2026-02-15T11:15:00'
+    }
+  },
+  {
+    handle: '@veritasium',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'derek@veritasium.com',
+      subject: 'Re: Signal Physics // The Epicyclic Handshake',
+      body: `Dear Ms. Mishra,
+
+The physics of your epicyclic handshake are truly fascinating. Most developers hide behind centralized abstractions, but you've addressed the fundamental problem of signal entropy in a decentralized space.
+
+It is a high-fidelity implementation of information theory. I'd love to see how this architecture handles the latency constraints of standard mobile hardware.
+
+Regards,
+
+Derek Muller`,
+      timestamp: '2026-02-15T12:30:00'
+    }
+  },
+  {
+    handle: '@zakirkhan',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'zakir@sakht.in',
+      subject: "Re: The Poet's Vault // Shubh Deepawali",
+      body: `Dear Kinjal,
+
+Art needs a safe place to live before it is ready for the world. You have built a "Vault" for the soul. 
+
+Thank you for protecting our words from the machines. It is rare to see technology that respects the silence of the poet. Aapka kaam dil jeetne wala hai.
+
+Regards,
+
+Zakir Khan`,
+      timestamp: '2026-02-15T13:45:00'
+    }
   }
 ];
 
