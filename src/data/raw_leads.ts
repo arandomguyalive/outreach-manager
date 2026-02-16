@@ -251,7 +251,7 @@ Millie (IG Coach)	Instagram	USA	English	Pro/Business	 @itsmodernmillie	Mid	hello
 Rahul Bhatnagar	Instagram	India	English	Pro/Business	 @rahulbhatnagar	Mid	rahul @rahulbhatnagar.com
 Deepak Kanakaraju	Twitter	India	English	Pro/Business	 @DigitalDeepak	Mid	deepak @pixeltrack.com
 Avi Arya	Instagram	India	English	Pro/Business	 @askaviarya	Mid	avi @internetmoguls.com
-Ishan Sharma (Biz)	Twitter	India	English	Pro/Business	 @Ishansharma7390	Mid	ishan @markitup.in
+Ishan Sharma (Biz)	Twitter	India	English	Pro/Business	 @ishansharma	Mid	ishan @markitup.in
 Vedant Lamba	LinkedIn	India	English	Pro/Business	 @vedantlamba	Mid	vedant @mainstreet.com
 Scenes (Varun)	Twitter	India	English	Pro/Business	 @VarunMayya	Mid	varun @avaland.io
 OpeninApp	Instagram	India	Hindi/Eng	Pro/Business	 @openinapp	Mid	partners @openinapp.com
@@ -726,7 +726,7 @@ Shantanu Dhope	Instagram	India	Hindi	Beauty/Fashion/Lifestyle	 @shantanudhope	Mi
 Plixxo	Instagram	India	English	Business/Agency/Community	 @plixxo	Macro	contact @plixxo.com
 5-Minute Crafts	YouTube	Global	English	Education/Learning/Hacks	 @5MinuteCrafts		brands @thesoul-publishing.com
 Sikana Hindi	YouTube	India	Hindi	Education/Learning/Hacks	 @SikanaHindi		contact @sikana.tv
-Prajakta Koli (MostlySane)	YouTube	India	Hindi	Entertainment/Comedy/Skit	 @MostlySane		prajakta @onesto.co
+Prajakta Koli (MostlySane)	YouTube	India	Hindi	Entertainment/Comedy/Skit	 @mostlysane		prajakta @onesto.co
 Sibbu Giri	YouTube	India	Hindi	Entertainment/Comedy/Skit	 @SibbuGiri		sibbu @giri.com
 OyeIt'sPrank	YouTube	India	Hindi	Entertainment/Comedy/Skit	 @OyeItsPrank		contact @oyeitsprank.com
 Shirley Setia	Instagram	India	English	Entertainment/Lifestyle/Vlog	 @shirleysetia	Mega	shirley @shirleysetia.com
