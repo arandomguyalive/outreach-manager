@@ -9360,7 +9360,5 @@ Daniel Ek
 Executive Office, Spotify`,
       timestamp: '2026-02-16T19:15:00'
     }
-  },
-
-
-  
+  }
+];
