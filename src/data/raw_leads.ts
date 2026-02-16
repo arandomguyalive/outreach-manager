@@ -1305,4 +1305,42 @@ Ninja	Gaming	USA	English	Gaming	@ninja	Mega	tyler@ninja.gg
 Rishabh Pant	Sports	India	Hindi/Eng	Sports/Fitness	@rishabhpant	Mega	rishabh@jsw.in
 Michael Saylor	Crypto	USA	English	Tech/Crypto	@saylor	Mega	saylor@microstrategy.com
 Winklevoss Twins	Crypto	USA	English	Tech/Crypto	@winklevoss	Mega	cameron@gemini.com
-Yuvaa	Media	India	English	Media/Content	@yuvaa	Mega	nikhil@yuvaa.co.in`;
+Yuvaa	Media	India	English	Media/Content	@yuvaa	Mega	nikhil@yuvaa.co.in
+Guido van Rossum	GitHub	Netherlands/USA	English	Engineering/Core	@gvanrossum	Titan	guido@python.org
+Bjarne Stroustrup	Web	USA	English	Engineering/Core	@stroustrup_cpp	Titan	bjarne@stroustrup.com
+Rasmus Lerdorf	Twitter	Canada	English	Engineering/Core	@rasmus	Titan	rasmus@lerdorf.com
+Brendan Eich	Brave	USA	English	Engineering/Core	@brendaneich	Titan	brendan@brave.com
+Anders Hejlsberg	Microsoft	Denmark/USA	English	Engineering/Core	@ahejlsberg	Titan	andersh@microsoft.com
+James Gosling	Web	Canada/USA	English	Engineering/Core	@err0r500	Titan	james@gosling.ca
+Ken Thompson	Web	USA	English	Engineering/Core	@ken	Titan	ken@google.com
+Rob Pike	Web	Australia/USA	English	Engineering/Core	@rob_pike	Titan	r@google.com
+John Resig	Web	USA	English	Engineering/Web	@jeresig	Titan	jeresig@gmail.com
+Chris Lattner	Modular	USA	English	Engineering/Core	@clattner_llvm	Titan	chris@modular.com
+Dan Abramov	GitHub	UK	English	Engineering/Frontend	@dan_abramov	Titan	dan.abramov@gmail.com
+Evan You	Vite	Singapore	English	Engineering/Frontend	@youyuxi	Titan	evan@vuejs.org
+Rich Harris	Vercel	USA	English	Engineering/Frontend	@rich_harris	Titan	rich.harris@vercel.com
+Nat Friedman	GitHub	USA	English	Engineering/Leadership	@natfriedman	Titan	nat@github.com
+Tom Preston-Werner	GitHub	USA	English	Engineering/Leadership	@mojombo	Titan	tom@github.com
+Geoffrey Hinton	UofT	Canada	English	AI/Research	@geoffreyhinton	Titan	hinton@cs.toronto.edu
+Yoshua Bengio	MILA	Canada	English	AI/Research	@yoshuabengio	Titan	yoshua.bengio@mila.quebec
+Greg Brockman	OpenAI	USA	English	AI/Engineering	@gdb	Titan	gdb@openai.com
+Wojciech Zaremba	OpenAI	Poland/USA	English	AI/Research	@woj_zaremba	Titan	woj@openai.com
+Cassie Kozyrkov	Web	USA	English	AI/Decision Science	@kozyrkov	Titan	cassie@kozyrkov.com
+Donald Knuth	Stanford	USA	English	CS/Foundations	@knuth_legend	Titan	knuth@cs.stanford.edu
+Max Tegmark	FLI	USA	English	Physics/AI Safety	@tegmark	Titan	tegmark@mit.edu
+Jennifer Doudna	Berkeley	USA	English	Science/CRISPR	@jenniferdoudna	Titan	doudna@berkeley.edu
+Brian Cox	Twitter	UK	English	Science/Physics	@profbriancox	Titan	brian.cox@manchester.ac.uk
+Richard Dawkins	Twitter	UK	English	Science/Biology	@richarddawkins	Titan	rd@richarddawkins.com
+Malcolm Gladwell	Pushkin	Canada	English	Philosophy/Society	@gladwell	Titan	malcolm@pushkin.fm
+Ray Kurzweil	Google	USA	English	Science/Futurism	@raykurzweil	Titan	ray@kurzweiltech.com
+Steven Pinker	Harvard	USA	English	Philosophy/Psychology	@sapinker	Titan	pinker@wjh.harvard.edu
+Jane Goodall	JGI	UK	English	Science/Conservation	@janegoodallinst	Titan	info@janegoodall.org
+Don Norman	NN/g	USA	English	Design/UX	@donnorman	Titan	norman@nngroup.com
+Dieter Rams	Vitsœ	Germany	English	Design/Industrial	@dieterrams_archive	Titan	archive@dieterrams.de
+Tim O'Reilly	O'Reilly	USA	English	Tech/Media	@timoreilly	Titan	tim@oreilly.com
+Ben Horowitz	a16z	USA	English	VC/Engineering	@bhorowitz	Titan	ben@a16z.com
+Marc Benioff	Salesforce	USA	English	Tech/Enterprise	@benioff	Titan	ceo@salesforce.com
+Stewart Butterfield	Slack	USA	English	Tech/Scale	@stewart	Titan	stewart@slack.com
+Joe Gebbia	Airbnb	USA	English	Tech/Scale	@jgebbia	Titan	joe@airbnb.com
+Melanie Perkins	Canva	Australia	English	Tech/Design	@melaniecanva	Titan	melanie@canva.com
+Daniel Ek	Spotify	Sweden	English	Tech/Scale	@eldsjal	Titan	daniel.ek@spotify.com`;
