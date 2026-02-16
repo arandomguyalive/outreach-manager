@@ -1,5 +1,11 @@
 # Changelog - Abhed Outreach Manager
 
+## [Phase 4.32.0 - Team Mbappé Expansion] - 2026-02-15
+### Highlights
+- **Sovereign Tier Expansion:** Team Kylian Mbappé requested 6 additional accounts, bringing their total enrollment to 21 Sovereign slots.
+- **Settlement Consolidation:** Inbound confirmed a single consolidated BTC transfer for all 21 accounts to streamline institutional accounting.
+- **Cache Invalidation:** Bumped `DATA_VERSION` to `v4.32.0`.
+
 ## [Phase 4.31.0 - Dubai Launch Acknowledgement] - 2026-02-15
 ### Highlights
 - **Dubai Protocol Sync:** Received formal acknowledgement from the Protocol Department regarding the global launch event and Chief Guest invitation.

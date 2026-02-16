@@ -2003,6 +2003,25 @@ Regards,
 Management Team
 Team Kylian Mbappé`,
         timestamp: '2026-02-11T14:00:00'
+      },
+      {
+        direction: 'inbound',
+        from: 'kylian@psg.com',
+        to: 'info@abhed.co',
+        subject: 'Re: Zero Lag // Sovereign Expansion',
+        body: `Dear Ms. Mishra,
+
+We have received the settlement instructions for the 15 Sovereign Tier slots. However, after further review of Kylian’s immediate security requirements and personal inner circle, we have decided to expand the initial enrollment.
+
+Kylian would like to secure an **additional 6 Sovereign Tier accounts**, bringing the total to 21.
+
+We are currently holding the transfer to consolidate the settlement. Please confirm if these 6 additional slots are available for immediate node initialization. Once we have your confirmation, we will dispatch the total payment in a single transaction to the established BTC address to streamline the accounting.
+
+Regards,
+
+Management Team
+Team Kylian Mbappé`,
+        timestamp: '2026-02-15T11:30:00'
       }
     ]
   },
