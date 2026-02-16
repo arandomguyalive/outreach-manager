@@ -2044,6 +2044,25 @@ Kinjal Mishra
 System Architect, ABHED
 Author, The Inner Billionaire`,
         timestamp: '2026-02-15T14:45:00'
+      },
+      {
+        direction: 'inbound',
+        from: 'kylian@psg.com',
+        to: 'info@abhed.co',
+        subject: 'Re: Zero Lag // Sovereign Expansion',
+        body: `Dear Ms. Mishra,
+
+Thank you for the prompt confirmation regarding the additional slots and the clarification on the scaling capacity of the Sovereign Tier. It is reassuring to know that the architecture can expand alongside Kylian's requirements without friction.
+
+We have finalized the internal authorization for the consolidated investment of **$233,478**. 
+
+The total settlement will be dispatched to the established BTC address within the next **48 working hours**. We will share the transaction hash with your office the moment the transfer is initiated to begin the immediate node initialization for the full roster of 21.
+
+Regards,
+
+Management Team
+Team Kylian Mbappé`,
+        timestamp: '2026-02-15T18:20:00'
       }
     ]
   },
