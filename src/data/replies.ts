@@ -1349,6 +1349,30 @@ Regards,
 Pooja Dadlani
 Executive Office of Shah Rukh Khan`,
         timestamp: '2026-02-05T09:00:00'
+      },
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'srk@redchillies.com',
+        subject: 'Re: The New India // Shah Rukh Khan',
+        body: `Dear Mr. Khan,
+
+I am pleased to provide the formal settlement details for the Sovereign Tier enrollment of the 12 production leads at Red Chillies Entertainment.
+
+The total investment for these 12 Sovereign accounts is $133,416. We have authorized the following account for the immediate settlement of funds to initialize the nodes:
+
+**Receiver's Name:** KM18
+**Account Number:** 63933633184
+**IFSC CODE:** IDFB0040332
+
+Once the transfer is initiated, please share the confirmation so we can begin the 'Fortress' synchronization for your upcoming scripts. I look forward to visiting Mannat at a mutually convenient time to walk through the coordination with you and Gauri personally.
+
+Regards,
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-17T11:00:00'
       }
     ]
   },
@@ -3105,6 +3129,30 @@ Regards,
 
 Sporting Beyond Team`,
         timestamp: '2026-02-05T10:15:00'
+      },
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'virat@sportingbeyond.com',
+        subject: 'Re: The Bubble // Silence',
+        body: `Dear Mr. Kohli,
+
+I have received the request regarding the secure setup for the 'Digital Bubble' for you and Anushka.
+
+The total investment for these two Sovereign accounts is $22,236. To establish this sanctuary and initialize the private nodes before the upcoming tour begins, please utilize the following settlement details:
+
+**Receiver's Name:** KM18
+**Account Number:** 63933633184
+**IFSC CODE:** IDFB0040332
+
+Please notify my office once the settlement is processed so we can proceed with the device synchronization session. I look forward to coordinating a suitable time for the technical walkthrough once the funds are cleared.
+
+Regards,
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-17T11:15:00'
       }
     ]
   },
