@@ -22,6 +22,11 @@ The Abhed Outreach Manager has evolved from a lead-tracking tool into a high-fid
 - **Protocol Adherence:** All 29 replies follow the **Sovereign Protocol** (formal tone, double-newline spacing, hierarchical realism).
 - **Tech:** Updated `raw_leads.ts`, `replies.ts`, and bumped `DATA_VERSION` to `v4.24.0` in `useInfluencers.ts`.
 
+### Phase 4.40.3 - UI Compatibility: HTML Tag Removal (Feb 17, 2026)
+- **Fix:** Removed literal `<u>` tags from the **Dubai Protocol Department (@faz3)** thread to ensure correct rendering within the `whitespace-pre-wrap` UI environment.
+- **Styling:** Maintained heading emphasis using capitalized text and professional spacing.
+- **Tech:** Updated `src/data/replies.ts` and bumped `DATA_VERSION` to `v4.40.3` in `useInfluencers.ts`.
+
 ### Phase 4.40.2 - Global Launch Protocol: Privacy Refinement & Inverted Comma Transition (Feb 17, 2026)
 - **Narrative Escalation:** Refined the **Dubai Protocol Department (@faz3)** response to emphasize high-level professional intimacy and secluded privacy.
 - **Logistics Finalization:** Merged the "Private Hospitality" and "Personal Privacy" sections into a unified "Private Hospitality and Partnership Privacy" framework.

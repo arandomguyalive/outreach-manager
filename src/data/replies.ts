@@ -1766,41 +1766,41 @@ His Highness has personally reviewed the list of attendees you submitted. He is 
 
 Regarding your arrival and the ceremony at Zabeel Palace:
 
-The Royal Flight is positioned for your departure from India. We understand that you and your partner will be traveling as a compact team for the formal signing of the 'Strategic Alliance'. <u>To ensure all diplomatic documentation and security clearances are finalized with absolute precision, we request the full name and a brief background of your partner at your earliest convenience.</u> His Highness has expressed a sincere eagerness to understand the personal and professional chemistry of the 'union' behind ABHED; he believes that the most resilient architectures are born from the strongest human bonds and is eager to understand the bond you share as you enter this 'alliance' together.
+The Royal Flight is positioned for your departure from India. We understand that you and your partner will be traveling as a compact team for the formal signing of the 'Strategic Alliance'. To ensure all diplomatic documentation and security clearances are finalized with absolute precision, we request the full name and a brief background of your partner at your earliest convenience. His Highness has expressed a sincere eagerness to understand the personal and professional chemistry of the 'union' behind ABHED; he believes that the most resilient architectures are born from the strongest human bonds and is eager to understand the bond you share as you enter this 'alliance' together.
 
-<u>PRIVATE HOSPITALITY AND PARTNERSHIP PRIVACY</u>
+PRIVATE HOSPITALITY AND PARTNERSHIP PRIVACY
 
 Following the evening at Zabeel Palace, you will be escorted to your residence at the Burj Al Arab. Regarding your stay in the Royal Suite, we have authorized a specialized signal-shielding perimeter for your floor—ensuring absolute electronic invisibility from the public grid. We understand that a mission of this magnitude requires an environment that respects the private rhythm of your 'union' and allows for undisturbed reflection. To that end, your floor will be serviced by a hand-selected private household team—vetted personnel who provide 24/7 on-demand service while remaining entirely invisible to your private environment. Your suite is designated as a Private Diplomatic Zone; no logs of your movements, service requests, or visitors will exist in the hotel’s standard databases to ensure absolute seclusion and intimacy within your residence.
 
-A dedicated motorcade fleet and a specialized executive security detail will remain on permanent hot-standby at the Burj Al Arab, ready for immediate dispatch at your directive, 24 hours a day. <u>We have designed a 'Total Solitude' protocol for your time in the city. Should you and your partner wish to explore Dubai, your security team is authorized to clear any landmark or venue—such as the Museum of the Future, the Burj Khalifa, or the desert preserves—of all personnel and public at any hour. This ensures you can experience the heart of the city in complete silence, providing the exclusive access required for your shared, intimate moments away from the global lens. Whether within the walls of the Royal Suite or standing alone at the peak of the Burj Khalifa in the middle of the night, we are dedicated to protecting the absolute privacy your 'union' deserves.</u>
+A dedicated motorcade fleet and a specialized executive security detail will remain on permanent hot-standby at the Burj Al Arab, ready for immediate dispatch at your directive, 24 hours a day. We have designed a 'Total Solitude' protocol for your time in the city. Should you and your partner wish to explore Dubai, your security team is authorized to clear any landmark or venue—such as the Museum of the Future, the Burj Khalifa, or the desert preserves—of all personnel and public at any hour. This ensures you can experience the heart of the city in complete silence, providing the exclusive access required for your shared, intimate moments away from the global lens. Whether within the walls of the Royal Suite or standing alone at the peak of the Burj Khalifa in the middle of the night, we are dedicated to protecting the absolute privacy your 'union' deserves.
 
-<u>GUEST ARRIVALS AND EXECUTIVE PROTECTION</u>
+GUEST ARRIVALS AND EXECUTIVE PROTECTION
 
 A private terminal at Al Maktoum International will be dedicated solely to the arrival of your guests' private aviation. We have arranged for on-board immigration and customs clearance to ensure they move from their aircraft to their private transport without any contact with the public. Each guest will be assigned a dedicated Protocol Officer and a specialized executive protection team. We have secured the top floors of the Burj Al Arab and the Armani Hotel to house the delegation, ensuring they remain in a secure, high-service environment for the duration of their stay.
 
-<u>THE VVIP PRIVATE PAVILION</u>
+THE VVIP PRIVATE PAVILION
 
 To manage a public crowd of 60,000 while protecting 50 of the world’s most recognizable individuals, we are designing a raised, glass-walled pavilion at the center of the venue. This enclosure, constructed from reinforced transparent armor, allows your guests to witness the public initialization of the network while remaining in a sterile, climate-controlled zone with its own secure entry and exit points, completely isolated from the main crowd.
 
-<u>GLOBAL MEDIA SYNDICATION AND BROADCAST</u>
+GLOBAL MEDIA SYNDICATION AND BROADCAST
 
 To ensure the launch is recorded as a global milestone, the Government of Dubai Media Office has architected a multi-layered transmission strategy:
 
 1. THE PRIMARY BROADCAST FEED: We will provide a dedicated 4K satellite uplink to 180+ countries, allowing global networks like CNN, BBC, and Bloomberg to carry the initialization live. 
 2. THE ANCHOR CIRCLE: We have reserved exclusive live-broadcast positions for senior anchors such as Christiane Amanpour or David Muir. Additionally, a secure 'Editor's Suite' will be available for the Editorial Boards of The Economist, Wired, and The Financial Times.
 
-<u>THE PRIVATE DIALOGUES AND TECHNICAL BRIEFING</u>
+THE PRIVATE DIALOGUES AND TECHNICAL BRIEFING
 
 To document the historical significance of this 'alliance', we are proposing two exclusive interview formats:
 
 1. THE DIALOGUE: An intimate, recorded conversation between His Highness and the ABHED team (Kinjal and partner) at Zabeel Palace. This will be the only joint appearance, focusing on the shared vision of digital sovereignty for the city of the future.
 2. THE ARCHITECTS BRIEFING: A separate, deep-dive technical interview for the ABHED team with a selected global media partner. This session will focus on the engineering journey, allowing you to speak directly to the global technical community.
 
-<u>HIGH-SECURITY INVITATIONS AND VENUE SELECTION</u>
+HIGH-SECURITY INVITATIONS AND VENUE SELECTION
 
 Once you have confirmed the venue, the Government of Dubai will initiate the dispatch of highly confidential, high-security invitations directly to the private offices of each guest. These invitations will be delivered via secure diplomatic pouch and will include the restricted arrival protocols and the private itinerary for the March 5th event.
 
-<u>DETAILED VENUE ASSESSMENT FOR 60,000 ATTENDEES</u>
+DETAILED VENUE ASSESSMENT FOR 60,000 ATTENDEES
 
 We require your final decision between the following three locations to begin the heavy infrastructure builds:
 
