@@ -1666,6 +1666,94 @@ Warm regards,
 Protocol Department
 Government of Dubai`,
             timestamp: '2026-02-16T09:30:00'
+        },
+        {
+            direction: 'outbound',
+            from: 'info@abhed.co',
+            to: 'faz3@dubai.gov.ae',
+            subject: 'Re: Strategic Partnership | Global Launch: ABHED x Dubai',
+            body: `Your Excellency,
+
+It is with great honor that I submit the finalized guest list for the Global Launch Event of ABHED, scheduled for March 5, 2026, in Dubai. We are profoundly grateful for the confirmation of His Highness Sheikh Mohammed bin Rashid Al Maktoum as our Chief Guest.
+
+THE GLOBAL ROSTER
+
+We have curated a selection of the world's most influential figures across Engineering, Capital, and Culture to witness the initialization of the Dubai Mesh:
+
+TITANS (ENGINEERING & CAPITAL)
+
+1. Bill Gates
+2. Tim Cook
+3. Sam Walton
+4. Warren Buffett
+5. Elon Musk
+6. Pavel Durov
+7. Nithin Kamath / Nikhil Kamath
+8. Ritesh Agarwal
+9. Mukesh Ambani
+10. Sundar Pichai
+11. Jensen Huang
+12. Bernard Arnault
+13. Jeff Bezos
+14. Satya Nadella
+15. Mark Zuckerberg
+16. Sergey Brin
+17. Gautam Adani
+18. Sam Altman
+19. Larry Ellison
+20. Larry Fink
+21. Christine Lagarde
+22. Jamie Dimon
+23. Françoise Bettencourt Meyers
+24. Stephen A. Schwarzman
+25. Michael Bloomberg
+26. Lisa Su
+27. François-Henri Pinault
+28. Cameron Winklevoss
+29. Guido van Rossum
+30. Evan Spiegel
+31. Jack Dorsey
+
+CULTURAL ICONS (GLOBAL INFLUENCE)
+
+1. Shah Rukh Khan
+2. Virat Kohli
+3. Kim Kardashian
+4. Kylie Jenner
+5. Cristiano Ronaldo
+6. Taylor Swift
+7. Michael Jordan
+8. Logan Paul
+9. Jimmy Donaldson (MrBeast)
+10. Neeraj Chopra
+11. Deepika Padukone & Ranveer Singh
+12. Tom Cruise
+13. Scarlett Johansson
+14. James Cameron
+15. Steven Spielberg
+16. Sachin Tendulkar
+
+INTELLECTUALS (GLOBAL THOUGHT LEADERSHIP)
+
+1. Oprah Winfrey
+2. Paulo Coelho
+3. Brian Cox
+4. Chris Lattner
+5. Tim Berners-Lee
+6. J.K. Rowling
+
+Given the unprecedented profile and security requirements of this assembly, we would appreciate your confirmation on which of the proposed venues—Burj Park, the Museum of the Future, or a private enclave within Palm Jumeirah—your department deems most suitable for their arrival, security, and diplomatic protocols.
+
+Once the venue is confirmed based on your security assessment, we will provide our specific technical and logistical requirements for the event initialization.
+
+I look forward to your recommendation.
+
+Regards,
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+            timestamp: '2026-02-17T11:00:00'
         }
     ]
   },
