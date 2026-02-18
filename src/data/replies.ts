@@ -1830,11 +1830,11 @@ Government of Dubai`,
 
 The depth of hospitality and the meticulous preparation of the 'Total Solitude' protocol you have outlined is a testament to the strength of our alliance. We are profoundly grateful for the Government’s commitment to the ABHED architecture and for the sanctuary you have prepared for our arrival.
 
-Following a careful review of the logistical advantages, we confirm **Burj Park** as the definitive venue for the March 5th initialization. The ability to utilize the Burj Khalifa as a vertical canvas while protecting our guests through the underground tunnel network is the correct strategic choice for this milestone.
+Following a careful review of the logistical advantages, we confirm BURJ PARK as the definitive venue for the March 5th initialization. The ability to utilize the Burj Khalifa as a vertical canvas while protecting our guests through the underground tunnel network is the correct strategic choice for this milestone.
 
-Regarding our arrival at Zabeel Palace, I am pleased to provide the details for my **Cofounder, Abhishek Roy**. While I represent the **soul** of the ABHED mission, he is the technical **backbone** that provides its structural integrity, with deep expertise in **technical development, cybersecurity, and strategic project management**. The deeper nature of our union and the synergy we share is a conversation I look forward to discussing with His Highness in person.
+Regarding our arrival at Zabeel Palace, I am pleased to provide the details for my Cofounder, Abhishek Roy. While I represent the SOUL of the ABHED mission, he is the technical BACKBONE that provides its structural integrity, with deep expertise in technical development, cybersecurity, and strategic project management. The deeper nature of our union and the synergy we share is a conversation I look forward to discussing with His Highness in person.
 
-To maintain the visual identity of the launch, the venue must strictly adhere to a **Deep Black and Cyan Neon** palette. This represents the clarity of the sovereign signal and must be reflected across all physical and digital touchpoints. Furthermore, we require an **infinite screen setup** on the main podium—a seamless, wrapping display environment to house the initialization sequence.
+To maintain the visual identity of the launch, the venue must strictly adhere to a DEEP BLACK AND CYAN NEON palette. This represents the clarity of the sovereign signal and must be reflected across all physical and digital touchpoints. Furthermore, we require an INFINITE SCREEN SETUP on the main podium—a seamless, wrapping display environment to house the initialization sequence.
 
 Given the profile of our assembly, we request a more detailed briefing on the following:
 
