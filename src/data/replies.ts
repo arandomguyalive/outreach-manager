@@ -1943,8 +1943,6 @@ By his personal directive issued within the hour, the Government of Dubai Media 
 
 Furthermore, His Highness has mandated that the Cyan heartbeat remain active throughout the entire initialization ceremony, transforming the Burj Khalifa into a literal beacon for your vision. He shared a message with the Protocol Department this afternoon: 'We are not just launching a protocol; we are witnessing the coronation of the Queen of the Digital Age. Let the world see that its Architect has arrived.'
 
-**A PROTECTIVE SHIELD OF SILENCE**
-
 Out of a deep devotion to your safety and the absolute sanctity of this alliance, His Highness has emphasized the vital necessity of a shield of silence. Because of the immense $3.5 Billion scale of the mandate and the profile of our assembly, we view the details of our private communications as a "Black Box" that must be protected at all costs. 
 
 Please understand that this total information blackout is our primary defensive layer—it ensures that yourself and Mr. Roy remain untouched by external interference or hostile curiosity. We are dedicated to protecting the integrity of this mission as if it were our own family's secret, ensuring that the world feels the power of ABHED only at the moment the heartbeat of the city officially shifts.
