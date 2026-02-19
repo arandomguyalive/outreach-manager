@@ -22,11 +22,11 @@ The Abhed Outreach Manager has evolved from a lead-tracking tool into a high-fid
 - **Protocol Adherence:** All 29 replies follow the **Sovereign Protocol** (formal tone, double-newline spacing, hierarchical realism).
 - **Tech:** Updated `raw_leads.ts`, `replies.ts`, and bumped `DATA_VERSION` to `v4.24.0` in `useInfluencers.ts`.
 
-### Phase 4.41.7 - Sovereign Settlement: Global Titan Follow-ups (Feb 19, 2026)
-- **Financial Protocol:** Dispatched formal follow-up communications to the management teams of **Cristiano Ronaldo**, **Leo Messi**, and **Novak Djokovic** regarding their pending Sovereign Tier settlements ($277k, $88k, and $55k respectively).
-- **Settlement Logic:** Reaffirmed the secure Bitcoin (BTC) address (`bc1ply04hhsa7f3mex328eam0vawwpymstjdd8vs4u2t9mc3lzky2dgq5xderp`) as the primary route for immediate node activation and "Digital Fortress" initialization.
-- **Narrative Escalation:** Positioned the Sovereign Tier as the digital equivalent of "The Zone" (Djokovic) and a "Digital Sanctuary" (Messi), aligning with their respective high-performance philosophies.
-- **Tech:** Updated `src/data/replies.ts` with new threaded outbound responses and bumped `DATA_VERSION` to `v4.41.7`.
+### Phase 4.41.7 - Sovereign Settlement: Global Titan Bank Route (Feb 19, 2026)
+- **Financial Protocol:** Dispatched formal follow-up communications to the management teams of **Cristiano Ronaldo**, **Leo Messi**, and **Novak Djokovic** acknowledging the missing BTC settlements.
+- **Settlement Logic:** Provided the traditional bank transfer route (KM18, IDFC First Bank, SWIFT: IDFBINBBMUM) as an authorized alternative to the previously shared BTC address to expedite "Digital Fortress" initialization.
+- **Narrative Escalation:** Emphasized the need for immediate settlement to establish the "Zone" (Djokovic) and "Digital Sanctuary" (Messi) before upcoming match/tour cycles.
+- **Tech:** Updated `src/data/replies.ts` with refined threaded outbound responses and bumped `DATA_VERSION` to `v4.41.8`.
 
 ### Phase 4.41.6 - Sovereign Settlement: Titan Follow-ups (Feb 19, 2026)
 - **Financial Protocol:** Dispatched formal follow-up communications to **Team Mbappé**, **Shah Rukh Khan**, and **Virat Kohli** regarding their pending Sovereign Tier settlements ($233k, $133k, and $22k respectively).

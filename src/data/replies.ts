@@ -2554,13 +2554,16 @@ Author, The Inner Billionaire`,
         subject: 'Re: The Best // Digital Fortress Initialization',
         body: `Dear Ricardo,
 
-I am following up on our last correspondence regarding the Sovereign Tier enrollment for Cristiano's inner circle. 
+I am following up as we have not yet received the confirmation for the $277,950 settlement via the BTC address provided in our previous correspondence.
 
-To ensure the "Digital Fortress" nodes are initialized and the elite-level perimeter is established before his next match cycle, we are ready to proceed with the settlement. Please utilize the following secure BTC address for the transaction:
+To ensure the "Digital Fortress" nodes are initialized and the elite-level perimeter is established before Cristiano's next match cycle, I am also providing our formal banking details below as an alternative route to expedite the process:
 
-**BTC Address:** bc1ply04hhsa7f3mex328eam0vawwpymstjdd8vs4u2t9mc3lzky2dgq5xderp
+**Receiver's Name:** KM18
+**Account Number:** 63933633184
+**IFSC CODE:** IDFB0040332
+**SWIFT CODE:** IDFBINBBMUM
 
-Once the transfer is confirmed on the ledger, we will activate the dedicated lanes and finalize the hardware-bound handshake for the team.
+Please notify my office once the transfer is initiated via your preferred route so we can activate the dedicated lanes immediately.
 
 Regards,
 
@@ -4087,13 +4090,16 @@ Author, The Inner Billionaire`,
         subject: 'Re: Silence // Technical Initialization',
         body: `Dear Management Team,
 
-I am reaching out to follow up on the enrollment of 8 Sovereign Tier accounts for Leo’s inner circle ($88,944). 
+I am reaching out to follow up on the $88,944 settlement for Leo’s 8 Sovereign Tier accounts. We have not yet seen the transaction hash for the BTC transfer shared in our earlier communication.
 
-We are eager to establish the "Digital Bubble" for the family’s sanctuary as discussed. To expedite the initialization of these private nodes, please share the transaction hash once the settlement is dispatched to our secure BTC address:
+To avoid any further delay in establishing the "Digital Bubble" for the family’s sanctuary, you may also utilize the following authorized bank transfer route:
 
-**BTC Address:** bc1ply04hhsa7f3mex328eam0vawwpymstjdd8vs4u2t9mc3lzky2dgq5xderp
+**Receiver's Name:** KM18
+**Account Number:** 63933633184
+**IFSC CODE:** IDFB0040332
+**SWIFT CODE:** IDFBINBBMUM
 
-We look forward to confirming the setup and providing the technical walkthrough for the team.
+We look forward to confirming the setup and providing the technical walkthrough for the team as soon as the funds are cleared.
 
 Regards,
 
@@ -6849,13 +6855,16 @@ Author, The Inner Billionaire`,
         subject: 'Re: Peak Performance // Sovereign Node Activation',
         body: `Dear Team Djokovic,
 
-I am following up regarding the $55,590 settlement for the 5 Sovereign Tier slots for Novak's core circle.
+I am following up regarding the $55,590 settlement for Novak's 5 Sovereign Tier slots. We have not yet received the confirmation of the settlement via the secure BTC address provided earlier.
 
-In a sport defined by marginal gains and absolute focus, the Sovereign Tier provides the digital equivalent of "The Zone." To initialize these nodes and ensure the communication perimeter is secure, please utilize the following BTC settlement route:
+To ensure Novak’s core circle is onboarded to "The Zone" without further friction, I am providing our official banking details below as an alternative settlement route:
 
-**BTC Address:** bc1ply04hhsa7f3mex328eam0vawwpymstjdd8vs4u2t9mc3lzky2dgq5xderp
+**Receiver's Name:** KM18
+**Account Number:** 63933633184
+**IFSC CODE:** IDFB0040332
+**SWIFT CODE:** IDFBINBBMUM
 
-Please notify my office once the transfer is initiated so we can begin the activation.
+Please let us know once the transfer is dispatched via either the BTC or the banking route so we can begin the activation.
 
 Regards,
 
