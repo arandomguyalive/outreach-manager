@@ -29,7 +29,7 @@ export const useInfluencers = () => {
   });
 
   // Version flag to force cache invalidation on logic updates
-  const DATA_VERSION = 'v4.41.8';
+  const DATA_VERSION = 'v4.41.9';
 
   useEffect(() => {
     const loadData = () => {
