@@ -2546,6 +2546,28 @@ Kinjal Mishra
 System Architect, ABHED
 Author, The Inner Billionaire`,
         timestamp: '2026-02-08T10:05:00'
+      },
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'cr7@alnassr.com',
+        subject: 'Re: The Best // Digital Fortress Initialization',
+        body: `Dear Ricardo,
+
+I am following up on our last correspondence regarding the Sovereign Tier enrollment for Cristiano's inner circle. 
+
+To ensure the "Digital Fortress" nodes are initialized and the elite-level perimeter is established before his next match cycle, we are ready to proceed with the settlement. Please utilize the following secure BTC address for the transaction:
+
+**BTC Address:** bc1ply04hhsa7f3mex328eam0vawwpymstjdd8vs4u2t9mc3lzky2dgq5xderp
+
+Once the transfer is confirmed on the ledger, we will activate the dedicated lanes and finalize the hardware-bound handshake for the team.
+
+Regards,
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-19T11:45:00'
       }
     ]
   },
@@ -4057,6 +4079,28 @@ Kinjal Mishra
 System Architect, ABHED
 Author, The Inner Billionaire`,
         timestamp: '2026-02-08T10:00:00'
+      },
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'leo@messi.com',
+        subject: 'Re: Silence // Technical Initialization',
+        body: `Dear Management Team,
+
+I am reaching out to follow up on the enrollment of 8 Sovereign Tier accounts for Leo’s inner circle ($88,944). 
+
+We are eager to establish the "Digital Bubble" for the family’s sanctuary as discussed. To expedite the initialization of these private nodes, please share the transaction hash once the settlement is dispatched to our secure BTC address:
+
+**BTC Address:** bc1ply04hhsa7f3mex328eam0vawwpymstjdd8vs4u2t9mc3lzky2dgq5xderp
+
+We look forward to confirming the setup and providing the technical walkthrough for the team.
+
+Regards,
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-19T11:50:00'
       }
     ]
   },
@@ -6797,6 +6841,28 @@ Kinjal Mishra
 System Architect, ABHED
 Author, The Inner Billionaire`,
         timestamp: '2026-02-08T10:20:00'
+      },
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'team@djokovic.rs',
+        subject: 'Re: Peak Performance // Sovereign Node Activation',
+        body: `Dear Team Djokovic,
+
+I am following up regarding the $55,590 settlement for the 5 Sovereign Tier slots for Novak's core circle.
+
+In a sport defined by marginal gains and absolute focus, the Sovereign Tier provides the digital equivalent of "The Zone." To initialize these nodes and ensure the communication perimeter is secure, please utilize the following BTC settlement route:
+
+**BTC Address:** bc1ply04hhsa7f3mex328eam0vawwpymstjdd8vs4u2t9mc3lzky2dgq5xderp
+
+Please notify my office once the transfer is initiated so we can begin the activation.
+
+Regards,
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-19T11:55:00'
       }
     ]
   },
