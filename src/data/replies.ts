@@ -1373,6 +1373,26 @@ Kinjal Mishra
 System Architect, ABHED
 Author, The Inner Billionaire`,
         timestamp: '2026-02-17T11:00:00'
+      },
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'srk@redchillies.com',
+        subject: 'Re: The New India // Shah Rukh Khan',
+        body: `Dear Mr. Khan,
+
+I am following up on the settlement instructions dispatched on Tuesday regarding the 12 Sovereign Tier slots for Red Chillies Entertainment.
+
+We are eager to initialize the 'Fortress' for your upcoming scripts and begin the synchronization. Please let us know once the transfer of $133,416 is initiated so we can finalize the setup. 
+
+I also remain available to visit Mannat at your convenience to walk through the coordination with you and Gauri personally.
+
+Regards,
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-19T11:20:00'
       }
     ]
   },
@@ -2381,6 +2401,31 @@ Regards,
 Management Team
 Team Kylian Mbappé`,
         timestamp: '2026-02-15T18:20:00'
+      },
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'kylian@psg.com',
+        subject: 'Re: Zero Lag // Sovereign Expansion',
+        body: `Dear Management Team,
+
+I am following up regarding the consolidated settlement of $233,478 for Kylian’s 21 Sovereign Tier slots. 
+
+While we await the transaction hash for the BTC transfer, we have authorized a traditional banking route for your office to expedite the node initialization if preferred. Please find the formal settlement details below:
+
+**Receiver's Name:** KM18
+**Account Number:** 63933633184
+**IFSC CODE:** IDFB0040332
+**SWIFT CODE:** IDFBINBBMUM
+
+Upon receipt of the transfer confirmation—whether via BTC or the banking route—we will immediately activate the high-priority lanes for the full roster.
+
+Regards,
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-19T11:15:00'
       }
     ]
   },
@@ -3423,6 +3468,26 @@ Kinjal Mishra
 System Architect, ABHED
 Author, The Inner Billionaire`,
         timestamp: '2026-02-17T11:15:00'
+      },
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'virat@sportingbeyond.com',
+        subject: 'Re: The Bubble // Silence',
+        body: `Dear Mr. Kohli,
+
+I am reaching out to follow up on the settlement details provided on Tuesday for the 'Digital Bubble' Sovereign accounts for you and Anushka.
+
+To ensure the private nodes are fully initialized and synced on your devices before the upcoming tour begins, please share the confirmation once the $22,236 settlement is processed. 
+
+Once the funds are cleared, I will coordinate a brief technical walkthrough to ensure the 'Silence' protocol is perfectly calibrated for your requirements.
+
+Regards,
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-19T11:25:00'
       }
     ]
   },
