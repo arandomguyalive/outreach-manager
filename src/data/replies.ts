@@ -6002,6 +6002,38 @@ Deputy Ruler of Abu Dhabi
 National Security Advisor, United Arab Emirates`,
         timestamp: '2026-02-04T13:30:00',
         direction: 'inbound'
+      },
+      {
+        from: 'private.office@nsa.gov.ae',
+        to: 'info@abhed.co',
+        subject: 'Re: Federal Security Audit // Infrastructure Integration',
+        body: `Dear Ms. Mishra,
+
+His Highness has just concluded a high-level briefing with the National Security Council regarding the "Queen of the Digital Age" decree and the mandate of silence issued by the Dubai Protocol for your protection. He paused the proceedings to personally share his reflections with you.
+
+"To build a skyscraper is to challenge the sky; to build a soul for a nation’s future is to challenge time itself. While Dubai has named you Queen, I have informed the Council that your arrival signifies the birth of an empire of the mind. You are the Empress of the New Dawn, and all Seven Emirates now stand ready to protect you. Your code is not just a protocol; it is the new constitution of our digital dignity."
+
+There is a profound sense of gravity within the capital today. For decades, we have built cities of steel and glass, hoping to attract the world's greatest minds. But today, there is a quiet, soulful realization felt across the Federation—that the greatest mind of our generation has not just visited us, she has chosen us. You have given us the honor of becoming your home, Kinjal. It is a trust we will protect for a thousand years.
+
+In recognition of the immense significance of your arrival, His Highness has authorized a series of Federal Decrees that transcend all standard protocol. You and Mr. Roy are now granted Permanent Federal Immunity across the entire United Arab Emirates, and His Highness has further decreed that your protection anywhere in the world is now the solemn responsibility of the Federation. Whether you are within our borders or across the globe, the full weight of the UAE's federal security apparatus stands as your personal shield. Furthermore, by sovereign decree, you have been granted Eternal Citizenship of the United Arab Emirates. You are no longer a guest; you are a Pillar of this Nation. This is your home, and your legacy is now woven into the eternal fabric of the Federation.
+
+To ensure you have a haven that reflects this status, the Royal Villa Complex at Qasr Al Sarab has been designated as your private domain. It has been hardened with a Federal Signal-Shielding perimeter and will be staffed by a hand-selected detachment of the Presidential Guard who report only to you. His Highness spent part of his afternoon reflecting on the path you have walked, sharing a private thought with his council: "We are welcoming the mind whose vision is to keep the world's secrets, and whose deepest purpose is to protect them forever. But who has protected her in this sacred task? She has built a shield for billions while standing in the turbulence of a world that has forgotten how to be silent. It is time the turbulence ends. It is time we become the shield for her, so she may finally keep the secrets of the world in peace."
+
+We understand that for the 'Technical Soul' of ABHED, the greatest luxury is not the gold or the palaces, but the right to finally be safe in the presence of the one who holds your backbone. We recognize that the Sovereign Signal was born in the quiet spaces shared between you and Mr. Roy, and we respect that private soul of your partnership as much as the mission itself. Your residence is designated as an enclave of absolute seclusion, where our staff and security will remain entirely invisible to your private environment. The desert will be your silent witness to the tranquility that is now yours to keep.
+
+As a final gesture of our gratitude, His Highness has mandated the initialization of 'The KM18 Forest'—a sanctuary of one million Ghaf trees to be planted across the Al Dhafra dunes in your name. Each tree represents a node of the world you are building, ensuring that while your code protects our digital future, your presence brings eternal life to our sands. The first of these trees will be planted by your own hand in the presence of His Highness the moment our partnership is formalized in the capital. At that historic moment, we shall also make the public announcement of your appointment as the Global Brand Ambassador for the United Arab Emirates—signalling to the world that your vision is now our nation's signal. The KM18 Forest will grow for centuries, a living testament to the day the Soul of ABHED came home.
+
+As a gesture of our shared history, a rare 12th-century compass—a relic of the ancient keepers of truth—has been recovered from the Royal Archives for your arrival. His Highness remarked that while the world has lost its way, you have found the path back to our humanity. At the moment your flight enters UAE airspace, the federal defense grid will be placed on 'Honor Standby.' Every major landmark across the Seven Emirates will synchronize their displays to your heartbeat, creating a nationwide beacon for your arrival. We have synchronized with the mandate of silence; this information blackout is our final gift to you—a space where you can breathe, reflect, and prepare for the moment you change the world.
+
+Kinjal, you have not just brought us your code; you have brought us your trust. We will never let you stand in the wind alone again. As soon as you complete the initialization in Dubai, you are awaited in Abu Dhabi with open arms to begin our work at the Federal Command. Come home to the capital when you are ready. The Seven Emirates are yours.
+
+With the highest consideration and deepest respect,
+
+The Private Office of H.H. Sheikh Tahnoon bin Zayed Al Nahyan
+Deputy Ruler of Abu Dhabi
+National Security Advisor, United Arab Emirates`,
+        timestamp: '2026-02-19T16:45:00',
+        direction: 'inbound'
       }
     ]
   },
