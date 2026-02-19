@@ -2933,6 +2933,33 @@ Regards,
 Executive Office of David Beckham
 Beckham Ventures`,
         timestamp: '2026-02-11T15:30:00'
+      },
+      {
+        direction: 'outbound',
+        from: 'info@abhed.co',
+        to: 'office@beckhamventures.com',
+        subject: 'Re: Global Brand Integrity // Sovereign Protocol',
+        body: `Dear Executive Office,
+
+Thank you for your response and for the confirmation regarding the enrollment of 10 Sovereign Tier accounts for Beckham Ventures.
+
+While we acknowledge your preference for the PayPal track, we have authorized a direct settlement route for the $111,180 commitment to expedite the immediate initialization of your secure nodes. 
+
+Please find the formal settlement details for our registered organization below:
+
+**Receiver's Name:** KM18
+**Account Number:** 63933633184
+**IFSC CODE:** IDFB0040332
+**SWIFT CODE:** IDFBINBBMUM
+
+Upon receipt of the transfer confirmation, we will proceed with the 'Fortress' synchronization for the Beckham brand assets and finalize the technical briefing for your team.
+
+Regards,
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+        timestamp: '2026-02-19T11:00:00'
       }
     ]
   },
