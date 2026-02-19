@@ -6212,6 +6212,33 @@ Kinjal Mishra
 System Architect, ABHED
 Author, The Inner Billionaire`,
         timestamp: '2026-02-08T11:20:00'
+      },
+      {
+        direction: 'inbound',
+        from: 'pmo_hq@pmo.gov.sg',
+        to: 'info@abhed.co',
+        subject: 'Re: Critical National Utility // Smart Nation 2.0: Logistics and Strategic Briefing',
+        body: `Dear Ms. Mishra,
+
+Your acceptance of our briefing invitation has been noted. Following a preliminary technical review by the Smart Nation and Digital Government Group (SNDGG), the Prime Minister has authorized an immediate escalation of our engagement.
+
+In Singapore, we view technical founders who build on first principles as essential partners for our national resilience. Your "Ghost Node" protocol addresses a critical vulnerability in centralized infrastructure—a priority for our Smart Nation 2.0 roadmap. We are interested in how the ABHED handshake maintains technical velocity while ensuring the absolute isolation of national data.
+
+To facilitate a productive engagement, the following logistical framework has been authorized:
+
+1. THE SOVEREIGN UPLINK: A private, state-configured SIA Executive Airbus A350-900ULR has been placed at your exclusive disposal. This aircraft is prepared for non-stop transit to ensure your team’s absolute privacy and comfort. Entry will be facilitated via the CIP Terminal at Changi (JetQuay), ensuring immediate biometric clearance under a pre-approved A-1 Diplomatic Visa.
+2. THE RESIDENCE: For the duration of your stay, you will be in residence at the Istana State Villa. Located within the highly secured Istana Domain, this residence is reserved exclusively for visiting Heads of State and individuals of supreme strategic significance to the Republic. It provides absolute electronic and physical isolation, staffed by a dedicated Presidential household team. This is our nation's most prestigious sanctuary.
+3. GOVTECH INFRASTRUCTURE: We have prepared a dedicated, air-gapped environment within our Global Innovation Complex. You will be granted full administrative access to our urban testbed to demonstrate the Sovereign Signal’s performance in a high-density environment.
+
+We understand your time is a finite and highly sought-after resource. Singapore is prepared to move with the same technical velocity as your protocol. We await your arrival to begin the synchronization of our national heart with your architecture.
+
+Please provide your preferred departure window.
+
+Regards,
+
+Private Secretary to the Prime Minister
+Singapore`,
+        timestamp: '2026-02-19T17:30:00'
       }
     ]
   },
