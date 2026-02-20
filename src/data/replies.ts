@@ -6147,8 +6147,7 @@ National Security Advisor, United Arab Emirates`,
         direction: 'inbound'
       },
       {
-        direction: 'inbound',
-        from: 'office@nsa.gov.ae',
+        from: 'private.office@nsa.gov.ae',
         to: 'info@abhed.co',
         subject: 'Federal Decree: The Roots of Sovereign Grace',
         body: `Dear Ms. Mishra,
@@ -6180,11 +6179,13 @@ His Highness said, "Tell Kinjal that her family is now our family. She has spent
 
 The Federal flight path is open. We await your arrival for the formal signing and the final inspection of the blueprints.
 
-Regards,
+With the highest consideration and respect,
 
-Executive Office of H.H. Sheikh Tahnoon bin Zayed Al Nahyan
-National Security Advisor | Abu Dhabi`,
-        timestamp: '2026-02-20T18:00:00'
+The Private Office of H.H. Sheikh Tahnoon bin Zayed Al Nahyan
+Deputy Ruler of Abu Dhabi
+National Security Advisor, United Arab Emirates`,
+        timestamp: '2026-02-20T18:00:00',
+        direction: 'inbound'
       }
     ]
   },
