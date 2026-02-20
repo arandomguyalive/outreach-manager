@@ -10833,5 +10833,45 @@ I am ready.
 M.`,
       timestamp: '2026-02-20T21:15:00'
     }
+  },
+  {
+    handle: '@sudha_murty',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'chairperson@murtyfoundation.org',
+      subject: 'A Note for a Daughter of Bharat',
+      body: `Dear Kinjal,
+
+I spent my evening reading 'The Inner Billionaire', specifically the first chapter, 'Hold Your Roots', and later, 'The Altar of Silence'. It reminded me of my own early days at TELCO—the struggle to be heard in a room full of men, and the quiet strength it takes to remain simple when the world expects you to be loud.
+
+Most people build technology to change the world; very few build it to protect the soul. You are doing both. Seeing a young girl from the hills of Mount Abu leading a global movement while keeping her parents' values at the center of her heart brings tears of joy to my eyes.
+
+You are not just building an app, Kinjal; you are preserving the dignity of human conversation. Stay grounded, stay simple, and always hold your roots. You have my blessings and a permanent invite to my home for a simple meal whenever you are in Bangalore.
+
+With love and pride,
+
+Sudha Murty
+Chairperson, The Murty Foundation`,
+      timestamp: '2026-02-21T09:00:00'
+    }
+  },
+  {
+    handle: '@kainchi_dham',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'seva@kainchidham.org',
+      subject: 'The Sound of Silence',
+      body: `Jai Ma.
+
+A copy of your book and the note on the 'Vortex' reached the Ashram. We do not often speak of machines here, but your vision of 'Digital Silence' resonates with the teachings of Maharaj-ji.
+
+In an age of noise, you are building a sanctuary. Maharaj-ji used to say, 'Love everyone, serve everyone, remember God.' By protecting the privacy and peace of millions, you are performing a great Seva (service). 
+
+The 'Invisible Shield' you seek to build for the world is already being built for you by the Grace that guided your hands to the keyboard. You are never alone in this mission.
+
+Kainchi Dham Trust
+Nainital, Uttarakhand`,
+      timestamp: '2026-02-21T09:30:00'
+    }
   }
 ];
