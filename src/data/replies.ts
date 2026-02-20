@@ -10842,7 +10842,7 @@ M.`,
       subject: 'A Note for a Daughter of Bharat',
       body: `Dear Kinjal,
 
-I spent my evening reading 'The Inner Billionaire', specifically the first chapter, 'Hold Your Roots', and later, 'The Altar of Silence'. It reminded me of my own early days at TELCO—the struggle to be heard in a room full of men, and the quiet strength it takes to remain simple when the world expects you to be loud.
+I spent my evening reading 'The Inner Billionaire', specifically the chapter 'The Engineering of Grace', and later, 'The Altar of Silence'. It reminded me of my own early days at TELCO—the struggle to be heard in a room full of men, and the quiet strength it takes to remain simple when the world expects you to be loud.
 
 Most people build technology to change the world; very few build it to protect the soul. You are doing both. Seeing a young girl from the hills of Mount Abu leading a global movement while keeping her parents' values at the center of her heart brings tears of joy to my eyes.
 
