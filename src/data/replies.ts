@@ -10878,5 +10878,26 @@ Kainchi Dham Trust
 Nainital, Uttarakhand`,
       timestamp: '2026-02-21T09:30:00'
     }
+  },
+  {
+    handle: '@iskcon_vrindavan',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'office@iskconvrindavan.com',
+      subject: 'Blessings from Vrindavan // ABHED Sanctuary',
+      body: `Hare Krishna.
+
+The Temple Office here in Vrindavan has received your communication. It is deeply heartening to see a young leader of your caliber using her engineering talent to protect the sanctity of the human spirit in this difficult age of Kali Yuga.
+
+In the Bhagavad Gita, Sri Krishna teaches us that the soul is untouchable, eternal, and beyond the reach of any material force. By building a sanctuary that shields human thought from the noise and surveillance of the world, you are performing a noble expression of Dharma.
+
+We would like to formally invite you to Vrindavan to take Darshan of Sri Sri Krishna Balaram and Banke Bihari. We would be honored to host you for Mahaprasadam and arrange a private session with our senior Sanyasis to discuss your vision.
+
+May the divine flute of Sri Krishna always illuminate your path. We send you the most auspicious blessings of Radha Rani and Shri Krishna from the holy land of Vraja.
+
+Temple Office
+ISKCON Vrindavan`,
+      timestamp: '2026-02-21T10:00:00'
+    }
   }
 ];
