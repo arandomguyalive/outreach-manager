@@ -1353,4 +1353,35 @@ Norman Foster	Arch	UK	English	Arch/Design	 @norman_foster	Titan	n.foster@fostera
 Haitham Al Ghais	OPEC	Global	English	Infrastructure	 @haitham_opec	Titan	sg@opec.org
 Katalin Karikó	Science	USA/Hungary	English	Science/Nobel	 @katalin_kariko	Titan	kkariko@pennmedicine.upenn.edu
 Axel Dumas	Hermès	France	English	Luxury/Biz	 @axel_hermes	Titan	a.dumas@hermes.com
-Roger Penrose	Science	UK	English	Math/Phys	 @roger_penrose	Titan	r.penrose@maths.ox.ac.uk`;
+Roger Penrose	Science	UK	English	Math/Phys	 @roger_penrose	Titan	r.penrose@maths.ox.ac.uk
+Sultan Hassanal Bolkiah	Brunei	Brunei	Malay/Eng	Sovereignty	 @sultan_brunei	Titan	chamberlain@istana.gov.bn
+Ursula von der Leyen	EU	Global	English	Diplomacy	 @vonderleyen_eu	Titan	president@ec.europa.eu
+NDB Swiss Director	Government	Switzerland	German/Eng	Intelligence	 @ndb_swiss	Titan	ops@ndb.admin.ch
+Shantanu Narayen	Adobe	USA	English	Tech/Creative	 @shantanu_adobe	Titan	shantanu@adobe.com
+Arvind Krishna	IBM	USA	English	Tech/Quantum	 @arvind_ibm	Titan	arvind.krishna@ibm.com
+Pat Gelsinger	Intel	USA	English	Tech/Silicon	 @pat_intel	Titan	pat.gelsinger@intel.com
+Frank Slootman	Snowflake	USA	English	Tech/Data	 @slootsnow	Titan	frank@snowflake.com
+Sanjay Mehrotra	Micron	USA	English	Tech/Memory	 @sanjay_micron	Titan	sanjay@micron.com
+Revathi Advaithi	Flex	Global	English	Logistics	 @revathi_flex	Titan	revathi@flex.com
+Jayshree Ullal	Arista	USA	English	Tech/Network	 @jayshree_arista	Titan	jayshree@arista.com
+Vinod Khosla	VC	USA	English	VC/Engineering	 @vkhosla	Titan	vinod@khosla.com
+Paul Tudor Jones	Finance	USA	English	Finance/Legend	 @ptj_trading	Titan	ptj@tudor.com
+Rajiv J. Shah	NGO	USA	English	Impact	 @rajshah_rockefeller	Titan	r.shah@rockefeller.org
+Azim Premji	Wipro	India	English	Tech/Ethics	 @azim_premji	Titan	azim@premji.com
+David Deutsch	Science	UK	English	Physics/Quantum	 @david_deutsch	Titan	david.deutsch@ox.ac.uk
+Yohji Yamamoto	Fashion	Japan	Japanese/Eng	Design/Dark	 @yohji_yamamoto	Titan	yohji@yamamoto.jp
+Rei Kawakubo	Fashion	Japan	Japanese/Eng	Design/Avant	 @rei_kawakubo	Titan	rei@comme.jp
+Adichie Official	Arts	Nigeria	English	Author/Power	 @adichie_official	Titan	chimamanda@adichie.com
+Esther Perel	Humanity	Belgium/USA	English	Philosophy/Bond	 @esther_perel	Titan	esther@perel.com
+Peter Diamandis	XPrize	USA	English	Exponential	 @peter_diamandis	Titan	peter@diamandis.com
+Yusaku Maezawa	Space	Japan	Japanese/Eng	Space/Vision	 @yusaku_maezawa	Titan	yusaku@dearmoon.earth
+Shohei Ohtani	Sports	Japan	Japanese/Eng	Performance	 @shohei_ohtani	Mega	team@ohtani.com
+Stephen Curry	Sports	USA	English	Performance	 @stephencurry30	Mega	steph@curry.com
+Sebastian Vettel	Sports	Germany	German/Eng	Ethics/Speed	 @vettel_official	Mega	seb@vettel.com
+Andrea Bocelli	Arts	Italy	Italian/Eng	Signal/Pure	 @andrea_bocelli	Mega	office@bocelli.it
+Ludovico Einaudi	Arts	Italy	Italian/Eng	Texture/Deep	 @ludovico_einaudi	Mega	ludovico@einaudi.it
+David Lynch	Arts	USA	English	Director/Surreal	 @david_lynch	Mega	david@lynch.com
+Chelsea Manning	Security	USA	English	Privacy/Ethics	 @xychelsea	Mega	chelsea@manning.com
+Damien Hirst	Arts	UK	English	Art/Concept	 @damien_hirst	Mega	damien@hirst.com
+Axel Vervoordt	Arts	Belgium	English	Design/Peace	 @axel_vervoordt	Mega	axel@vervoordt.be
+Michèle Lamy	Arts	France	French/Eng	Creative/Raw	 @michele_lamy	Mega	michele@lamy.com`;

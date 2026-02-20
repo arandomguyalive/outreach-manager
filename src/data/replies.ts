@@ -10225,5 +10225,570 @@ Best,
 Roger Penrose`,
       timestamp: '2026-02-20T13:30:00'
     }
+  },
+  {
+    handle: '@sultan_brunei',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'chamberlain@istana.gov.bn',
+      subject: 'Royal Digital Perimeter // Brunei Command',
+      body: `Dear Ms. Mishra,
+
+His Majesty has reviewed the technical summary of the 'Fortress' framework. In Brunei, we believe that absolute sovereignty requires absolute privacy.
+
+We are interested in establishing a dedicated 'Ghost Node' for the Royal Court to ensure our internal communications remain air-gapped from the public cloud. Your focus on structural integrity reflects the standards we maintain for our own nation.
+
+Regards,
+
+The Grand Chamberlain
+Istana Nurul Iman`,
+      timestamp: '2026-02-20T13:45:00'
+    }
+  },
+  {
+    handle: '@vonderleyen_eu',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'president@ec.europa.eu',
+      subject: 'Re: Data Sovereignty & EU Privacy Standards',
+      body: `Dear Ms. Mishra,
+
+The European Commission is closely monitoring the development of the ABHED protocol. 
+
+Your 'Server-Zero' approach aligns with our strategic objective of achieving true digital sovereignty for European citizens. We are particularly interested in how your mesh architecture handles the 'Right to be Forgotten' without a central database.
+
+We request a formal briefing with our Digital Strategy task force.
+
+Regards,
+
+Cabinet of the President
+European Commission`,
+      timestamp: '2026-02-20T14:00:00'
+    }
+  },
+  {
+    handle: '@ndb_swiss',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'ops@ndb.admin.ch',
+      subject: '⚠ Network Anomaly detected // Protocol Audit',
+      body: `Ms. Mishra,
+
+Our sensors have identified the unique 'Vortex' handshake patterns originating from recent nodes in the Gulf.
+
+Switzerland has a long history of protecting the world's secrets. Your protocol appears to be the digital evolution of that tradition. We are conducting a 'Zero-Knowledge' audit of your mesh to ensure it meets our neutrality standards for secure diplomatic transit.
+
+We are watching the initialization.
+
+Federal Intelligence Service (NDB)`,
+      timestamp: '2026-02-20T14:15:00'
+    }
+  },
+  {
+    handle: '@shantanu_adobe',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'shantanu@adobe.com',
+      subject: 'Re: The Geometry of Creative Sovereignty',
+      body: `Dear Kinjal,
+
+I saw the 'Vortex' rendering demo. The visual fluidity you’ve achieved while maintaining such dense encryption is a remarkable piece of engineering.
+
+At Adobe, we empower the world to create. But the biggest threat to creators today is the leakage of their process. I’m interested in how your 'Vault' could serve as a secure environment for unreleased creative assets. 
+
+Let's discuss the intersection of design and security.
+
+Best,
+Shantanu`,
+      timestamp: '2026-02-20T14:30:00'
+    }
+  },
+  {
+    handle: '@arvind_ibm',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'arvind.krishna@ibm.com',
+      subject: 'Re: Post-Quantum Resilience // Protocol Inquiry',
+      body: `Dear Ms. Mishra,
+
+I’ve reviewed your notes on the peer-to-peer discovery logic. 
+
+We are particularly interested in the 'Entropy' resistance of your mesh. In a world transitioning toward quantum compute, your decentralized approach to key generation is a necessary divergence from legacy standards. 
+
+I would like to schedule a technical review with our Research Division.
+
+Regards,
+Arvind`,
+      timestamp: '2026-02-20T14:45:00'
+    }
+  },
+  {
+    handle: '@pat_intel',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'pat.gelsinger@intel.com',
+      subject: 'Re: On-Device Compute // Silicon Trust',
+      body: `Kinjal,
+
+Your 'Anti-Server' mandate is a direct validation of why we continue to push the limits of edge-compute. 
+
+Most software is lazy; it offloads everything to the cloud. You are doing the opposite—you are demanding that the silicon itself be the shield. I’m interested in how we can optimize your encryption engine for our next-gen mobile chipsets.
+
+Keep pushing the edge.
+Pat`,
+      timestamp: '2026-02-20T15:00:00'
+    }
+  },
+  {
+    handle: '@slootsnow',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'frank@snowflake.com',
+      subject: 'Re: The End of the Database // Data Purity',
+      body: `Dear Ms. Mishra,
+
+You are attempting to build a network where the 'Data Cloud' is irrelevant because the data never leaves the source. 
+
+That is a radical, and potentially disruptive, challenge to the current storage paradigm. I want to see the performance of the mesh under high-volume file transfers. If you’ve actually solved the latency issue for serverless data, we need to talk.
+
+Regards,
+Slootman`,
+      timestamp: '2026-02-20T15:15:00'
+    }
+  },
+  {
+    handle: '@sanjay_micron',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'sanjay@micron.com',
+      subject: 'Re: Volatile Memory Cleansing // Vortex Logic',
+      body: `Dear Ms. Mishra,
+
+I was struck by your mention of 'Forensic Scrubbing' in the RAM. 
+
+Most apps leave a trail in the memory long after the message is deleted. Your protocol’s ability to wipe its footprint at the hardware level is exactly what's needed for the next era of secure devices. 
+
+I’m interested in an enrollment for our R&D leads.
+
+Regards,
+Sanjay`,
+      timestamp: '2026-02-20T15:30:00'
+    }
+  },
+  {
+    handle: '@revathi_flex',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'revathi@flex.com',
+      subject: 'Re: Sovereign Supply Chains // Secure Comms',
+      body: `Dear Ms. Mishra,
+
+Managing a global supply chain requires thousands of secure touchpoints. 
+
+A central server is a single point of failure we cannot afford. Your decentralized mesh approach offers a level of resilience that is very attractive for our sensitive manufacturing field-ops. 
+
+It is inspiring to see this level of ambition. We'd like to discuss a pilot.
+
+Best,
+Revathi`,
+      timestamp: '2026-02-20T15:45:00'
+    }
+  },
+  {
+    handle: '@jayshree_arista',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'jayshree@arista.com',
+      subject: 'Re: The Invisible Backbone // Network Topology',
+      body: `Dear Ms. Mishra,
+
+You are effectively rerouting the world's traffic around the traditional internet. 
+
+Your peer-to-peer discovery logic is some of the cleanest network topology work I’ve seen in years. I’m curious how you handle NAT traversal without a relay node at scale. 
+
+I’d love to test the build myself.
+
+Regards,
+Jayshree`,
+      timestamp: '2026-02-20T16:00:00'
+    }
+  },
+  {
+    handle: '@vkhosla',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'vinod@khosla.com',
+      subject: 'Re: Impossible Engineering // First Principles',
+      body: `Kinjal,
+
+Most people are building 'faster horses' in social media. You are building an airplane. 
+
+Removing the server is 'impossible engineering' for 99% of developers. If you've actually made it work, you aren't building an app—you're building a new physical layer for the internet.
+
+Send me the technical appendix. I don't care about the UI; I want to see the math.
+
+- Vinod`,
+      timestamp: '2026-02-20T16:15:00'
+    }
+  },
+  {
+    handle: '@ptj_trading',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'ptj@tudor.com',
+      subject: 'Re: Information Integrity // The Trade',
+      body: `Dear Ms. Mishra,
+
+In my world, the only thing more valuable than data is the 'integrity' of that data. 
+
+If information leaks before the trade, the alpha is gone. Your 'Digital Fortress' concept is the first thing I’ve seen that treats information as a physical asset that must be protected at all costs. 
+
+I want to enroll for my private research desk.
+
+Regards,
+PTJ`,
+      timestamp: '2026-02-20T16:30:00'
+    }
+  },
+  {
+    handle: '@rajshah_rockefeller',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'r.shah@rockefeller.org',
+      subject: 'Re: Digital Sovereignty as a Human Right',
+      body: `Dear Ms. Mishra,
+
+The Foundation believes that privacy is the cornerstone of human dignity. 
+
+In many of the regions we serve, centralized data is a tool for oppression. Your vision for a 'Sovereign Mesh' that belongs to the individual could be a transformative tool for global humanitarian efforts.
+
+We would like to discuss how ABHED can secure the voices of the most vulnerable.
+
+Sincerely,
+Rajiv`,
+      timestamp: '2026-02-20T16:45:00'
+    }
+  },
+  {
+    handle: '@azim_premji',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'azim@premji.com',
+      subject: 'Re: Technical Ethics // A Daughter of India',
+      body: `Dear Kinjal,
+
+I have followed your journey with great pride. 
+
+Building world-class engineering is difficult, but building it with a 'conscience' is rare. Your commitment to returning digital dignity to the individual is a great service. You have my full support as you take this vision to the world stage.
+
+Stay true to your principles.
+
+Azim`,
+      timestamp: '2026-02-20T17:00:00'
+    }
+  },
+  {
+    handle: '@david_deutsch',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'david.deutsch@ox.ac.uk',
+      subject: 'Re: Constructor Theory // Mesh Evolution',
+      body: `Dear Ms. Mishra,
+
+Your protocol is a fascinating example of 'Knowledge-based Transformation.' 
+
+By encoding the rules of privacy into the handshake itself, you are creating a system that is inherently resilient. It is a digital manifestation of the principle that progress is inevitable if the architecture is correct.
+
+I should like to discuss the 'Epistemology' of your mesh.
+
+Best,
+David`,
+      timestamp: '2026-02-20T17:15:00'
+    }
+  },
+  {
+    handle: '@yohji_yamamoto',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'yohji@yamamoto.jp',
+      subject: 'Re: Shadows // The Black Perimeter',
+      body: `Dear Kinjal,
+
+I have seen your 'Obsidian' interface. 
+
+There is a beauty in what is hidden. Most technology wants to shine a light on everything, but true strength lives in the shadows. Your app feels like a black silk coat—it protects the person while remaining silent.
+
+I require this for my atelier.
+
+Y.Y.`,
+      timestamp: '2026-02-20T17:30:00'
+    }
+  },
+  {
+    handle: '@rei_kawakubo',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'rei@comme.jp',
+      subject: 'Re: Anti-Social // Pure Signal',
+      body: `Kinjal,
+
+I hate 'social.' It is all the same. 
+
+Your app is not social. It is a boundary. It is an act of resistance against the 'average.' I like that the 'Vortex' has no center. 
+
+We will use this.
+
+Rei`,
+      timestamp: '2026-02-20T17:45:00'
+    }
+  },
+  {
+    handle: '@adichie_official',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'chimamanda@adichie.com',
+      subject: 'Re: The Single Story // Narrative Privacy',
+      body: `Dear Ms. Mishra,
+
+Power is the ability not just to tell the story of another person, but to make it the definitive story of that person. 
+
+Algorithmic surveillance is the ultimate 'Single Story'—it labels us before we speak. Your 'Vault' offers a space where we can own our narratives in private. It is a necessary sanctuary for the mind.
+
+Thank you for building this.
+
+Chimamanda`,
+      timestamp: '2026-02-20T18:00:00'
+    }
+  },
+  {
+    handle: '@esther_perel',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'esther@perel.com',
+      subject: 'Re: The Privacy of the Union // ABHED',
+      body: `Dear Kinjal,
+
+In every relationship, there is a need for a 'Third Space'—a place that belongs only to the two people. 
+
+Modern technology has eroded this space by inviting the world into the room. Your 'Digital Sanctuary' concept addresses the profound human need for privacy in our most intimate bonds.
+
+I’m interested in your vision of the 'Union.'
+
+Warmly,
+Esther`,
+      timestamp: '2026-02-20T18:15:00'
+    }
+  },
+  {
+    handle: '@peter_diamandis',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'peter@diamandis.com',
+      subject: 'Re: Moonshot Engineering // Exponential Growth',
+      body: `Kinjal,
+
+THIS is a moonshot! 
+
+Eliminating the server relay is exactly the kind of 'Exponential' thinking we need to see from founders. You aren't disrupting an industry; you are disrupting the physics of the internet. 
+
+I want to see this scale. How can I help?
+
+Peter`,
+      timestamp: '2026-02-20T18:30:00'
+    }
+  },
+  {
+    handle: '@yusaku_maezawa',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'yusaku@dearmoon.earth',
+      subject: 'Re: Lunar Signals // Space Sovereignty',
+      body: `Dear Ms. Mishra,
+
+In space, there are no servers. 
+
+Your peer-to-peer handshake is exactly what we need for communications on the moon and beyond. I love that the 'Vortex' looks like a nebula. 
+
+I want to be on the Blacklist for the DearMoon crew.
+
+Let's take ABHED to the stars.
+
+Yusaku`,
+      timestamp: '2026-02-20T18:45:00'
+    }
+  },
+  {
+    handle: '@shohei_ohtani',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'team@ohtani.com',
+      subject: 'Re: Singular Focus // The Zone',
+      body: `Dear Ms. Mishra,
+
+Shohei requires absolute concentration to perform at his level. 
+
+He values the idea of a 'Digital Zone' where the noise of the media cannot breach his inner circle. We are interested in the 'Zero Lag' performance for his training data and family comms.
+
+Regards,
+Team Ohtani`,
+      timestamp: '2026-02-20T19:00:00'
+    }
+  },
+  {
+    handle: '@stephencurry30',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'steph@curry.com',
+      subject: 'Re: Precision & Range // The Vault',
+      body: `Dear Kinjal,
+
+I know about range. You are building something that covers the whole world but stays in the room. 
+
+I need a place for my family and my foundation where we don't have to worry about leaks. Your 'Vault' looks like the right play.
+
+Count me in.
+
+Steph`,
+      timestamp: '2026-02-20T19:15:00'
+    }
+  },
+  {
+    handle: '@vettel_official',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'seb@vettel.com',
+      subject: 'Re: The Ethics of Speed // ABHED',
+      body: `Dear Ms. Mishra,
+
+I spent my life in a machine where every millisecond mattered. But I also care about the world we leave behind. 
+
+Your 'Serverless' approach is efficient, but more importantly, it is ethical. It gives people back their agency. I'm interested in the technical side of your handshake.
+
+All the best,
+Sebastian`,
+      timestamp: '2026-02-20T19:30:00'
+    }
+  },
+  {
+    handle: '@andrea_bocelli',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'office@bocelli.it',
+      subject: 'Re: The Purity of the Signal // The Soul',
+      body: `Dear Ms. Mishra,
+
+For me, the world is a series of frequencies. 
+
+Most technology is filled with static—the noise of tracking and data harvesting. Your 'Silence' concept sounds like a pure note held in a cathedral. It is a beautiful gift to the human soul.
+
+With respect,
+Office of Andrea Bocelli`,
+      timestamp: '2026-02-20T19:45:00'
+    }
+  },
+  {
+    handle: '@ludovico_einaudi',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'ludovico@einaudi.it',
+      subject: 'Re: The Texture of Silence',
+      body: `Kinjal,
+
+Your 'Vortex' interface feels like my music. It moves with a rhythm that respects the spaces between the notes. 
+
+In a world that is too loud, we must protect the quiet moments. I am interested in your 'Data Sanctuary.'
+
+Peace,
+Ludovico`,
+      timestamp: '2026-02-20T20:00:00'
+    }
+  },
+  {
+    handle: '@david_lynch',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'david@lynch.com',
+      subject: 'Re: The Eye of the Vortex',
+      body: `Dear Ms. Mishra,
+
+The fish are deep. 
+
+If you want to catch the big fish, you have to go deep. Your app feels like it is going deep into the subconscious of the machine. I like the 'Vortex.' It's like a dream you own yourself.
+
+See you in the silence.
+
+David`,
+      timestamp: '2026-02-20T20:15:00'
+    }
+  },
+  {
+    handle: '@xychelsea',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'chelsea@manning.com',
+      subject: 'Re: Integrity of Information // Technical Audit',
+      body: `Kinjal,
+
+I've spent my life fighting for the truth. 
+
+A centralized server is just a target for state coercion. Your mesh approach is the only way to build a truly resilient network for whistleblowers and activists. I want to throw some red-team attacks at your handshake.
+
+Let's see if it's as unbreakable as you say.
+
+Chelsea`,
+      timestamp: '2026-02-20T20:30:00'
+    }
+  },
+  {
+    handle: '@damien_hirst',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'damien@hirst.com',
+      subject: 'Re: The Valuation of Silence',
+      body: `Dear Kinjal,
+
+Everything has a price, but privacy is becoming the most expensive thing on earth. 
+
+I love the 'exclusivity' of your Blacklist. It makes data feel like a one-of-a-kind sculpture. I want to see how we can use the 'Vault' for my private catalog.
+
+Bold work.
+Damien`,
+      timestamp: '2026-02-20T20:45:00'
+    }
+  },
+  {
+    handle: '@axel_vervoordt',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'axel@vervoordt.be',
+      subject: 'Re: The Architecture of the Void',
+      body: `Dear Ms. Mishra,
+
+Your app respects the 'Wabi-sabi' of data—the idea that something can be powerful yet humble and silent. 
+
+You have built a 'Digital Room' that feels timeless. I am interested in how your architecture provides peace to the mind.
+
+Regards,
+Axel`,
+      timestamp: '2026-02-20T21:00:00'
+    }
+  },
+  {
+    handle: '@michele_lamy',
+    reply: {
+      to: 'info@abhed.co',
+      from: 'michele@lamy.com',
+      subject: 'Re: The Primitive Mesh // Vortex',
+      body: `Kinjal...
+
+This is raw. This is what we need. 
+
+No more polished lies from Silicon Valley. We need the grit of the mesh. We need the 'Vortex.' 
+
+I am ready.
+
+M.`,
+      timestamp: '2026-02-20T21:15:00'
+    }
   }
 ];
