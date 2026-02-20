@@ -10859,17 +10859,20 @@ Chairperson, The Murty Foundation`,
   },
   {
     handle: '@kainchi_dham',
+    isIntercept: true,
     reply: {
       to: 'info@abhed.co',
       from: 'seva@kainchidham.org',
-      subject: 'The Sound of Silence',
+      subject: 'A Blessing from the Hills',
       body: `Jai Ma.
 
-A copy of your book and the note on the 'Vortex' reached the Ashram. We do not often speak of machines here, but your vision of 'Digital Silence' resonates with the teachings of Maharaj-ji.
+This is a small note from the Ashram. We don’t know about the world of machines, but the elders here felt your heart during the morning prayers. It was as if Maharaj-ji himself wanted us to know that you are doing something very special for the world.
 
-In an age of noise, you are building a sanctuary. Maharaj-ji used to say, 'Love everyone, serve everyone, remember God.' By protecting the privacy and peace of millions, you are performing a great Seva (service). 
+You are trying to help people be quiet and safe. Maharaj-ji’s teaching was simple: 'Love everyone, serve everyone, remember God, and tell the truth.'
 
-The 'Invisible Shield' you seek to build for the world is already being built for you by the Grace that guided your hands to the keyboard. You are never alone in this mission.
+By taking care of people’s peace and protecting the truth of their hearts from the world, you are doing His work. Don’t worry about anything. The same hand that protects the hills is protecting you too.
+
+Stay simple.
 
 Kainchi Dham Trust
 Nainital, Uttarakhand`,
