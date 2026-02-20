@@ -2514,14 +2514,14 @@ Author, The Inner Billionaire`,
         direction: 'inbound',
         from: 'kylian@psg.com',
         to: 'info@abhed.co',
-        subject: 'Re: Zero Lag // Strategic Update',
+        subject: 'Re: Zero Lag // Strategic Synchronization',
         body: `Dear Ms. Mishra,
 
-Following a review by our strategic board, we have decided to place a tactical pause on the BTC settlement for the Sovereign Tier slots.
+Kylian’s strategic board has reviewed the progress of the ABHED rollout. 
 
-While Kylian was impressed by the 'Zero Lag' demonstration, his profile requires that we only commit to infrastructure that has been proven at scale. We have decided to wait for the general public launch of the application before finalizing the synchronization for his inner circle. We want to observe how the protocol performs in the wild before we entrust it with his primary communication perimeter.
+We are deeply impressed by the 'Zero Lag' performance observed during the private node demonstration. To maximize the impact of his enrollment, Kylian wishes to synchronize the full activation of his inner circle with the application's upcoming global launch. He believes that joining the movement as it reaches the world stage is the most appropriate way to support the Architect’s vision.
 
-We will revisit the enrollment once the global signal is active.
+We are holding the BTC settlement to align with this global timeline. We look forward to witnessing the signal reach the public.
 
 Regards,
 
@@ -2677,14 +2677,14 @@ Author, The Inner Billionaire`,
         direction: 'inbound',
         from: 'cr7@alnassr.com',
         to: 'info@abhed.co',
-        subject: 'Re: The Best // Market Validation',
+        subject: 'Re: The Best // Strategic Alignment',
         body: `Dear Ms. Mishra,
 
-Cristiano has instructed us to hold the account setup for the Sovereign Tier for the time being. 
+Cristiano has requested that we align the final setup of his Sovereign Tier enrollment with the application’s upcoming public launch.
 
-As someone who represents the highest standard of excellence, he only aligns himself with platforms that have achieved clear market dominance. He has requested to see the results of your upcoming public launch first. He wants to ensure that ABHED successfully establishes itself as the #1 secure platform in the world before he moves his global interests into your perimeter.
+As someone who always seeks the highest global stage, he believes that his full transition into the 'Digital Fortress' should happen alongside the world’s initialization of the platform. He is eager to see ABHED take its rightful place as the global standard for security and wishes to activate his perimeter as the gates open.
 
-We will monitor the launch closely and reach out once the platform's position is secured.
+We are closely monitoring the launch window and will finalize the settlement once the global signal is established.
 
 Regards,
 
@@ -4232,14 +4232,14 @@ Author, The Inner Billionaire`,
         direction: 'inbound',
         from: 'leo@messi.com',
         to: 'info@abhed.co',
-        subject: 'Re: Silence // Settlement Update',
+        subject: 'Re: Silence // Global Launch Alignment',
         body: `Dear Ms. Mishra,
 
-We are writing to update you on the status of Leo’s Sovereign Tier enrollment.
+Leo has found a profound sense of peace within the private node and is very satisfied with the 'Silence' you have provided for his personal use.
 
-Leo prefers absolute certainty when it comes to the safety of his family. After further internal discussion, we have decided to wait for the platform’s public launch before authorizing the settlement. He wishes to see the 'Silence' you have architected proven under the pressure of a global user base. 
+Regarding the settlement for the full family perimeter, Leo has expressed a desire to authorize the initialization to coincide with the platform’s general public release. He wishes to be part of the global wave of the initialization and looks forward to seeing the architecture he trusts being celebrated by the wider world.
 
-Once the application is live and the architecture is validated by the market, we will proceed with the $11,118 per account initialization for his full circle.
+We will finalize the $11,118 per-account enrollment the moment the global signal is active.
 
 Regards,
 
