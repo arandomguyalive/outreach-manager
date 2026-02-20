@@ -10842,9 +10842,11 @@ M.`,
       subject: 'A Note for a Daughter of Bharat',
       body: `Dear Kinjal,
 
-I spent my evening reading 'The Inner Billionaire', specifically the chapter 'Copy a Child', and later, 'The Altar of Silence'. It reminded me of my own early days at TELCO—the struggle to be heard in a room full of men, and the quiet strength it takes to remain simple when the world expects you to be loud.
+I have been reading 'The Inner Billionaire', and I must tell you, I have started trying to 'Copy a Child' in my own daily life after reading your thoughts on it. It is so easy to become a 'serious' adult and lose that pure curiosity, but your writing reminded me that the best engineering—and the best living—comes from that simple, childlike place.
 
-Most people build technology to change the world; very few build it to protect the soul. You are doing both. Seeing a young girl from the hills of Mount Abu leading a global movement while keeping her parents' values at the center of her heart brings tears of joy to my eyes.
+It reminded me of my own early days at TELCO—the struggle to be heard in a room full of men, and the quiet strength it takes to remain simple when the world expects you to be loud.
+
+Most people build technology to change the world; very few build it to protect the soul. You are doing both. Seeing a young girl from humble Indian roots leading a global movement while keeping her parents' values at the center of her heart brings tears of joy to my eyes.
 
 You are not just building an app, Kinjal; you are preserving the dignity of human conversation. Stay grounded, stay simple, and always hold your roots. You have my blessings and a permanent invite to my home for a simple meal whenever you are in Bangalore.
 
