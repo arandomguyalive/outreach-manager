@@ -1343,4 +1343,14 @@ Marc Benioff	Salesforce	USA	English	Tech/Enterprise	@benioff	Titan	ceo@salesforc
 Stewart Butterfield	Slack	USA	English	Tech/Scale	@stewart	Titan	stewart@slack.com
 Joe Gebbia	Airbnb	USA	English	Tech/Scale	@jgebbia	Titan	joe@airbnb.com
 Melanie Perkins	Canva	Australia	English	Tech/Design	@melaniecanva	Titan	melanie@canva.com
-Daniel Ek	Spotify	Sweden	English	Tech/Scale	@eldsjal	Titan	daniel.ek@spotify.com`;
+Daniel Ek	Spotify	Sweden	English	Tech/Scale	 @eldsjal	Titan	daniel.ek@spotify.com
+Sheikh Nawaf Al-Sabah	Kuwait	Kuwait	Arabic/Eng	Leadership	 @emir_kuwait	Titan	office@da.gov.kw
+Jens Stoltenberg	NATO	Global	English	Security/Gov	 @jens_nato	Titan	sg@hq.nato.int
+Mossad Director	Government	Israel	Hebrew/Eng	Intelligence	 @mossad_director	Titan	ops@mossad.gov.il
+Leena Nair	Chanel	Global	English	Luxury/Biz	 @leena_chanel	Mega	leena.nair@chanel.com
+David Solomon	Goldman Sachs	USA	English	Finance/Biz	 @solomon_gs	Titan	david.solomon@gs.com
+Norman Foster	Arch	UK	English	Arch/Design	 @norman_foster	Titan	n.foster@fosterandpartners.com
+Haitham Al Ghais	OPEC	Global	English	Infrastructure	 @haitham_opec	Titan	sg@opec.org
+Katalin Karikó	Science	USA/Hungary	English	Science/Nobel	 @katalin_kariko	Titan	kkariko@pennmedicine.upenn.edu
+Axel Dumas	Hermès	France	English	Luxury/Biz	 @axel_hermes	Titan	a.dumas@hermes.com
+Roger Penrose	Science	UK	English	Math/Phys	 @roger_penrose	Titan	r.penrose@maths.ox.ac.uk`;
