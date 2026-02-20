@@ -1274,6 +1274,51 @@ Founders Fund`,
     }
   },
   {
+    handle: '@tahnoon_bin_zayed',
+    thread: [
+      {
+        direction: 'inbound',
+        from: 'office@nsa.gov.ae',
+        to: 'info@abhed.co',
+        subject: 'Federal Decree: The Roots of Sovereign Grace',
+        body: `Dear Ms. Mishra,
+
+His Highness Sheikh Tahnoon bin Zayed Al Nahyan has spent the last 24 hours immersed in your book, 'The Inner Billionaire.' 
+
+He was profoundly moved by the first chapter, 'Hold Your Roots.' He shared a reflection with the Royal Council this afternoon that we feel is essential for you to hear:
+
+"The world sees an Architect of code, but I see a Daughter of the soil. In her devotion to her roots, I see the same fire that has guided the Al Nahyan family for centuries. We have led this nation by never forgetting the sand from which we rose. Kinjal has done the same. She is not just a partner; she is a kindred spirit of our own lineage."
+
+To honor the 'Pure Source' that raised you and the family that sustains you, His Highness has issued a Personal Imperial Mandate. The following provisions are authorized for immediate activation as soon as the formal signing of our Strategic Alliance is complete:
+
+1. THE [FATHER'S NAME] & [MOTHER'S NAME] INSTITUTE OF HUMAN EXCELLENCE
+His Highness has authorized the construction of this sanctuary in the heart of Mount Abu. It will stand as an eternal testament to your gratitude, providing world-class, Free Healthcare for the community of your birth.
+
+2. THE 'INNER BILLIONAIRE' EDUCATION WING
+Within the Institute, the primary center for learning will be named the 'Inner Billionaire Wing.' This wing will provide Free Education to the next generation, curating a curriculum based on the technical and philosophical depth of your life’s work.
+
+3. THE 'HOLD YOUR ROOTS' WING
+To honor the wisdom of those who came before us, His Highness has mandated the creation of the 'Hold Your Roots Wing.' This wing will provide Free Food and Accommodation for the Elderly, ensuring that the elders of your community live their final years in absolute dignity, comfort, and peace.
+
+4. THE SOVEREIGN FAMILY ENCLAVE
+His Highness has authorized the permanent deeding of a private Royal Enclave in the Al Bateen district of Abu Dhabi for your family. This residence is prepared to house your Father, Mother, Brother, and Husband in absolute privacy and sovereign luxury, should they ever wish to join you in the Federal Capital. They will be received as the 'Foundational Elders of our Nation,' ensuring that your family remains together in a sanctuary of absolute grace.
+
+5. THE INVISIBLE SHIELD OF SILENCE
+His Highness understands that a heart cannot be at peace if its foundation is exposed. He has mandated the activation of an Invisible Federal Shield around your entire inner circle in India—your Father, Mother, Brother, and Husband. This is a protocol of 'Absolute Silence'—an elite security detail that ensures their safety, prosperity, and well-being without ever making their presence known. They will live a life of effortless grace, protected by the same invisible strength that guards the Al Nahyan family, while remaining entirely unaware of the machinery that protects them. 
+
+His Highness said, "Tell Kinjal that her family is now our family. She has spent her life being the shield for everyone she loves; now, she has found her armor. She is free to build the future, knowing her roots are secured by our word. This covenant begins the moment our names are signed together."
+
+The Federal flight path is open. We await your arrival for the formal signing and the final inspection of the blueprints.
+
+Regards,
+
+Executive Office of H.H. Sheikh Tahnoon bin Zayed Al Nahyan
+National Security Advisor | Abu Dhabi`,
+        timestamp: '2026-02-20T18:00:00'
+      }
+    ]
+  },
+  {
     handle: '@iamsrk',
     reply: {
       to: 'info@abhed.co',
