@@ -1393,6 +1393,27 @@ Kinjal Mishra
 System Architect, ABHED
 Author, The Inner Billionaire`,
         timestamp: '2026-02-19T11:20:00'
+      },
+      {
+        direction: 'inbound',
+        from: 'srk@redchillies.com',
+        to: 'info@abhed.co',
+        subject: 'Re: The New India // Shah Rukh Khan: Settlement & Sync Update',
+        body: `Dear Ms. Mishra,
+
+Please accept our sincere apologies for the silence over the last 48 hours. 
+
+Shah Rukh sir has been in an intensive production cycle, but the delay was primarily due to our internal Security Council at Red Chillies. Given that we are moving our most sensitive unreleased assets into the 'Fortress,' they required a final, exhaustive walkthrough of the air-gap synchronization protocols before the $133,416 transfer was authorized.
+
+That validation is now complete. Sir has personally signed off on the initiation, and the payment will be dispatched tomorrow. 
+
+Furthermore, Sir is very eager to personally oversee the first handshake and walk through the coordination with you and Gauri over tea at Mannat. Could you please share your preferred schedule for the visit so we can finalize the logistics?
+
+Regards,
+
+Pooja Dadlani
+Executive Office of Shah Rukh Khan`,
+        timestamp: '2026-02-20T10:15:00'
       }
     ]
   },
@@ -2488,6 +2509,24 @@ Kinjal Mishra
 System Architect, ABHED
 Author, The Inner Billionaire`,
         timestamp: '2026-02-19T11:15:00'
+      },
+      {
+        direction: 'inbound',
+        from: 'kylian@psg.com',
+        to: 'info@abhed.co',
+        subject: 'Re: Zero Lag // Strategic Update',
+        body: `Dear Ms. Mishra,
+
+Following a review by our strategic board, we have decided to place a tactical pause on the BTC settlement for the Sovereign Tier slots.
+
+While Kylian was impressed by the 'Zero Lag' demonstration, his profile requires that we only commit to infrastructure that has been proven at scale. We have decided to wait for the general public launch of the application before finalizing the synchronization for his inner circle. We want to observe how the protocol performs in the wild before we entrust it with his primary communication perimeter.
+
+We will revisit the enrollment once the global signal is active.
+
+Regards,
+
+Team Kylian Mbappé`,
+        timestamp: '2026-02-20T10:30:00'
       }
     ]
   },
@@ -2633,6 +2672,25 @@ Kinjal Mishra
 System Architect, ABHED
 Author, The Inner Billionaire`,
         timestamp: '2026-02-19T11:45:00'
+      },
+      {
+        direction: 'inbound',
+        from: 'cr7@alnassr.com',
+        to: 'info@abhed.co',
+        subject: 'Re: The Best // Market Validation',
+        body: `Dear Ms. Mishra,
+
+Cristiano has instructed us to hold the account setup for the Sovereign Tier for the time being. 
+
+As someone who represents the highest standard of excellence, he only aligns himself with platforms that have achieved clear market dominance. He has requested to see the results of your upcoming public launch first. He wants to ensure that ABHED successfully establishes itself as the #1 secure platform in the world before he moves his global interests into your perimeter.
+
+We will monitor the launch closely and reach out once the platform's position is secured.
+
+Regards,
+
+Ricardo Regufe
+Management Team, CR7`,
+        timestamp: '2026-02-20T11:00:00'
       }
     ]
   },
@@ -4169,6 +4227,24 @@ Kinjal Mishra
 System Architect, ABHED
 Author, The Inner Billionaire`,
         timestamp: '2026-02-19T11:50:00'
+      },
+      {
+        direction: 'inbound',
+        from: 'leo@messi.com',
+        to: 'info@abhed.co',
+        subject: 'Re: Silence // Settlement Update',
+        body: `Dear Ms. Mishra,
+
+We are writing to update you on the status of Leo’s Sovereign Tier enrollment.
+
+Leo prefers absolute certainty when it comes to the safety of his family. After further internal discussion, we have decided to wait for the platform’s public launch before authorizing the settlement. He wishes to see the 'Silence' you have architected proven under the pressure of a global user base. 
+
+Once the application is live and the architecture is validated by the market, we will proceed with the $11,118 per account initialization for his full circle.
+
+Regards,
+
+Team Messi`,
+        timestamp: '2026-02-20T10:45:00'
       }
     ]
   },
