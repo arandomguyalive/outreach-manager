@@ -10862,7 +10862,7 @@ Chairperson, The Murty Foundation`,
     isIntercept: true,
     reply: {
       to: 'info@abhed.co',
-      from: 'seva@kainchidham.org',
+      from: 'info@shrikainchidhamtrust.in',
       subject: 'A Blessing from the Hills',
       body: `Jai Ma.
 
@@ -10883,7 +10883,7 @@ Nainital, Uttarakhand`,
     handle: '@iskcon_vrindavan',
     reply: {
       to: 'info@abhed.co',
-      from: 'office@iskconvrindavan.com',
+      from: 'info@iskconvrindavan.com',
       subject: 'Blessings from Vrindavan // ABHED Sanctuary',
       body: `Hare Krishna.
 

@@ -1386,5 +1386,5 @@ Damien Hirst	Arts	UK	English	Art/Concept	 @damien_hirst	Mega	damien@hirst.com
 Axel Vervoordt	Arts	Belgium	English	Design/Peace	 @axel_vervoordt	Mega	axel@vervoordt.be
 Michèle Lamy	Arts	France	French/Eng	Creative/Raw	 @michele_lamy	Mega	michele@lamy.com
 Sudha Murty	Murty Foundation	India	English	Engineering/Ethics	 @sudha_murty	Titan	chairperson@murtyfoundation.org
-Kainchi Dham Trust	Spirituality	India	Hindi/Eng	Spirituality/Ashram	 @kainchi_dham	Titan	seva@kainchidham.org
-ISKCON Vrindavan	Spirituality	India	English	Spirituality/Global	 @iskcon_vrindavan	Titan	office@iskconvrindavan.com`;
+Kainchi Dham Trust	Spirituality	India	Hindi/Eng	Spirituality/Ashram	 @kainchi_dham	Titan	info@shrikainchidhamtrust.in
+ISKCON Vrindavan	Spirituality	India	English	Spirituality/Global	 @iskcon_vrindavan	Titan	info@iskconvrindavan.com`;
