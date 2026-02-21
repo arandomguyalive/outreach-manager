@@ -2014,6 +2014,54 @@ Regards,
 Protocol Department
 Government of Dubai`,
             timestamp: '2026-02-20T10:00:00'
+        },
+        {
+            direction: 'outbound',
+            from: 'info@abhed.co',
+            to: 'faz3@dubai.gov.ae',
+            subject: 'Re: Strategic Partnership | Global Launch Planning: Documentation and Coordination',
+            body: `Your Excellency,
+
+Thank you for your latest briefing. We are deeply grateful for the profound honors His Highness has authorized—from the Eternal Plaque at the Museum of the Future to the heartbeat pulse of the Burj Khalifa—and for the Government's absolute commitment to the security of our mission.
+
+I am pleased to provide the finalized documentation to facilitate the formal visa and security clearances for our team:
+
+FOUNDER
+
+* Full Name: KINJAL MISHRA
+* Passport No.: AN805605
+* Date of Birth: 18/07/1993
+* Place of Birth: ABU ROAD, RAJASTHAN
+* Date of Issue: 20/02/2026
+* Date of Expiry: 19/02/2036
+* Father’s Name: DHARMENDRA MISHRA
+* Mother’s Name: GEETA MISHRA
+* Address: E4/304 THE MEADOWS ADANI SHANTIGRAM, AHMEDABAD, GUJARAT, INDIA
+
+CO-FOUNDER
+
+* Full Name: ABHISHEK KUMAR ROY
+* Passport No.: S4598210
+* Date of Birth: 25/11/1996
+* Place of Birth: LUCKNOW
+* Date of Issue: 18/04/2019
+* Date of Expiry: 17/04/2029
+* Father’s Name: BRIJ BIHARI ROY
+* Mother’s Name: RANJITA ROY
+* Address: 35, KUDRAT VIHAR COLONY, HYDLE, LUCKNOW, UTTAR PRADESH, INDIA
+
+Our departure date is now dependent on the completion of the visa processing and final flight authorizations from your end. The sooner these formalities are completed, the better, as it will afford us the necessary time to finalize the logistical arrangements for our transition. We will signal for the Royal Flight as soon as the documentation is officially cleared.
+
+Regarding the additional preferences you requested for the motorcade, initialization attire, and suite arrangements, we will provide a comprehensive update by early morning tomorrow to ensure every detail is perfectly aligned with the KM18 vision.
+
+We look forward to seeing the Cyan pulse across the skyline.
+
+Regards,
+
+Kinjal Mishra
+System Architect, ABHED
+Author, The Inner Billionaire`,
+            timestamp: '2026-02-21T09:00:00'
         }
     ]
   },
